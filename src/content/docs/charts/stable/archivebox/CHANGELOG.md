@@ -23,8 +23,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.0.8 • [Train: stable]
 
-- Commit daily changes • [`e50357a`](https://github.com/truecharts/charts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
 - Commit daily changes • [`529340b`](https://github.com/truecharts/charts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
+- Commit daily changes • [`e50357a`](https://github.com/truecharts/charts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
 - chore(deps): update container image common to v23.0.8@9e7419b by renovate (#22277) • [`bbcc969`](https://github.com/truecharts/charts/commit/bbcc969f0ed40e5d7256d4f107db88a4c3ce5ab3) • [@TrueCharts Bot] (2024-05-20)
 
 ## 3.0.7 • [Train: stable]
@@ -194,6 +194,6 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 0.7.2 • [Train: incubator]
 
 - Commit daily changes • [`a0aa313`](https://github.com/truecharts/charts/commit/a0aa3134245af8f9d7a7cee7e2775819746bae62) • [@TrueCharts-Bot] (2024-02-23)
-- Commit daily changes • [`8965459`](https://github.com/truecharts/charts/commit/896545910673d88c5a093e2b46b46198fe496d6c) • [@TrueCharts-Bot] (2024-02-22)
 - fix(archivebox): Remove unused `postgres` section from `questions.yaml`, add docs (#18488) • [`d6ed8c7`](https://github.com/truecharts/charts/commit/d6ed8c78d22b99cac1028460e76fb13545492477) • [@Nick Sweeting] (2024-02-22)
+- Commit daily changes • [`8965459`](https://github.com/truecharts/charts/commit/896545910673d88c5a093e2b46b46198fe496d6c) • [@TrueCharts-Bot] (2024-02-22)
 - add(archivebox): Add new ArchiveBox chart  (#18258) • [`943073e`](https://github.com/truecharts/charts/commit/943073e4baa08add114233f23d9af84bd00e2048) • [@Nick Sweeting] (2024-02-21)

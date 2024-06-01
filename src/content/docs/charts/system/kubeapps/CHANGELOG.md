@@ -85,8 +85,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.10.6 • [Train: system]
 
-- Webp icons2 (#20851) • [`8b489f4`](https://github.com/truecharts/charts/commit/8b489f48bb8f4f6a01050a08ad544323375bce74) • [@Kjeld Schouten] (2024-04-16)
 - chore(deps): update container image common to v20.3.7@8cf9fc9 by renovate (#20819) • [`4413ae4`](https://github.com/truecharts/charts/commit/4413ae4d1cdd32a9d5f70d57f0c01e429ee90298) • [@TrueCharts Bot] (2024-04-16)
+- Webp icons2 (#20851) • [`8b489f4`](https://github.com/truecharts/charts/commit/8b489f48bb8f4f6a01050a08ad544323375bce74) • [@Kjeld Schouten] (2024-04-16)
 
 ## 2.10.5 • [Train: system]
 
@@ -112,8 +112,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.10.0 • [Train: system]
 
-- chore(deps): update container image common to v20.3.2@0722ebb by renovate (#20334) • [`36a8308`](https://github.com/truecharts/charts/commit/36a83081e8a2a0f9c0a7d36ae5398e55264c1798) • [@TrueCharts Bot] (2024-04-08)
 - chore(deps): update container image kubeapps to v15.0.1@12bfab1 by renovate (#20289) • [`72e083f`](https://github.com/truecharts/charts/commit/72e083fd4c0838c3b9331ea37cb9f482bffdcde1) • [@TrueCharts Bot] (2024-04-08)
+- chore(deps): update container image common to v20.3.2@0722ebb by renovate (#20334) • [`36a8308`](https://github.com/truecharts/charts/commit/36a83081e8a2a0f9c0a7d36ae5398e55264c1798) • [@TrueCharts Bot] (2024-04-08)
 
 ## 2.9.5 • [Train: system]
 
@@ -280,14 +280,14 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.1.0 • [Train: enterprise]
 
-- Merge branch &#39;master&#39; of github.com:truecharts/charts • [`07c3b1c`](https://github.com/truecharts/charts/commit/07c3b1c5990ce846f3334a5bd35e2f290541f800) • [@Kjeld Schouten] (2024-02-17)
 - feat(kubeapps): add support for tokenless login (#18259) • [`512dea1`](https://github.com/truecharts/charts/commit/512dea10b6b342bab485b5b64e20834cbcf4e854) • [@Kjeld Schouten] (2024-02-17)
+- Merge branch &#39;master&#39; of github.com:truecharts/charts • [`07c3b1c`](https://github.com/truecharts/charts/commit/07c3b1c5990ce846f3334a5bd35e2f290541f800) • [@Kjeld Schouten] (2024-02-17)
 
 ## 1.0.1 • [Train: enterprise]
 
+- Revert &#34;ahh yes&#34; • [`ce9d71d`](https://github.com/truecharts/charts/commit/ce9d71d611e5b35f3363ac68d7fb88faf3a33db7) • [@Kjeld Schouten] (2024-02-16)
 - feat(kubeapps): add tokenlessloginoption • [`b7ab46c`](https://github.com/truecharts/charts/commit/b7ab46c33b79f902e3d90ac349bebe592711d8b2) • [@Kjeld Schouten] (2024-02-16)
 - ahh yes • [`bc603c4`](https://github.com/truecharts/charts/commit/bc603c4c2420315aa41c9a89036d5bc47cda8ead) • [@Kjeld Schouten] (2024-02-16)
-- Revert &#34;ahh yes&#34; • [`ce9d71d`](https://github.com/truecharts/charts/commit/ce9d71d611e5b35f3363ac68d7fb88faf3a33db7) • [@Kjeld Schouten] (2024-02-16)
 
 ## 1.0.0 • [Train: enterprise]
 
