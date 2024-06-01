@@ -51,8 +51,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - Commit daily changes • [`6e72827`](https://github.com/truecharts/charts/commit/6e728271ad5ff1a3cbf3ce945fcb7f056a556484) • [@TrueCharts-Bot] (2024-05-09)
 - Commit daily changes • [`7bac265`](https://github.com/truecharts/charts/commit/7bac265a259104ead30b5c1fababc2fc0a869620) • [@TrueCharts-Bot] (2024-05-08)
 - Commit daily changes • [`410bacb`](https://github.com/truecharts/charts/commit/410bacb1c125e67432259a71529f46c58054e4ef) • [@TrueCharts-Bot] (2024-05-07)
-- chore(docs): exclude changelog from pagefind (#21693) • [`f91c384`](https://github.com/truecharts/charts/commit/f91c384060835b0cff91205b8ee00de36b10d689) • [@Stavros Kois] (2024-05-06)
 - Commit daily changes • [`460ce98`](https://github.com/truecharts/charts/commit/460ce98e609cda3c2b24a7f670cd204abb4a2123) • [@TrueCharts-Bot] (2024-05-06)
+- chore(docs): exclude changelog from pagefind (#21693) • [`f91c384`](https://github.com/truecharts/charts/commit/f91c384060835b0cff91205b8ee00de36b10d689) • [@Stavros Kois] (2024-05-06)
 - Commit daily changes • [`7c14a14`](https://github.com/truecharts/charts/commit/7c14a140bf31434604ff24044519b2d613a56a02) • [@TrueCharts-Bot] (2024-05-05)
 - Commit daily changes • [`ebbf540`](https://github.com/truecharts/charts/commit/ebbf540352a08b8beb3252b2d2c0b4a56845ca02) • [@TrueCharts-Bot] (2024-05-04)
 - Commit daily changes • [`44512eb`](https://github.com/truecharts/charts/commit/44512eb63d963c9d88e603e3e4e4aa8db2186c55) • [@TrueCharts-Bot] (2024-05-03)
@@ -497,16 +497,16 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 5.0.48 • [Train: stable]
 
 - chore: update annotations • [`5e194fb`](https://github.com/truecharts/charts/commit/5e194fb0bb5e2db19f02aac9cfd3cf32f28694f2) • [@Kjeld Schouten] (2023-12-02)
+- Commit daily changes • [`501680e`](https://github.com/truecharts/charts/commit/501680e43c5d8268bd1eff1cb2dd5ea20012a205) • [@TrueCharts-Bot] (2023-11-30)
 - Commit daily changes • [`17dedb7`](https://github.com/truecharts/charts/commit/17dedb7c333f68a7bf1c922eed54fafdfe28ea4c) • [@TrueCharts-Bot] (2023-11-30)
 - Commit daily changes • [`0ff1727`](https://github.com/truecharts/charts/commit/0ff17274f8124aafe40e52b292d8cf65c2e6da0c) • [@TrueCharts-Bot] (2023-11-30)
-- Commit daily changes • [`501680e`](https://github.com/truecharts/charts/commit/501680e43c5d8268bd1eff1cb2dd5ea20012a205) • [@TrueCharts-Bot] (2023-11-30)
 - Commit daily changes • [`f0ef8c0`](https://github.com/truecharts/charts/commit/f0ef8c05ccb381d85cc0d5eb910a869fbb164527) • [@TrueCharts-Bot] (2023-11-29)
-- Commit daily changes • [`3fab41f`](https://github.com/truecharts/charts/commit/3fab41f7a192404c061a8db8398e3e45f59e5a19) • [@TrueCharts-Bot] (2023-11-28)
-- Commit daily changes • [`d1c2213`](https://github.com/truecharts/charts/commit/d1c22138f95fdb77ed67ed1702ac71741ce17f1b) • [@TrueCharts-Bot] (2023-11-28)
 - Commit daily changes • [`0027f37`](https://github.com/truecharts/charts/commit/0027f3756f8bc222b262970613f7465d746b0548) • [@TrueCharts-Bot] (2023-11-28)
 - Commit daily changes • [`01b0183`](https://github.com/truecharts/charts/commit/01b018378c6c815a594f899743acf38f07d682ec) • [@TrueCharts-Bot] (2023-11-28)
-- Commit daily changes • [`3c71f33`](https://github.com/truecharts/charts/commit/3c71f33be8b7323571e960711c76a6a3c0e75960) • [@TrueCharts-Bot] (2023-11-27)
+- Commit daily changes • [`d1c2213`](https://github.com/truecharts/charts/commit/d1c22138f95fdb77ed67ed1702ac71741ce17f1b) • [@TrueCharts-Bot] (2023-11-28)
+- Commit daily changes • [`3fab41f`](https://github.com/truecharts/charts/commit/3fab41f7a192404c061a8db8398e3e45f59e5a19) • [@TrueCharts-Bot] (2023-11-28)
 - Commit daily changes • [`4de86ea`](https://github.com/truecharts/charts/commit/4de86ea59047107374ee7b4f1d20183eea31fa81) • [@TrueCharts-Bot] (2023-11-27)
+- Commit daily changes • [`3c71f33`](https://github.com/truecharts/charts/commit/3c71f33be8b7323571e960711c76a6a3c0e75960) • [@TrueCharts-Bot] (2023-11-27)
 - Commit daily changes • [`b4b772b`](https://github.com/truecharts/charts/commit/b4b772b288ab3556785792408245a839ee943d78) • [@TrueCharts-Bot] (2023-11-21)
 - chore(repo) change charts to the upstream images (#14824) • [`e6a70ee`](https://github.com/truecharts/charts/commit/e6a70eef32f584e2ca86c54ae5ba6fb0a7067c39) • [@Xstar97TheNoob] (2023-11-18)
 
@@ -810,8 +810,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.0.27 • [Train: stable]
 
-- chore(deps): update jupyter (#9391) • [`687b541`](https://github.com/truecharts/charts/commit/687b541327f058eb43eae3fb0b97d31f04eb2295) • [@TrueCharts Bot] (2023-06-04)
 - chore(deps): update helm general non-major (#9393) • [`432a8cd`](https://github.com/truecharts/charts/commit/432a8cd439cbafe793afa692cb116770b24b9edd) • [@TrueCharts Bot] (2023-06-04)
+- chore(deps): update jupyter (#9391) • [`687b541`](https://github.com/truecharts/charts/commit/687b541327f058eb43eae3fb0b97d31f04eb2295) • [@TrueCharts Bot] (2023-06-04)
 
 ## 4.0.26 • [Train: stable]
 
@@ -942,8 +942,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.0.15 • [Train: stable]
 
-- Commit bumped Chart Version • [`71d3066`](https://github.com/truecharts/charts/commit/71d306698594789d3c80fdfd9a462b2826e2df85) • [@TrueCharts-Bot] (2023-02-09)
 - Merge pull request #7141 from truecharts/renovate/jupyter • [`8d62591`](https://github.com/truecharts/charts/commit/8d6259192744f409a0663ffe4febd717d89243ff) • [@TrueCharts Bot] (2023-02-09)
+- Commit bumped Chart Version • [`71d3066`](https://github.com/truecharts/charts/commit/71d306698594789d3c80fdfd9a462b2826e2df85) • [@TrueCharts-Bot] (2023-02-09)
 
 ## 3.0.14 • [Train: stable]
 
@@ -954,24 +954,24 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 3.0.13 • [Train: stable]
 
 - chore(deps): update jupyter to v2023-02 • [`a340c67`](https://github.com/truecharts/charts/commit/a340c67c20c4bb08b07202ef4b4d28208c0c2825) • [@TrueCharts-Admin] (2023-02-08)
-- Merge pull request #6937 from truecharts/renovate/jupyter • [`b99d7a3`](https://github.com/truecharts/charts/commit/b99d7a320049f0235fb94c0bbc5c5bddb75931a0) • [@TrueCharts Bot] (2023-02-03)
 - Commit bumped Chart Version • [`2a516c7`](https://github.com/truecharts/charts/commit/2a516c76e1211482ffed4933ac8188dae2e4db6a) • [@TrueCharts-Bot] (2023-02-03)
+- Merge pull request #6937 from truecharts/renovate/jupyter • [`b99d7a3`](https://github.com/truecharts/charts/commit/b99d7a320049f0235fb94c0bbc5c5bddb75931a0) • [@TrueCharts Bot] (2023-02-03)
 
 ## 3.0.12 • [Train: stable]
 
-- Revert &#34;Commit daily changes&#34; • [`0dbc251`](https://github.com/truecharts/charts/commit/0dbc251a0676e1781aaffccc1e06f135a5bfba89) • [@Kjeld Schouten-Lebbing] (2023-02-03)
-- Commit daily changes • [`2a8f5c5`](https://github.com/truecharts/charts/commit/2a8f5c58e44ce967263ab487d2e68d4cb839e51c) • [@TrueCharts-Bot] (2023-02-03)
-- Commit daily changes • [`848e517`](https://github.com/truecharts/charts/commit/848e5175c3efbf8fc3e273b0a03dad67053a4205) • [@TrueCharts-Bot] (2023-02-03)
-- Revert &#34;Commit daily changes&#34; • [`b92fcb2`](https://github.com/truecharts/charts/commit/b92fcb20b141c1d5f30a1c83604f6e887827804c) • [@Kjeld Schouten-Lebbing] (2023-02-03)
 - Commit daily changes • [`208c291`](https://github.com/truecharts/charts/commit/208c2919fec945cc14276a229222915ae0ec50b4) • [@TrueCharts-Bot] (2023-02-03)
-- Commit daily changes • [`35f77ed`](https://github.com/truecharts/charts/commit/35f77ed72d81a81a31e9d92d67f39a220022c450) • [@TrueCharts-Bot] (2023-02-03)
 - Revert &#34;Commit daily changes&#34; • [`110ae61`](https://github.com/truecharts/charts/commit/110ae6125b24f4a5def05781696141f3ff44ed12) • [@Kjeld Schouten-Lebbing] (2023-02-03)
+- Revert &#34;Commit daily changes&#34; • [`b92fcb2`](https://github.com/truecharts/charts/commit/b92fcb20b141c1d5f30a1c83604f6e887827804c) • [@Kjeld Schouten-Lebbing] (2023-02-03)
 - chore(deps): update jupyter • [`4825427`](https://github.com/truecharts/charts/commit/4825427e1d69ca97d32c1bfbd16f2bfc9616c874) • [@TrueCharts-Admin] (2023-02-03)
+- Commit daily changes • [`35f77ed`](https://github.com/truecharts/charts/commit/35f77ed72d81a81a31e9d92d67f39a220022c450) • [@TrueCharts-Bot] (2023-02-03)
+- Commit daily changes • [`2a8f5c5`](https://github.com/truecharts/charts/commit/2a8f5c58e44ce967263ab487d2e68d4cb839e51c) • [@TrueCharts-Bot] (2023-02-03)
+- Revert &#34;Commit daily changes&#34; • [`0dbc251`](https://github.com/truecharts/charts/commit/0dbc251a0676e1781aaffccc1e06f135a5bfba89) • [@Kjeld Schouten-Lebbing] (2023-02-03)
+- Commit daily changes • [`848e517`](https://github.com/truecharts/charts/commit/848e5175c3efbf8fc3e273b0a03dad67053a4205) • [@TrueCharts-Bot] (2023-02-03)
 - Commit daily changes • [`adda47b`](https://github.com/truecharts/charts/commit/adda47bb6418f0deda603b30b02d21c6978f93a0) • [@TrueCharts-Bot] (2023-02-01)
-- Commit daily changes • [`0fb22dd`](https://github.com/truecharts/charts/commit/0fb22dd1e2a9fe895502d16547469e94a3d706c9) • [@TrueCharts-Bot] (2023-01-31)
-- Commit daily changes • [`3f63d20`](https://github.com/truecharts/charts/commit/3f63d20af933f7fb1f1dc555ed585f475a4eb92f) • [@TrueCharts-Bot] (2023-01-31)
-- Commit daily changes • [`dfff570`](https://github.com/truecharts/charts/commit/dfff570b9c1a46b2b8a4178626c6b4299be83e22) • [@TrueCharts-Bot] (2023-01-31)
 - Commit daily changes • [`ed66075`](https://github.com/truecharts/charts/commit/ed660759772ba0148d1e6de709596011b2ceee63) • [@TrueCharts-Bot] (2023-01-31)
+- Commit daily changes • [`3f63d20`](https://github.com/truecharts/charts/commit/3f63d20af933f7fb1f1dc555ed585f475a4eb92f) • [@TrueCharts-Bot] (2023-01-31)
+- Commit daily changes • [`0fb22dd`](https://github.com/truecharts/charts/commit/0fb22dd1e2a9fe895502d16547469e94a3d706c9) • [@TrueCharts-Bot] (2023-01-31)
+- Commit daily changes • [`dfff570`](https://github.com/truecharts/charts/commit/dfff570b9c1a46b2b8a4178626c6b4299be83e22) • [@TrueCharts-Bot] (2023-01-31)
 - Commit daily changes • [`453bd4a`](https://github.com/truecharts/charts/commit/453bd4afef28d6d410077c7065654b4809c0fb48) • [@TrueCharts-Bot] (2023-01-25)
 - Commit bumped Chart Version • [`1bc5ad9`](https://github.com/truecharts/charts/commit/1bc5ad9b47967355da08cef14f5599f5ae77fef6) • [@TrueCharts-Bot] (2023-01-24)
 - Merge pull request #6685 from truecharts/renovate/jupyter • [`30e615e`](https://github.com/truecharts/charts/commit/30e615ee406e82d2719ef2eca0eb651e28b49074) • [@TrueCharts Bot] (2023-01-24)
@@ -1019,80 +1019,80 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.0.5 • [Train: stable]
 
-- chore(deps): update container image tccr.io/truecharts/jupyter-tensorflow to v2023-01 • [`9ae1b49`](https://github.com/truecharts/charts/commit/9ae1b49e47c4b8a45f092484b0c8c42a05b158dd) • [@TrueCharts-Admin] (2023-01-10)
 - chore(deps): update container image tccr.io/truecharts/jupyter-scipy to v2023-01 • [`941c56f`](https://github.com/truecharts/charts/commit/941c56fa442510a52d1e4da32a7ed07bfb07963e) • [@TrueCharts-Admin] (2023-01-10)
-- Merge pull request #6138 from truecharts/renovate/tccr.io-truecharts-jupyter-datascience-2023.x • [`f999414`](https://github.com/truecharts/charts/commit/f999414d5bff81fe67d179b34900553ba804a6d0) • [@TrueCharts Bot] (2023-01-07)
-- Commit bumped Chart Version • [`060ef71`](https://github.com/truecharts/charts/commit/060ef710df2c613e50f0dd43e28955fc2849e898) • [@TrueCharts-Bot] (2023-01-07)
+- chore(deps): update container image tccr.io/truecharts/jupyter-tensorflow to v2023-01 • [`9ae1b49`](https://github.com/truecharts/charts/commit/9ae1b49e47c4b8a45f092484b0c8c42a05b158dd) • [@TrueCharts-Admin] (2023-01-10)
 - Commit bumped Chart Version • [`2c71396`](https://github.com/truecharts/charts/commit/2c7139610e1758d754bb723247666910799f1d68) • [@TrueCharts-Bot] (2023-01-07)
-- Commit bumped Chart Version • [`71ec410`](https://github.com/truecharts/charts/commit/71ec4104c591578377f555ea64baac89d093e76e) • [@TrueCharts-Bot] (2023-01-07)
 - Merge pull request #6141 from truecharts/renovate/tccr.io-truecharts-jupyter-r-2023.x • [`76f393a`](https://github.com/truecharts/charts/commit/76f393a3ed88031d4242e82f596708f1a3122e13) • [@TrueCharts Bot] (2023-01-07)
-- Merge pull request #6143 from truecharts/renovate/tccr.io-truecharts-jupyter-tensorflow-2023.x • [`a648e4d`](https://github.com/truecharts/charts/commit/a648e4d6a52c5bd22159f90e980767d5fea68ed0) • [@TrueCharts Bot] (2023-01-07)
-- Merge pull request #6142 from truecharts/renovate/tccr.io-truecharts-jupyter-scipy-2023.x • [`0391162`](https://github.com/truecharts/charts/commit/03911626b88cfb16b7b5a6026a1b9d21c7ae23da) • [@TrueCharts Bot] (2023-01-07)
-- Commit bumped Chart Version • [`98db574`](https://github.com/truecharts/charts/commit/98db574074f21dded3d0ee61a157438cd594b761) • [@TrueCharts-Bot] (2023-01-07)
-- Commit bumped Chart Version • [`f1a70a0`](https://github.com/truecharts/charts/commit/f1a70a0d8a1958f2b9033f8904e58310630fd8b0) • [@TrueCharts-Bot] (2023-01-07)
 - Merge pull request #6137 from truecharts/renovate/tccr.io-truecharts-jupyter-base-2023.x • [`fa125f2`](https://github.com/truecharts/charts/commit/fa125f2fcb527a6894eef347a98956d809356d21) • [@TrueCharts Bot] (2023-01-07)
+- Merge pull request #6143 from truecharts/renovate/tccr.io-truecharts-jupyter-tensorflow-2023.x • [`a648e4d`](https://github.com/truecharts/charts/commit/a648e4d6a52c5bd22159f90e980767d5fea68ed0) • [@TrueCharts Bot] (2023-01-07)
+- Commit bumped Chart Version • [`f1a70a0`](https://github.com/truecharts/charts/commit/f1a70a0d8a1958f2b9033f8904e58310630fd8b0) • [@TrueCharts-Bot] (2023-01-07)
+- Merge pull request #6142 from truecharts/renovate/tccr.io-truecharts-jupyter-scipy-2023.x • [`0391162`](https://github.com/truecharts/charts/commit/03911626b88cfb16b7b5a6026a1b9d21c7ae23da) • [@TrueCharts Bot] (2023-01-07)
+- Commit bumped Chart Version • [`060ef71`](https://github.com/truecharts/charts/commit/060ef710df2c613e50f0dd43e28955fc2849e898) • [@TrueCharts-Bot] (2023-01-07)
+- Commit bumped Chart Version • [`71ec410`](https://github.com/truecharts/charts/commit/71ec4104c591578377f555ea64baac89d093e76e) • [@TrueCharts-Bot] (2023-01-07)
+- Commit bumped Chart Version • [`98db574`](https://github.com/truecharts/charts/commit/98db574074f21dded3d0ee61a157438cd594b761) • [@TrueCharts-Bot] (2023-01-07)
+- Merge pull request #6138 from truecharts/renovate/tccr.io-truecharts-jupyter-datascience-2023.x • [`f999414`](https://github.com/truecharts/charts/commit/f999414d5bff81fe67d179b34900553ba804a6d0) • [@TrueCharts Bot] (2023-01-07)
 
 ## 3.0.4 • [Train: stable]
 
-- chore(deps): update container image tccr.io/truecharts/jupyter-r to v2023-01 • [`5836915`](https://github.com/truecharts/charts/commit/58369154a6446de0a6f9063674a78e72b6d6f8be) • [@TrueCharts-Admin] (2023-01-07)
-- Commit bumped Chart Version • [`5cb8f03`](https://github.com/truecharts/charts/commit/5cb8f0353274fc489e5118688aa97c581e1c9f11) • [@TrueCharts-Bot] (2023-01-07)
-- Merge pull request #6126 from truecharts/renovate/tccr.io-truecharts-jupyter-datascience-2022.x • [`7adfd43`](https://github.com/truecharts/charts/commit/7adfd43d1c4c8ec5c4d0d130e34afc117e1dc3fb) • [@TrueCharts Bot] (2023-01-07)
+- Commit bumped Chart Version • [`2e730ed`](https://github.com/truecharts/charts/commit/2e730edaf3a4d943804a19ab0635a9afb9b3cdd3) • [@TrueCharts-Bot] (2023-01-07)
+- chore(deps): update container image tccr.io/truecharts/jupyter-base to v2023-01 • [`672545e`](https://github.com/truecharts/charts/commit/672545e6cff1f6ef32f03f55bfca563eb2beb9bd) • [@TrueCharts-Admin] (2023-01-07)
 - chore(deps): update container image tccr.io/truecharts/jupyter-scipy to v2023-01 • [`87e5881`](https://github.com/truecharts/charts/commit/87e5881a2b0ebbfab342f85b53d0eafc26dacc19) • [@TrueCharts-Admin] (2023-01-07)
-- Commit bumped Chart Version • [`9a1801b`](https://github.com/truecharts/charts/commit/9a1801bd724efa0ea39386709d726f2c882afdc9) • [@TrueCharts-Bot] (2023-01-07)
-- Commit bumped Chart Version • [`b52fe70`](https://github.com/truecharts/charts/commit/b52fe70ba019047a541c43a79d260266260a1b75) • [@TrueCharts-Bot] (2023-01-07)
-- Commit bumped Chart Version • [`57bbf63`](https://github.com/truecharts/charts/commit/57bbf63285cf1d985e4a77905ef4d16c564d0c48) • [@TrueCharts-Bot] (2023-01-07)
+- Merge pull request #6129 from truecharts/renovate/tccr.io-truecharts-jupyter-r-2022.x • [`10acb7a`](https://github.com/truecharts/charts/commit/10acb7ab68ebe52628b6343493965e0edfebd0da) • [@TrueCharts Bot] (2023-01-07)
+- Commit bumped Chart Version • [`5817e0f`](https://github.com/truecharts/charts/commit/5817e0f8bcd265c55f33b916f5e4e601dc0e6a6c) • [@TrueCharts-Bot] (2023-01-07)
 - Merge pull request #6140 from truecharts/renovate/tccr.io-truecharts-jupyter-pyspark-2023.x • [`5dddcdb`](https://github.com/truecharts/charts/commit/5dddcdbef56854056d802ea055a86cd23f6047cf) • [@TrueCharts Bot] (2023-01-07)
 - Commit bumped Chart Version • [`93685ef`](https://github.com/truecharts/charts/commit/93685ef4a59a2048eacd0134a345de93780f3049) • [@TrueCharts-Bot] (2023-01-07)
-- Merge pull request #6129 from truecharts/renovate/tccr.io-truecharts-jupyter-r-2022.x • [`10acb7a`](https://github.com/truecharts/charts/commit/10acb7ab68ebe52628b6343493965e0edfebd0da) • [@TrueCharts Bot] (2023-01-07)
-- Merge pull request #6125 from truecharts/renovate/tccr.io-truecharts-jupyter-base-2022.x • [`72f8182`](https://github.com/truecharts/charts/commit/72f8182ecaaf62f427b419153d461ab7879d3c0b) • [@TrueCharts Bot] (2023-01-07)
-- chore(deps): update container image tccr.io/truecharts/jupyter-datascience to v2023-01 • [`7ea01dc`](https://github.com/truecharts/charts/commit/7ea01dcd0dca6664869888707d502507f3775cd6) • [@TrueCharts-Admin] (2023-01-07)
-- Merge pull request #6131 from truecharts/renovate/tccr.io-truecharts-jupyter-tensorflow-2022.x • [`927168d`](https://github.com/truecharts/charts/commit/927168d444c14690512dcf63663016d236151e47) • [@TrueCharts Bot] (2023-01-07)
-- Commit bumped Chart Version • [`2e730ed`](https://github.com/truecharts/charts/commit/2e730edaf3a4d943804a19ab0635a9afb9b3cdd3) • [@TrueCharts-Bot] (2023-01-07)
-- Commit bumped Chart Version • [`5817e0f`](https://github.com/truecharts/charts/commit/5817e0f8bcd265c55f33b916f5e4e601dc0e6a6c) • [@TrueCharts-Bot] (2023-01-07)
-- chore(deps): update container image tccr.io/truecharts/jupyter-base to v2023-01 • [`672545e`](https://github.com/truecharts/charts/commit/672545e6cff1f6ef32f03f55bfca563eb2beb9bd) • [@TrueCharts-Admin] (2023-01-07)
+- Commit bumped Chart Version • [`9a1801b`](https://github.com/truecharts/charts/commit/9a1801bd724efa0ea39386709d726f2c882afdc9) • [@TrueCharts-Bot] (2023-01-07)
 - Merge pull request #6136 from truecharts/renovate/tccr.io-truecharts-jupyter-all-spark-2023.x • [`a88f3e4`](https://github.com/truecharts/charts/commit/a88f3e421c168247414fbe291283a12e2b13bc2d) • [@TrueCharts Bot] (2023-01-07)
 - Merge pull request #6139 from truecharts/renovate/tccr.io-truecharts-jupyter-minimal-2023.x • [`ef21d3f`](https://github.com/truecharts/charts/commit/ef21d3fc3169c1223566fd8f0ce40e578436ce58) • [@TrueCharts Bot] (2023-01-07)
+- chore(deps): update container image tccr.io/truecharts/jupyter-r to v2023-01 • [`5836915`](https://github.com/truecharts/charts/commit/58369154a6446de0a6f9063674a78e72b6d6f8be) • [@TrueCharts-Admin] (2023-01-07)
+- Merge pull request #6125 from truecharts/renovate/tccr.io-truecharts-jupyter-base-2022.x • [`72f8182`](https://github.com/truecharts/charts/commit/72f8182ecaaf62f427b419153d461ab7879d3c0b) • [@TrueCharts Bot] (2023-01-07)
+- Merge pull request #6126 from truecharts/renovate/tccr.io-truecharts-jupyter-datascience-2022.x • [`7adfd43`](https://github.com/truecharts/charts/commit/7adfd43d1c4c8ec5c4d0d130e34afc117e1dc3fb) • [@TrueCharts Bot] (2023-01-07)
+- Merge pull request #6131 from truecharts/renovate/tccr.io-truecharts-jupyter-tensorflow-2022.x • [`927168d`](https://github.com/truecharts/charts/commit/927168d444c14690512dcf63663016d236151e47) • [@TrueCharts Bot] (2023-01-07)
+- Commit bumped Chart Version • [`b52fe70`](https://github.com/truecharts/charts/commit/b52fe70ba019047a541c43a79d260266260a1b75) • [@TrueCharts-Bot] (2023-01-07)
+- Commit bumped Chart Version • [`57bbf63`](https://github.com/truecharts/charts/commit/57bbf63285cf1d985e4a77905ef4d16c564d0c48) • [@TrueCharts-Bot] (2023-01-07)
+- Commit bumped Chart Version • [`5cb8f03`](https://github.com/truecharts/charts/commit/5cb8f0353274fc489e5118688aa97c581e1c9f11) • [@TrueCharts-Bot] (2023-01-07)
+- chore(deps): update container image tccr.io/truecharts/jupyter-datascience to v2023-01 • [`7ea01dc`](https://github.com/truecharts/charts/commit/7ea01dcd0dca6664869888707d502507f3775cd6) • [@TrueCharts-Admin] (2023-01-07)
 - chore(deps): update container image tccr.io/truecharts/jupyter-tensorflow to v2023-01 • [`fddcb55`](https://github.com/truecharts/charts/commit/fddcb55b0f50a04d4cb615777c379c6f1a6d2fdb) • [@TrueCharts-Admin] (2023-01-07)
 
 ## 3.0.3 • [Train: stable]
 
 - chore(deps): update container image tccr.io/truecharts/jupyter-all-spark to v2023-01 • [`0e2a7f0`](https://github.com/truecharts/charts/commit/0e2a7f0bf19fe6ac5078cd81bea934de177c7252) • [@TrueCharts-Admin] (2023-01-07)
-- chore(deps): update container image tccr.io/truecharts/jupyter-minimal to v2023-01 • [`1b5c334`](https://github.com/truecharts/charts/commit/1b5c334737704b53e75d0f52ba54f78a1657d9a3) • [@TrueCharts-Admin] (2023-01-07)
+- chore(deps): update container image tccr.io/truecharts/jupyter-base to v2022-12 • [`2f650ef`](https://github.com/truecharts/charts/commit/2f650eff4e5efe743bdceeedef9c440731c922bd) • [@TrueCharts-Admin] (2023-01-07)
 - chore(deps): update container image tccr.io/truecharts/jupyter-r to v2022-12 • [`ab49c46`](https://github.com/truecharts/charts/commit/ab49c46e5a6fdc5143dd57095d0670440c8e0563) • [@TrueCharts-Admin] (2023-01-07)
 - chore(deps): update container image tccr.io/truecharts/jupyter-pyspark to v2023-01 • [`df66740`](https://github.com/truecharts/charts/commit/df66740a9ef0670475aca8f2877a95e50789208b) • [@TrueCharts-Admin] (2023-01-07)
-- Commit bumped Chart Version • [`df6697b`](https://github.com/truecharts/charts/commit/df6697b03a14e89c66ac621303b609865e71e026) • [@TrueCharts-Bot] (2023-01-07)
-- chore(deps): update container image tccr.io/truecharts/jupyter-base to v2022-12 • [`2f650ef`](https://github.com/truecharts/charts/commit/2f650eff4e5efe743bdceeedef9c440731c922bd) • [@TrueCharts-Admin] (2023-01-07)
+- chore(deps): update container image tccr.io/truecharts/jupyter-minimal to v2023-01 • [`1b5c334`](https://github.com/truecharts/charts/commit/1b5c334737704b53e75d0f52ba54f78a1657d9a3) • [@TrueCharts-Admin] (2023-01-07)
 - chore(deps): update container image tccr.io/truecharts/jupyter-tensorflow to v2022-12 • [`3566114`](https://github.com/truecharts/charts/commit/356611468f3b714f51cc12f6fff88c1296e6e9f4) • [@TrueCharts-Admin] (2023-01-07)
 - chore(deps): update container image tccr.io/truecharts/jupyter-datascience to v2022-12 • [`8f97d59`](https://github.com/truecharts/charts/commit/8f97d59c125062ecc62f408fbed3020695fb3b82) • [@TrueCharts-Admin] (2023-01-07)
 - Merge pull request #6043 from truecharts/renovate/tccr.io-truecharts-jupyter-r-v2022-09 • [`c2082d6`](https://github.com/truecharts/charts/commit/c2082d68bdc80c2a4806a2f09482311ade2fdfdd) • [@TrueCharts Bot] (2023-01-07)
+- Commit bumped Chart Version • [`df6697b`](https://github.com/truecharts/charts/commit/df6697b03a14e89c66ac621303b609865e71e026) • [@TrueCharts-Bot] (2023-01-07)
 
 ## 3.0.2 • [Train: stable]
 
-- Commit bumped Chart Version • [`589c64c`](https://github.com/truecharts/charts/commit/589c64ca639e77fba06d7758f24f48e0b5482f26) • [@TrueCharts-Bot] (2023-01-07)
-- Merge branch &#39;master&#39; into renovate/tccr.io-truecharts-jupyter-r-v2022-09 • [`75a3505`](https://github.com/truecharts/charts/commit/75a3505a192743d6ac96360d0af92ef322511b05) • [@Stavros Kois] (2023-01-07)
-- Commit bumped Chart Version • [`ecb44ea`](https://github.com/truecharts/charts/commit/ecb44ea7a21417e3a2f8821eb4d4e16125d0cff2) • [@TrueCharts-Bot] (2023-01-07)
-- Commit bumped Chart Version • [`edd1ee5`](https://github.com/truecharts/charts/commit/edd1ee55623403331ead167ccea0042a5737414c) • [@TrueCharts-Bot] (2023-01-07)
-- Commit bumped Chart Version • [`f638174`](https://github.com/truecharts/charts/commit/f6381747924d7890555fed63a012b072436a44f8) • [@TrueCharts-Bot] (2023-01-07)
-- Merge pull request #6041 from truecharts/renovate/tccr.io-truecharts-jupyter-minimal-v2022-09 • [`d8a7c58`](https://github.com/truecharts/charts/commit/d8a7c58b58e42af85c6c8b9225bba14546442bea) • [@TrueCharts Bot] (2023-01-07)
-- Merge pull request #6044 from truecharts/renovate/tccr.io-truecharts-jupyter-scipy-v2022-09 • [`f6fb587`](https://github.com/truecharts/charts/commit/f6fb5875eb4371c613a7759d3724e68ad529fd83) • [@TrueCharts Bot] (2023-01-07)
-- Commit bumped Chart Version • [`16bc51a`](https://github.com/truecharts/charts/commit/16bc51a980026e5ca77917069139211d2115dc4e) • [@TrueCharts-Bot] (2023-01-07)
-- Merge pull request #6040 from truecharts/renovate/tccr.io-truecharts-jupyter-datascience-v2022-09 • [`2d4f307`](https://github.com/truecharts/charts/commit/2d4f30718e72b4d3457cec589c766dcca3bb2d8a) • [@TrueCharts Bot] (2023-01-07)
-- Merge pull request #6042 from truecharts/renovate/tccr.io-truecharts-jupyter-pyspark-v2022-09 • [`bceb278`](https://github.com/truecharts/charts/commit/bceb278b9ab0e7736ec3fa151a50d3beb2f85582) • [@TrueCharts Bot] (2023-01-07)
 - Merge pull request #6045 from truecharts/renovate/tccr.io-truecharts-jupyter-tensorflow-v2022-09 • [`28aa45f`](https://github.com/truecharts/charts/commit/28aa45fae132d3077860cad342163fabf4981bd4) • [@TrueCharts Bot] (2023-01-07)
-- Commit bumped Chart Version • [`4d7289c`](https://github.com/truecharts/charts/commit/4d7289ceae37bed16e289f9edc62aa0208b28c66) • [@TrueCharts-Bot] (2023-01-07)
+- Commit bumped Chart Version • [`589c64c`](https://github.com/truecharts/charts/commit/589c64ca639e77fba06d7758f24f48e0b5482f26) • [@TrueCharts-Bot] (2023-01-07)
 - Merge pull request #6039 from truecharts/renovate/tccr.io-truecharts-jupyter-all-spark-v2022-09 • [`a8351fe`](https://github.com/truecharts/charts/commit/a8351feaa47efa69082da403571e56ca3d20fd47) • [@TrueCharts Bot] (2023-01-07)
+- Commit bumped Chart Version • [`f638174`](https://github.com/truecharts/charts/commit/f6381747924d7890555fed63a012b072436a44f8) • [@TrueCharts-Bot] (2023-01-07)
+- Commit bumped Chart Version • [`16bc51a`](https://github.com/truecharts/charts/commit/16bc51a980026e5ca77917069139211d2115dc4e) • [@TrueCharts-Bot] (2023-01-07)
+- Merge pull request #6042 from truecharts/renovate/tccr.io-truecharts-jupyter-pyspark-v2022-09 • [`bceb278`](https://github.com/truecharts/charts/commit/bceb278b9ab0e7736ec3fa151a50d3beb2f85582) • [@TrueCharts Bot] (2023-01-07)
 - Commit bumped Chart Version • [`de64e56`](https://github.com/truecharts/charts/commit/de64e56e8ebba918cba58caf3fe5aeb17e975ba1) • [@TrueCharts-Bot] (2023-01-07)
+- Commit bumped Chart Version • [`edd1ee5`](https://github.com/truecharts/charts/commit/edd1ee55623403331ead167ccea0042a5737414c) • [@TrueCharts-Bot] (2023-01-07)
+- Merge pull request #6040 from truecharts/renovate/tccr.io-truecharts-jupyter-datascience-v2022-09 • [`2d4f307`](https://github.com/truecharts/charts/commit/2d4f30718e72b4d3457cec589c766dcca3bb2d8a) • [@TrueCharts Bot] (2023-01-07)
+- Commit bumped Chart Version • [`4d7289c`](https://github.com/truecharts/charts/commit/4d7289ceae37bed16e289f9edc62aa0208b28c66) • [@TrueCharts-Bot] (2023-01-07)
+- Merge branch &#39;master&#39; into renovate/tccr.io-truecharts-jupyter-r-v2022-09 • [`75a3505`](https://github.com/truecharts/charts/commit/75a3505a192743d6ac96360d0af92ef322511b05) • [@Stavros Kois] (2023-01-07)
+- Merge pull request #6041 from truecharts/renovate/tccr.io-truecharts-jupyter-minimal-v2022-09 • [`d8a7c58`](https://github.com/truecharts/charts/commit/d8a7c58b58e42af85c6c8b9225bba14546442bea) • [@TrueCharts Bot] (2023-01-07)
+- Commit bumped Chart Version • [`ecb44ea`](https://github.com/truecharts/charts/commit/ecb44ea7a21417e3a2f8821eb4d4e16125d0cff2) • [@TrueCharts-Bot] (2023-01-07)
+- Merge pull request #6044 from truecharts/renovate/tccr.io-truecharts-jupyter-scipy-v2022-09 • [`f6fb587`](https://github.com/truecharts/charts/commit/f6fb5875eb4371c613a7759d3724e68ad529fd83) • [@TrueCharts Bot] (2023-01-07)
 
 ## 3.0.1 • [Train: stable]
 
-- chore(deps): update container image tccr.io/truecharts/jupyter-pyspark to v • [`fc7d5aa`](https://github.com/truecharts/charts/commit/fc7d5aaae6ad817d94171efed800257e7981a917) • [@TrueCharts-Admin] (2023-01-07)
-- fix(jupyter): fix image names • [`115669e`](https://github.com/truecharts/charts/commit/115669e36366a87493565c9ceb9ca8ef9fb1b39c) • [@Stavros Kois] (2023-01-07)
-- chore(deps): update container image tccr.io/truecharts/jupyter-datascience to v • [`45ae05f`](https://github.com/truecharts/charts/commit/45ae05f17f70d2cc6a749aef5f1fa96b0656aa0a) • [@TrueCharts-Admin] (2023-01-07)
 - chore(deps): update container image tccr.io/truecharts/jupyter-all-spark to v • [`98a06d1`](https://github.com/truecharts/charts/commit/98a06d15b42e050918b8d5cb487473740e25a7ee) • [@TrueCharts-Admin] (2023-01-07)
 - chore(deps): update container image tccr.io/truecharts/jupyter-minimal to v • [`9f605d2`](https://github.com/truecharts/charts/commit/9f605d2ad6f6f069c2cd4481e4ebb9543534a93b) • [@TrueCharts-Admin] (2023-01-07)
 - chore(deps): update container image tccr.io/truecharts/jupyter-tensorflow to v • [`a098774`](https://github.com/truecharts/charts/commit/a0987747f395c655d321f0148a6894bf4c92cc6a) • [@TrueCharts-Admin] (2023-01-07)
 - chore(deps): update container image tccr.io/truecharts/jupyter-r to v • [`c43ec76`](https://github.com/truecharts/charts/commit/c43ec76601b0837b269c6428a19215400d3159be) • [@TrueCharts-Admin] (2023-01-07)
 - chore(deps): update container image tccr.io/truecharts/jupyter-scipy to v • [`ccfd8b0`](https://github.com/truecharts/charts/commit/ccfd8b01ffe36489adcdc31bbf39d81d4379b71c) • [@TrueCharts-Admin] (2023-01-07)
+- chore(deps): update container image tccr.io/truecharts/jupyter-pyspark to v • [`fc7d5aa`](https://github.com/truecharts/charts/commit/fc7d5aaae6ad817d94171efed800257e7981a917) • [@TrueCharts-Admin] (2023-01-07)
+- fix(jupyter): fix image names • [`115669e`](https://github.com/truecharts/charts/commit/115669e36366a87493565c9ceb9ca8ef9fb1b39c) • [@Stavros Kois] (2023-01-07)
+- chore(deps): update container image tccr.io/truecharts/jupyter-datascience to v • [`45ae05f`](https://github.com/truecharts/charts/commit/45ae05f17f70d2cc6a749aef5f1fa96b0656aa0a) • [@TrueCharts-Admin] (2023-01-07)
 
 ## 3.0.0 • [Train: stable]
 
@@ -1156,9 +1156,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - fix(apps): remove removed includes • [`f4fb894`](https://github.com/truecharts/charts/commit/f4fb8943e1f46b3ba2f705aac6792ad3bc1337d2) • [@Kjeld Schouten-Lebbing] (2022-11-11)
 - fix(apps): remove references to targetPort • [`800312b`](https://github.com/truecharts/charts/commit/800312b29574d87c6591fa5590b8028da3e6d5b9) • [@Kjeld Schouten-Lebbing] (2022-11-11)
+- chore: Auto-update chart README [skip ci] • [`ba9389e`](https://github.com/truecharts/charts/commit/ba9389e4da8aa4bab028f912000dbd4e975f99fb) • [@truecharts-bot] (2022-11-10)
 - fix(apps): change container config label • [`16f46e1`](https://github.com/truecharts/charts/commit/16f46e1db86182b9402b9c4a132884a0b10378a1) • [@Kjeld Schouten-Lebbing] (2022-11-10)
 - chore(apps): Major Change to GUI • [`2ef737f`](https://github.com/truecharts/charts/commit/2ef737f7d3d8fbb7a1ffe46456963004f37d9f45) • [@Kjeld Schouten-Lebbing] (2022-11-10)
-- chore: Auto-update chart README [skip ci] • [`ba9389e`](https://github.com/truecharts/charts/commit/ba9389e4da8aa4bab028f912000dbd4e975f99fb) • [@truecharts-bot] (2022-11-10)
 
 ## 0.0.25 • [Train: incubator]
 
@@ -1167,10 +1167,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.24 • [Train: incubator]
 
-- chore(deps): update helm general non-major (#4342) • [`ec3d563`](https://github.com/truecharts/charts/commit/ec3d56395c3202bfad45c19266686bf4c5315f01) • [@TrueCharts Bot] (2022-11-08)
 - chore: Auto-update chart README [skip ci] • [`3180582`](https://github.com/truecharts/charts/commit/31805828c6aed71e55a911fb3aef5b5c9916ad3b) • [@truecharts-bot] (2022-11-08)
 - chore: Auto-update chart README [skip ci] • [`6053fd9`](https://github.com/truecharts/charts/commit/6053fd928080c895ac04de0d8509550c46a04ace) • [@truecharts-bot] (2022-11-08)
 - chore: Auto-update chart README [skip ci] • [`9ba8308`](https://github.com/truecharts/charts/commit/9ba8308ab3a3d7ea99da57d1b0054292e4d08753) • [@truecharts-bot] (2022-11-08)
+- chore(deps): update helm general non-major (#4342) • [`ec3d563`](https://github.com/truecharts/charts/commit/ec3d56395c3202bfad45c19266686bf4c5315f01) • [@TrueCharts Bot] (2022-11-08)
 
 ## 0.0.23 • [Train: incubator]
 
@@ -1211,8 +1211,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 0.0.16 • [Train: incubator]
 
 - chore: Auto-update chart README [skip ci] • [`952fa74`](https://github.com/truecharts/charts/commit/952fa7491ebe18849e10bbb428b574e5e8b12a08) • [@truecharts-bot] (2022-10-08)
-- chore: Auto-update chart README [skip ci] • [`9783dd2`](https://github.com/truecharts/charts/commit/9783dd2bb730cfa98f23579c7b75a615124e89bd) • [@truecharts-bot] (2022-10-07)
 - chore(deps): update helm general non-major • [`6761b13`](https://github.com/truecharts/charts/commit/6761b1362d6f9b8d21406c65617445a990e32cce) • [@TrueCharts-Admin] (2022-10-07)
+- chore: Auto-update chart README [skip ci] • [`9783dd2`](https://github.com/truecharts/charts/commit/9783dd2bb730cfa98f23579c7b75a615124e89bd) • [@truecharts-bot] (2022-10-07)
 
 ## 0.0.15 • [Train: incubator]
 
@@ -1255,8 +1255,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.8 • [Train: incubator]
 
-- chore(deps): update docker general non-major (#3850) • [`1daf654`](https://github.com/truecharts/charts/commit/1daf654677a5a5d303abfbe6e03d95195b3c002e) • [@TrueCharts Bot] (2022-09-23)
 - chore: Auto-update chart README [skip ci] • [`df5227b`](https://github.com/truecharts/charts/commit/df5227ba9927089752f9f305845a271912f78d07) • [@truecharts-bot] (2022-09-23)
+- chore(deps): update docker general non-major (#3850) • [`1daf654`](https://github.com/truecharts/charts/commit/1daf654677a5a5d303abfbe6e03d95195b3c002e) • [@TrueCharts Bot] (2022-09-23)
 
 ## 0.0.7 • [Train: incubator]
 
@@ -1278,9 +1278,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.4 • [Train: incubator]
 
+- chore(deps): update docker general non-major (#3790) • [`8229f1a`](https://github.com/truecharts/charts/commit/8229f1a5e5e94ace42b820b6b8dc384aa02d6005) • [@TrueCharts Bot] (2022-09-19)
 - chore: Auto-update chart README [skip ci] • [`12ff3ca`](https://github.com/truecharts/charts/commit/12ff3cab54c3d6512d0515fee70998e70495a789) • [@truecharts-bot] (2022-09-19)
 - chore: Auto-update chart README [skip ci] • [`2528ca8`](https://github.com/truecharts/charts/commit/2528ca86e9ced34b9abe332e63a613ce113528c7) • [@truecharts-bot] (2022-09-19)
-- chore(deps): update docker general non-major (#3790) • [`8229f1a`](https://github.com/truecharts/charts/commit/8229f1a5e5e94ace42b820b6b8dc384aa02d6005) • [@TrueCharts Bot] (2022-09-19)
 
 ## 0.0.3 • [Train: incubator]
 
