@@ -4,7 +4,7 @@ title: autoscan
 
 ![Version: 9.0.10](https://img.shields.io/badge/Version-9.0.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
-Autoscan replaces the default Plex and Emby behaviour for picking up file changes on the file system.
+Autoscan replaces the default Plex and Emby behavior for picking up file changes on the file system.
 
 ## Chart Sources
 
@@ -14,12 +14,9 @@ Autoscan replaces the default Plex and Emby behaviour for picking up file change
 
 ## Available Documentation
 
-
-
 ---
 
 ## Readme
-
 
 ### General Info
 
@@ -39,7 +36,6 @@ To install TrueCharts Helm charts using Helm, you can use our OCI Repository.
 `helm install mychart oci://tccr.io/truecharts/CHARTNAME`
 
 For more information on how to install TrueCharts Helm charts, checkout the instructions on the website: https://truecharts.org/helm/
-
 
 #### TrueNAS SCALE Apps
 

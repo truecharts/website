@@ -1,4 +1,6 @@
 words:
+  - archivebox
+  - astro
   - astrojs
   - automount
   - Bitnami
@@ -6,12 +8,17 @@ words:
   - cloudnative
   - clusterissuer
   - CNPG
+  - codespace
+  - Codespaces
   - Collabora
   - configmap
+  - crossorigin
   - Dockerhub
   - downscaling
   - Dragonfish
+  - fluxcd
   - frontmatter
+  - gitops
   - heavyscript
   - hyperconverged
   - iscsi
@@ -33,6 +40,7 @@ words:
   - pagefind
   - Photoprism
   - Pihole
+  - playform
   - Postgreqsql
   - preconfigured
   - Prowlarr

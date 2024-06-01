@@ -9,11 +9,9 @@ title: Installation Guide
 - `App Configuration > Admin Username & Admin Password`
   Configure an initial admin username and password you want to log in with in the Web UI (only applied on first setup run).
   <img width="500" alt="Screenshot of example Admin Username & Password configuration" src="https://github.com/pirate/truecharts/assets/511499/fcd60d72-2339-4eed-bb13-5c1cd7134236">
-
 - `Networking and Services > Service's Port(s) Configuration > Port`
   Configure the port you want to access the ArchiveBox web interface on, or use the pre-populated default.
   <img width="500" alt="Screenshot of example Archivebox webserver port configuration" src="https://github.com/pirate/truecharts/assets/511499/f5083399-64e0-4088-8187-dfd92851eb34">
-
 - `Storage and Persistence > App Data Storage`
   Setup persistent a persistent storage volume to use for your ArchiveBox `/data` directory.
   We recommend using a `Host Path` with `Automatic Permissions Configuration` disabled.
@@ -22,10 +20,9 @@ title: Installation Guide
   <sup>(NFS servers may need to set <code>no_root_squash</code> + <code>no_all_squash</code>)</sup>
   For more info about ArchiveBox's filesystem requirements, see here:
 
-  - [ArchiveBox Filesystem Requirements](https://github.com/ArchiveBox/ArchiveBox#storage-requirements)
-  - [ArchiveBox Troubleshooting: Filesystems, NFS, FSYNC](https://github.com/ArchiveBox/ArchiveBox/wiki/Upgrading-or-Merging-Archives#filesystem-doesnt-support-fsync-eg-network-mounts)
-  - [ArchiveBox Issue #742](https://github.com/ArchiveBox/ArchiveBox/issues/742) (example of common filesystem issue with NFS)
-
+- [ArchiveBox Filesystem Requirements](https://github.com/ArchiveBox/ArchiveBox#storage-requirements)
+- [ArchiveBox Troubleshooting: Filesystems, NFS, FSYNC](https://github.com/ArchiveBox/ArchiveBox/wiki/Upgrading-or-Merging-Archives#filesystem-doesnt-support-fsync-eg-network-mounts)
+- [ArchiveBox Issue #742](https://github.com/ArchiveBox/ArchiveBox/issues/742) (example of common filesystem issue with NFS)
 - `Containers > Main Container > Extra Environment Variables` **(optional)**
   Optionally add any other [ArchiveBox Configuration](https://github.com/ArchiveBox/ArchiveBox/wiki/Configuration) variables you want here.
   <img width="500" alt="Screenshot of example Archivebox extra configuration" src="https://github.com/pirate/truecharts/assets/511499/936b3ca6-28e5-484f-8858-2049c0210a3a">

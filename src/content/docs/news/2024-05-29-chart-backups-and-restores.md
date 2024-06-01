@@ -19,13 +19,13 @@ By leveraging solutions provided by S3 storage providers, TrueCharts users can n
 
 - Enhance data security by storing backups in secure, scalable and durable storage
 
-- Optimise storage costs by taking advantage of the inherently cost-effective and scalable nature of S3 storage
+- Optimize storage costs by taking advantage of the inherently cost-effective and scalable nature of S3 storage
 
 - Ensure reliability by benefiting from the high availability and enhanced redundancy offers by S3 providers
 
 - Simplify backup management by easily automating backup scheduled and managing them from an apps' TrueNAS SCALE GUI or other interface
 
-With this addition, TrueCharts users can rest assured that their applications' CNPG data is easily recovered as needed, minimising the risk of data loss and downtime.
+With this addition, TrueCharts users can rest assured that their applications' CNPG data is easily recovered as needed, minimizing the risk of data loss and downtime.
 
 ### Simplifying PVC Backups with VolSync
 
