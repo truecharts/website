@@ -35,6 +35,7 @@
 /general/common/* /common/:splat 301
 /sponsor /general/sponsor/
 
-# guide redirects
+# SCALE guides and deprecation redirects
 /scale/guides/getting-started/ /deprecated/scale
 /scale /deprecated/scale
+/scale/* /deprecated/scale/:splat 301
