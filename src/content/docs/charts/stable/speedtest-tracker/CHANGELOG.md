@@ -349,6 +349,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.0.0 • [Train: incubator]
 
+- chore(deps): update container image common to v24.0.0@4765f19 by renovate (#22759) • [`c633867`](https://github.com/truecharts/charts/commit/c633867be543821bcffadf5100482beeb52a7f1b) • [@TrueCharts Bot] (2024-06-02)
 - chore(deps): update helm general major (major) (#4424) • [`1cede20`](https://github.com/truecharts/charts/commit/1cede202ada93aa2e71680ffd5460f805ec5bd5f) • [@TrueCharts Bot] (2022-11-15)
 
 ## 2.1.12 • [Train: stable]

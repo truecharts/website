@@ -186,6 +186,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.0.0 • [Train: stable]
 
+- chore(deps): update container image common to v24.0.0@4765f19 by renovate (#22759) • [`c633867`](https://github.com/truecharts/charts/commit/c633867be543821bcffadf5100482beeb52a7f1b) • [@TrueCharts Bot] (2024-06-02)
 - fix(flashpaper) code cleanup &#43; move to stable (#5504) • [`5e402bd`](https://github.com/truecharts/charts/commit/5e402bd56d03b011fec60176a06e22bce0f245ab) • [@Xstar97] (2022-12-18)
 
 ## 2.0.15 • [Train: incubator]
