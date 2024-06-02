@@ -75,6 +75,8 @@ The bridge should look similar to this one when done:
 
 3. Click on `Add Virtual Machines`
 
+4. We also highly suggest users to set a [fixed DHCP-Lease](#fixed-dhcp-lease) (fixed dhcp IP) for your VM inside your Router.
+
 ### Operating System
 
 Select the options like shown below:
@@ -141,3 +143,28 @@ Make sure everything is correct and then click on `Save` to finish the VM settin
 4. Click `Save`. This can take a bit.
 
 5. It should now show your Isolated GPU in the Section. (Might need to refresh and clear your cache for it to show up.)
+
+## Fixed DHCP Lease
+
+Below you can find 2 examples on how to set a fixed DHCP Lease for Unify and Fritzbox.
+
+### Unify
+
+1. Open your Unify UI and go to the Client View (highlighted in blue on the screenshot)
+
+2. Click on the Client that represents your VM (not your Host).
+
+3. Select `Fixed IP-Address` in the pop-up menu on the right.
+
+![DHCP Unify](./img/dhcp_unify.png)
+
+### Fritzbox
+
+1. Go to your fritzbox web-interface. Go to `Home Network`> `Network` and select the running VM (not your Host).
+
+2. Click on the Edit-Button and scroll down to the IP-Address in Home Network section. 
+
+3. Check `Always give this device the same IP`
+
+![DHCP FritzBox](./img/dhcp_fritzbox.png)
+(screenshot in german)
