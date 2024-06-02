@@ -1,5 +1,5 @@
 ---
-title: Creating Virtual Machine for Talos
+title: Creating Virtual Machine for Talos on TrueNAS Scale
 ---
 
 :::caution[Bridge]
