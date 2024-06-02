@@ -15,7 +15,7 @@ Do not click `Test Changes` before you finished the whole guide.
 
 ### Aquiring Interface Settings
 
-1. Note down the interface IP Address and the Subnet mask of your currently used Interface. 
+1. Note down the interface IP Address and the Subnet mask of your currently used Interface.
 
 2. Click on Edit on the currently used Interface.
 
@@ -23,10 +23,8 @@ Do not click `Test Changes` before you finished the whole guide.
 
 4. Create the Network Bridge like described in the following section.
 
-
 The Network Interface should now look like this:
 ![Network Interface ](./img/network_interface.png)
-
 
 ### Creating the Network Bridge
 
@@ -42,11 +40,11 @@ The Network Interface should now look like this:
 
 6. Enter the IP-Address and Subnet mask you previously took note off.
 
-7. Click `Test Changes` and confirm the prombt. Wait a bit for the ui to get responsive again.
+7. Click `Test Changes` and confirm the prompt. Wait a bit for the ui to get responsive again.
 
 8. Click on `Save Changes` to save the changes you have made.
 
-![Network Changes ](./img/network_changes.png)
+    ![Network Changes ](./img/network_changes.png)
 
 9. If something goes wrong and the UI stays unresponsive the changes will be reverted in 60 seconds.
 
@@ -73,7 +71,7 @@ The bridge should look similar to this one when done:
 
 1. Start by going to the `Virtualization` section of your TrueNAS Scale WebUI.
 
-2. If you want to assign a GPU to the VM, make sure to [isolate](#gpu-isolation) the GPU first. 
+2. If you want to assign a GPU to the VM, make sure to [isolate](#gpu-isolation) the GPU first.
 
 3. Click on `Add Virtual Machines`
 
@@ -97,7 +95,6 @@ Make sure to remember the password you have selected.
 
 ![VM CPU And Memory](./img/vm_cpu_memory.png)
 
-
 ### Disks
 
 Select the previously created Zvol for your VM like shown below:
@@ -107,7 +104,6 @@ Select the previously created Zvol for your VM like shown below:
 
 Change the `Atach NIC` to the Bridge you have created in the beginning of the guide.
 ![VM Network](./img/vm_network.png)
-
 
 ### Installation Media
 
@@ -133,7 +129,7 @@ Make sure everything is correct and then click on `Save` to finish the VM settin
 
 ![VM Confirm](./img/vm_confirm.png)
 
-## GPU Isolation:
+## GPU Isolation
 
 1. Go to `System Settings` > `Advanced` in your SCALE UI and scroll down to the section `Isolated GPU Device(s)`.
 
