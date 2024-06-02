@@ -351,6 +351,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - chore(deps): update helm general major (major) (#4424) • [`1cede20`](https://github.com/truecharts/charts/commit/1cede202ada93aa2e71680ffd5460f805ec5bd5f) • [@TrueCharts Bot] (2022-11-15)
 
+## 2.1.12 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/speedtest-tracker to 0.19.0@f8f586b by renovate (#22754) • [`b7df5bd`](https://github.com/truecharts/charts/commit/b7df5bd678734da5bba1875cad774765addd0810) • [@TrueCharts Bot] (2024-06-02)
+
 ## 2.1.11 • [Train: stable]
 
 - Commit daily changes • [`f522aad`](https://github.com/truecharts/charts/commit/f522aadebb53e1ca8416df2aa992281858533d9d) • [@TrueCharts-Bot] (2024-06-02)

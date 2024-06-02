@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 0.0.2 • [Train: incubator]
+
+- chore(deps): update container image common to v23.0.11@11fa61c by renovate (#22756) • [`7196292`](https://github.com/truecharts/charts/commit/719629222cf96a1e784032d8887b7d9b7f388587) • [@TrueCharts Bot] (2024-06-02)
+
 ## 0.0.1 • [Train: incubator]
 
 - Commit daily changes • [`f522aad`](https://github.com/truecharts/charts/commit/f522aadebb53e1ca8416df2aa992281858533d9d) • [@TrueCharts-Bot] (2024-06-02)
