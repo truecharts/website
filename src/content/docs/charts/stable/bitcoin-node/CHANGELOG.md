@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.0.11 • [Train: stable]
+
+- chore(deps): update container image kylemanna/bitcoind to latest@ede3e62 by renovate (#22764) • [`83c3243`](https://github.com/truecharts/charts/commit/83c324306a329c0ab146fb3299843135a27c7569) • [@TrueCharts Bot] (2024-06-02)
+
 ## 6.0.10 • [Train: stable]
 
 - Commit daily changes • [`f522aad`](https://github.com/truecharts/charts/commit/f522aadebb53e1ca8416df2aa992281858533d9d) • [@TrueCharts-Bot] (2024-06-02)

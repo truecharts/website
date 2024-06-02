@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 0.1.0 • [Train: incubator]
+
+- chore(deps): update container image inovector/mixpost to v1.6.0@eed4873 by renovate (#22758) • [`7e230c9`](https://github.com/truecharts/charts/commit/7e230c9a793681a44a566b183bce3125a8e82e2f) • [@TrueCharts Bot] (2024-06-02)
+
 ## 0.0.2 • [Train: incubator]
 
 - chore(deps): update container image common to v23.0.11@11fa61c by renovate (#22756) • [`7196292`](https://github.com/truecharts/charts/commit/719629222cf96a1e784032d8887b7d9b7f388587) • [@TrueCharts Bot] (2024-06-02)
