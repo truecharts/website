@@ -1,5 +1,5 @@
 ---
-title: Creating Virtual Machine for Talos on TrueNAS Scale
+title: Creating Virtual Machine on TrueNAS Scale
 ---
 
 ## Creating a Network Bridge
