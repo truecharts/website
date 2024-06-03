@@ -1,7 +1,7 @@
 ---
 sidebar:
   order: 1
-title: TrueNAS SCALE -> ClusterTool
+title: 'TrueNAS SCALE -> ClusterTool'
 ---
 
 :::caution[Work In Progress]
