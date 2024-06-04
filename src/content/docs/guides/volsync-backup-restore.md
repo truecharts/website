@@ -2,12 +2,6 @@
 title: VolSync Backups and Restores on Helm Platforms
 ---
 
-:::caution
-
-The below is a work in progress
-
-:::
-
 ## Requirements
 
 ### S3 Provider Setup
@@ -18,6 +12,12 @@ See [here](/guides/s3-setup) for instructions on how to setup an S3 storage prov
 
 You can add the credentials by copy-pasting the [Full Examples](/common/credentials#full-examples) section in the common-docs and adapting those accordingly
 
+:::note[Bucket Creation]
+
+You do not have to manually create the bucket beforehand, although this is recommended to ensure the bucket's name is available beforehand.
+
+:::
+
 ## PVC Backups
 
 PVC data can be easily backed up to S3 storage by using our integrated VolSync support. For each individual app, the `VolSync Destination (Restore)` option _must_ set on creation of the app by doing the following:
@@ -26,15 +26,25 @@ PVC data can be easily backed up to S3 storage by using our integrated VolSync s
 
 2. Add the name you gave to the S3 credentials earlier, under the `credentials` section of VolumeSnapshots
 
-3. Enable the `VolSync Source (backup)` and/or `VolSync Destination Restore)` options as desired
+3. Enable the `VolSync Source (Backup)` and/or `VolSync Destination (Restore)` options as desired
 
 4. Confirm the data is being sent to your S3 host after ~5 minutes
 
-:::note[Bucket Creation]
+It will look something like this for each of your persistence:
 
-You do not have to manually create the bucket beforehand, although this is recommended to ensure the bucket's name is available beforehand.
+```yaml
+persistence:
+  config:
+    volsync:
+      - name: config
+        type: restic
+        credentials: mys3_credentials
+        dest:
+          enabled: true
+        src:
+          enabled: true
 
-:::
+```
 
 ## PVC Restoration
 
