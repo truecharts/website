@@ -19,10 +19,7 @@ addons:
             # Specify the default port information
             ports:
                 codeserver:
-                enabled: true
-                primary: true
-                protocol: http
-                port: 12321
+                  port: 12321
 
         ingress:
           # -- Enable an ingress for the code-server add-on.
