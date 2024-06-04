@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 13.0.1 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/filezilla to 3.67.0@02c5f1d by renovate (#22828) • [`744dc8b`](https://github.com/truecharts/charts/commit/744dc8bd095b7d8636bd5921805ed13fcae857b1) • [@TrueCharts Bot] (2024-06-04)
+
 ## 13.0.0 • [Train: stable]
 
 - chore(deps): update container image common to v24.0.0@4765f19 by renovate (#22759) • [`c633867`](https://github.com/truecharts/charts/commit/c633867be543821bcffadf5100482beeb52a7f1b) • [@TrueCharts Bot] (2024-06-02)
