@@ -12,15 +12,15 @@ Please beware: this name is only available between Charts and cannot be reached 
 
 For most charts, you'll want to contact the main service (usually the web interface or primary way you interact with the chart)
 
-Please replace `$NAME` with the name you gave your Chart when installing it, and `$CHART` with the name the chart has on the helm repository as needed.
+Please replace `$NAME` with the name you gave your Chart when installing it, and `$NAMESPACE` with the namespace the chart is installed in and `CHARTNAME` with the name from our helm repository.
 
 **If your chart name _contains_ the name of the chart as in the helm repository, the format is as follows.**
 
-- `$NAME.$NAME.svc.cluster.local`
+- `$NAME.$NAMESPACE.svc.cluster.local`
 
 **If your chart name _does NOT contain_ the name of the chart as in the helm repository, the format is as follows.**
 
-- `$NAME-$CHART.$NAME.svc.cluster.local`
+- `$NAME-$CHARTNAME.$NAMESPACE.svc.cluster.local`
 
 ### Multiple Services
 
@@ -30,11 +30,11 @@ As well as the above naming, replace `$SVCNAME` with the name of the service you
 
 **If your chart name _contains_ the name of the chart as in the helm repository, the format is as follows.**
 
-- `$NAME-$SVCNAME.$NAME.svc.cluster.local`
+- `$NAME-$SVCNAME.$NAMESPACE.svc.cluster.local`
 
 **If your chart name _does NOT contain_ the name of the chart as in the helm repository, the format is as follows.**
 
-- `$NAME-$CHART-$SVCNAME.$NAME.svc.cluster.local`
+- `$NAME-$CHARTNAME-$SVCNAME.$NAMESPACE.svc.cluster.local`
 
 Be aware: you'll only be able to reach ports published on the service they are published to - see the Multiple Services example below for a
 demonstration of this.
