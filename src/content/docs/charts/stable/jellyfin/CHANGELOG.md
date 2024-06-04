@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 20.0.0 • [Train: stable]
+
+- chore(deps): update container image common to v24.0.0@4765f19 by renovate (#22759) • [`c633867`](https://github.com/truecharts/charts/commit/c633867be543821bcffadf5100482beeb52a7f1b) • [@TrueCharts Bot] (2024-06-02)
+
 ## 19.1.14 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/jellyfin/jellyfin to v10.9.4@e6b71e6 by renovate (#22757) • [`e9c2e15`](https://github.com/truecharts/charts/commit/e9c2e1598f783b6472d25e0c418bb01b9f4e939b) • [@TrueCharts Bot] (2024-06-02)

@@ -141,10 +141,10 @@ export default defineConfig({
           },
         },
         {
-          label: "FluxCD",
+          label: "ClusterTool",
           collapsed: true,
           autogenerate: {
-            directory: "fluxcd",
+            directory: "clustertool",
           },
         },
         {
@@ -155,17 +155,17 @@ export default defineConfig({
           },
         },
         {
-          label: "Development",
-          collapsed: true,
-          autogenerate: {
-            directory: "development",
-          },
-        },
-        {
           label: "Charts",
           collapsed: true,
           autogenerate: {
             directory: "charts",
+          },
+        },
+        {
+          label: "Development",
+          collapsed: true,
+          autogenerate: {
+            directory: "development",
           },
         },
       ],

@@ -11,6 +11,26 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.0.4 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/open-webui/open-webui to latest@f3684c2 by renovate (#22836) • [`f6ea7a0`](https://github.com/truecharts/charts/commit/f6ea7a0babd66566d94c5dba3e07ff13bd51d294) • [@TrueCharts Bot] (2024-06-04)
+
+## 7.0.3 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/open-webui/open-webui to latest@ef67678 by renovate (#22830) • [`4bbf57e`](https://github.com/truecharts/charts/commit/4bbf57ee5f16ae9ccbe41c69b10e1f9a9ac7c85e) • [@TrueCharts Bot] (2024-06-04)
+
+## 7.0.2 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/open-webui/open-webui to latest@3ed7f8b by renovate (#22795) • [`12eeb20`](https://github.com/truecharts/charts/commit/12eeb206c8aa9c11e4a59d25dae496fc1389c27f) • [@TrueCharts Bot] (2024-06-03)
+
+## 7.0.1 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/open-webui/open-webui to latest@be8984c by renovate (#22788) • [`063c840`](https://github.com/truecharts/charts/commit/063c840a5c9e9e67bdd176b3e438d138f4604041) • [@TrueCharts Bot] (2024-06-03)
+
+## 7.0.0 • [Train: stable]
+
+- chore(deps): update container image common to v24.0.0@4765f19 by renovate (#22759) • [`c633867`](https://github.com/truecharts/charts/commit/c633867be543821bcffadf5100482beeb52a7f1b) • [@TrueCharts Bot] (2024-06-02)
+
 ## 6.0.39 • [Train: stable]
 
 - chore(deps): update container image ollama/ollama to v0.1.41 by renovate (#22769) • [`7c1ec7c`](https://github.com/truecharts/charts/commit/7c1ec7c7f33be3cd2a0da0d9656ed53e2170bb6e) • [@TrueCharts Bot] (2024-06-02)

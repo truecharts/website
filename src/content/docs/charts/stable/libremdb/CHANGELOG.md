@@ -11,6 +11,34 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 9.0.6 • [Train: stable]
+
+- chore(deps): update container image quay.io/pussthecatorg/libremdb to latest@f378377 by renovate (#22837) • [`4c839ce`](https://github.com/truecharts/charts/commit/4c839ce37ec563d53591f838e7dbe764d2db8eec) • [@TrueCharts Bot] (2024-06-04)
+
+## 9.0.5 • [Train: stable]
+
+- chore(deps): update container image quay.io/pussthecatorg/libremdb to latest@fd96c3c by renovate (#22822) • [`19db78e`](https://github.com/truecharts/charts/commit/19db78e270135432d84f1970fa7ee58982d6fa58) • [@TrueCharts Bot] (2024-06-04)
+
+## 9.0.4 • [Train: stable]
+
+- chore(deps): update container image quay.io/pussthecatorg/libremdb to latest@6af82ab by renovate (#22808) • [`c9cb742`](https://github.com/truecharts/charts/commit/c9cb7421e85728d9bdb952d43e42a177abbcc2b6) • [@TrueCharts Bot] (2024-06-03)
+
+## 9.0.3 • [Train: stable]
+
+- chore(deps): update container image quay.io/pussthecatorg/libremdb to latest@ce6afcd by renovate (#22798) • [`69aca5b`](https://github.com/truecharts/charts/commit/69aca5b540af1c0c8860d5109a371c6646a96751) • [@TrueCharts Bot] (2024-06-03)
+
+## 9.0.2 • [Train: stable]
+
+- chore(deps): update container image quay.io/pussthecatorg/libremdb to latest@9540e13 by renovate (#22790) • [`c23b264`](https://github.com/truecharts/charts/commit/c23b2645070313f91e16f0bfbfd85c982edc13f7) • [@TrueCharts Bot] (2024-06-03)
+
+## 9.0.1 • [Train: stable]
+
+- chore(deps): update container image quay.io/pussthecatorg/libremdb to latest@935c25d by renovate (#22780) • [`9747be1`](https://github.com/truecharts/charts/commit/9747be1e2e4df0966ab4c7968e968b92480e798a) • [@TrueCharts Bot] (2024-06-02)
+
+## 9.0.0 • [Train: stable]
+
+- chore(deps): update container image common to v24.0.0@4765f19 by renovate (#22759) • [`c633867`](https://github.com/truecharts/charts/commit/c633867be543821bcffadf5100482beeb52a7f1b) • [@TrueCharts Bot] (2024-06-02)
+
 ## 8.1.78 • [Train: stable]
 
 - chore(deps): update container image quay.io/pussthecatorg/libremdb to latest@e12f3c4 by renovate (#22772) • [`773c7c6`](https://github.com/truecharts/charts/commit/773c7c63232d5630c18072c190599b463452297f) • [@TrueCharts Bot] (2024-06-02)
