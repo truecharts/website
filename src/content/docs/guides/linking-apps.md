@@ -1,7 +1,5 @@
 ---
 title: Linking Apps Internally
-sidebar:
-  order: 7
 ---
 
 You'll often need to connect individual charts to each other to exchange data, for example: Sonarr to SABnzbd to allow Sonarr to control downloads within SABnzbd.
