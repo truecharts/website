@@ -27,5 +27,4 @@ addons:
               certificateIssuer: cloudflare
           hosts:
             - host: recyclarr.codeserver.mydomain.com
-              paths:
 ```
