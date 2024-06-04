@@ -124,6 +124,7 @@ export default defineConfig({
           collapsed: false,
           autogenerate: {
             directory: "general",
+            collapsed: true
           },
         },
         {
@@ -148,13 +149,6 @@ export default defineConfig({
           },
         },
         {
-          label: "TrueNAS SCALE",
-          collapsed: true,
-          autogenerate: {
-            directory: "deprecated/SCALE",
-          },
-        },
-        {
           label: "Charts",
           collapsed: true,
           autogenerate: {
@@ -166,6 +160,13 @@ export default defineConfig({
           collapsed: true,
           autogenerate: {
             directory: "development",
+          },
+        },
+        {
+          label: "Deprecated",
+          collapsed: true,
+          autogenerate: {
+            directory: "deprecated",
           },
         },
       ],
