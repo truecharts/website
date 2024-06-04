@@ -69,7 +69,7 @@ To configure MetallB, you will need to also add `metallb-config` and adapt it to
 
 ## Getting started using Charts with your own Domain
 
-- Steps Above -> [Minimal Getting Started](#minimal-getting-started-setup-with-scale)
+- Steps Above -> [Minimal Getting Started](#minimal-getting-started-setup)
 - Install the `traefik-crds` chart
 - Install `traefik` -> [Traefik How-To](/charts/premium/traefik/how-to)
 - Use Cloudflare for DNS and create API token -> [Guide](/charts/premium/clusterissuer/how-to#configure-acme-issuer)
