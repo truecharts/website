@@ -59,22 +59,22 @@ Clusters created using clustertool come pre-packed with MetallB and MetalLB conf
 
 Install the following charts with **default** values.yaml if not already installed:
 
-- Install Cloudnative-PG Operator -> [Cloudnative-PG Installation](#prometheus-and-cnpg-system-app-installations)
-- Add Prometheus Operator -> [Prometheus-Operator Installation](#prometheus-and-cnpg-system-app-installations)
-- Cert-Manager -> [Certificate Management with Cert-Manager](#cert-manager-operator-and-clusterissuer-installation-for-certificate-management)
-- Add VolSync which is used to configure Backups-> [PVC Backup Guide](/guides/volsync-backup-restore)
-- MetalLB or another loadBalancer is required if you do not have a loadBalancer yet
+- Install `cloudnative-pg` -> [Cloudnative-PG Installation](#prometheus-and-cnpg-system-app-installations)
+- Install `prometheus-operator` -> [Prometheus-Operator Installation](#prometheus-and-cnpg-system-app-installations)
+- Install `cert-manager` -> [Certificate Management with Cert-Manager](#cert-manager-operator-and-clusterissuer-installation-for-certificate-management)
+- Install `volsync` which is used to configure Backups-> [PVC Backup Guide](/guides/volsync-backup-restore)
+- `metallb` or another loadBalancer is required if you do not have a loadBalancer yet
 
-To configure MetallB, you will need to also add metallb-config and adapt it to your own code.
+To configure MetallB, you will need to also add `metallb-config` and adapt it to your own needs.
 
 ## Getting started using Charts with your own Domain
 
 - Steps Above -> [Minimal Getting Started](#minimal-getting-started-setup-with-scale)
-- Add traefik-crds
-- Add Traefik -> [Traefik How-To](/charts/premium/traefik/how-to)
+- Install the `traefik-crds` chart
+- Install `traefik` -> [Traefik How-To](/charts/premium/traefik/how-to)
 - Use Cloudflare for DNS and create API token -> [Guide](/charts/premium/clusterissuer/how-to#configure-acme-issuer)
-- Setup ClusterIssuer -> [Clusterissuer How-to](/charts/premium/clusterissuer/how-to)
-- Add Blocky and configure with k8s-gateway enabled -> [Blocky Setup Guide](/charts/premium/blocky/setup-guide)
+- Install `Clusterissuer` and configure for your needs -> [Clusterissuer How-to](/charts/premium/clusterissuer/how-to)
+- Add `Blocky` and configure with k8s-gateway enabled -> [Blocky Setup Guide](/charts/premium/blocky/setup-guide)
 - Setup ingress on each Chart you want to expose -> [Configure Ingress using Clusterissuer certs](/charts/premium/clusterissuer/how-to/#configure-ingress-using-clusterissuer)
 
 ---
