@@ -1,5 +1,5 @@
 ---
-title: Creating Virtual Machine on TrueNAS Scale
+title: Virtual Machine on TrueNAS Scale
 ---
 
 ## Creating a Network Bridge
@@ -168,3 +168,48 @@ Below you can find 2 examples on how to set a fixed DHCP Lease for Unify and Fri
 
 ![DHCP FritzBox](./img/dhcp_fritzbox.png)
 (screenshot in german)
+
+## TalConfig Examples
+
+Here are a few examples you can copy-paste into talconfig to setup the above VMs to run Talos.
+
+### Single-Node Cluster or Master-Node
+
+By default we ensure qemu guest additions are always loaded for all master-nodes.
+Its important to note that for master nodes, we use static IPs for referencing them *after* they are initially initiallised using a Fixed DHCP lease.
+
+
+```yaml
+    - hostname: k8s-control-1
+      ipAddress: ${MASTER1IP}
+      controlPlane: true
+      nameservers:
+        - 8.8.8.8
+        - 1.1.1.1
+      installDiskSelector:
+        size: <= 100TB
+      networkInterfaces:
+        - interface: eth0
+          addresses:
+            - ${MASTER1IP}/24
+          routes:
+            - network: 0.0.0.0/0
+              gateway: ${GATEWAY}
+          vip:
+            ip: ${VIP}
+```
+
+### Worker Node
+
+By default we ensure qemu guest additions are always loaded for all worker-nodes.
+Workernodes can be pretty basic and should "just work"
+
+```yaml
+    - hostname: k8s-worker-1
+      ipAddress: 192.168.10.111
+      nameservers:
+        - 8.8.8.8
+        - 1.1.1.1
+      installDiskSelector:
+        size: <= 600GB
+```
