@@ -22,10 +22,6 @@ addons:
 
         ingress:
           # -- Enable an ingress for the code-server add-on.
-          enabled: true
-          integrations:
-            traefik:
-              enabled: true
             certManager:
               enabled: true
               certificateIssuer: cloudflare
