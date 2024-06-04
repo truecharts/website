@@ -13,7 +13,6 @@ addons:
 
         service:
         # -- Enable a service for the code-server add-on.
-            enabled: true
             type: "LoadBalancer"
             loadBalancerIP: "192.168.178.11"
             # Specify the default port information
