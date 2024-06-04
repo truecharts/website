@@ -15,7 +15,7 @@ Before setting up ingress, we advise you to have an ingress controller already s
 
 To setup ingress, add the following minimal section to the values.yaml manually, updating the required rows and adapting where needed:
 
-```
+```yaml
 ingress:
   main:
     enabled: true
@@ -28,7 +28,7 @@ ingress:
 
 This can be expanded by adding "integrations" with cert-manager, and/or homepage, for example:
 
-```
+```yaml
 ingress:
   main:
     enabled: true
