@@ -95,8 +95,6 @@ Many of the popular TrueCharts charts rely on `Prometheus Operator` and `Cloudna
 
 [Here](/general/faq#how-do-i-know-if-an-app-uses-cnpg) is a list of charts that rely on CNPG functionality. If you intend to deploy any of these charts, you **must** install the `Cloudnative-PG Operator` chart first as above.
 
-If you are migrating from a different CNPG operator, you can use our [CNPG Migration Guide](guides/cnpg-migration-guide) for steps on how to install the `Cloudnative-PG` operator and migrating to it. We also have [this](/general/faq#operators) FAQ entry on removing the previous CNPG backend once migrated.
-
 ### Traefik installation for Ingress / Reverse-Proxy support with TrueCharts Charts
 
 ![Traefik](./img/icons/traefik.png)
