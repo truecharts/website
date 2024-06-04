@@ -2,12 +2,6 @@
 title: CNPG Backups and Restores on Helm Platforms
 ---
 
-:::caution
-
-The below is a work in progress
-
-:::
-
 ## Requirements
 
 ### S3 Provider Setup
@@ -17,6 +11,12 @@ See [here](/guides/s3-setup) for instructions on how to setup an S3 storage prov
 ### Adding Credentials
 
 You can add the credentials by copy-pasting the [Full Examples](/common/credentials#full-examples) section in the common-docs and adapting those accordingly
+
+:::note[Bucket Creation]
+
+You do not have to manually create the bucket beforehand, although this is recommended to ensure the bucket's name is available beforehand.
+
+:::
 
 ## CNPG Database Backups
 
@@ -32,6 +32,21 @@ For each chart:
 
 4. We advise you to set the "mode" to `restore`, this should prevent the app starting with an empty database upon restore.
 
+It will look something like this:
+
+```yaml
+cnpg:
+  main:
+    mode: recovery
+    backups:
+      enabled: true
+      credentials: s3
+    recovery:
+      method: object_store
+      credentials: s3
+
+```
+
 ## CNPG Database Restore
 
 Before CNPG will correctly restore the database, the following modifications need to be done after recreating or importing the app configuration:
@@ -44,10 +59,25 @@ Before CNPG will correctly restore the database, the following modifications nee
 
 4. Increase the **revision** on your backup setting by 1 (or set to 1 if previously empty)
 
+It will look something like this:
+
+```yaml
+cnpg:
+  main:
+    mode: recovery
+    backups:
+      enabled: true
+      revision: 1
+      credentials: s3
+    recovery:
+      method: object_store
+      credentials: s3
+```
+
 ## Total System Restore and Migration to New System
 
 When on a completely new system, you can easily restore using the above steps with the following caveats:
 
-- On a non-SCALE system, the PVC backend needs to support snapshots
+- The PVC backend needs to support snapshots
 - The apps need to be called **exactly** the same as they were before, preferably using a previously-exported config
 - If you've any non-PVC storage attached, be sure that this is still available or apps won't start until this is resolved
