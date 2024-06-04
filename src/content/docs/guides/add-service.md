@@ -36,6 +36,11 @@ service:
 In most charts there are already predefined services. You can change them to your needs (Loadbalancer/ClusterIP).
 As well as adding additional ones. Just make sure to choose a unique name
 
+### Service requirements
+
+Please be aware that most apps already have a primary service named `main` and at least 1 primary is required.
+It's also important to note that all services added by the end user, should set `enabled` on all ports and services to `true`
+
 ## More info
 
 For more info, check out the common-chart [service options](/common/service/)
