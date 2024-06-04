@@ -36,8 +36,4 @@ addons:
           hosts:
             - host: recyclarr.codeserver.mydomain.com
               paths:
-                - path: /
-
-                  pathType: Prefix
-          tls: []
 ```
