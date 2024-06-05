@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 23.1.0 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/mealie-recipes/mealie to v1.8.0@1622cfc by renovate (#22880) • [`1ed11df`](https://github.com/truecharts/charts/commit/1ed11dfa1e3de7a978747aa98a70857e31da187a) • [@TrueCharts Bot] (2024-06-05)
+
 ## 23.0.0 • [Train: stable]
 
 - chore(deps): update container image common to v24.0.0@4765f19 by renovate (#22759) • [`c633867`](https://github.com/truecharts/charts/commit/c633867be543821bcffadf5100482beeb52a7f1b) • [@TrueCharts Bot] (2024-06-02)
