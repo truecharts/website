@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.0.1 • [Train: stable]
+
+- chore(deps): update container image benzino77/tasmocompiler to latest@c8a6969 by renovate (#22882) • [`607893d`](https://github.com/truecharts/charts/commit/607893d63a384d5ae6c0c31fadf7f1618269bc9b) • [@TrueCharts Bot] (2024-06-05)
+
 ## 8.0.0 • [Train: stable]
 
 - chore(deps): update container image common to v24.0.0@4765f19 by renovate (#22759) • [`c633867`](https://github.com/truecharts/charts/commit/c633867be543821bcffadf5100482beeb52a7f1b) • [@TrueCharts Bot] (2024-06-02)
