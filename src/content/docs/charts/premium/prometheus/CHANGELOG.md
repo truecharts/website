@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 19.0.1 • [Train: premium]
+
+- chore(deps): update container image bitnami/alertmanager to 0.27.0@deb4284 by renovate (#22846) • [`626ac63`](https://github.com/truecharts/charts/commit/626ac636d56a23d2e87117093d6ef105d32ac4d4) • [@TrueCharts Bot] (2024-06-05)
+
 ## 19.0.0 • [Train: premium]
 
 - chore(deps): update container image common to v24.0.0@4765f19 by renovate (#22759) • [`c633867`](https://github.com/truecharts/charts/commit/c633867be543821bcffadf5100482beeb52a7f1b) • [@TrueCharts Bot] (2024-06-02)
