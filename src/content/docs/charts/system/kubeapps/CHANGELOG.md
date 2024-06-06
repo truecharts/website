@@ -11,8 +11,13 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.0.0 • [Train: system]
+
+- Update Chart.yaml • [`efe0600`](https://github.com/truecharts/charts/commit/efe0600d7c77de64637e848ded478ecf073ac26d) • [@Kjeld Schouten] (2024-06-06)
+
 ## 4.1.0 • [Train: system]
 
+- Update values.yaml • [`6db36a8`](https://github.com/truecharts/charts/commit/6db36a8ad0b3ebe20988a78818d2c4fd92141ff7) • [@Kjeld Schouten] (2024-06-06)
 - chore(deps): update ignored updates to v24.0.0@4765f19 by renovate (#22760) • [`d30630a`](https://github.com/truecharts/charts/commit/d30630af0f3a5ff10fe72ccb25e66bd2229b5067) • [@TrueCharts Bot] (2024-06-04)
 
 ## 4.0.0 • [Train: system]
