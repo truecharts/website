@@ -28,7 +28,6 @@ global:
     addServiceAnnotations: true
   traefik:
     addServiceAnnotations: true
-    enableFixedMiddlewares: true
     fixedMiddlewares:
       - name: chain-basic
         namespace: ""
@@ -190,7 +189,6 @@ Default
 global:
   traefik:
     addServiceAnnotations: true
-    enableFixedMiddlewares: true
     fixedMiddlewares:
       - name: chain-basic
         namespace: ""
@@ -205,7 +203,6 @@ Example
 global:
   traefik:
     addServiceAnnotations: false
-    enableFixedMiddlewares: false
     fixedMiddlewares: []
     allowCorsMiddlewares: []
 ```
@@ -230,20 +227,6 @@ Example
 global:
   traefik:
     addServiceAnnotations: true
-```
-
----
-
-### `traefik.enableFixedMiddlewares`
-
-See documentation [here](/common/ingress/traefik#enablefixedmiddlewares)
-
-Default
-
-```yaml
-global:
-  traefik:
-    enableFixedMiddlewares: true
 ```
 
 ---
@@ -397,7 +380,6 @@ global:
     addServiceAnnotations: true
   traefik:
     addServiceAnnotations: true
-    enableFixedMiddlewares: true
     fixedMiddlewares:
       - name: chain-basic
         namespace: ""
