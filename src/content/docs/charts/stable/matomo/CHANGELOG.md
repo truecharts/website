@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 15.0.1 • [Train: stable]
+
+- chore(deps): update container image bitnami/matomo to 5.0.3@b50b239 by renovate (#22922) • [`a3ffac2`](https://github.com/truecharts/charts/commit/a3ffac209ec7dfc138c0e622aa6febb460d09966) • [@TrueCharts Bot] (2024-06-06)
+
 ## 15.0.0 • [Train: stable]
 
 - chore(deps): update container image common to v24.0.0@4765f19 by renovate (#22759) • [`c633867`](https://github.com/truecharts/charts/commit/c633867be543821bcffadf5100482beeb52a7f1b) • [@TrueCharts Bot] (2024-06-02)

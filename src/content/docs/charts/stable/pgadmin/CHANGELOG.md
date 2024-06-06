@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 17.1.0 • [Train: stable]
+
+- chore(deps): update container image dpage/pgadmin4 to v8.8@61fd25f by renovate (#23006) • [`9b33bb5`](https://github.com/truecharts/charts/commit/9b33bb5b523b2bc09c59587fe0a1712a86d985d4) • [@TrueCharts Bot] (2024-06-06)
+
 ## 17.0.0 • [Train: stable]
 
 - chore(deps): update container image common to v24.0.0@4765f19 by renovate (#22759) • [`c633867`](https://github.com/truecharts/charts/commit/c633867be543821bcffadf5100482beeb52a7f1b) • [@TrueCharts Bot] (2024-06-02)

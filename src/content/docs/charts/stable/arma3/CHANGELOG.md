@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.0.1 • [Train: stable]
+
+- chore(deps): update container image ich777/steamcmd to arma3@fcece09 by renovate (#22953) • [`fce5b7b`](https://github.com/truecharts/charts/commit/fce5b7b96b318f68625154587d280c1b01ebea50) • [@TrueCharts Bot] (2024-06-06)
+
 ## 7.0.0 • [Train: stable]
 
 - chore(deps): update container image common to v24.0.0@4765f19 by renovate (#22759) • [`c633867`](https://github.com/truecharts/charts/commit/c633867be543821bcffadf5100482beeb52a7f1b) • [@TrueCharts Bot] (2024-06-02)

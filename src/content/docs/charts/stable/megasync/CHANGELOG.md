@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.0.1 • [Train: stable]
+
+- chore(deps): update container image ich777/megasync to latest@6ebbcc3 by renovate (#22940) • [`5ef51b1`](https://github.com/truecharts/charts/commit/5ef51b13d71aff3486a7c44a6f2dc40cf5ee3939) • [@TrueCharts Bot] (2024-06-06)
+
 ## 8.0.0 • [Train: stable]
 
 - chore(deps): update container image common to v24.0.0@4765f19 by renovate (#22759) • [`c633867`](https://github.com/truecharts/charts/commit/c633867be543821bcffadf5100482beeb52a7f1b) • [@TrueCharts Bot] (2024-06-02)
