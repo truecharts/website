@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.0.2 • [Train: stable]
+
+- chore(deps): update container image ich777/urbanterror to latest@ab6e7c2 by renovate (#23052) • [`9420b6f`](https://github.com/truecharts/charts/commit/9420b6f374d59c6cf5e9c39c3974c9a03ddac0e7) • [@TrueCharts Bot] (2024-06-07)
+
 ## 7.0.1 • [Train: stable]
 
 - chore(deps): update container image ich777/urbanterror to latest@a949d7c by renovate (#22997) • [`81ca228`](https://github.com/truecharts/charts/commit/81ca228451b8b5dcb9058ec76a3cdfed18a58b99) • [@TrueCharts Bot] (2024-06-06)

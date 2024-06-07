@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.0.1 • [Train: stable]
+
+- chore(deps): update container image tomsquest/docker-radicale to v3.2.1.0@7facc04 by renovate (#23064) • [`32d1114`](https://github.com/truecharts/charts/commit/32d111421240bc6f890a4bb2f94324f59f41e8ab) • [@TrueCharts Bot] (2024-06-07)
+
 ## 7.0.0 • [Train: stable]
 
 - chore(deps): update container image common to v24.0.0@4765f19 by renovate (#22759) • [`c633867`](https://github.com/truecharts/charts/commit/c633867be543821bcffadf5100482beeb52a7f1b) • [@TrueCharts Bot] (2024-06-02)
