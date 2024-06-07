@@ -39,3 +39,6 @@
 /scale/guides/getting-started/ /deprecated/scale
 /scale /deprecated/scale
 /scale/* /deprecated/scale/:splat 301
+
+# HELM is now found under "Guides"
+/helm /guides
