@@ -35,3 +35,6 @@ Please follow the guides for setting-up VolSync backups on TrueNAS SCALE.
 However, setting recovery is not needed and currently not functional on our TrueNAS SCALE Apps. Hence this can be safely skipped
 
 
+## Continue with ClusterTool Getting-Started
+
+From this point onwards, please go through the complete [ClusterTool Getting-Started](/clustertool/getting-started)
