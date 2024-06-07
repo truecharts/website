@@ -69,7 +69,7 @@ Enable or disable the [fixedMiddlewares](/common/global#traefikfixedmiddlewares)
 | Type       | `bool`                                                                   |
 | Required   | ❌                                                                       |
 | Helm `tpl` | ❌                                                                       |
-| Default    | See default [here](/common/global#traefikenablefixedmiddlewares) |
+| Default    | `true`                                                                   |
 
 Example
 
