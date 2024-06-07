@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.0.1 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/hotio/autoscan to latest@f44b827 by renovate (#23071) • [`f18111e`](https://github.com/truecharts/charts/commit/f18111ea22f41c2b7a42e61e9e040dcd51ecdefd) • [@TrueCharts Bot] (2024-06-07)
+
 ## 10.0.0 • [Train: stable]
 
 - chore(deps): update container image common to v24.0.0@4765f19 by renovate (#22759) • [`c633867`](https://github.com/truecharts/charts/commit/c633867be543821bcffadf5100482beeb52a7f1b) • [@TrueCharts Bot] (2024-06-02)

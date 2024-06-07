@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.0.2 • [Train: stable]
+
+- chore(deps): update container image mtlynch/picoshare to v1.4.4@36eda70 by renovate (#23081) • [`fbd2aca`](https://github.com/truecharts/charts/commit/fbd2aca79f9fb20605c0a9fca1278e003a4ba353) • [@TrueCharts Bot] (2024-06-07)
+
 ## 11.0.1 • [Train: stable]
 
 - chore(deps): update container image mtlynch/picoshare to v1.4.3@f198b2b by renovate (#22860) • [`d1ef98f`](https://github.com/truecharts/charts/commit/d1ef98feb736e303b3bdfae642bfa9925c15c827) • [@TrueCharts Bot] (2024-06-05)
