@@ -79,3 +79,18 @@ Part D. Bootstrapping fluxcd (optional) -> Mostly just a fluxcd command
 - SOPS decryption
 - prep working directory
 
+## General Code flow for talos stuff:
+
+
+- Select Talos function
+- Have "all" function to select all
+- Render node list function for TUI/GUI from config
+- Or select a list of nodes (now by name, comma sep, future GUI/TUI)
+- Have healthcheck function that takes node to check
+- Prior to run, run health checks
+- When parsing over, run a healthcheck after each node, warning to confirm if it doesn't work-out
+- Bootstrap only does the first node, after which user can apply
+
+## Interesting other features
+
+- We should craft a function that goes over the IPs listed and fills the storage and networking hardware found on the nodes as comments to the config, so users can easily configure.
