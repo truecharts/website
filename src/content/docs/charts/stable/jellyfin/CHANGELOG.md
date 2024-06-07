@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 20.0.5 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/jellyfin/jellyfin to v10.9.6@918f993 by renovate (#23038) • [`f070dbd`](https://github.com/truecharts/charts/commit/f070dbded27ae4adbe2c9dfbaa1cfc0249a13848) • [@TrueCharts Bot] (2024-06-07)
+
 ## 20.0.4 • [Train: stable]
 
 - chore(deps): update container image docker.io/alpine/socat to 1.8.0.0@82bae46 by renovate (#22924) • [`225acfe`](https://github.com/truecharts/charts/commit/225acfea38c0211f7a3753ad2ecdc465759c89a8) • [@TrueCharts Bot] (2024-06-06)
