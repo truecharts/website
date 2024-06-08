@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 20.0.1 • [Train: stable]
 
+- Commit daily changes • [`37f97d4`](https://github.com/truecharts/charts/commit/37f97d41e231884e8532eb65350b8a7a26e87dce) • [@TrueCharts-Bot] (2024-06-08)
 - fix(tautulli): use upstream image (#23085) • [`82606a4`](https://github.com/truecharts/charts/commit/82606a46f09058083e9322eeba899f4c71d7c1d7) • [@Stavros Kois] (2024-06-07)
 
 ## 20.0.0 • [Train: stable]
