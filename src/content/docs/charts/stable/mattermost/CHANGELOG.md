@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 14.0.2 • [Train: stable]
+
+- chore(deps): update container image common to v24.0.1@cbdb720 by renovate (#23037) • [`6562794`](https://github.com/truecharts/charts/commit/6562794ee894054a9bc5ecdf95b097521ac410ab) • [@TrueCharts Bot] (2024-06-09)
+
 ## 14.0.1 • [Train: stable]
 
 - chore(deps): update container image mattermost/mattermost-enterprise-edition to release-9.6@f091296 by renovate (#22820) • [`3e7ff11`](https://github.com/truecharts/charts/commit/3e7ff116aeaa6324a98bd5e85d9c681a8fee3b19) • [@TrueCharts Bot] (2024-06-03)

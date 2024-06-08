@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.0.2 • [Train: stable]
+
+- chore(deps): update container image common to v24.0.1@cbdb720 by renovate (#23037) • [`6562794`](https://github.com/truecharts/charts/commit/6562794ee894054a9bc5ecdf95b097521ac410ab) • [@TrueCharts Bot] (2024-06-09)
+
 ## 7.0.1 • [Train: stable]
 
 - chore(deps): update container image ich777/steamcmd to vrising@a4e8d60 by renovate (#22993) • [`f4baeed`](https://github.com/truecharts/charts/commit/f4baeed0597b0b900803b5c2bbfb1deb71374086) • [@TrueCharts Bot] (2024-06-06)

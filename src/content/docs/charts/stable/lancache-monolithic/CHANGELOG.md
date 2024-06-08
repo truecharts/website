@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.0.2 • [Train: stable]
+
+- chore(deps): update container image common to v24.0.1@cbdb720 by renovate (#23037) • [`6562794`](https://github.com/truecharts/charts/commit/6562794ee894054a9bc5ecdf95b097521ac410ab) • [@TrueCharts Bot] (2024-06-09)
+
 ## 10.0.1 • [Train: stable]
 
 - chore(deps): update container image ich777/lancache-prefill to latest@17160e3 by renovate (#22938) • [`24cd1f7`](https://github.com/truecharts/charts/commit/24cd1f7f6b87be83b047daad6923963b038966d3) • [@TrueCharts Bot] (2024-06-06)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.0.2 • [Train: stable]
+
+- chore(deps): update container image common to v24.0.1@cbdb720 by renovate (#23037) • [`6562794`](https://github.com/truecharts/charts/commit/6562794ee894054a9bc5ecdf95b097521ac410ab) • [@TrueCharts Bot] (2024-06-09)
+
 ## 7.0.1 • [Train: stable]
 
 - chore(deps): update container image ich777/steamcmd to craftopia@293d446 by renovate (#22963) • [`8d03cc7`](https://github.com/truecharts/charts/commit/8d03cc7f2e5ddab9754b06b8509644324e89a8ec) • [@TrueCharts Bot] (2024-06-06)

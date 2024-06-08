@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.0.2 • [Train: stable]
+
+- chore(deps): update container image common to v24.0.1@cbdb720 by renovate (#23037) • [`6562794`](https://github.com/truecharts/charts/commit/6562794ee894054a9bc5ecdf95b097521ac410ab) • [@TrueCharts Bot] (2024-06-09)
+
 ## 7.0.1 • [Train: stable]
 
 - chore(deps): update container image ich777/redmserver to latest@94a3a8a by renovate (#22946) • [`f8fb0e5`](https://github.com/truecharts/charts/commit/f8fb0e552616db9a85738ef55c04db755716dcac) • [@TrueCharts Bot] (2024-06-06)
