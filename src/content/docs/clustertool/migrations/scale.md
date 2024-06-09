@@ -13,6 +13,11 @@ All code and docs are considered Pre-Alpha Drafts
 
 :::
 
+With upcomming "Electric Eel" version of TrueNAS SCALE, iX-Systems has decided to completely gut the kubernetes backend and screw over its community. However, we got you covered so you can safely keep running your TrueCharts Charts... 
+Our new ClusterTool, can also be used to craft yourself a new kubernetes backend to continue self-hosting using TrueCharts.
+
+For this guide we'll be using a TalosOS VM on TrueNAS SCALE, but any solid hypervisor would suffice. 
+
 ## Pre-Migrations Advisory
 
 Prior to migration, we advice the following:
