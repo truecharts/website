@@ -87,3 +87,38 @@ Note down your Credentials as they are only shown once!
 - storj Access Key -> accessKey
 - storj Secret Key -> secretKey
 - https://gateway.storjshare.io/ -> url
+
+### MinIO
+
+1. Login into MinIO web interface.
+
+![S3 MinIO 1](./img/s3_minio_1.png)
+
+2. Navigate to the "Access Keys" section and click "Create access key" as shown below.
+
+![S3 MinIO 2](./img/s3_minio_2.png)
+
+3. Fill out the form if wanted or leave the form as it is and click on "Create" in the lower right corner.
+
+![S3 MinIO 3](./img/s3_minio_3.png)
+
+4. If you want to store the generated credentials, click "Download for import" to store them to an .json file.
+
+![S3 MinIO 4](./img/s3_minio_4.png)
+
+:::caution[Credentials]
+
+Note down these credentials as they are only shown to you once!
+
+:::
+
+5. The API url can be found when starting the MinIO server
+
+![S3 MinIO 5](./img/s3_minio_5.png)
+
+#### MinIO credentials assignment
+
+- Access Key -> accessKey
+- Secret Key -> secretKey
+- API url -> url
+
