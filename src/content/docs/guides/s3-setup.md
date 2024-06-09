@@ -121,4 +121,3 @@ Note down these credentials as they are only shown to you once!
 - Access Key -> accessKey
 - Secret Key -> secretKey
 - API url -> url
-
