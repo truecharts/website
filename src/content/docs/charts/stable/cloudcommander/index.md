@@ -2,7 +2,7 @@
 title: cloudcommander
 ---
 
-![Version: 6.0.10](https://img.shields.io/badge/Version-6.0.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 7.0.1](https://img.shields.io/badge/Version-7.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 [b]CloudCommander[/b] is a simple web file browser with a built in text editor and archive compress/extract abilities.[br/]
 
@@ -37,12 +37,12 @@ To install TrueCharts Helm charts using Helm, you can use our OCI Repository.
 
 `helm install mychart oci://tccr.io/truecharts/CHARTNAME`
 
-For more information on how to install TrueCharts Helm charts, checkout the instructions on the website: https://truecharts.org/helm/
+For more information on how to install TrueCharts Helm charts, checkout the instructions on the website: https://truecharts.org/general/support-policy/
 
 
 #### TrueNAS SCALE Apps
 
-For more information on how to use TrueCharts as TrueNAS SCALE Apps, please checkout the [quick-start guides for TrueNAS SCALE](https://truecharts.org/scale).
+For more information on how to use TrueCharts as TrueNAS SCALE Apps, please checkout the [quick-start guides for TrueNAS SCALE](https://truecharts.org/deprecated/scale).
 
 ### Chart Specific Guides and information
 

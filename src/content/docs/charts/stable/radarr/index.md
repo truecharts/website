@@ -2,7 +2,7 @@
 title: radarr
 ---
 
-![Version: 22.2.4](https://img.shields.io/badge/Version-22.2.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.6.0.8846](https://img.shields.io/badge/AppVersion-5.6.0.8846-informational?style=flat-square)
+![Version: 23.0.2](https://img.shields.io/badge/Version-23.0.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.6.0.8846](https://img.shields.io/badge/AppVersion-5.6.0.8846-informational?style=flat-square)
 
 A fork of Sonarr to work with movies à la Couchpotato
 
@@ -40,12 +40,12 @@ To install TrueCharts Helm charts using Helm, you can use our OCI Repository.
 
 `helm install mychart oci://tccr.io/truecharts/CHARTNAME`
 
-For more information on how to install TrueCharts Helm charts, checkout the instructions on the website: https://truecharts.org/helm/
+For more information on how to install TrueCharts Helm charts, checkout the instructions on the website: https://truecharts.org/general/support-policy/
 
 
 #### TrueNAS SCALE Apps
 
-For more information on how to use TrueCharts as TrueNAS SCALE Apps, please checkout the [quick-start guides for TrueNAS SCALE](https://truecharts.org/scale).
+For more information on how to use TrueCharts as TrueNAS SCALE Apps, please checkout the [quick-start guides for TrueNAS SCALE](https://truecharts.org/deprecated/scale).
 
 ### Chart Specific Guides and information
 

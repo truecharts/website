@@ -2,7 +2,7 @@
 title: ser2sock
 ---
 
-![Version: 14.0.8](https://img.shields.io/badge/Version-14.0.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 15.0.1](https://img.shields.io/badge/Version-15.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Serial to Socket Redirector
 
@@ -39,12 +39,12 @@ To install TrueCharts Helm charts using Helm, you can use our OCI Repository.
 
 `helm install mychart oci://tccr.io/truecharts/CHARTNAME`
 
-For more information on how to install TrueCharts Helm charts, checkout the instructions on the website: https://truecharts.org/helm/
+For more information on how to install TrueCharts Helm charts, checkout the instructions on the website: https://truecharts.org/general/support-policy/
 
 
 #### TrueNAS SCALE Apps
 
-For more information on how to use TrueCharts as TrueNAS SCALE Apps, please checkout the [quick-start guides for TrueNAS SCALE](https://truecharts.org/scale).
+For more information on how to use TrueCharts as TrueNAS SCALE Apps, please checkout the [quick-start guides for TrueNAS SCALE](https://truecharts.org/deprecated/scale).
 
 ### Chart Specific Guides and information
 

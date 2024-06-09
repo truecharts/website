@@ -2,7 +2,7 @@
 title: domoticz
 ---
 
-![Version: 12.0.2](https://img.shields.io/badge/Version-12.0.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2024.4.0](https://img.shields.io/badge/AppVersion-2024.4.0-informational?style=flat-square)
+![Version: 13.0.1](https://img.shields.io/badge/Version-13.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2024.4.0](https://img.shields.io/badge/AppVersion-2024.4.0-informational?style=flat-square)
 
 Domoticz is a Home Automation System that lets you monitor and configure various devices like Lights, Switches and much more.
 
@@ -37,12 +37,12 @@ To install TrueCharts Helm charts using Helm, you can use our OCI Repository.
 
 `helm install mychart oci://tccr.io/truecharts/CHARTNAME`
 
-For more information on how to install TrueCharts Helm charts, checkout the instructions on the website: https://truecharts.org/helm/
+For more information on how to install TrueCharts Helm charts, checkout the instructions on the website: https://truecharts.org/general/support-policy/
 
 
 #### TrueNAS SCALE Apps
 
-For more information on how to use TrueCharts as TrueNAS SCALE Apps, please checkout the [quick-start guides for TrueNAS SCALE](https://truecharts.org/scale).
+For more information on how to use TrueCharts as TrueNAS SCALE Apps, please checkout the [quick-start guides for TrueNAS SCALE](https://truecharts.org/deprecated/scale).
 
 ### Chart Specific Guides and information
 

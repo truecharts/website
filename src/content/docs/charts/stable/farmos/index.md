@@ -2,7 +2,7 @@
 title: farmos
 ---
 
-![Version: 6.0.10](https://img.shields.io/badge/Version-6.0.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 7.0.1](https://img.shields.io/badge/Version-7.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 farmOS is a web-based application for farm management, planning, and record keeping. It is developed by a community of volunteers and aims to provide a standard platform for farmers, developers, and researchers to build upon.
 
@@ -38,12 +38,12 @@ To install TrueCharts Helm charts using Helm, you can use our OCI Repository.
 
 `helm install mychart oci://tccr.io/truecharts/CHARTNAME`
 
-For more information on how to install TrueCharts Helm charts, checkout the instructions on the website: https://truecharts.org/helm/
+For more information on how to install TrueCharts Helm charts, checkout the instructions on the website: https://truecharts.org/general/support-policy/
 
 
 #### TrueNAS SCALE Apps
 
-For more information on how to use TrueCharts as TrueNAS SCALE Apps, please checkout the [quick-start guides for TrueNAS SCALE](https://truecharts.org/scale).
+For more information on how to use TrueCharts as TrueNAS SCALE Apps, please checkout the [quick-start guides for TrueNAS SCALE](https://truecharts.org/deprecated/scale).
 
 ### Chart Specific Guides and information
 

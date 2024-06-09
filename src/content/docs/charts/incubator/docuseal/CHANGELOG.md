@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.0.8 • [Train: incubator]
+
+- docs go brr • [`5db83e2`](https://github.com/truecharts/charts/commit/5db83e2cf1779ade7c6ca40ab438c27e759ae2ba) • [@Stavros Kois] (2024-06-09)
+
 ## 2.0.7 • [Train: incubator]
 
 - doh • [`6160cc9`](https://github.com/truecharts/charts/commit/6160cc9ca05c60059da5df9341851dd2c37fb905) • [@Stavros Kois] (2024-06-09)
