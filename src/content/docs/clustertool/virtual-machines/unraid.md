@@ -14,7 +14,7 @@ title: Virtual Machine on UnRaid
 
 1. Start by clicking the `Add VM` button under the VM Tab;
 
-    ![Add VM](./img/unraid_add_vm.png)
+    ![Add VM](./img/unraid_Add_VM.png)
 
 2. Now click the `Linux` button;
 
