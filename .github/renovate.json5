@@ -25,7 +25,7 @@
     {
       matchManagers: ["github-actions"],
       groupName: "Github-Actions",
-      automerge: true,
+      automerge: false,
       matchUpdateTypes: ["minor", "patch", "digest"],
     },
     {
@@ -38,7 +38,7 @@
       matchManagers: ["npm"],
       groupName: "NPM",
       updateTypes: ["patch", "minor", "pin", "digest"],
-      automerge: true,
+      automerge: false,
     },
   ],
 }
