@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 29.0.2 • [Train: premium]
 
+- Commit daily changes • [`6a5d0ec`](https://github.com/truecharts/charts/commit/6a5d0ec00d4c1d2b7c51371717c727790c923ca3) • [@TrueCharts-Bot] (2024-06-10)
 - update some doc links • [`2faffd0`](https://github.com/truecharts/charts/commit/2faffd0000550fb157a327728aa12ff0c22d4afe) • [@Stavros Kois] (2024-06-09)
 - chore(traefik): add serverstransporttcps to rbac resources (#23133) • [`422556f`](https://github.com/truecharts/charts/commit/422556fccc528a452a87b17f423a34cf5d17cac1) • [@Stavros Kois] (2024-06-09)
 

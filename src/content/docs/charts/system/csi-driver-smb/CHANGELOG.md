@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.1.1 • [Train: system]
 
+- Commit daily changes • [`6a5d0ec`](https://github.com/truecharts/charts/commit/6a5d0ec00d4c1d2b7c51371717c727790c923ca3) • [@TrueCharts-Bot] (2024-06-10)
 - chore(csi-driver-smb): rollback version as its removed upstream • [`9d60628`](https://github.com/truecharts/charts/commit/9d60628c0cf29282a407f86942882bd11a609408) • [@Stavros Kois] (2024-06-09)
 
 ## 5.1.0 • [Train: system]
