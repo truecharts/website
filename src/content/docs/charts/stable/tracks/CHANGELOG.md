@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.0.3 • [Train: stable]
+
+- chore(deps): update container image tracksapp/tracks to latest@0f08d73 by renovate (#23162) • [`5d720e4`](https://github.com/truecharts/charts/commit/5d720e4365ab67a354a9794da1f0572702d4ba9f) • [@TrueCharts Bot] (2024-06-10)
+
 ## 7.0.2 • [Train: stable]
 
 - Commit daily changes • [`6a5d0ec`](https://github.com/truecharts/charts/commit/6a5d0ec00d4c1d2b7c51371717c727790c923ca3) • [@TrueCharts-Bot] (2024-06-10)
