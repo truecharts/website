@@ -163,7 +163,7 @@ As outlined [here](/deprecated/scale/migrations/cobia-dragonfish/#important-chan
 
         ![system List](./guides/img/Dragonfish-Storage5b.png)
 
-4.  Create a dedicated, empty dataset on the apps pool you [created above](https://www.truenas.com/docs/scale/scaleuireference/apps/#choose-a-pool-for-apps-dialog), outside of ix-applications. Please ensure you've chosen the dataset that's **not** inside `ix-applications`. An example "apps" **pool** layout could look like [this](/deprecated/scale/migrations/cobia-dragonfish/#post-migration-steps) where you have a top-level "apps" dataset with "ix-applications" (non-PVC app data) and "pvcApps" (OpenEBS PVC app storage) nested under.
+4.  Create a dedicated, unencrypted and empty dataset on the apps pool you [created above](https://www.truenas.com/docs/scale/scaleuireference/apps/#choose-a-pool-for-apps-dialog), outside of ix-applications. OpenEBS will create unencrypted datasets for PVC app storage in that dataset, using an encrypted dataset for OpenEBS is thus discouraged and pointless. Please ensure you've chosen the dataset that's **not** inside `ix-applications`. An example "apps" **pool** layout could look like [this](/deprecated/scale/migrations/cobia-dragonfish/#post-migration-steps) where you have a top-level "apps" dataset with "ix-applications" (non-PVC app data) and "pvcApps" (OpenEBS PVC app storage) nested under.
 
 5.  Then install the `OpenEBS` chart
 
