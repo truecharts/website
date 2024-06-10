@@ -31,6 +31,12 @@ Please be sure to use the publically reachable IP of the TrueNAS server and not 
 
 To ensure a stable running environment, we would heavily advice to ensure the TrueNAS SCALE host running NFS, uses a static IP and does *NOT* Use DHCP
 
+Ensure you setup the Permission on the Dataset according to this Guide:
+[Dataset Permissions](https://truecharts.org/deprecated/scale/guides/dataset/#dataset-permissions)
+
+And configure the NFS Shares according to this Guide: 
+[NFS Shares with Apps on TrueNAS SCALE](https://truecharts.org/deprecated/scale/guides/nfs-share/)
+
 
 ### Ensure all PVC-storage has VolSync backups (not restore) Enabled
 
@@ -38,6 +44,9 @@ While we've not fully finished our design docs, there are big chances those are 
 
 Please follow the guides for setting-up VolSync backups on TrueNAS SCALE.
 However, setting recovery is not needed and currently not functional on our TrueNAS SCALE Apps. Hence this can be safely skipped
+
+Setup VolSync according to this Guide: 
+[Backup, Migrations and Restoring](https://truecharts.org/deprecated/scale/guides/backup-restore/)
 
 
 ## Continue with ClusterTool Getting-Started
