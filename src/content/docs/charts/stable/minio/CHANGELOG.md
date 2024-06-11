@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 13.1.3 • [Train: stable]
+
+- chore(deps): update container image minio/minio to vrelease.2024-06-11t03-13-30z@bf46153 by renovate (#23204) • [`987d2f4`](https://github.com/truecharts/charts/commit/987d2f40e709630d03c2f3cab7b612d1fb25b3df) • [@TrueCharts Bot] (2024-06-11)
+
 ## 13.1.2 • [Train: stable]
 
 - Commit daily changes • [`6a5d0ec`](https://github.com/truecharts/charts/commit/6a5d0ec00d4c1d2b7c51371717c727790c923ca3) • [@TrueCharts-Bot] (2024-06-10)
