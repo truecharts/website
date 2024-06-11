@@ -146,8 +146,29 @@ To create these files, which are not saved to git by default, from the config yo
 
 For this, in a terminal, run:
 `ClusterTool genconfig`
-or, on windows: `ClusterTool.exe genconfig
+or, on windows: `ClusterTool.exe genconfig`
 
 This also will update a number of files we (pre)generate for fluxcd and/or prepare to be uploaded to the cluster.
 Including things like the CNI (Cilium, MetalLB and KubeApps`
+
+## Bootstrapping your first node
+
+To ensure stability, we will first apply the configuration to the first ControlPlane node in the list and bootstrap this node.
+
+For this, in a terminal, run:
+`ClusterTool bootstrap`
+or, on windows: `ClusterTool.exe bootstrap`
+
+After this is finished successfully, make sure the node is running correctly.
+It should have everything loaded already.
+
+
+## Applying config to the rest of your cluster
+
+Now we can continue to add more nodes to the cluster.
+This is completely automated, we can apply the configuration to every node in the cluster, new or existing, by simply running:
+
+For this, in a terminal, run:
+`ClusterTool apply`
+or, on windows: `ClusterTool.exe apply`
 
