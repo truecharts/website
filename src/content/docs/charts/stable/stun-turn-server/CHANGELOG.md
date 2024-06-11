@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.0.3 • [Train: stable]
+
+- chore(deps): update container image ich777/stun-turn-server to latest@a5a3cf0 by renovate (#23209) • [`ba68ba8`](https://github.com/truecharts/charts/commit/ba68ba887d8ba6978f23273194118050169aac52) • [@TrueCharts Bot] (2024-06-11)
+
 ## 8.0.2 • [Train: stable]
 
 - Commit daily changes • [`6a5d0ec`](https://github.com/truecharts/charts/commit/6a5d0ec00d4c1d2b7c51371717c727790c923ca3) • [@TrueCharts-Bot] (2024-06-10)
