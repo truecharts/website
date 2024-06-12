@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 9.0.3 • [Train: stable]
+
+- chore(deps): update container image factoriotools/factorio to stable@d5dfbf7 by renovate (#23239) • [`1cb5566`](https://github.com/truecharts/charts/commit/1cb55665d5c14dd9ea819b294c0fd2d9d7974ada) • [@TrueCharts Bot] (2024-06-12)
+
 ## 9.0.2 • [Train: stable]
 
 - Commit daily changes • [`6a5d0ec`](https://github.com/truecharts/charts/commit/6a5d0ec00d4c1d2b7c51371717c727790c923ca3) • [@TrueCharts-Bot] (2024-06-10)
