@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.1.0 • [Train: stable]
+
+- chore(deps): update container image revenz/fileflows to v24.06@ed9e3ff by renovate (#23227) • [`ceb71b3`](https://github.com/truecharts/charts/commit/ceb71b3f43a2fa969af0347141330faef4f89e00) • [@TrueCharts Bot] (2024-06-12)
+
 ## 12.0.1 • [Train: stable]
 
 - Commit daily changes • [`6a5d0ec`](https://github.com/truecharts/charts/commit/6a5d0ec00d4c1d2b7c51371717c727790c923ca3) • [@TrueCharts-Bot] (2024-06-10)
