@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 17.0.0 • [Train: stable]
+
+- feat(Immich): update immich to v1.106.3 (#23206) • [`2ee57d7`](https://github.com/truecharts/charts/commit/2ee57d7620ce090502d919f1668fae59e39b5b3b) • [@TrueCharts Bot] (2024-06-12)
+
 ## 16.0.1 • [Train: stable]
 
 - Commit daily changes • [`6a5d0ec`](https://github.com/truecharts/charts/commit/6a5d0ec00d4c1d2b7c51371717c727790c923ca3) • [@TrueCharts-Bot] (2024-06-10)
