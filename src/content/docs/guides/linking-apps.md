@@ -14,11 +14,11 @@ For most charts, you'll want to contact the main service (usually the web interf
 
 Please replace `$NAME` with the name you gave your Chart when installing it, and `$NAMESPACE` with the namespace the chart is installed in and `CHARTNAME` with the name from our helm repository.
 
-**If your chart name _contains_ the name of the chart as in the helm repository, the format is as follows.**
+**If your chart name is the same as the name of the chart as in the helm repository, the format is as follows.**
 
 - `$NAME.$NAMESPACE.svc.cluster.local`
 
-**If your chart name _does NOT contain_ the name of the chart as in the helm repository, the format is as follows.**
+**If your chart name is _NOT_ the same as the name of the chart as in the helm repository, the format is as follows.**
 
 - `$NAME-$CHARTNAME.$NAMESPACE.svc.cluster.local`
 
