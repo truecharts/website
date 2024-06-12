@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 29.0.5 • [Train: premium]
+
+- chore(deps): update container image tccr.io/tccr/traefik to v3.0.2@59c6539 by renovate (#23235) • [`9439e8d`](https://github.com/truecharts/charts/commit/9439e8db595e4a6096ba43065c9e751e369efb78) • [@TrueCharts Bot] (2024-06-12)
+
 ## 29.0.4 • [Train: premium]
 
 - chore(deps): update container image tccr.io/tccr/traefik to v3.0.2@ce4b714 by renovate (#23201) • [`83d9e07`](https://github.com/truecharts/charts/commit/83d9e071075fb8fb0943c220a63a7cc5c96e4314) • [@TrueCharts Bot] (2024-06-11)
