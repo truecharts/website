@@ -14,7 +14,7 @@ Do not click `Test Changes` before you finish the whole guide
 
 ### Acquiring Interface Settings
 
-1. Note down the interface IP Address and the Subnet mask of your currently used interface.
+1. Note down the interface IP Address and the Subnet mask of your currently used interface
 
 2. Click on `Edit` on the currently used interface
 
@@ -42,11 +42,11 @@ The Network Interface should then look like this:
 
 7. Click `Test Changes` and confirm the prompt. Wait a bit for the UI to become responsive again
 
-8. Click on `Save Changes` to save the changes you have made
-
 ![Network Changes ](./img/network_changes.png)
 
-9. If something goes wrong and the UI stays unresponsive,, the changes will be reverted after 60 seconds
+8. Click on `Save Changes` to save the changes you have made
+
+9. If something goes wrong and the UI stays unresponsive, the changes will be reverted after 60 seconds.
 
 The bridge should now look similar to this one when done:
 
@@ -88,9 +88,9 @@ Make sure to remember the password you have selected
 
 ### CPU And Memory
 
-1. Select the amount of `Cores` and set the `Threads` to `2` if your CPU supports HyperThreading like in the example below. We suggest you to add available Host-Cores minus 1 for your host system.
+1. Select the amount of `Cores` and set the `Threads` to `2` if your CPU supports HyperThreading like in the example below. We suggest you to add available Host-Cores minus 1 for your host system
 
-2. Make sure to allocate enough `RAM` towards your VM with the `Memory Size` setting
+2. Make sure to allocate enough `RAM` towards your VM with the `Memory Size` setting.
 
 Minimum Amount of RAM: `8GB`
 
@@ -162,11 +162,11 @@ Below you can find 2 examples on how to set a fixed DHCP Lease for UniFi and Fri
 
 ### FritzBox
 
-1. Go to your FritzBox web-interface. Navigate to `Home Network`> `Network` and select the running VM (not your SCALE Host System).
+1. Go to your FritzBox web-interface. Navigate to `Home Network`> `Network` and select the running VM (not your SCALE Host System)
 
-2. Click on the `Edit` button and scroll down to the IP-Address in Home Network section.
+2. Click on the `Edit` button and scroll down to the IP-Address in Home Network sectio
 
-3. Check `Always give this device the same IP`
+3. Check `Always give this device the same IP`.
 
 ![DHCP FritzBox](./img/dhcp_fritzbox.png)
 (screenshot in german)
@@ -204,7 +204,7 @@ It's important to note that for master nodes, we use static IPs for referencing 
 ### Worker Node
 
 By default we ensure qemu guest additions are always loaded for all worker-nodes.
-Workernodes can be pretty basic and should "just work"
+Workernodes can be pretty basic and should "just work".
 
 ```yaml
     - hostname: k8s-worker-1
