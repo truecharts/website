@@ -6,52 +6,58 @@ sidebar:
 
 :::caution[Charts]
 
-We only support our own helm-charts for everything. If you run anything outside of our helm-charts, we cannot guarantee interoperability and you might run into issues
+We only support our own helm-charts. If you run anything outside the scope of our helm-charts, we cannot guarantee interoperability and you might run into issues we're unable to support with resolving
 
 :::
 
 ## Installing a Chart
 
-If you want to install a chart using helm, lookup the name of the chart in our Chart list.
-Afterwards run this command to install it directly from our OCI repository:
+If you want to install a chart using helm, lookup the name of the chart in our [Chart list](/charts/description-list). Then, run this command to install it directly from our OCI repository:
 
-`helm install mychart oci://tccr.io/truecharts/CHARTNAME`
+```shell title="Install Chart"
+   helm install mychart oci://tccr.io/truecharts/CHARTNAME
+   ```
 
-_Where "CHARTNAME" is the name of the chart you want to add and "mychart" is the name you want it to have on your system_
+_Where `CHARTNAME` is the name of the chart you want to add and `mychart` is the name you want it to have on your system.
 
-We would highly suggest your write your customisations and user specific options in your own `values.yaml` file.
-After which you can install the chart with your user specific settings using:
+We highly suggest your write your customisations and user specific options in your own `values.yaml` file. After which, you can install the chart with your user-specific settings applied using:
 
-`helm install mychart oci://tccr.io/truecharts/CHARTNAME -f values.yaml`
+```shell title="Install Chart With Settings"
+   helm install mychart oci://tccr.io/truecharts/CHARTNAME -f values.yaml
+   ```
 
-_where `values.yaml` can be replaced with a path of your choice_
+_`values.yaml` can be replaced with a path of your choice._
 
-We would also advice users to specifiy seperate namespaces for deployed charts using:
+We also advise users to specify separate namespaces for deployed charts using:
 
-`helm install mychart oci://tccr.io/truecharts/CHARTNAME -f values.yaml -n NAMESPACE`
+```shell title="Chart Namespaces"
+   helm install mychart oci://tccr.io/truecharts/CHARTNAME -f values.yaml -n NAMESPACE
+   ```
 
-_where `NAMESPACE` is the namespace you want to deploy to_
+_Where `NAMESPACE` is the namespace you want to deploy to._
 
 For more information, please see the [Helm install docs](https://helm.sh/docs/helm/helm_install/)
 
-## Upgrading charts
+## Upgrading Charts
 
-To upgrade either the chart version and/or the user-defined settings for a, already installed, Helm chart you can use "helm upgrade".
-While this does not actually update the chart version, it does update the user settings supplied via the `values.yaml file specified above`
+To upgrade either the chart version and/or the user-defined settings for an already-installed Helm chart you can use "helm upgrade".
+While this does not actually update the chart version, it does update the user settings supplied via the `values.yaml` file specified above.
 
-`helm upgrade oci://tccr.io/truecharts/CHARTNAME -f values.yaml -n NAMESPACE`
+```shell title="Chart Upgrades"
+   helm upgrade oci://tccr.io/truecharts/CHARTNAME -f values.yaml -n NAMESPACE
+   ```
 
 For more information, please see the [Helm upgrade docs](https://helm.sh/docs/helm/helm_upgrade/)
 
 ## Using KubeApps
 
-KubeApps offers an easy-to-use GUI to just pick a chart from the list and enter/adapt the YAML, check it out!
+[KubeApps](https://kubeapps.dev/) offers an easy-to-use GUI to simply pick a chart from the list and enter/adapt the YAML, check it out!
 
 ---
 
 :::note[Clustertool]
 
-Clusters created using clustertool come pre-packed with MetallB and MetalLB config.
+Clusters created using Clustertool come pre-packed with MetalLB and MetalLB config
 
 :::
 
@@ -65,16 +71,16 @@ Install the following charts with **default** values.yaml if not already install
 - Install `volsync` which is used to configure Backups-> [PVC Backup Guide](/guides/volsync-backup-restore)
 - `metallb` or another loadBalancer is required if you do not have a loadBalancer yet
 
-To configure MetallB, you will need to also add `metallb-config` and adapt it to your own needs.
+To configure MetalLB, you will need to also add `metallb-config` and adapt it to your own needs.
 
 ## Getting started using Charts with your own Domain
 
 - Steps Above -> [Minimal Getting Started](#minimal-getting-started-setup)
 - Install the `traefik-crds` chart
 - Install `traefik` -> [Traefik How-To](/charts/premium/traefik/how-to)
-- Use Cloudflare for DNS and create API token -> [Guide](/charts/premium/clusterissuer/how-to#configure-acme-issuer)
-- Install `Clusterissuer` and configure for your needs -> [Clusterissuer How-to](/charts/premium/clusterissuer/how-to)
-- Add `Blocky` and configure with k8s-gateway enabled -> [Blocky Setup Guide](/charts/premium/blocky/setup-guide)
+- Use CloudFlare for DNS and create an API token -> [Guide](/charts/premium/clusterissuer/how-to#configure-acme-issuer)
+- Install `Clusterissuer` and configure it for your needs -> [Clusterissuer How-to](/charts/premium/clusterissuer/how-to)
+- Add `Blocky` and configure it with k8s-gateway enabled -> [Blocky Setup Guide](/charts/premium/blocky/setup-guide)
 - Setup ingress on each Chart you want to expose -> [Configure Ingress using Clusterissuer certs](/charts/premium/clusterissuer/how-to/#configure-ingress-using-clusterissuer)
 
 ---
@@ -85,7 +91,7 @@ To configure MetallB, you will need to also add `metallb-config` and adapt it to
 
 ![MetalLB](./img/icons/metallb.png)
 
-This step is mandatory if you don't use another LoadBalancer. We have a full guide explaining the setups on the [MetalLB-Config Setup Guide](/charts/premium/metallb-config/setup-guide) page on how to setup MetalLB. Please refer to that page for more info.
+This step is mandatory if you don't intend to use another LoadBalancer. We have a full guide explaining the setup on the [MetalLB-Config Setup Guide](/charts/premium/metallb-config/setup-guide) page on how to setup MetalLB. Please refer to that page for more info before continuing.
 
 ### Prometheus and CNPG system app installations
 

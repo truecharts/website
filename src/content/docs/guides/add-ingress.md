@@ -2,14 +2,14 @@
 title: Adding Ingress
 ---
 
-## What is ingress
+## What is ingress?
 
 Ingress is a way to define "routes" from a domain name, through an "ingress controller", to the application running in a chart.
-Simply put: they specify reverse proxy configuration for a special reverse proxy called "ingress controller".
+Simply put, they specify reverse proxy configuration for a special reverse proxy called "ingress controller".
 
 ## Requirements
 
-Before setting up ingress, we advise you to have an ingress controller already set-up. Our recommended ingress controller would be [Traefik](https://github.com/traefik/traefik).
+Before setting up ingress, we advise you to have an ingress controller already set-up. Our recommended ingress controller is [Traefik](https://github.com/traefik/traefik).
 
 ## How to Setup
 

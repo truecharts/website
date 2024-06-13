@@ -14,7 +14,7 @@ You can add the credentials by copy-pasting the [Full Examples](/common/credenti
 
 :::note[Bucket Creation]
 
-You do not have to manually create the bucket beforehand, although this is recommended to ensure the bucket's name is available beforehand.
+You do not have to manually create the bucket beforehand, although this is recommended to ensure the bucket's name is available beforehand
 
 :::
 

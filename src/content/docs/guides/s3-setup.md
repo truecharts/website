@@ -6,7 +6,7 @@ The below outlines how to setup an S3 storage provider for use with TrueCharts.
 
 ## S3 Backup Providers
 
-Our only officially supported system for "offsite" backups is S3(-compatible) storage. Offsite can be either another machine with running [MinIO](https://min.io/) or a S3 Storage provider like [BackBlaze](https://www.backblaze.com/docs/cloud-storage-s3-compatible-api), [CloudFlare](https://www.cloudflare.com/en-au/developer-platform/r2/), [Amazon](https://aws.amazon.com/s3/) (coming soon) and more. Currently our only *officially* supported backup providers are CloudFlare and BackBlaze, but we're working to expand this list in the future.
+Our only officially supported system for "offsite" backups is S3(-compatible) storage. Offsite can be either another machine with running [MinIO](https://min.io/) or an S3 Storage provider like [BackBlaze](https://www.backblaze.com/docs/cloud-storage-s3-compatible-api), [CloudFlare](https://www.cloudflare.com/en-au/developer-platform/r2/), [Amazon](https://aws.amazon.com/s3/) (coming soon) and more. Currently our only *officially* supported backup providers are CloudFlare and BackBlaze, but we're working to expand this list in the future.
 
 Both CloudFlare and BackBlaze provide a free plan with 10GB of storage included.
 
@@ -45,13 +45,16 @@ Note down these credentials as they are only shown to you once!
 ### Backblaze
 
 1. Create a new Application Key as below
-  ![S3 Backblaze 1](./img/s3_backblaze_1.png)
+
+![S3 Backblaze 1](./img/s3_backblaze_1.png)
 
 2. Allow access to all buckets, give it "Read and Write Access" and give it a meaningful name
-  ![S3 Backblaze 2](./img/s3_backblaze_2.png)
+
+![S3 Backblaze 2](./img/s3_backblaze_2.png)
 
 3. Note down the shown credentials
-  ![S3 Backblaze 3](./img/s3_backblaze_3.png)
+
+![S3 Backblaze 3](./img/s3_backblaze_3.png)
 
 :::caution[Credentials]
 
@@ -69,12 +72,15 @@ Note down these credentials as they are only shown to you once!
 - Go to Access Keys of your storj project
 - Create new access key, give it a name, and select S3 Credential
 - Select Advanced to only give access to a specific bucket (optional). Otherwise, select Full Access.
-  ![S3 Storj 1](./img/s3_storj_1.png)
-- Select all permissions (maybe it will work with just read and write)
+
+![S3 Storj 1](./img/s3_storj_1.png)
+
+- Select all permissions (it might work with just read and write)
 - Select the bucket where you want to store the backups
 - Select No Expiration
-- click Create Access
-  ![S3 Storj 1](./img/s3_storj_1.png)
+- Click Create Access
+
+![S3 Storj 1](./img/s3_storj_1.png)
 
 :::caution[Credentials]
 
