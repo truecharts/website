@@ -188,7 +188,7 @@ credentials:
 
 #### `encrKey`
 
-Define the encryption key of the credentials when needed
+Define the encryption key of the credentials
 
 |            |                             |
 | ---------- | --------------------------- |
