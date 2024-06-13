@@ -25,12 +25,7 @@ All things considered, we would advise users to prepare their repository beforeh
 - [Setup GIT](https://docs.github.com/en/get-started/getting-started-with-git/set-up-git)
 - [Cloning a Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
-**Besides these basic getting-started steps, we would also advise users to already follow:**
-
-https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic
-
-We would advise users to save this token somewhere secure until needed.
-
+Besides these basic getting-started steps, we would also advise users to have already followed [this](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic). We also would advise users to save this token somewhere secure until needed.
 
 ## Prepare your Config
 
@@ -91,9 +86,7 @@ We generate an opinionated variant of this file, that is optimised to run with o
 
 We would advise to adapt the nodes so they fit your cluster design. By default we've a single node, with a single disk and a single network interface added. This is sufficient for all our VM guides and will be enabled for both 'controlplane', controlling the cluster itself, as well as 'worker' workloads.
 
-For more information on talconfig.yaml and talhelper, please se
-
-https://budimanjojo.github.io/talhelper/latest/
+For more information on talconfig.yaml and talhelper, please see [here](https://budimanjojo.github.io/talhelper/latest/)
 
 ### Saving your config
 
@@ -154,7 +147,7 @@ or, on Windows:
 
 `ClusterTool.exe genconfig`
 
-This also will update a number of files we (pre)generate for FluxCD and/or prepare to be uploaded to the cluster. This includes things like the CNI (Cilium, MetalLB and KubeApps)
+This also will update a number of files we (pre)generate for FluxCD and/or prepare to be uploaded to the cluster. This includes things like the CNI (Cilium, MetalLB and KubeApps).
 
 ## Bootstrapping your first node
 
