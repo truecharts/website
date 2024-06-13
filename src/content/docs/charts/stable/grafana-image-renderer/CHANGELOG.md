@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.0.2 • [Train: stable]
+
+- chore(deps): update container image grafana/grafana-image-renderer to latest@d1ded31 by renovate (#23295) • [`c701321`](https://github.com/truecharts/charts/commit/c7013216db323192d54b24e1b3e3ef612aec7f1a) • [@TrueCharts Bot] (2024-06-13)
+
 ## 7.0.1 • [Train: stable]
 
 - Commit daily changes • [`6a5d0ec`](https://github.com/truecharts/charts/commit/6a5d0ec00d4c1d2b7c51371717c727790c923ca3) • [@TrueCharts-Bot] (2024-06-10)
