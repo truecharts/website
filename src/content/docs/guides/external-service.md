@@ -2,7 +2,7 @@
 title: External Service
 ---
 
-To access external service with traefik, use the `external-service` chart:
+To access external services with traefik, use the `external-service` chart and
 
 1. Set `type` to `External IP`
 2. Set `externalIP` to the IP-Address for your service. (In this example 192.168.178.10)
