@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.0.0 • [Train: stable]
+
+- chore(speedtest-tracker): bumps version to make OCI use this as latest, as there was some older versions available from when it was on unstable train • [`5704012`](https://github.com/truecharts/charts/commit/5704012ce3fc656aa992b6f29847d794ba13ec31) • [@Stavros Kois] (2024-06-13)
+
 ## 4.0.32 • [Train: unstable]
 
 - Commit daily changes • [`47fe2a8`](https://github.com/truecharts/charts/commit/47fe2a803bb21c952625554997d4e26d39450914) • [@TrueCharts-Bot] (2024-01-22)
