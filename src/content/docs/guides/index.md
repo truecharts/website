@@ -18,7 +18,7 @@ If you want to install a chart using helm, lookup the name of the chart in our [
    helm install mychart oci://tccr.io/truecharts/CHARTNAME
    ```
 
-_Where `CHARTNAME` is the name of the chart you want to add and `mychart` is the name you want it to have on your system.
+_Where `CHARTNAME` is the name of the chart you want to add and `mychart` is the name you want it to have on your system._
 
 We highly suggest your write your customisations and user specific options in your own `values.yaml` file. After which, you can install the chart with your user-specific settings applied using:
 
