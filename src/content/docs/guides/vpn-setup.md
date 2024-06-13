@@ -18,9 +18,7 @@ Ideally, a VPN provider supported by `Gluetun`, check the [Gluetun Wiki](https:/
 
 ## Gluetun VPN Addon Setup
 
-- Install the chart as per usual and add the the section for Gluetun like shown below:
-- Dont forget to set your Network in the `excludedNetworks_IPv4`
-- Enable the killswitch as shown below
+Install the chart as per usual and add the the section for Gluetun like shown below. Don't forget to set your Network in the `excludedNetworks_IPv4` and enable the killswitch if desired, as shown below
 
 ```yaml
 addons:
@@ -55,13 +53,11 @@ addons:
 
 All providers will generally need `VPN_SERVICE_PROVIDER` and `VPN_TYPE`. For me, it's `Windscribe` and `openvpn` but I could easily choose `Wireguard`.
 
-Check the [Gluetun Wiki](https://github.com/qdm12/gluetun-wiki) to find your specific provider and enter their info, e.g. [Windscribe Wiki Page](https://github.com/qdm12/gluetun-wiki/blob/main/setup/providers/windscribe.md)
+Check the [Gluetun Wiki](https://github.com/qdm12/gluetun-wiki) to find your specific provider and enter their info, e.g. [Windscribe Wiki Page](https://github.com/qdm12/gluetun-wiki/blob/main/setup/providers/windscribe.md).
 
 ### Wireguard Example
 
-I will demonstrate Wireguard VPN setup using `Mullvad` as the provider.
-
-I pull my private key, endpoint port and Wireguard Addresses from a `Mullvad` wireguard config file.
+I will demonstrate Wireguard VPN setup using `Mullvad` as the provider. I pull my private key, endpoint port and Wireguard Addresses from a `Mullvad` wireguard config file.
 
 ![Mullvad Config File](./img/vpn_wireguard_config.png)
 
@@ -102,11 +98,11 @@ The Killswitch entry uses the Network ID and CIDR. Please note the example above
 - `VPN_SERVICE_PROVIDER` is `mullvad` in my case
 - `WIREGUARD_PRIVATE_KEY` is the private key from the `Mullvad` config file above
 - `WIREGUARD_PUBLIC_KEY` is the public key from the `Mullvad` config file above
-- `FIREWALL_VPN_INPUT_PORTS` is the _port forward_ port.
+- `FIREWALL_VPN_INPUT_PORTS` is the _port forward_ port
 - `WIREGUARD_ADDRESSES` is the `Mullvad` endpoint IP address, found in the `Mullvad` config file above
-- `SERVER_CITIES` is the `Mullvad` server city, it should likely be in from the same city your config file is from, and should share the same city as your forwarded port.
-  In my case, I am using the `Toronto` server city, and my forwarded port is from `Toronto`.
-- `VPN_ENDPOINT_PORT` and `VPN_ENDPOINT_IP` is the `Mullvad` endpoint port and ip, found in the `Mullvad` config file above
+- `SERVER_CITIES` is the `Mullvad` server city, it should likely be in from the same city your config file is from, and should share the same city as your forwarded port
+  In my case, I am using the `Toronto` server city, and my forwarded port is from `Toronto`
+- `VPN_ENDPOINT_PORT` and `VPN_ENDPOINT_IP` is the `Mullvad` endpoint port and ip, found in the `Mullvad` config file above.
 
 ## Verify it works
 
@@ -173,9 +169,9 @@ service:
 
 The service name will end in `-proxy`. For a chart named `qbittorrent` it will be:
 
-`qbittorrent-proxy.ix-qbittorrent.svc.cluster.local`.
+`qbittorrent-proxy.ix-qbittorrent.svc.cluster.local`
 
-If your chart is named something different, you can look it up using `k3s kubectl get svc -A`
+If your chart is named something different, you can look it up using `k3s kubectl get svc -A`.
 
 #### Step 4: Configure the proxy in your indexer chart (Prowlarr)
 
