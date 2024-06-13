@@ -183,6 +183,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - fix(speedtest-tracker): Port speedtest-tracker (#8122) • [`93ca298`](https://github.com/truecharts/charts/commit/93ca2988b36307ba2ef8110253a4439ba0214db4) • [@MaverickD650] (2023-04-30)
 
+## 3.1.7 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/speedtest-tracker to v0.20.6@3509d27 by renovate (#23277) • [`d66f90b`](https://github.com/truecharts/charts/commit/d66f90bea0b6e9c192c104c812f1c27e95d0c933) • [@TrueCharts Bot] (2024-06-13)
+
 ## 3.1.6 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/speedtest-tracker to v0.20.5@16309a2 by renovate (#23203) • [`678ed5b`](https://github.com/truecharts/charts/commit/678ed5b06efc8ac94e323b960e65d4bedf0e4742) • [@TrueCharts Bot] (2024-06-11)
