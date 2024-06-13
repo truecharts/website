@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.0.2 • [Train: stable]
+
+- fix(teamspeak3): Fix Services (#23259) • [`a24dadc`](https://github.com/truecharts/charts/commit/a24dadc0c1c1039807732ce925a4fe1a2ae419e7) • [@alfi0812] (2024-06-13)
+
 ## 12.0.1 • [Train: stable]
 
 - Commit daily changes • [`6a5d0ec`](https://github.com/truecharts/charts/commit/6a5d0ec00d4c1d2b7c51371717c727790c923ca3) • [@TrueCharts-Bot] (2024-06-10)
