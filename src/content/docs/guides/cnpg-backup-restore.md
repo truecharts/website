@@ -79,5 +79,5 @@ cnpg:
 When on a completely new system, you can easily restore using the above steps with the following caveats:
 
 - The PVC backend needs to support snapshots
-- The apps need to be called **exactly** the same as they were before, preferably using a previously-exported config
-- If you've any non-PVC storage attached, be sure that this is still available or apps won't start until this is resolved
+- The apps need to be called **exactly** the same as they were before, and use exactly the same values.yaml structure
+- If you've any non-PVC storage attached, be sure that this is still available or apps won't start until this is resolved.
