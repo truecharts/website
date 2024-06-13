@@ -2,26 +2,25 @@
 title: Setting up VPN
 ---
 
-## Gluetun VPN Add-on Setup Guide
+## Gluetun VPN Addon Setup Guide
 
-Basic setup of the TrueCharts [Gluetun](https://github.com/qdm12/gluetun/) VPN addon
+Basic setup of the TrueCharts [Gluetun](https://github.com/qdm12/gluetun/) VPN addon.
 
 :::caution[Unique VPN Environmental Variables]
 
-The guide below uses Mullvad and Windscribe as examples. You must visit the [Gluetun Wiki](https://github.com/qdm12/gluetun-wiki) and use the environmental variables listed for your VPN provider. Attempting to use the variables listed below will not work with any other providers and will cause Gluetun to fail during start up and the chart it is attached to not to start.
+The guide below uses Mullvad and Windscribe as examples. You must visit the [Gluetun Wiki](https://github.com/qdm12/gluetun-wiki) and use the environmental variables listed for your VPN provider. Attempting to use the variables listed below will not work with any other providers and will cause Gluetun to fail during start up as well as any chart it is attached to, not to start.
 
 :::
 
 ## Prerequisites
 
-- Ideally a VPN provider supported by `Gluetun`, check the [Gluetun Wiki](https://github.com/qdm12/gluetun-wiki) for more info.
-  There are custom providers but that is beyond the scope of this guide.
+Ideally, a VPN provider supported by `Gluetun`, check the [Gluetun Wiki](https://github.com/qdm12/gluetun-wiki) for more info. There are custom providers but that is beyond the scope of this guide.
 
 ## Gluetun VPN Addon Setup
 
-- Install chart as per usual and add the the section for Gluetun like shown below:
+- Install the chart as per usual and add the the section for Gluetun like shown below:
 - Dont forget to set your Network in the `excludedNetworks_IPv4`
-- Enable the killswitch by like shown below
+- Enable the killswitch as shown below
 
 ```yaml
 addons:
@@ -33,7 +32,7 @@ addons:
     excludedNetworks_IPv6: []
 ```
 
-`Gluetun` works with Environment Variables so we need to configure them below. Enter your `VPN Provider` specific ones (see below)
+`Gluetun` works with Environment Variables so we need to configure them below. Enter your `VPN Provider` specific ones as below.
 
 ### OpenVPN Example
 
@@ -54,22 +53,21 @@ addons:
       SERVER_CITIES: "Montreal"
 ```
 
-- All providers will generally need `VPN_SERVICE_PROVIDER` and `VPN_TYPE`, for me it's `Windscribe` and `openvpn` but I could easily choose `Wireguard`
-- Scroll to the [Gluetun Wiki](https://github.com/qdm12/gluetun-wiki) and find your specific provider and enter their info, eg [Windscribe Wiki Page](https://github.com/qdm12/gluetun-wiki/blob/main/setup/providers/windscribe.md)
+All providers will generally need `VPN_SERVICE_PROVIDER` and `VPN_TYPE`. For me, it's `Windscribe` and `openvpn` but I could easily choose `Wireguard`.
+
+Check the [Gluetun Wiki](https://github.com/qdm12/gluetun-wiki) to find your specific provider and enter their info, e.g. [Windscribe Wiki Page](https://github.com/qdm12/gluetun-wiki/blob/main/setup/providers/windscribe.md)
 
 ### Wireguard Example
 
-I will demonstrate using `Mullvad` as the provider.
+I will demonstrate Wireguard VPN setup using `Mullvad` as the provider.
 
-- I pull my private key, endpoint port and Wireguard Addresses from a `Mullvad` wireguard config file.
+I pull my private key, endpoint port and Wireguard Addresses from a `Mullvad` wireguard config file.
 
-  ![Mullvad Config File](./img/vpn_wireguard_config.png)
+![Mullvad Config File](./img/vpn_wireguard_config.png)
 
-- You can generate a new config file from the `Mullvad` website, here is the [Mullvad Config Generator](https://mullvad.net/en/account/#/wireguard-config/)
+You can generate a new config file from the `Mullvad` website, here is the [Mullvad Config Generator](https://mullvad.net/en/account/#/wireguard-config/).
 
-Now we can enter the Env Vars
-
-- Install chart as per usual and add the specific env vars to the gluetun section:
+Now we can enter the Env Vars. Install the chart as per usual and add the specific env vars to the gluetun section:
 
 ```yaml
 addons:
@@ -93,7 +91,7 @@ addons:
 
 :::caution[Killswitch Entry]
 
-The Killswitch entry uses the Network ID and CIDR. Please note the example above is 192.168.1.0/24. This is never your default gateway or router IP address. If you fill this entry out incorrectly Gluetun will fail to start and the chart it is attached to will fail to start. In almost all situations the Network ID will end in a .0 (ie. 192.168.0.0, 10.0.0.0, 172.16.0.0) and the CIDR will be /24.
+The Killswitch entry uses the Network ID and CIDR. Please note the example above is 192.168.1.0/24. This is never your default gateway or router IP address. If you fill this entry out incorrectly, Gluetun will fail to start and the chart it is attached to will also fail to start. In almost all situations the Network ID will end in a .0 (ie. 192.168.0.0, 10.0.0.0, 172.16.0.0) and the CIDR will be /24.
 
 > Specifying the kubernetes subnet is not necessary as it is automatically excluded from the VPN tunnel
 
@@ -112,7 +110,7 @@ The Killswitch entry uses the Network ID and CIDR. Please note the example above
 
 ## Verify it works
 
-Easiest way to verify after it deploys (the chart will fail if your credentials don't work) for me is using `qbittorrent` since the network page shows the interfaces
+The easiest way to verify after it deploys (the chart will fail if your credentials don't work) for me is using `qbittorrent` since the network page showing the interfaces
 can be shown quickly (or check the logs), the interface will be `tun0`.
 
 ![Qbittorent Testing](./img/vpn_testing.png)
@@ -156,9 +154,7 @@ See Gluetun's website for more proxy configuration options (like setting a usern
 
 #### Step 2: Add a new service for the proxy
 
-On the same chart where you configured the Gluetun VPN addon proxy environment variables, add the following:
-
-1. Add an additional service to your values.yaml like shown below if you want to use said Proxy outside your Cluster you need to setup a Loadbalancer:
+On the same chart where you configured the Gluetun VPN addon proxy environment variables, add the following additional service to your values.yaml as shown below. If you want to use said Proxy outside your Cluster you need to setup a LoadBalancer.
 
 ```yaml
 service:
@@ -175,14 +171,16 @@ service:
 
 #### Step 3: Determine the proxy internal DNS name
 
-The service name will end in `-proxy`. For an chart named `qbittorrent` it will be:\
+The service name will end in `-proxy`. For a chart named `qbittorrent` it will be:
+
 `qbittorrent-proxy.ix-qbittorrent.svc.cluster.local`.
 
 If your chart is named something different, you can look it up using `k3s kubectl get svc -A`
 
 #### Step 4: Configure the proxy in your indexer chart (Prowlarr)
 
-1. In Prowlarr, under `Settings -> Indexers -> Add [Indexer Proxies]`, select `Http`
+In Prowlarr, under `Settings -> Indexers -> Add [Indexer Proxies]`, select `Http`
+
    - Name: `GluetunProxy` (or whatever name you prefer)
    - Tags: `proxy` (set this if you only want the proxy to be used on certain trackers/indexers, otherwise leave blank)
    - Host: `qbittorrent-proxy.ix-qbittorrent.svc.cluster.local`
