@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.0.3 • [Train: stable]
+
+- chore(deps): update container image fallenbagel/jellyseerr to v1.9.2@8f708df by renovate (#23290) • [`f9ac359`](https://github.com/truecharts/charts/commit/f9ac3596c62634e5161b9c75071f331c1c1bd8f1) • [@TrueCharts Bot] (2024-06-13)
+
 ## 11.0.2 • [Train: stable]
 
 - chore(deps): update container image fallenbagel/jellyseerr to v1.9.1@bebe121 by renovate (#23247) • [`9925d02`](https://github.com/truecharts/charts/commit/9925d02d35bda4d8624475d0c99bd8a2635aa292) • [@TrueCharts Bot] (2024-06-12)
