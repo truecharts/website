@@ -2,15 +2,15 @@
 title: Adding Service
 ---
 
-## What is a service
+## What is a service?
 
-Services are all sorts of port you want to add to your chart
+Services are all sorts of ports that you want to add to your chart.
 
 ## How to Setup
 
-To setup a service, add the following section to the values.yaml manually and adapt as needed:
-You can also add multiple ports to a single service.
-Type can be both `Loadbalancer` and `ClusterIP` depending on your need.
+To setup a service, add the following section to the values.yaml manually and adapt as needed. You can also add multiple ports to a single service.
+
+The type can be both `Loadbalancer` and `ClusterIP` depending on your needs.
 
 ```yaml
 service:
@@ -33,13 +33,12 @@ service:
         protocol: tcp
 ```
 
-In most charts there are already predefined services. You can change them to your needs (Loadbalancer/ClusterIP).
-As well as adding additional ones. Just make sure to choose a unique name
+In most charts there are already predefined services. You can change them to your needs (e.g. Loadbalancer/ClusterIP) as well as adding additional ones. Just make sure to choose a unique name.
 
 ### Service requirements
 
 Please be aware that most apps already have a primary service named `main` and at least 1 primary is required.
-It's also important to note that all services added by the end user, should set `enabled` on all ports and services to `true`
+It's also important to note that all services added by the end user should set `enabled` on all ports and services to `true`.
 
 ## More info
 
