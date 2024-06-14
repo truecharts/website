@@ -122,6 +122,9 @@ Note down these credentials as they are only shown to you once!
 
 ![S3 MinIO 5](./img/s3_minio_5.png)
 
+6. CNPG backups require KES (Key Encryption Service) / KMS (Key Management Service) to be set up.<br>
+   Instructions on how to set it up, can be found [here](https://github.com/minio/minio/blob/master/docs/kms/README.md)
+
 #### MinIO credentials assignment
 
 - Access Key -> accessKey

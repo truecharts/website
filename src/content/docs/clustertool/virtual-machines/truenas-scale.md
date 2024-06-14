@@ -164,7 +164,7 @@ Below you can find 2 examples on how to set a fixed DHCP Lease for UniFi and Fri
 
 1. Go to your FritzBox web-interface. Navigate to `Home Network`> `Network` and select the running VM (not your SCALE Host System)
 
-2. Click on the `Edit` button and scroll down to the IP-Address in Home Network sectio
+2. Click on the `Edit` button and scroll down to the IP-Address in Home Network section
 
 3. Check `Always give this device the same IP`.
 
