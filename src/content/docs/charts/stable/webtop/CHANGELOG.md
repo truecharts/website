@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.0.54 • [Train: stable]
+
+- chore(deps): update webtop by renovate (#23348) • [`8cb947c`](https://github.com/truecharts/charts/commit/8cb947cecabb1240709d303297a1fe80029cc8df) • [@TrueCharts Bot] (2024-06-14)
+
 ## 11.0.48 • [Train: stable]
 
 - chore(deps): update webtop by renovate (#23270) • [`7a78f89`](https://github.com/truecharts/charts/commit/7a78f899e3d99a602e667140fded781e0f51fd02) • [@TrueCharts Bot] (2024-06-13)
