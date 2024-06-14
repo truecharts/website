@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.1.0 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/pmmp/pocketmine-mp to v5.16.0@de33a44 by renovate (#23331) • [`9ed4730`](https://github.com/truecharts/charts/commit/9ed47301291da5376dc84d584245172bdf6b2dba) • [@TrueCharts Bot] (2024-06-14)
+
 ## 5.0.1 • [Train: stable]
 
 - Commit daily changes • [`6a5d0ec`](https://github.com/truecharts/charts/commit/6a5d0ec00d4c1d2b7c51371717c727790c923ca3) • [@TrueCharts-Bot] (2024-06-10)
