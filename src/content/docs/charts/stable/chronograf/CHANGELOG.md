@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.0.4 • [Train: stable]
+
+- chore(deps): update container image chronograf to latest@0c1a886 by renovate (#23312) • [`0fe132a`](https://github.com/truecharts/charts/commit/0fe132a70e99a847c06547d59247559d8418e07c) • [@TrueCharts Bot] (2024-06-14)
+
 ## 7.0.3 • [Train: stable]
 
 - Commit daily changes • [`6a5d0ec`](https://github.com/truecharts/charts/commit/6a5d0ec00d4c1d2b7c51371717c727790c923ca3) • [@TrueCharts-Bot] (2024-06-10)

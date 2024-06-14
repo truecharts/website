@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.0.2 • [Train: stable]
+
+- chore(deps): update container image adminer to latest@ee90fd1 by renovate (#23310) • [`7c12ebf`](https://github.com/truecharts/charts/commit/7c12ebf804d6d12333777dc28a5e34d14565b892) • [@TrueCharts Bot] (2024-06-14)
+
 ## 10.0.1 • [Train: stable]
 
 - Commit daily changes • [`6a5d0ec`](https://github.com/truecharts/charts/commit/6a5d0ec00d4c1d2b7c51371717c727790c923ca3) • [@TrueCharts-Bot] (2024-06-10)
