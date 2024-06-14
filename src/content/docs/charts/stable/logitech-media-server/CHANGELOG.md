@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 13.0.5 • [Train: stable]
+
+- chore(deps): update container image common to v24.0.6@5cd15b8 by renovate (#23138) • [`b79d3fc`](https://github.com/truecharts/charts/commit/b79d3fce6d6f5a2533b217f2e9edb9e6e611d9e0) • [@TrueCharts Bot] (2024-06-15)
+
 ## 13.0.4 • [Train: stable]
 
 - chore(deps): update container image lmscommunity/logitechmediaserver to stable@9b13e30 by renovate (#23231) • [`77e1790`](https://github.com/truecharts/charts/commit/77e1790d7d111bdd7b748882328dee63d7715bb6) • [@TrueCharts Bot] (2024-06-12)

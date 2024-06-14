@@ -2,7 +2,7 @@
 title: readarr
 ---
 
-![Version: 23.0.2](https://img.shields.io/badge/Version-23.0.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.3.28.2554](https://img.shields.io/badge/AppVersion-0.3.28.2554-informational?style=flat-square)
+![Version: 23.0.3](https://img.shields.io/badge/Version-23.0.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.3.28.2554](https://img.shields.io/badge/AppVersion-0.3.28.2554-informational?style=flat-square)
 
 A fork of Radarr to work with Books & AudioBooks
 

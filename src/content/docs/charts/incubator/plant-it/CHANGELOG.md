@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.0.4 • [Train: incubator]
+
+- chore(deps): update container image common to v24.0.6@5cd15b8 by renovate (#23138) • [`b79d3fc`](https://github.com/truecharts/charts/commit/b79d3fce6d6f5a2533b217f2e9edb9e6e611d9e0) • [@TrueCharts Bot] (2024-06-15)
+
 ## 1.0.3 • [Train: incubator]
 
 - chore(deps): update container image msdeluise/plant-it-server to v0.7.3@27e5953 by renovate (#23306) • [`162c367`](https://github.com/truecharts/charts/commit/162c367bccf243e07f1aedf54935a28c78c4494c) • [@TrueCharts Bot] (2024-06-13)

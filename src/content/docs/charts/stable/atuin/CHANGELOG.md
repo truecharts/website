@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.1.1 • [Train: stable]
+
+- chore(deps): update container image common to v24.0.6@5cd15b8 by renovate (#23138) • [`b79d3fc`](https://github.com/truecharts/charts/commit/b79d3fce6d6f5a2533b217f2e9edb9e6e611d9e0) • [@TrueCharts Bot] (2024-06-15)
+
 ## 5.1.0 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/atuinsh/atuin to v18.3.0@678def8 by renovate (#23205) • [`888837b`](https://github.com/truecharts/charts/commit/888837b4f206acb11fabf41dacd10a41e2009ea0) • [@TrueCharts Bot] (2024-06-11)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.0.3 • [Train: stable]
+
+- chore(deps): update container image common to v24.0.6@5cd15b8 by renovate (#23138) • [`b79d3fc`](https://github.com/truecharts/charts/commit/b79d3fce6d6f5a2533b217f2e9edb9e6e611d9e0) • [@TrueCharts Bot] (2024-06-15)
+
 ## 12.0.2 • [Train: stable]
 
 - fix(teamspeak3): Fix Services (#23259) • [`a24dadc`](https://github.com/truecharts/charts/commit/a24dadc0c1c1039807732ce925a4fe1a2ae419e7) • [@alfi0812] (2024-06-13)

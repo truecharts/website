@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.1.4 • [Train: stable]
+
+- chore(deps): update container image common to v24.0.6@5cd15b8 by renovate (#23138) • [`b79d3fc`](https://github.com/truecharts/charts/commit/b79d3fce6d6f5a2533b217f2e9edb9e6e611d9e0) • [@TrueCharts Bot] (2024-06-15)
+
 ## 3.1.3 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/bitmagnet-io/bitmagnet to v0.9.2@0d34a4c by renovate (#23342) • [`afcab7c`](https://github.com/truecharts/charts/commit/afcab7cafa869073d2b60bc9f70c292567aaaa3e) • [@TrueCharts Bot] (2024-06-14)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.0.4 • [Train: stable]
+
+- chore(deps): update container image common to v24.0.6@5cd15b8 by renovate (#23138) • [`b79d3fc`](https://github.com/truecharts/charts/commit/b79d3fce6d6f5a2533b217f2e9edb9e6e611d9e0) • [@TrueCharts Bot] (2024-06-15)
+
 ## 8.0.3 • [Train: stable]
 
 - chore(deps): update container image docker to 26.1.4-dind@d8714cb by renovate (#23264) • [`0eadb2d`](https://github.com/truecharts/charts/commit/0eadb2df8ed17dc6091615fa8b51f0c3edd4ac80) • [@TrueCharts Bot] (2024-06-13)
