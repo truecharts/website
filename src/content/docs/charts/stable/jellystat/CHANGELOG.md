@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.0.2 • [Train: stable]
+
+- chore(deps): update container image cyfershepard/jellystat to latest@9c2574f by renovate (#23335) • [`21b49ac`](https://github.com/truecharts/charts/commit/21b49acd4950e25a1fbe443a3420e5d1a1c27118) • [@TrueCharts Bot] (2024-06-14)
+
 ## 5.0.1 • [Train: stable]
 
 - Commit daily changes • [`6a5d0ec`](https://github.com/truecharts/charts/commit/6a5d0ec00d4c1d2b7c51371717c727790c923ca3) • [@TrueCharts-Bot] (2024-06-10)
