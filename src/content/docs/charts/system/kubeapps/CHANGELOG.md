@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.0.0 • [Train: system]
 
+- chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
 - Commit daily changes • [`6a5d0ec`](https://github.com/truecharts/charts/commit/6a5d0ec00d4c1d2b7c51371717c727790c923ca3) • [@TrueCharts-Bot] (2024-06-10)
 - Update Chart.yaml • [`efe0600`](https://github.com/truecharts/charts/commit/efe0600d7c77de64637e848ded478ecf073ac26d) • [@Kjeld Schouten] (2024-06-06)
 

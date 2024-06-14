@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 7.1.0 • [Train: system]
 
+- chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
 - Commit daily changes • [`6a5d0ec`](https://github.com/truecharts/charts/commit/6a5d0ec00d4c1d2b7c51371717c727790c923ca3) • [@TrueCharts-Bot] (2024-06-10)
 - chore(deps): update ignored updates to v24.0.0@4765f19 by renovate (#22760) • [`d30630a`](https://github.com/truecharts/charts/commit/d30630af0f3a5ff10fe72ccb25e66bd2229b5067) • [@TrueCharts Bot] (2024-06-04)
 
