@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 18.0.9 • [Train: stable]
+
+- chore(deps): update container image cthulhoo/ttrss-fpm-pgsql-static to latest@35e9e3f by renovate (#23368) • [`615ba77`](https://github.com/truecharts/charts/commit/615ba77ca3d86d94960dcd37ac524cccd15b3deb) • [@TrueCharts Bot] (2024-06-15)
+
 ## 18.0.7 • [Train: stable]
 
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)

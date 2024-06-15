@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.0.8 • [Train: stable]
+
+- chore(deps): update container image tracksapp/tracks to latest@338f35e by renovate (#23371) • [`af9e842`](https://github.com/truecharts/charts/commit/af9e842e25b70d9a628ac657530169b33493005c) • [@TrueCharts Bot] (2024-06-15)
+
 ## 7.0.7 • [Train: stable]
 
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
