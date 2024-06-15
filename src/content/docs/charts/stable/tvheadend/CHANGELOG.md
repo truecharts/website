@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 21.0.3 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/tvheadend to latest@4d3991b by renovate (#23379) • [`e25fa58`](https://github.com/truecharts/charts/commit/e25fa589ca961495e44e0fb7f6569dfb035c6df5) • [@TrueCharts Bot] (2024-06-15)
+
 ## 21.0.2 • [Train: stable]
 
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)

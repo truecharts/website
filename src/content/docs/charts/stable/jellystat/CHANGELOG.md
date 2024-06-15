@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.0.3 • [Train: stable]
+
+- chore(deps): update container image cyfershepard/jellystat to latest@c1ea78b by renovate (#23375) • [`64d0e3c`](https://github.com/truecharts/charts/commit/64d0e3c7de5682d4881a2380e0c55fb590a236ad) • [@TrueCharts Bot] (2024-06-15)
+
 ## 5.0.2 • [Train: stable]
 
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
