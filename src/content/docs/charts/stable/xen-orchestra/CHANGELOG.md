@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.0.4 • [Train: stable]
+
+- chore(deps): update container image ronivay/xen-orchestra to 5.144.2@4f4d923 by renovate (#23366) • [`7219b7a`](https://github.com/truecharts/charts/commit/7219b7a777c6ffabe9a2a79defdc96a7049795b5) • [@TrueCharts Bot] (2024-06-15)
+
 ## 10.0.3 • [Train: stable]
 
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)

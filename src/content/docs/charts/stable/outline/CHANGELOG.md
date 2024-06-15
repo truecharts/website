@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 14.1.2 • [Train: stable]
+
+- chore(deps): update container image outlinewiki/outline to v0.77.1@caaec95 by renovate (#23367) • [`1f12153`](https://github.com/truecharts/charts/commit/1f121533d937797c5de9402bc0bfffb535c9641c) • [@TrueCharts Bot] (2024-06-15)
+
 ## 14.1.1 • [Train: stable]
 
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
