@@ -11,6 +11,17 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.0.3 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/m1k1o/neko/xfce to v2.8.12@9e22037 by renovate (#23399) • [`d62e49a`](https://github.com/truecharts/charts/commit/d62e49a5764a88ab7da74173e686e4ae291cb1e5) • [@TrueCharts Bot] (2024-06-15)
+- chore(deps): update container image ghcr.io/m1k1o/neko/firefox to v2.8.12@a6ccd71 by renovate (#23392) • [`7f94f97`](https://github.com/truecharts/charts/commit/7f94f9735e56c9656de1d80648b8f0fbcc3f466f) • [@TrueCharts Bot] (2024-06-15)
+- chore(deps): update container image ghcr.io/m1k1o/neko/vlc to v2.8.12@bd5448e by renovate (#23398) • [`bbe04b2`](https://github.com/truecharts/charts/commit/bbe04b2957a8d37a89c4efe36d5ac942b9c33ec6) • [@TrueCharts Bot] (2024-06-15)
+- chore(deps): update container image ghcr.io/m1k1o/neko/tor-browser to v2.8.12@16e985d by renovate (#23396) • [`1c708b0`](https://github.com/truecharts/charts/commit/1c708b042cfcd58d0aad3b461bef9044b4338c82) • [@TrueCharts Bot] (2024-06-15)
+- chore(deps): update container image ghcr.io/m1k1o/neko/chromium to v2.8.12@8d9d431 by renovate (#23391) • [`072bc1d`](https://github.com/truecharts/charts/commit/072bc1dd6fd872137c0cc5f79f0e71636b06b720) • [@TrueCharts Bot] (2024-06-15)
+- chore(deps): update container image ghcr.io/m1k1o/neko/remmina to v2.8.12@9a60e2a by renovate (#23395) • [`93a7b38`](https://github.com/truecharts/charts/commit/93a7b382887b195a000aac2790a7b177ca5967d3) • [@TrueCharts Bot] (2024-06-15)
+- chore(deps): update container image ghcr.io/m1k1o/neko/google-chrome to v2.8.12@5b9c75b by renovate (#23393) • [`dbbbf4d`](https://github.com/truecharts/charts/commit/dbbbf4da84fe5d0de31d5f07a7676bb60a72ff40) • [@TrueCharts Bot] (2024-06-15)
+- chore(deps): update container image ghcr.io/m1k1o/neko/vivaldi to v2.8.12@158d1e1 by renovate (#23397) • [`007f8d0`](https://github.com/truecharts/charts/commit/007f8d03f876680b46e7d845cf2f2af510a513fc) • [@TrueCharts Bot] (2024-06-15)
+
 ## 8.0.2 • [Train: stable]
 
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
