@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 22.0.3 • [Train: stable]
+
+- chore(deps): update container image linuxserver/heimdall to v@0139d77 by renovate (#23354) • [`203a007`](https://github.com/truecharts/charts/commit/203a007b9877f642547270e57ab9f9fbaff7e60a) • [@TrueCharts Bot] (2024-06-15)
+
 ## 22.0.2 • [Train: stable]
 
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
