@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.0.15 • [Train: incubator]
+
+- chore(deps): update container image ghcr.io/neggles/sd-webui-docker to latest@ea49780 by renovate (#23361) • [`fe61c73`](https://github.com/truecharts/charts/commit/fe61c73f878798e0ad1b5b381e95c8ee947ccddb) • [@TrueCharts Bot] (2024-06-15)
+
 ## 2.0.14 • [Train: incubator]
 
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
