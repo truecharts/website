@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 9.0.7 • [Train: stable]
+
+- chore(deps): update container image searxng/searxng to latest@35ef74d by renovate (#23370) • [`a2b70d1`](https://github.com/truecharts/charts/commit/a2b70d1c88638aa3a3d0c08f1644c181fea5feec) • [@TrueCharts Bot] (2024-06-15)
+
 ## 9.0.6 • [Train: stable]
 
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
