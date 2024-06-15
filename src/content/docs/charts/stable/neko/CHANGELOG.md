@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 8.0.3 • [Train: stable]
 
+- chore(deps): update container image ghcr.io/m1k1o/neko/microsoft-edge to v2.8.12@c93e3cd by renovate (#23394) • [`38dca0e`](https://github.com/truecharts/charts/commit/38dca0e00732920fef73c533c7c3197f31bed676) • [@TrueCharts Bot] (2024-06-15)
 - chore(deps): update container image ghcr.io/m1k1o/neko/xfce to v2.8.12@9e22037 by renovate (#23399) • [`d62e49a`](https://github.com/truecharts/charts/commit/d62e49a5764a88ab7da74173e686e4ae291cb1e5) • [@TrueCharts Bot] (2024-06-15)
 - chore(deps): update container image ghcr.io/m1k1o/neko/firefox to v2.8.12@a6ccd71 by renovate (#23392) • [`7f94f97`](https://github.com/truecharts/charts/commit/7f94f9735e56c9656de1d80648b8f0fbcc3f466f) • [@TrueCharts Bot] (2024-06-15)
 - chore(deps): update container image ghcr.io/m1k1o/neko/vlc to v2.8.12@bd5448e by renovate (#23398) • [`bbe04b2`](https://github.com/truecharts/charts/commit/bbe04b2957a8d37a89c4efe36d5ac942b9c33ec6) • [@TrueCharts Bot] (2024-06-15)
