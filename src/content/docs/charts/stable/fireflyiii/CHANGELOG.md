@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 27.0.3 • [Train: stable]
+
+- chore(deps): update container image fireflyiii/core to vversion-6.1.17@06a12ab by renovate (#23389) • [`f01d71c`](https://github.com/truecharts/charts/commit/f01d71c682b8b7659bcb691d67d5348c8da5e82e) • [@TrueCharts Bot] (2024-06-15)
+
 ## 27.0.2 • [Train: stable]
 
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
