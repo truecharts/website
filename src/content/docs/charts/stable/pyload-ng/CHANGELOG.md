@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.0.4 • [Train: stable]
+
+- chore(deps): update container image lscr.io/linuxserver/pyload-ng to latest@374c809 by renovate (#23355) • [`0a9aac5`](https://github.com/truecharts/charts/commit/0a9aac50984d8d3e8f178ad71968c6a6bee42918) • [@TrueCharts Bot] (2024-06-15)
+
 ## 7.0.3 • [Train: stable]
 
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)

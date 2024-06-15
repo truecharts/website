@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.1.4 • [Train: stable]
+
+- chore(deps): update container image clickhouse to v14.0.4@3183bf4 by renovate (#23356) • [`b2b51a8`](https://github.com/truecharts/charts/commit/b2b51a8d6e9acf9b0238b492986c913c5d00c063) • [@TrueCharts Bot] (2024-06-15)
+
 ## 12.1.3 • [Train: stable]
 
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
