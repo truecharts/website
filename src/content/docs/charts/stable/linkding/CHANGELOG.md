@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.1.0 • [Train: stable]
+
+- chore(deps): update container image sissbruecker/linkding to v1.31.0@328c06b by renovate (#23426) • [`9c7a517`](https://github.com/truecharts/charts/commit/9c7a517b21feb23c42f6e46f0d94d11ff94e9718) • [@TrueCharts Bot] (2024-06-16)
+
 ## 11.0.2 • [Train: stable]
 
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
