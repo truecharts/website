@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.0.4 • [Train: stable]
+
+- chore(deps): update container image phalcode/gamevault-backend to v12.1.2@485d416 by renovate (#23400) • [`e00a44e`](https://github.com/truecharts/charts/commit/e00a44e2561a4eb164ac0a106ba64243f6bdb85b) • [@TrueCharts Bot] (2024-06-16)
+
 ## 8.0.3 • [Train: stable]
 
 - chore(deps): update container image phalcode/gamevault-backend to v@7aaa64e by renovate (#23382) • [`344d05b`](https://github.com/truecharts/charts/commit/344d05bfc12d894cd2a119d81993b41bc69cb8f5) • [@TrueCharts Bot] (2024-06-15)
