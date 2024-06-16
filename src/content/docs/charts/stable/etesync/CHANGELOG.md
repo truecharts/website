@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.1.2 • [Train: stable]
+
+- chore(deps): update container image victorrds/etesync to 0.14.2@ab89c9e by renovate (#23411) • [`1f2ffc3`](https://github.com/truecharts/charts/commit/1f2ffc360647bd2e96a7e63b662972c2558ae0a2) • [@TrueCharts Bot] (2024-06-16)
+
 ## 11.1.1 • [Train: stable]
 
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)

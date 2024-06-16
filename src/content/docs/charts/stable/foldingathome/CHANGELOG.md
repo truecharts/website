@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.0.4 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/foldingathome to 7.6.21@9a99742 by renovate (#23405) • [`2c65fa3`](https://github.com/truecharts/charts/commit/2c65fa30328886b39b62a7372fe0c6b9ea615cd2) • [@TrueCharts Bot] (2024-06-16)
+
 ## 11.0.3 • [Train: stable]
 
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
