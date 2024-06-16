@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 20.0.5 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/freshrss to 1.24.1@db842c3 by renovate (#23428) • [`edca9e1`](https://github.com/truecharts/charts/commit/edca9e1e527ce5e3cee21fe5eae8d07b5229d376) • [@TrueCharts Bot] (2024-06-16)
+
 ## 20.0.4 • [Train: stable]
 
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
