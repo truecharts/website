@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 14.0.20 • [Train: stable]
+
+- chore(deps): update container image diygod/rsshub to latest@e2f44fc by renovate (#23414) • [`061d89f`](https://github.com/truecharts/charts/commit/061d89fc15b0589244658aad39a93754568f8caf) • [@TrueCharts Bot] (2024-06-16)
+
 ## 14.0.19 • [Train: stable]
 
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
