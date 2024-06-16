@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.0.4 • [Train: stable]
+
+- chore(deps): update container image jeessy/ddns-go to v6.6.3@1618f5d by renovate (#23432) • [`d2a7704`](https://github.com/truecharts/charts/commit/d2a77047186d532eea6c6253186fe3e303b2d8ef) • [@TrueCharts Bot] (2024-06-16)
+
 ## 12.0.3 • [Train: stable]
 
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
