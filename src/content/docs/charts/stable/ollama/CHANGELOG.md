@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.0.22 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/open-webui/open-webui to latest@3747766 by renovate (#23444) • [`64b9637`](https://github.com/truecharts/charts/commit/64b963715ba27b7fbe4902944a5fc3a2835e4cb0) • [@TrueCharts Bot] (2024-06-17)
+
 ## 7.0.21 • [Train: stable]
 
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
