@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.0.8 • [Train: stable]
+
+- chore(deps): update container image mikenye/tar1090 to latest@3de54a1 by renovate (#23256) • [`f1737e6`](https://github.com/truecharts/charts/commit/f1737e6d680dfe6d8d54ddcf01a51b64b4acfdec) • [@TrueCharts Bot] (2024-06-17)
+
 ## 7.0.7 • [Train: stable]
 
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
