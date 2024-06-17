@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.0.3 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/dgtlmoon/changedetection.io to v0.45.24@e44d834 by renovate (#23473) • [`651a363`](https://github.com/truecharts/charts/commit/651a3639c929bb1b2c44a191f6e4a4177a76b252) • [@TrueCharts Bot] (2024-06-17)
+
 ## 4.0.2 • [Train: stable]
 
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
