@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.1.5 • [Train: stable]
+
+- chore(deps): update container image metabase/metabase to v0.50.5@6f28696 by renovate (#23457) • [`48e5367`](https://github.com/truecharts/charts/commit/48e53678d7a5b4c9636c8c6fb278270a6a5a1e4e) • [@TrueCharts Bot] (2024-06-17)
+
 ## 5.1.4 • [Train: stable]
 
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)

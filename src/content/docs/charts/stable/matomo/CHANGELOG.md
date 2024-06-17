@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 15.1.0 • [Train: stable]
+
+- chore(deps): update container image bitnami/matomo to v5.1.0@4dab8ef by renovate (#23458) • [`c19c83a`](https://github.com/truecharts/charts/commit/c19c83afdbcf82082564ce9b10382911cc2017e4) • [@TrueCharts Bot] (2024-06-17)
+
 ## 15.0.3 • [Train: stable]
 
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
