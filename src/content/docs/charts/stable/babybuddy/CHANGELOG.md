@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 18.1.1 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/babybuddy to 2.5.0@fcd445b by renovate (#23436) • [`e3fce1d`](https://github.com/truecharts/charts/commit/e3fce1dbb1d542891b5f54924a2cba20942ae8d4) • [@TrueCharts Bot] (2024-06-17)
+
 ## 18.1.0 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/babybuddy to v2.5.0@5edbee6 by renovate (#23401) • [`139c48f`](https://github.com/truecharts/charts/commit/139c48fbde2b45f6046d32a7852dfa663c070390) • [@TrueCharts Bot] (2024-06-15)
