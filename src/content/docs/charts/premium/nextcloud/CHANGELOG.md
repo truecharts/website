@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 31.1.13 • [Train: premium]
+
+- chore(deps): update container image nginxinc/nginx-unprivileged to 1.27.0@f0feab9 by renovate (#23445) • [`8755d80`](https://github.com/truecharts/charts/commit/8755d803cff3644a245aee66ff5038a5afa3e4ae) • [@TrueCharts Bot] (2024-06-17)
+
 ## 31.1.12 • [Train: premium]
 
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)

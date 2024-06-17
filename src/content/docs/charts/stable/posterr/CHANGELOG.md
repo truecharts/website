@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.0.3 • [Train: stable]
+
+- chore(deps): update container image petersem/posterr to latest@630a38e by renovate (#23446) • [`e4087f8`](https://github.com/truecharts/charts/commit/e4087f8bf077c1f9ec0afde28a4028c9d72269be) • [@TrueCharts Bot] (2024-06-17)
+
 ## 10.0.2 • [Train: stable]
 
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
