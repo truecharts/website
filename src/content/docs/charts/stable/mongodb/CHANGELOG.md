@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 14.0.3 • [Train: stable]
+
+- chore(deps): update container image bitnami/mongodb to 7.0.11@c4298ef by renovate (#23462) • [`c35307f`](https://github.com/truecharts/charts/commit/c35307f470e54ca727f226933daa3d7094464585) • [@TrueCharts Bot] (2024-06-17)
+
 ## 14.0.2 • [Train: stable]
 
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
