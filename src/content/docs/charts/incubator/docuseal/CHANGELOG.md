@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.1.2 • [Train: incubator]
+
+- chore(deps): update container image docuseal/docuseal to v1.6.1@1c19bc4 by renovate (#23455) • [`b2ae744`](https://github.com/truecharts/charts/commit/b2ae7442269fe2f82f2a4f0c9cfb3cb302540567) • [@TrueCharts Bot] (2024-06-17)
+
 ## 2.1.1 • [Train: incubator]
 
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
