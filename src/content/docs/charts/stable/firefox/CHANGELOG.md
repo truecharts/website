@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 16.1.0 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.0@b4ac4b1 by renovate (#23459) • [`285ab52`](https://github.com/truecharts/charts/commit/285ab520d4fe01f30c4dace0d08ed04216a2d845) • [@TrueCharts Bot] (2024-06-17)
+
 ## 16.0.3 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/firefox to 126.0.1@1d07fd4 by renovate (#23404) • [`944cd66`](https://github.com/truecharts/charts/commit/944cd66b13170ce92d8a663db2afabc89fe4a6f0) • [@TrueCharts Bot] (2024-06-16)

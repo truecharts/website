@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.1.0 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.0@b4ac4b1 by renovate (#23459) • [`285ab52`](https://github.com/truecharts/charts/commit/285ab520d4fe01f30c4dace0d08ed04216a2d845) • [@TrueCharts Bot] (2024-06-17)
+
 ## 8.0.3 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/m1k1o/neko/microsoft-edge to v2.8.12@c93e3cd by renovate (#23394) • [`38dca0e`](https://github.com/truecharts/charts/commit/38dca0e00732920fef73c533c7c3197f31bed676) • [@TrueCharts Bot] (2024-06-15)

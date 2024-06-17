@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.2.0 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.0@b4ac4b1 by renovate (#23459) • [`285ab52`](https://github.com/truecharts/charts/commit/285ab520d4fe01f30c4dace0d08ed04216a2d845) • [@TrueCharts Bot] (2024-06-17)
+
 ## 11.1.2 • [Train: stable]
 
 - chore(deps): update container image victorrds/etesync to 0.14.2@ab89c9e by renovate (#23411) • [`1f2ffc3`](https://github.com/truecharts/charts/commit/1f2ffc360647bd2e96a7e63b662972c2558ae0a2) • [@TrueCharts Bot] (2024-06-16)

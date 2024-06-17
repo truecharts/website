@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 18.1.0 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.0@b4ac4b1 by renovate (#23459) • [`285ab52`](https://github.com/truecharts/charts/commit/285ab520d4fe01f30c4dace0d08ed04216a2d845) • [@TrueCharts Bot] (2024-06-17)
+
 ## 18.0.3 • [Train: stable]
 
 - fix(pihole): Fix UID &amp; PID (#23402) • [`7a40e1f`](https://github.com/truecharts/charts/commit/7a40e1f8ac30bc8fa28c73224aa17b4dbead7af4) • [@alfi0812] (2024-06-16)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.1.0 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.0@b4ac4b1 by renovate (#23459) • [`285ab52`](https://github.com/truecharts/charts/commit/285ab520d4fe01f30c4dace0d08ed04216a2d845) • [@TrueCharts Bot] (2024-06-17)
+
 ## 11.0.3 • [Train: stable]
 
 - chore(deps): update container image mpepping/cyberchef to v10.18.8@93c427a by renovate (#23373) • [`944f851`](https://github.com/truecharts/charts/commit/944f851b0fe238ff8999255cc563011250cb1e1d) • [@TrueCharts Bot] (2024-06-15)

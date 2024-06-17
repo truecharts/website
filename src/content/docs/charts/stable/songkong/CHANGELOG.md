@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.0 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.0@b4ac4b1 by renovate (#23459) • [`285ab52`](https://github.com/truecharts/charts/commit/285ab520d4fe01f30c4dace0d08ed04216a2d845) • [@TrueCharts Bot] (2024-06-17)
+
 ## 7.0.3 • [Train: stable]
 
 - chore(deps): update container image songkong/songkong to latest@8b57acb by renovate (#23017) • [`8a21495`](https://github.com/truecharts/charts/commit/8a21495a7ec88f35b769a0c05c5d6c18b3b1b706) • [@TrueCharts Bot] (2024-06-15)
