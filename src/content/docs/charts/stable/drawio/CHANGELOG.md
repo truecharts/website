@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 13.1.5 • [Train: stable]
+
+- chore(deps): update container image jgraph/drawio to v24.5.5@19893e9 by renovate (#23260) • [`4b07e2d`](https://github.com/truecharts/charts/commit/4b07e2d4fa68539457665a058b7a7afe12f90a97) • [@TrueCharts Bot] (2024-06-17)
+
 ## 13.1.4 • [Train: stable]
 
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
