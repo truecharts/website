@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.8.0 • [Train: stable]
+
+- chore(deps): update container image docker.io/localai/localai to v2.17.0 by renovate (#23480) • [`f4098ac`](https://github.com/truecharts/charts/commit/f4098acad0780b867e0da16c4e4cf21555e0908b) • [@TrueCharts Bot] (2024-06-18)
+
 ## 11.1.0 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.0@b4ac4b1 by renovate (#23459) • [`285ab52`](https://github.com/truecharts/charts/commit/285ab520d4fe01f30c4dace0d08ed04216a2d845) • [@TrueCharts Bot] (2024-06-17)
