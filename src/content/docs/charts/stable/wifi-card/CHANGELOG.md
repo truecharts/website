@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.1 • [Train: stable]
+
+- chore(deps): update container image bndw/wifi-card to latest@4eaaaee by renovate (#23252) • [`b08cb6b`](https://github.com/truecharts/charts/commit/b08cb6b37bdcf6f96279a3cc65411a253af0bd99) • [@TrueCharts Bot] (2024-06-18)
+
 ## 7.1.0 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.0@b4ac4b1 by renovate (#23459) • [`285ab52`](https://github.com/truecharts/charts/commit/285ab520d4fe01f30c4dace0d08ed04216a2d845) • [@TrueCharts Bot] (2024-06-17)
