@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.1 • [Train: stable]
+
+- chore(deps): update container image testdasi/simple-dns-doh to latest@b00ddf0 by renovate (#23511) • [`4571689`](https://github.com/truecharts/charts/commit/45716891abb2aad61420455d4067d35ce5418854) • [@TrueCharts Bot] (2024-06-18)
+
 ## 7.1.0 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.0@b4ac4b1 by renovate (#23459) • [`285ab52`](https://github.com/truecharts/charts/commit/285ab520d4fe01f30c4dace0d08ed04216a2d845) • [@TrueCharts Bot] (2024-06-17)

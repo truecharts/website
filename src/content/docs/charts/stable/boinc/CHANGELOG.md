@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.1.1 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/boinc to latest@6411542 by renovate (#23505) • [`8295b8a`](https://github.com/truecharts/charts/commit/8295b8aada705f5b853fd372284320c4761ab0ac) • [@TrueCharts Bot] (2024-06-18)
+
 ## 11.1.0 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.0@b4ac4b1 by renovate (#23459) • [`285ab52`](https://github.com/truecharts/charts/commit/285ab520d4fe01f30c4dace0d08ed04216a2d845) • [@TrueCharts Bot] (2024-06-17)
