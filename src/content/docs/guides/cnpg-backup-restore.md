@@ -28,7 +28,7 @@ For each chart:
 
 3. Confirm the data is being sent to your S3 host after ~5 minutes
 
-4. We advise you to set the "mode" to `restore`, this should prevent the app starting with an empty database upon restore.
+4. We advise you to set the "mode" to `recovery`, this should prevent the app starting with an empty database upon restoration.
 
 It will look something like this:
 
@@ -49,7 +49,7 @@ cnpg:
 
 Before CNPG will correctly restore the database, the following modifications need to be done after recreating or importing the app configuration:
 
-1. Ensure you've setup CNPG backups as well as restore as it was previously
+1. Ensure you've setup CNPG backups as well as recovery as it was previously
 
 2. Ensure the "mode" is set to `recovery`
 
