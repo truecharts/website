@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 9.4.0 • [Train: stable]
+
+- chore(deps): update container image jenkins/jenkins to v2.463-jdk17@127bf7e by renovate (#23516) • [`d6609df`](https://github.com/truecharts/charts/commit/d6609dfadc8ac2a84be98bfe29a307b25a92e3a5) • [@TrueCharts Bot] (2024-06-18)
+
 ## 9.3.0 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.0@b4ac4b1 by renovate (#23459) • [`285ab52`](https://github.com/truecharts/charts/commit/285ab520d4fe01f30c4dace0d08ed04216a2d845) • [@TrueCharts Bot] (2024-06-17)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.2.0 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/autobrr/autobrr to v1.43.0@e26879a by renovate (#23515) • [`816d35d`](https://github.com/truecharts/charts/commit/816d35d2a25563382be7fbf2a00f5b4d8fed5857) • [@TrueCharts Bot] (2024-06-18)
+
 ## 10.1.0 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.0@b4ac4b1 by renovate (#23459) • [`285ab52`](https://github.com/truecharts/charts/commit/285ab520d4fe01f30c4dace0d08ed04216a2d845) • [@TrueCharts Bot] (2024-06-17)
