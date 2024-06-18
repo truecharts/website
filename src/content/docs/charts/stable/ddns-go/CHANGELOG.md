@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 12.1.0 • [Train: stable]
 
+- Commit daily changes • [`3728365`](https://github.com/truecharts/charts/commit/3728365c415100856c1f1832780169540f2c195f) • [@TrueCharts-Bot] (2024-06-18)
 - chore(deps): update container image common to v24.1.0@b4ac4b1 by renovate (#23459) • [`285ab52`](https://github.com/truecharts/charts/commit/285ab520d4fe01f30c4dace0d08ed04216a2d845) • [@TrueCharts Bot] (2024-06-17)
 
 ## 12.0.5 • [Train: stable]
