@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.1.2 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/ctfd/ctfd to v3.7.2@bb80771 by renovate (#23529) • [`fdb43d8`](https://github.com/truecharts/charts/commit/fdb43d82b36b5ae2c56e0029467c0a2a0a6babf7) • [@TrueCharts Bot] (2024-06-19)
+
 ## 6.1.1 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.1@b724c5c by renovate (#23513) • [`5e190a7`](https://github.com/truecharts/charts/commit/5e190a7662b12c04411fa678530464f49d925045) • [@TrueCharts Bot] (2024-06-18)
