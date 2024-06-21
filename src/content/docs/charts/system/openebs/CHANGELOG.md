@@ -11,8 +11,15 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.0.0 • [Train: system]
+
+- chore(OpenEBS): BREAKING CHANGE Remove ZFS and LVM backends and CRDs • [`017322c`](https://github.com/truecharts/charts/commit/017322c69ab31187f662e5c4ef70d164eafa460e) • [@Kjeld Schouten] (2024-06-21)
+
 ## 7.1.0 • [Train: system]
 
+- Update values.yaml • [`e055b04`](https://github.com/truecharts/charts/commit/e055b0405b2888a7039dde62a03c404589153dd3) • [@Kjeld Schouten] (2024-06-21)
+- Update Chart.yaml • [`0e4417e`](https://github.com/truecharts/charts/commit/0e4417ea5c9533be19bbd234f3531cd7f9ac1ab1) • [@Kjeld Schouten] (2024-06-21)
+- Update values.yaml • [`d55010b`](https://github.com/truecharts/charts/commit/d55010bb05848a83f779405d52a889b5aaa95dcb) • [@Kjeld Schouten] (2024-06-21)
 - chore(chart.yaml): remove scale support annotation (#23134) • [`2d471e5`](https://github.com/truecharts/charts/commit/2d471e587da019f0a9cd0e193b30861f1b9738ad) • [@Stavros Kois] (2024-06-15)
 - Commit daily changes • [`6a5d0ec`](https://github.com/truecharts/charts/commit/6a5d0ec00d4c1d2b7c51371717c727790c923ca3) • [@TrueCharts-Bot] (2024-06-10)
 - chore(deps): update ignored updates to v24.0.0@4765f19 by renovate (#22760) • [`d30630a`](https://github.com/truecharts/charts/commit/d30630af0f3a5ff10fe72ccb25e66bd2229b5067) • [@TrueCharts Bot] (2024-06-04)
