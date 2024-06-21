@@ -37,3 +37,51 @@ Obtain the Talos ISO [here](https://github.com/siderolabs/talos/releases/downloa
 8. In the `Storage` section, select the optical drive and on the right, select the ISO you downloaded earlier by browsing your filesystem
 
 ![storage](./img/vb-storage.png)
+
+## ClusterTool 
+
+By default ClusterTool installs the `qemu-guest-agent` extension. This is not compatible with VirtualBox and should be commented out as shown below in the `talconfig.yaml` file:
+
+```yaml
+// talconfig.yaml
+controlPlane:
+    patches:
+        - '@./patches/controlplane.yaml'
+        - '@./patches/sopssecret.yaml'
+        - '@./patches/manifests.yaml'
+        # - '@./patches/nvidia.yaml'
+    schematic:
+        customization:
+            extraKernelArgs:
+                - net.ifnames=0
+            systemExtensions:
+                officialExtensions:
+                    - siderolabs/iscsi-tools
+                    # - siderolabs/qemu-guest-agent
+                    # Enable where needed
+                    # - siderolabs/amd-ucode
+                    # - siderolabs/bnx2-bnx2x
+                    # - siderolabs/drbd
+                    # - siderolabs/gasket-driver
+                    # - siderolabs/i915-ucode
+                    # - siderolabs/intel-ucode
+                    # - siderolabs/thunderbolt
+worker:
+    patches:
+        - '@./patches/worker.yaml'
+        # - '@./patches/nvidia.yaml'
+    schematic:
+        customization:
+            systemExtensions:
+                officialExtensions:
+                    # Enable where needed
+                    # - siderolabs/amd-ucode
+                    # - siderolabs/bnx2-bnx2x
+                    - siderolabs/iscsi-tools
+                    # - siderolabs/qemu-guest-agent
+                    # - siderolabs/drbd
+                    # - siderolabs/gasket-driver
+                    # - siderolabs/i915-ucode
+                    # - siderolabs/intel-ucode
+                    # - siderolabs/thunderbolt
+```
