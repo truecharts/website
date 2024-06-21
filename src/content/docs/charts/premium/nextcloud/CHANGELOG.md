@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 31.2.6 • [Train: premium]
+
+- chore(deps): update container image collabora/code to v24.04.4.2.1@e02333a by renovate (#23644) • [`053c32d`](https://github.com/truecharts/charts/commit/053c32d8a9e7c8c97f5cfc62fd9670f98866abcc) • [@TrueCharts Bot] (2024-06-21)
+
 ## 31.2.5 • [Train: premium]
 
 - chore(deps): update nextcloud by renovate (#23643) • [`d6ecfba`](https://github.com/truecharts/charts/commit/d6ecfba7b2834fbef1037437db3964fc28ad2f2f) • [@TrueCharts Bot] (2024-06-21)
