@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.1.3 • [Train: incubator]
+
+- feat(TeslaMate): adding grafana annotation for adding a directory to TeslaMate dashboard (#23674) • [`f50aeef`](https://github.com/truecharts/charts/commit/f50aeef909c3a522d8daa541d06b2a12ba04d665) • [@Nick Kampe] (2024-06-22)
+
 ## 2.1.2 • [Train: incubator]
 
 - chore(deps): update container image teslamate/teslamate to v1.29.2@90dac68 by renovate (#23518) • [`2e8834c`](https://github.com/truecharts/charts/commit/2e8834c9684506ba1c05dc4a93e8726c1078d418) • [@TrueCharts Bot] (2024-06-18)
