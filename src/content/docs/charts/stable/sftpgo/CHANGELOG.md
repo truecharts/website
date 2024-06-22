@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.1.4 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.2@b2bbd35 by renovate (#23666) • [`535656c`](https://github.com/truecharts/charts/commit/535656ced292cb037c91ff1b89dc93b430d6aa5c) • [@TrueCharts Bot] (2024-06-22)
+
 ## 8.1.3 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/drakkan/sftpgo to v2.6.2@f1426b7 by renovate (#23668) • [`308161f`](https://github.com/truecharts/charts/commit/308161fbbb4be5b8c249597049f5b9fb1e8b539c) • [@TrueCharts Bot] (2024-06-22)
