@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 19.2.0 • [Train: premium]
+
+- chore(deps): update container image bitnami/prometheus to v2.53.0@061a74a by renovate (#23560) • [`f9b3892`](https://github.com/truecharts/charts/commit/f9b38926b65bc091e955238844fbdfda7c393b12) • [@TrueCharts Bot] (2024-06-22)
+
 ## 19.1.2 • [Train: premium]
 
 - chore(deps): update container image common to v24.1.2@b2bbd35 by renovate (#23691) • [`9dfc98c`](https://github.com/truecharts/charts/commit/9dfc98c4e0f7e9c47800d6239f7eb377fae599cf) • [@TrueCharts Bot] (2024-06-22)
