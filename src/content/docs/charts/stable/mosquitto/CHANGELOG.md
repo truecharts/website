@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 16.1.3 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.2@b2bbd35 by renovate (#23691) • [`9dfc98c`](https://github.com/truecharts/charts/commit/9dfc98c4e0f7e9c47800d6239f7eb377fae599cf) • [@TrueCharts Bot] (2024-06-22)
+
 ## 16.1.2 • [Train: stable]
 
 - chore(deps): update container image eclipse-mosquitto to 2.0.18@8634f0c by renovate (#23614) • [`ac96899`](https://github.com/truecharts/charts/commit/ac968993a217297df519b0ac44b9e0fcd18ab00b) • [@TrueCharts Bot] (2024-06-21)

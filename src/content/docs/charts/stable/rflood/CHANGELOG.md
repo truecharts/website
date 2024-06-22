@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.3 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.2@b2bbd35 by renovate (#23691) • [`9dfc98c`](https://github.com/truecharts/charts/commit/9dfc98c4e0f7e9c47800d6239f7eb377fae599cf) • [@TrueCharts Bot] (2024-06-22)
+
 ## 7.1.2 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/hotio/rflood to latest@9fad2e0 by renovate (#23618) • [`00d017c`](https://github.com/truecharts/charts/commit/00d017c5b7fd343327ac1971ab1965a1da885449) • [@TrueCharts Bot] (2024-06-21)

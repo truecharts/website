@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 15.1.4 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.2@b2bbd35 by renovate (#23691) • [`9dfc98c`](https://github.com/truecharts/charts/commit/9dfc98c4e0f7e9c47800d6239f7eb377fae599cf) • [@TrueCharts Bot] (2024-06-22)
+
 ## 15.1.3 • [Train: stable]
 
 - chore(deps): update container image alpine to 3.20.1@b89d9c9 by renovate (#23610) • [`f61e6d7`](https://github.com/truecharts/charts/commit/f61e6d7a8ea6d865eb9101ab1ee6ac30767dd945) • [@TrueCharts Bot] (2024-06-21)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.3 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.2@b2bbd35 by renovate (#23691) • [`9dfc98c`](https://github.com/truecharts/charts/commit/9dfc98c4e0f7e9c47800d6239f7eb377fae599cf) • [@TrueCharts Bot] (2024-06-22)
+
 ## 7.1.2 • [Train: stable]
 
 - chore(deps): update container image lswl/vertex to stable@912cc90 by renovate (#23650) • [`92c6735`](https://github.com/truecharts/charts/commit/92c6735a1c76289815dac11f71033aefdadde5cf) • [@TrueCharts Bot] (2024-06-21)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.1.3 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.2@b2bbd35 by renovate (#23691) • [`9dfc98c`](https://github.com/truecharts/charts/commit/9dfc98c4e0f7e9c47800d6239f7eb377fae599cf) • [@TrueCharts Bot] (2024-06-22)
+
 ## 11.1.2 • [Train: stable]
 
 - chore(deps): update container image linuxserver/snapdrop to latest@7b3b9f4 by renovate (#23593) • [`add6022`](https://github.com/truecharts/charts/commit/add60228db83d90c8318b479b7843fdd9f6d5592) • [@TrueCharts Bot] (2024-06-20)

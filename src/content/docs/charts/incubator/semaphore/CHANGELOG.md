@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.2.3 • [Train: incubator]
+
+- chore(deps): update container image common to v24.1.2@b2bbd35 by renovate (#23691) • [`9dfc98c`](https://github.com/truecharts/charts/commit/9dfc98c4e0f7e9c47800d6239f7eb377fae599cf) • [@TrueCharts Bot] (2024-06-22)
+
 ## 3.2.2 • [Train: incubator]
 
 - chore(deps): update container image semaphoreui/semaphore to v2.10.7@2d72350 by renovate (#23577) • [`2724ae4`](https://github.com/truecharts/charts/commit/2724ae466bd465001ab98376952fcb8d97784fd7) • [@TrueCharts Bot] (2024-06-20)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.1.3 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.2@b2bbd35 by renovate (#23691) • [`9dfc98c`](https://github.com/truecharts/charts/commit/9dfc98c4e0f7e9c47800d6239f7eb377fae599cf) • [@TrueCharts Bot] (2024-06-22)
+
 ## 4.1.2 • [Train: stable]
 
 - chore(deps): update container image jorenn92/maintainerr to v2.0.4@302281a by renovate (#23557) • [`cd60363`](https://github.com/truecharts/charts/commit/cd60363b306702a5eb9b5ecb33e683196b4b2717) • [@TrueCharts Bot] (2024-06-19)

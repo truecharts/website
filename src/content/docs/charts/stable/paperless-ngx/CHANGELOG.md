@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 9.3.2 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.2@b2bbd35 by renovate (#23691) • [`9dfc98c`](https://github.com/truecharts/charts/commit/9dfc98c4e0f7e9c47800d6239f7eb377fae599cf) • [@TrueCharts Bot] (2024-06-22)
+
 ## 9.3.1 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/paperless-ngx/paperless-ngx to v2.10.1@a132c2a by renovate (#23537) • [`4cef2bc`](https://github.com/truecharts/charts/commit/4cef2bc5c682465fb0cb9a83d5b43efec3974c3a) • [@TrueCharts Bot] (2024-06-19)

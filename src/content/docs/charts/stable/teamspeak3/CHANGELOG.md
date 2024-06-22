@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.1.3 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.2@b2bbd35 by renovate (#23691) • [`9dfc98c`](https://github.com/truecharts/charts/commit/9dfc98c4e0f7e9c47800d6239f7eb377fae599cf) • [@TrueCharts Bot] (2024-06-22)
+
 ## 12.1.2 • [Train: stable]
 
 - chore(deps): update container image teamspeak to 3.13.7@1049918 by renovate (#23635) • [`7009ec4`](https://github.com/truecharts/charts/commit/7009ec4db5bcdcc0ca9f67896e6bfce10ac7cd0b) • [@TrueCharts Bot] (2024-06-21)
