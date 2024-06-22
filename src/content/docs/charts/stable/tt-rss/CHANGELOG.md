@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 18.1.12 • [Train: stable]
+
+- chore(deps): update container image cthulhoo/ttrss-web-nginx to latest@3c6a0ff by renovate (#23685) • [`9c2c512`](https://github.com/truecharts/charts/commit/9c2c512723dfc70a8d111ac3c3eb59dd7c6b2bb9) • [@TrueCharts Bot] (2024-06-22)
+
 ## 18.1.11 • [Train: stable]
 
 - chore(deps): update container image cthulhoo/ttrss-fpm-pgsql-static to latest@3316dcd by renovate (#23599) • [`1778b94`](https://github.com/truecharts/charts/commit/1778b94b2238bdd4399e4989469ed4ab0fa09134) • [@TrueCharts Bot] (2024-06-21)
