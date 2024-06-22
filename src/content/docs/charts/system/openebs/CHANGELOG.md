@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 8.0.0 • [Train: system]
 
+- Commit daily changes • [`205505a`](https://github.com/truecharts/charts/commit/205505a84788ce169ad520365fe7a43e4bf71c49) • [@TrueCharts-Bot] (2024-06-22)
 - chore(OpenEBS): BREAKING CHANGE Remove ZFS and LVM backends and CRDs • [`017322c`](https://github.com/truecharts/charts/commit/017322c69ab31187f662e5c4ef70d164eafa460e) • [@Kjeld Schouten] (2024-06-21)
 
 ## 7.1.0 • [Train: system]
