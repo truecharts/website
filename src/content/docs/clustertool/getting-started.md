@@ -73,6 +73,7 @@ You're free to add settings as you please, or as you need them. Feel free to ada
 
 Primary settings that **need** to be adapted:
 
+- `MASTER1IP`: The IP that was set in the TalosOS network configuration
 - `VIP`: Contains the shared IP for all master-nodes
 - `METALLB_RANGE`: Contains the range MetalLB will allow IPs to be distributed in
 - `KUBEAPPS_IP`: The IP, within the MetalLB range, KubeApps will be made available on
@@ -124,8 +125,9 @@ We **highly** advise to always run `checkcrypt` before sending data to git.
 
 To send the data to git run:
 
-`git commit -A`
-`git push`
+- `get add *`
+- `git commit -a -m "some description"`
+- `git push`
 
 ## Generating ClusterConfig and updating files from Config
 
