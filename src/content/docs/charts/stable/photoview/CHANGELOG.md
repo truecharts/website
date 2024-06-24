@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 15.2.0 • [Train: stable]
+
+- chore(deps): update container image viktorstrate/photoview to v2.4.0@f914c44 by renovate (#23728) • [`12367d2`](https://github.com/truecharts/charts/commit/12367d286e9b18012d25f4536bcd53d8cc7199fa) • [@TrueCharts Bot] (2024-06-24)
+
 ## 15.1.2 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.2@b2bbd35 by renovate (#23691) • [`9dfc98c`](https://github.com/truecharts/charts/commit/9dfc98c4e0f7e9c47800d6239f7eb377fae599cf) • [@TrueCharts Bot] (2024-06-22)
