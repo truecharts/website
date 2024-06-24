@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.4 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.3@9f6f5f2 by renovate (#23706) • [`dff8a2e`](https://github.com/truecharts/charts/commit/dff8a2e9b24cb47a4ca5b9c7b87494462fe4f986) • [@TrueCharts Bot] (2024-06-24)
+
 ## 7.1.3 • [Train: stable]
 
 - chore(deps): update container image jsavargas/telethon_downloader to latest@2d58543 by renovate (#23732) • [`61753a3`](https://github.com/truecharts/charts/commit/61753a3b7324b868b70b4dea967aad8471d2fced) • [@TrueCharts Bot] (2024-06-24)
