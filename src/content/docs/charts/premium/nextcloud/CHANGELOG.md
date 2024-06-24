@@ -11,6 +11,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 31.2.8 • [Train: premium]
+
+- chore(deps): update container image nginxinc/nginx-unprivileged to 1.27.0@5dde1b1 by renovate (#23733) • [`2d395cf`](https://github.com/truecharts/charts/commit/2d395cfab35457dfdf6b22fb8d5cb57ea4755e4a) • [@TrueCharts Bot] (2024-06-24)
+- chore(deps): update container image clamav/clamav to 1.3.1@a0e9bc4 by renovate (#23729) • [`359f9b0`](https://github.com/truecharts/charts/commit/359f9b0d62e947a5b345390aa26d832038e1bdbb) • [@TrueCharts Bot] (2024-06-24)
+
 ## 31.2.7 • [Train: premium]
 
 - chore(deps): update container image common to v24.1.2@b2bbd35 by renovate (#23691) • [`9dfc98c`](https://github.com/truecharts/charts/commit/9dfc98c4e0f7e9c47800d6239f7eb377fae599cf) • [@TrueCharts Bot] (2024-06-22)
