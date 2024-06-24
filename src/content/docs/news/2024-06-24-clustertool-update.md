@@ -31,16 +31,13 @@ Thanks to integration with [Talhelper](https://budimanjojo.github.io/talhelper/l
 
 After setup, the complete cluster is truly yours. You can modify anything you like, including the core components we installed.
 
-ClusterTool also supports SOPS encryption, allowing you to safely store your cluster data anywhere. 
-Byond all of this, we've even added advanced tools to upgrade and alter your entire Talos cluster with just a single command!
-
+ClusterTool also supports SOPS encryption, allowing you to safely store your cluster data anywhere. Beyond all of this, we've even added advanced tools to upgrade and alter your entire Talos cluster with just a single command
 
 ## Migrating from TrueNAS SCALE
 
 ClusterTool will eventually feature automated tooling to migrate all TrueCharts TrueNAS SCALE Apps directly into your new cluster, making the transition seamless.
 
 Our current goal is to ensure cluster deployment is rock-solid before introducing migration tooling. Once the ALPHA of ClusterTool is stable, we will prioritize developing reliable migration tools as quickly as possible.
-
 
 ## ClusterTool: Roadmap
 
