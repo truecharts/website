@@ -6,9 +6,6 @@ date: 2024-06-24
 tags:
   - "2024"
 ---
-
-**SCALE Migration Path Update**
-
 As previously announced, we will share more detailed information on the road forward for our SCALE users on July 1st. We are well into this work and can finally share some preliminary information ahead of the official announcement.
 
 ## Introducing: Talos Linux
