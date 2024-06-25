@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 8.0.0 • [Train: system]
 
+- chore(deps): update ignored by renovate (minor) (#23461) • [`8fbaea7`](https://github.com/truecharts/charts/commit/8fbaea7d86cbb4a4da66c7140ea96bf471c8dad5) • [@TrueCharts Bot] (2024-06-25)
 - Commit daily changes • [`205505a`](https://github.com/truecharts/charts/commit/205505a84788ce169ad520365fe7a43e4bf71c49) • [@TrueCharts-Bot] (2024-06-22)
 - chore(OpenEBS): BREAKING CHANGE Remove ZFS and LVM backends and CRDs • [`017322c`](https://github.com/truecharts/charts/commit/017322c69ab31187f662e5c4ef70d164eafa460e) • [@Kjeld Schouten] (2024-06-21)
 
