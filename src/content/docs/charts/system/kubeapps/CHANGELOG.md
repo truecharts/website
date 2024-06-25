@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.1.1 • [Train: system]
+
+- Update Chart.yaml • [`3435297`](https://github.com/truecharts/charts/commit/3435297bb1a6fccaea8924e0915b4a47de40357f) • [@Kjeld Schouten] (2024-06-25)
+
 ## 5.1.0 • [Train: system]
 
 - Update values.yaml • [`6083feb`](https://github.com/truecharts/charts/commit/6083feba49f909231eda49e2eadd380dbf13d32a) • [@Kjeld Schouten] (2024-06-25)
