@@ -8,10 +8,10 @@ Add support for using Intel Devices in yoru cluster
 
 ## Chart Sources
 
-- https://github.com/intel-device-operator/intel-device-operator
-- https://github.com/truecharts/charts/tree/master/charts/system/intel-device-operator
+- https://github.com/intel-device-plugins-operator/intel-device-plugins-operator
+- https://github.com/truecharts/charts/tree/master/charts/system/intel-device-plugins-operator
 - https://github.com/truecharts/containers/tree/master/apps/alpine
-- https://intel-device-operator.universe.tf
+- https://intel-device-plugins-operator.universe.tf
 
 ## Available Documentation
 

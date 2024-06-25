@@ -17,4 +17,5 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.1 • [Train: system]
 
+- whoops • [`c875665`](https://github.com/truecharts/charts/commit/c87566573aa13a9cb13322662a35740a5afabe31) • [@Kjeld Schouten] (2024-06-25)
 - Update Chart.yaml • [`cc5ef71`](https://github.com/truecharts/charts/commit/cc5ef71bd54c65d974443ad1606d68035ce2b175) • [@Kjeld Schouten] (2024-06-25)
