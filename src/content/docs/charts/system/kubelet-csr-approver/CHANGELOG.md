@@ -15,6 +15,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - chore: Add a bunch of direct-from-upstream system charts for clustertool-use (#23768) • [`e1bc567`](https://github.com/truecharts/charts/commit/e1bc5676c686f29322d66bd7e71f4c41c411ecf5) • [@Kjeld Schouten] (2024-06-25)
 
+## 1.0.0 • [Train: system]
+
+- Commit daily changes • [`139c93d`](https://github.com/truecharts/charts/commit/139c93ddea0f96bca5e2ef73b1a729151877b491) • [@TrueCharts-Bot] (2024-06-26)
+- chore(kubelet-csr-approver): Write own code for CSR approver (#23799) • [`f9a6f2a`](https://github.com/truecharts/charts/commit/f9a6f2af60bbc8e87847d6ea779f865de45395af) • [@MaverickD650] (2024-06-26)
+
 ## 0.0.1 • [Train: system]
 
 - Update Chart.yaml • [`5bdcfd2`](https://github.com/truecharts/charts/commit/5bdcfd270e3aeb93a46c0ffe5bcc30166b2f0733) • [@Kjeld Schouten] (2024-06-25)

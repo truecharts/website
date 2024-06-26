@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 15.1.4 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/flaresolverr/flaresolverr to v3.3.21@f104ee5 by renovate (#23816) • [`33de3b8`](https://github.com/truecharts/charts/commit/33de3b8566a88c682bc3d01c68faff903cd924b5) • [@TrueCharts Bot] (2024-06-26)
+
 ## 15.1.3 • [Train: stable]
 
 - Commit daily changes • [`9411886`](https://github.com/truecharts/charts/commit/9411886c97a1caf15be813c29fc09b0c19f66335) • [@TrueCharts-Bot] (2024-06-23)

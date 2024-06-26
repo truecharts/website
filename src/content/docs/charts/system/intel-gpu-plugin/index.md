@@ -10,6 +10,7 @@ The Intel GPU plugin facilitates offloading the processing of computation intens
 
 - https://github.com/intel
 - https://github.com/truecharts/charts/tree/master/charts/system/intel-gpu-plugin
+- https://hub.docker.com/r/intel/intel-gpu-plugin
 
 ## Available Documentation
 
