@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 16.1.5 • [Train: stable]
+
+- chore(deps): update container image mbentley/omada-controller to 5.13@7c4506c by renovate (#23871) • [`afe1165`](https://github.com/truecharts/charts/commit/afe1165c362787cb5f236f974067ba299c450c16) • [@TrueCharts Bot] (2024-06-27)
+
 ## 16.1.4 • [Train: stable]
 
 - chore(deps): update container image mbentley/omada-controller to 5.13@58efaab by renovate (#23821) • [`77a2619`](https://github.com/truecharts/charts/commit/77a26193d72668f2fe43ec24fe933577094d4354) • [@TrueCharts Bot] (2024-06-26)
