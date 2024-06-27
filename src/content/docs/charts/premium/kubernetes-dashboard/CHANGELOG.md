@@ -15,6 +15,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - chore: Add a bunch of direct-from-upstream system charts for clustertool-use (#23768) • [`e1bc567`](https://github.com/truecharts/charts/commit/e1bc5676c686f29322d66bd7e71f4c41c411ecf5) • [@Kjeld Schouten] (2024-06-25)
 
+## 1.2.0 • [Train: premium]
+
+- feat(kubernetes-dashboard): Allow kubernetes-dashboard without token login (#23841) • [`ec6c812`](https://github.com/truecharts/charts/commit/ec6c812e19b8fcbea2c39989b06b7f979b27a396) • [@Kjeld Schouten] (2024-06-27)
+
 ## 1.1.0 • [Train: premium]
 
 - add licenses • [`86110af`](https://github.com/truecharts/charts/commit/86110af4ed98d6d34216cffdd4f86fdf4e9a25fb) • [@Kjeld Schouten] (2024-06-27)
