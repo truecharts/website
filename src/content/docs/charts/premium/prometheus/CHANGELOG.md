@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 19.2.0 • [Train: premium]
 
+- add licenses • [`86110af`](https://github.com/truecharts/charts/commit/86110af4ed98d6d34216cffdd4f86fdf4e9a25fb) • [@Kjeld Schouten] (2024-06-27)
 - chore(deps): update container image bitnami/prometheus to v2.53.0@061a74a by renovate (#23560) • [`f9b3892`](https://github.com/truecharts/charts/commit/f9b38926b65bc091e955238844fbdfda7c393b12) • [@TrueCharts Bot] (2024-06-22)
 
 ## 19.1.2 • [Train: premium]

@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 17.2.0 • [Train: premium]
 
+- add licenses • [`86110af`](https://github.com/truecharts/charts/commit/86110af4ed98d6d34216cffdd4f86fdf4e9a25fb) • [@Kjeld Schouten] (2024-06-27)
 - chore(deps): update container image grafana/grafana to v11.1.0@83c197f by renovate (#23779) • [`cac551e`](https://github.com/truecharts/charts/commit/cac551ee9199eb0f23bcd5a8491528e2b77f8561) • [@TrueCharts Bot] (2024-06-25)
 
 ## 17.1.3 • [Train: premium]
