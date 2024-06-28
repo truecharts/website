@@ -58,7 +58,7 @@ Please note: For TrueNAS SCALE, only options available in the GUI are supported.
 Hence most of these docs do not apply to TrueNAS SCALE
 
 To view the chart specific options, please view Values.yaml included in the chart.
-The most recent version of which, is available here: https://github.com/truecharts/charts/charts/stable/backuppc/values.yaml
+The most recent version of which, is available here: https://github.com/truecharts/charts/tree/master/charts/stable/backuppc/values.yaml
 
 All our Charts use a shared "common" library chart that contains most of the templating and options.
 For the complete overview of all available options, please checkout the documentation for them on the [common docs on our website](/common)
