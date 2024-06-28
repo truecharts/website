@@ -17,6 +17,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.2.1 • [Train: premium]
 
+- Commit daily changes • [`a97f5bf`](https://github.com/truecharts/charts/commit/a97f5bf7a4b48f9b950272d63e7017cd0790ace9) • [@TrueCharts-Bot] (2024-06-28)
 - Update Chart.yaml • [`56ddc5f`](https://github.com/truecharts/charts/commit/56ddc5f3baf61c46916130020cf52d10103877d4) • [@Kjeld Schouten] (2024-06-27)
 
 ## 1.2.0 • [Train: premium]
