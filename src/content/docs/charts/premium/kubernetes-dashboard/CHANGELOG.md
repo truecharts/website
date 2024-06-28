@@ -15,6 +15,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - chore: Add a bunch of direct-from-upstream system charts for clustertool-use (#23768) • [`e1bc567`](https://github.com/truecharts/charts/commit/e1bc5676c686f29322d66bd7e71f4c41c411ecf5) • [@Kjeld Schouten] (2024-06-25)
 
+## 1.2.2 • [Train: premium]
+
+- Update Chart.yaml • [`ca87235`](https://github.com/truecharts/charts/commit/ca872353f1ab9641282f0575db6bd80da023ad32) • [@Kjeld Schouten] (2024-06-28)
+
 ## 1.2.1 • [Train: premium]
 
 - Commit daily changes • [`a97f5bf`](https://github.com/truecharts/charts/commit/a97f5bf7a4b48f9b950272d63e7017cd0790ace9) • [@TrueCharts-Bot] (2024-06-28)
