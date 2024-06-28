@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 19.3.0 • [Train: premium]
+
+- chore(deps): update container image kube-prometheus-stack to v60.5.0@ec2cfd9 by renovate (#23025) • [`8a31024`](https://github.com/truecharts/charts/commit/8a31024a6e78dcfb857876eced12e71a429701f8) • [@TrueCharts Bot] (2024-06-28)
+
 ## 19.2.0 • [Train: premium]
 
 - add licenses • [`86110af`](https://github.com/truecharts/charts/commit/86110af4ed98d6d34216cffdd4f86fdf4e9a25fb) • [@Kjeld Schouten] (2024-06-27)
