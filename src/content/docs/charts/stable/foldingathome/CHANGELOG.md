@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.0.1 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.5@80d8ad4 by renovate (#23765) • [`54ae87a`](https://github.com/truecharts/charts/commit/54ae87acc36b06ada00401fc4526e9cfc670c26a) • [@TrueCharts Bot] (2024-06-28)
+
 ## 12.0.0 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/foldingathome to v8.3.17@eba9021 by renovate (#23829) • [`3e0ce2b`](https://github.com/truecharts/charts/commit/3e0ce2bdc42aa5f63d35b786148c1e34e96ec364) • [@TrueCharts Bot] (2024-06-28)

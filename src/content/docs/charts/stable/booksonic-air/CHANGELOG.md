@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 15.1.5 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.5@80d8ad4 by renovate (#23765) • [`54ae87a`](https://github.com/truecharts/charts/commit/54ae87acc36b06ada00401fc4526e9cfc670c26a) • [@TrueCharts Bot] (2024-06-28)
+
 ## 15.1.4 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/booksonic-air to 2201.1.0@bd0bcc7 by renovate (#23833) • [`bbe22fe`](https://github.com/truecharts/charts/commit/bbe22fe7db6ec6801b696dc77fe656ab38e1dafa) • [@TrueCharts Bot] (2024-06-26)

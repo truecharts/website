@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 17.2.4 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.5@80d8ad4 by renovate (#23765) • [`54ae87a`](https://github.com/truecharts/charts/commit/54ae87acc36b06ada00401fc4526e9cfc670c26a) • [@TrueCharts Bot] (2024-06-28)
+
 ## 17.2.3 • [Train: stable]
 
 - chore(deps): update container image stashapp/stash to v0.26.2@7e71c17 by renovate (#23865) • [`6063534`](https://github.com/truecharts/charts/commit/6063534bc4a0e95d59a0f3958e159c32bb13cf2f) • [@TrueCharts Bot] (2024-06-27)

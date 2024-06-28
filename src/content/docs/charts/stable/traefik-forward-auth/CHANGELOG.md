@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.2.1 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.5@80d8ad4 by renovate (#23765) • [`54ae87a`](https://github.com/truecharts/charts/commit/54ae87acc36b06ada00401fc4526e9cfc670c26a) • [@TrueCharts Bot] (2024-06-28)
+
 ## 5.2.0 • [Train: stable]
 
 - feat(traefik-forward-auth): Support configuring generic oauth scope (#23598) • [`3166519`](https://github.com/truecharts/charts/commit/3166519148521d3bdb3b90dafda4722645c8550c) • [@Vicken Simonian] (2024-06-22)
