@@ -38,6 +38,7 @@ Challenges:
 - We will pack MetalLB as the default LoadBalancer, as it "just works" pretty well
 - We will pack Cilium as CNI, as it's basically the best CNI out there
 - We will **NOT** pack ingress by default, as that can quite easily be added after the fact
+- We will add Spegel for distrubuted caching of container images, to prevent issues with docker rate limits
 
 ### Management
 

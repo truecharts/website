@@ -73,11 +73,11 @@ You're free to add settings as you please, or as you need them. Feel free to ada
 
 Primary settings that **need** to be adapted:
 
-- `MASTER1IP`: The IP that was set in the TalosOS network configuration
+- `MASTER1IP`: The static-DHCP IP that was set during the TalosOS network configuration
 - `VIP`: Contains the shared IP for all master-nodes
-- `METALLB_RANGE`: Contains the range MetalLB will allow IPs to be distributed in
-- `KUBEAPPS_IP`: The IP, within the MetalLB range, KubeApps will be made available on
-- `DASHBOARD_IP`: The IP, within the MetalLB range, that the kubernetes monitoring/management dashboard will be made available on
+- `METALLB_RANGE`: Contains the range MetalLB will allow IPs to be distributed in *(cannot overlap with any nodeIP or VIP, nor should it overlap with local dhcp range)*
+- `KUBEAPPS_IP`: The IP, within the MetalLB range, KubeApps will be made available on *(should be a free ip adres on your network, not overlapping with dhcp adresses)*
+- `DASHBOARD_IP`: The IP, within the MetalLB range, that the kubernetes monitoring/management dashboard will be made available on *(should be a free ip adres on your network, not overlapping with dhcp adresses)*
 
 ### TalConfig
 
@@ -157,12 +157,13 @@ To ensure stability, we will first apply the configuration to the first ControlP
 
 For this, in a terminal, run:
 
-`ClusterTool bootstrap`
+`ClusterTool apply`
 
 or, on Windows:
 
-`ClusterTool.exe bootstrap`
+`ClusterTool.exe apply`
 
+You will be asked if you want to bootstrap the cluster, to do this enter `y` or `yes`
 After this is finished successfully, make sure the node is running correctly. It should have everything loaded already.
 
 ## Applying config to the rest of your cluster

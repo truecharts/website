@@ -13,3 +13,18 @@ All code and docs are considered Pre-Alpha drafts
 :::
 
 The `apply` command applies your Talos System configuration to each node in the cluster, existing or new It also runs automated checking of your config file and health checks between each node it has processed, to ensure you don't accidentally take down your whole cluster.
+
+If the cluster has not been bootstrapped yet, Apply will automatically detect this and ask if you want to bootstrap the cluster
+
+
+Bootstrapping will apply your config to the first (top) controlplane node in your `talconfig.yaml`, it then "bootstraps" hence creating a new cluster with said node.
+
+After this is done, we apply a number of helm-charts and manifests by default such as:
+
+- Metallb
+- Metallb-Config
+- Cilium (CNI)
+- Certificate-Approver
+- Spegel
+- KubeApps
+- Kubernetes-Dashboard

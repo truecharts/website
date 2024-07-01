@@ -35,6 +35,13 @@ Ensure you setup the permissions on the Dataset according to [this](https://true
 
 And configure the NFS Shares according to [this](https://truecharts.org/deprecated/scale/guides/nfs-share/) guide.
 
+**note**
+With "NFS-share" based storage, we explicitly refer to NFS storage-type as explained in [this](https://truecharts.org/deprecated/scale/guides/nfs-share/) guide.
+We do not advice the use of "static-PVC" NFS storage as an alternative.
+
+We would also *heavily* advice that config storage should nearly *always* be set to "PVC" and neither *hostPath* or *NFS* should be used for it.
+If you did decide on using NFS storage for config, we cannot take responsibility if the migration fails.
+
 
 ### Ensure all PVC storage has VolSync backups (not restore) Enabled
 
