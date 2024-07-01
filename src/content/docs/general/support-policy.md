@@ -11,18 +11,30 @@ Please, always remember to check the content specific to the chart.
 
 :::
 
-## Tier
+We at TrueCharts offer limited free support via a support-ticketing system on Discord.
+However the scope of this support is limited to two things:
 
-Helm is our one-and-only "first tier" platform, everything is based on Helm itself and hence everything is most thoroughly tested on Helm.
-We always advice using a first-tier or second-tier platform.
+- ClusterTool Commands
+- The `values.yaml` of our Helm charts
 
-## TrueCharts on Helm
+## Exoected Prior knowlage
 
-TrueCharts aims to always support the latest version of Helm.
-However, sometimes new versions of either TrueNAS or TrueCharts introduces breaking changes.
-This document highlights which versions of TrueCharts (or rather branches), support which versions of Helm.
+- How to use a shell/console/terminal
+- Basic shell commands (cp, ls etc and if you think `etc` is a command here, you'll have a problem with us)
+- Basic kubectl use (get pods, get svc, describe something etc)
+- Basic knowhow of Talos when you use it (Things like: what is Apply, what is a machienconfig, what does upgrade do vs k8s-upgrade)
+- Basic kubernets knowhow (such as: whats a worker node vs a controlplane node, whats etcd, whats a pod vs a container)
 
-We also document which versions of TrueNAS will receive TrueCharts updates and for which versions we are accepting bug reports.
+## What's explicitly not covered by support:
+
+- Network configuration
+- Cloudflare proxying
+- Operating-Systems, outside of Talos deployed using ClusterTool
+- Helm 101 (how do I install, upgrade, edit a Helm Chart)
+- The software *contained* in our Helm Charts (for example: "how do I configure Radarr")
+- Cluster Operations (maintanance, fixing flaky pods, tracking non-deploying fluxcd helm-releases/kustomizations)
+- How to install/use kubectl/talosctl
+
 
 ### Supported Versions of Helm
 

@@ -28,3 +28,11 @@ After this is done, we apply a number of helm-charts and manifests by default su
 - Spegel
 - KubeApps
 - Kubernetes-Dashboard
+
+## About Bootstrapping
+
+While we load a lot of helm-charts during bootstrap, we will *never* manage them for you.
+You're responsible for maintaining and configuring your cluster after bootstrapping.
+
+Apply and *all other* commands, are just for maintaining Talos itself.
+Not any contained helm-charts
