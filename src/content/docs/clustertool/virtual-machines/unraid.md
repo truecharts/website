@@ -32,12 +32,4 @@ title: Virtual Machine on UnRaid
 
 ![disk space](./img/unraid_disk_space.png)
 
-7. Once the VM has been created, select the VM and then settings
-
-![settings](./img/unraid_disk_space.png)
-
-8. For the `Network Source` section virbr0:
-
-![Network Source](./img/unraid_network.png)
-
-9. Now click `Create`
+7. Now click `Create`
