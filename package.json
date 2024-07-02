@@ -24,7 +24,7 @@
     "@astrojs/tailwind": "5.1.0",
     "@playform/compress": "0.0.10",
     "astro": "4.10.1",
-    "astro-better-image-service": "1.0.29",
+    "astro-better-image-service": "2.0.5",
     "astro-integration-lottie": "0.3.0",
     "astro-robots-txt": "1.0.0",
     "lottie-web": "5.12.2",
