@@ -32,46 +32,42 @@ title: Virtual Machine on Proxmox
 
 5. Check the box for `Qemu Agent`
 
-6. Select `BIOS` and choose `OVMF (UEFI)`
+6. Select `SCSI Controller` by choosing `VirtIO SCSI single`
 
-7. Select `EFI Storage` and choose a storage repository (e.g. `local-zfs`)
-
-8. Select `SCSI Controller` by choosing `VirtIO SCSI single`
-
-9. If you have a dedicated graphics card select it from the list in `Graphic card`
+7. If you have a dedicated graphics card select it from the list in `Graphic card`
 
 ![system](./img/vm-system.png)
 
-10. Select `Next` to configure disks
+8. Select `Next` to configure disks
 
-11. Select a storage repository (e.g. `local-zfs`)
+9. Select a storage repository (e.g. `local-zfs`)
 
-12. Set the disk size to `500` or `1000`
+10. Set the disk size to `500` or `1000`
 
-13. If using an SSD, then for the cache select `Write back` and check the box for `Discard`
+11. If using an SSD, then for the cache select `Write back` and check the box for `Discard`
 
 ![disks](./img/vm-disks.png)
 
-14. Select `Next` to configure CPUs
+12. Select `Next` to configure CPUs
 
-15. Select the sockets (e.g. `1`) and amount of cores to be one less than the total available processor threads (e.g. if you have a 6 core processor with HyperThreading then there are 12 available threads and the value should be `11`.)
+13. Select the sockets (e.g. `1`) and amount of cores to be one less than the total available processor threads (e.g. if you have a 6 core processor with HyperThreading then there are 12 available threads and the value should be `11`.)
 
 ![cpu](./img/vm-cpu.png)
 
-16. Select `Next` to configure memory
+14. Select `Next` to configure memory
 
-17. The minimum memory value should be `8192` and the recommended value is `16384` or more Megabytes
+15. The minimum memory value should be `8192` and the recommended value is `16384` or more Megabytes
 
 ![memory](./img/vm-memory.png)
 
-18. Select `Next` to configure network
+16. Select `Next` to configure network
 
-19. Select a bridge such as the default `vmbr0`. Optionally add a VLAN tag
+17. Select a bridge such as the default `vmbr0`. Optionally add a VLAN tag
 
 ![network](./img/vm-network.png)
 
-20. Select `Next` to confirm
+18. Select `Next` to confirm
 
-21. Review settings and optionally select the box for `Start after created` then select `Finish`.
+19. Review settings and optionally select the box for `Start after created` then select `Finish`.
 
 ![confirm](./img/vm-confirm.png)
