@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 31.3.2 • [Train: premium]
 
+- Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
 - chore(deps): update container image tccr.io/tccr/nextcloud-fpm to v29.0.3@205fe61 by renovate (#23866) • [`28f52af`](https://github.com/truecharts/charts/commit/28f52af432d9dd62ed581a1cc5ed6031217f0ae3) • [@TrueCharts Bot] (2024-07-05)
 
 ## 31.3.1 • [Train: premium]
