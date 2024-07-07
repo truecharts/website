@@ -14,7 +14,21 @@ The guide below uses Mullvad and Windscribe as examples. You must visit the [Glu
 
 ## Prerequisites
 
+#### VPN provider
+
 Ideally, a VPN provider supported by `Gluetun`, check the [Gluetun Wiki](https://github.com/qdm12/gluetun-wiki) for more info. There are custom providers but that is beyond the scope of this guide.
+
+#### Security restrictions
+
+Using TalosOS and the new ClusterTool, security restrictions are more strict. So it would be possible you encounter some errors during deploying the vpn-addon, like:
+
+`Error creating: pods "xxxxx" is forbidden: violates PodSecurity "baseline:latest": non-default capabilities (container "xxxxx" must not include "NET_ADMIN", "NET_RAW" in securityContext.capabilities.add)`
+
+In that case you need to review your namespace. Adding privileged to your name space can be done as follow:
+
+`kubectl label --overwrite ns <NAMESPACE> pod-security.kubernetes.io/enforce=privileged`
+
+More information can be find on the kubernetes [website](https://kubernetes.io/docs/tasks/configure-pod-container/enforce-standards-namespace-labels/).
 
 ## Gluetun VPN Addon Setup
 
