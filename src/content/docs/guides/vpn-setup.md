@@ -14,11 +14,11 @@ The guide below uses Mullvad and Windscribe as examples. You must visit the [Glu
 
 ## Prerequisites
 
-#### VPN provider
+### VPN provider
 
 Ideally, a VPN provider supported by `Gluetun`, check the [Gluetun Wiki](https://github.com/qdm12/gluetun-wiki) for more info. There are custom providers but that is beyond the scope of this guide.
 
-#### Security restrictions
+### Security restrictions
 
 Using TalosOS and the new ClusterTool, security restrictions are more strict. So it would be possible you encounter some errors during deploying the vpn-addon, like:
 
