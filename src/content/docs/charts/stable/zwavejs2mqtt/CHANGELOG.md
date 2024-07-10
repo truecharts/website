@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 21.2.8 • [Train: stable]
+
+- chore(zwavejsmqtt) - fix url and change description (#23916) • [`c1f815d`](https://github.com/truecharts/charts/commit/c1f815d9c58944a775ac49b74e246f4ded323aa5) • [@Boemeltrein] (2024-07-10)
+
 ## 21.2.7 • [Train: stable]
 
 - Update values.yaml • [`b8a9dac`](https://github.com/truecharts/charts/commit/b8a9dac50a73fb4435a35b67469c65af58396719) • [@Kjeld Schouten] (2024-07-09)
