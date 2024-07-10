@@ -17,6 +17,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 16.2.1 • [Train: stable]
 
+- Revert &#34;fix(calibre): Update Calibre Probes to be TCP based&#34; (#23920) • [`914a064`](https://github.com/truecharts/charts/commit/914a064a8a067ac1a1f88f993ae4a526df054a48) • [@Kjeld Schouten] (2024-07-10)
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
 - chore(deps): update container image common to v24.1.5@80d8ad4 by renovate (#23765) • [`54ae87a`](https://github.com/truecharts/charts/commit/54ae87acc36b06ada00401fc4526e9cfc670c26a) • [@TrueCharts Bot] (2024-06-28)
 
