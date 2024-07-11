@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 21.2.8 • [Train: stable]
 
+- Commit daily changes • [`c466ce1`](https://github.com/truecharts/charts/commit/c466ce18f5acbb801986704006cb6c21304dfb2e) • [@TrueCharts-Bot] (2024-07-11)
 - chore(zwavejsmqtt) - fix url and change description (#23916) • [`c1f815d`](https://github.com/truecharts/charts/commit/c1f815d9c58944a775ac49b74e246f4ded323aa5) • [@Boemeltrein] (2024-07-10)
 
 ## 21.2.7 • [Train: stable]
