@@ -2,6 +2,12 @@
 title: NFS Shares with Apps on TrueNAS SCALE
 ---
 
+:::caution
+
+TrueNAS SCALE Apps are considered Deprecated. We heavily recommend using a more mature Kubernetes platform such as "TalosOS" instead, and no longer offer an apps/charts catalogue for SCALE users to install. The below docs exist purely as historical references and may be removed at any time.
+
+:::
+
 With the changes to TrueNAS SCALE 22.12 concerning HostPath validation (read our [news](/news/hostpath-validation) or our [adding storage](/deprecated/scale/guides/add-storage) pages to learn more) the one way to add media storage is to mount NFS Shares to your TrueCharts applications. This process involves two parts, and this guide will demonstrate each step to create NFS Shares in SCALE and then add them in the `Storage` section of TrueCharts apps.
 
 Additionally, you can use NFS shares and SMB shares on the same dataset, but only NFS shares are mounted by TrueCharts applications.

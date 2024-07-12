@@ -4,6 +4,12 @@ sidebar:
   order: 4
 ---
 
+:::caution
+
+TrueNAS SCALE Apps are considered Deprecated. We heavily recommend using a more mature Kubernetes platform such as "TalosOS" instead, and no longer offer an apps/charts catalogue for SCALE users to install. The below docs exist purely as historical references and may be removed at any time.
+
+:::
+
 Validation makes sure that your input is in the desired format, so the application can parse it without problems.
 Below you can find more info about which fields have the mentioned validation and what formats are accepted.
 

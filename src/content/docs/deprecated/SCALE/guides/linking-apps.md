@@ -4,6 +4,12 @@ sidebar:
   order: 7
 ---
 
+:::caution
+
+TrueNAS SCALE Apps are considered Deprecated. We heavily recommend using a more mature Kubernetes platform such as "TalosOS" instead, and no longer offer an apps/charts catalogue for SCALE users to install. The below docs exist purely as historical references and may be removed at any time.
+
+:::
+
 You'll often need to connect individual apps to each other to exchange data, for example: Sonarr to SABnzbd to allow Sonarr to control downloads within SABnzbd.
 
 The backend for TrueNAS SCALE Apps is Kubernetes. As you can't point directly to other Kubernetes app containers using their IP address you need to use their internal domain name instead.

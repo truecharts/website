@@ -4,6 +4,12 @@ sidebar:
   order: 3
 ---
 
+:::caution
+
+TrueNAS SCALE Apps are considered Deprecated. We heavily recommend using a more mature Kubernetes platform such as "TalosOS" instead, and no longer offer an apps/charts catalogue for SCALE users to install. The below docs exist purely as historical references and may be removed at any time.
+
+:::
+
 All of the below recommendations assume the TrueNAS system in question is not used for anything other than running apps and storage. Adding VMs, network shares or other services may significantly increase overall system requirements.
 
 ## Minimum System Specifications

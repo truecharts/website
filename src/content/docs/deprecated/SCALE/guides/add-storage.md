@@ -2,6 +2,12 @@
 title: Adding Storage
 ---
 
+:::caution
+
+TrueNAS SCALE Apps are considered Deprecated. We heavily recommend using a more mature Kubernetes platform such as "TalosOS" instead, and no longer offer an apps/charts catalogue for SCALE users to install. The below docs exist purely as historical references and may be removed at any time.
+
+:::
+
 Apps in SCALE rely on several kinds of storage for core data:
 
 - [Persistent Volumes](https://docs.k3s.io/storage) (`PVC`), a specific volume which Kubernetes will not delete (i.e. persist) through upgrades, restarts, and rollbacks of your app/chart.

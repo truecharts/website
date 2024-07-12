@@ -2,6 +2,12 @@
 title: Accessing the TrueNAS SCALE Web GUI via Traefik
 ---
 
+:::caution
+
+TrueNAS SCALE Apps are considered Deprecated. We heavily recommend using a more mature Kubernetes platform such as "TalosOS" instead, and no longer offer an apps/charts catalogue for SCALE users to install. The below docs exist purely as historical references and may be removed at any time.
+
+:::
+
 If you followed the instructions in [Installing Traefik](/charts/premium/traefik/how-to), your TrueNAS Web GUI will now be served on custom ports (port 81 and 444 in the video guide).
 
 To access the TrueNAS Web GUI via Traefik on port 443, use the `external-service` app:

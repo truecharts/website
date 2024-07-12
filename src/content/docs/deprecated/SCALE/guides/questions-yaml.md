@@ -2,6 +2,12 @@
 title: Questions.yaml
 ---
 
+:::caution
+
+TrueNAS SCALE Apps are considered Deprecated. We heavily recommend using a more mature Kubernetes platform such as "TalosOS" instead, and no longer offer an apps/charts catalogue for SCALE users to install. The below docs exist purely as historical references and may be removed at any time.
+
+:::
+
 Questions.yaml is the file which get rendered by TrueNAS to create the UI. When not creating new charts, most of what this project does is stitching together questions.yaml files to turn existing Helm Charts into Apps.
 
 ## Syntax

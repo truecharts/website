@@ -6,8 +6,7 @@ sidebar:
 
 :::caution
 
-TrueNAS SCALE Apps are considered Deprecated.
-We heavily advice using a more mature and solid kubernetes platform such as "TalosOS" instead
+TrueNAS SCALE Apps are considered Deprecated. We heavily recommend using a more mature Kubernetes platform such as "TalosOS" instead, and no longer offer an apps/charts catalogue for SCALE users to install. The below docs exist purely as historical references for users with chart-specific scenarios and may be removed at any time.
 
 :::
 
@@ -35,89 +34,22 @@ Hence for chart management our preference would be to use FluxCD instead.
 
 ## How to Configure
 
-Below you'll find recommended steps to go from a blank or fresh TrueNAS SCALE installation to using TrueCharts with the best possible experience and performance as determined by the TrueCharts team. It does not replace the application specific guides and/or specific guides on certain subjects (PVCs, VPN, linking apps, etc) either, so please continue to check the app specific documentation and the TrueNAS SCALE specific guides we've provided on this website. If more info is needed about `TrueNAS SCALE` please check out our [introduction to SCALE](/deprecated/scale/guides/scale-intro) page.
+Removed as SCALE is deprecated.
 
 ## Requirements
 
-- TrueCharts apps share computing resources with your system. Please review our [recommended system requirements](/deprecated/scale/systemrequirements/).
-- Your apps dataset needs to be large enough to store the containers, configuration files, snapshots, and other persistent volume (PVC) data. You can always configure [additional storage](/deprecated/scale/guides/add-storage) using HDD pools (e.g. downloads folder) for specific apps later.
-- Make sure your SCALE installation has a working storage pool that you'd like to use for TrueCharts. [Read more](https://www.truenas.com/docs/scale/scaletutorials/storage/) in the SCALE tutorial.
-- Make sure you have a working Internet connection and can reach `https://github.com`, `https://truecharts.org`, and `https://tccr.io` from the host system.
-- Ensure your system time is up to date and you've chosen your preferred timezone in your [SCALE settings](https://www.truenas.com/docs/scale/scaleuireference/systemsettings/generalsettingsscreens/#localization). Apps you install will default to this timezone.
-- You are signed into your TrueNAS SCALE WebUI as `root` or as a user that can execute commands with `root` permissions.
-- Your apps pool and associated datasets must be configured before adding TrueCharts. When opening the Apps menu item on SCALE for the first time, you'll be prompted to [choose a storage pool](https://www.truenas.com/docs/scale/scaleuireference/apps/#choose-a-pool-for-apps-dialog) for your Apps.
-
-:::tip[Quick start guides]
-
-Below are the tl;dr versions of the full setup for certain use cases, scroll down for short blurbs on each step and why they're recommended.
-
-:::
+Removed as SCALE is deprecated.
 
 ## Minimal Getting Started Setup with SCALE
 
-- Ensure you have completed the above requirements
-- Add the TrueCharts catalog with the following trains selected: `stable`, `premium`, `system` -> [Adding TrueCharts](/deprecated/scale/#adding-truecharts)
-- Install the following apps from the `system` train with **default** settings: `OpenEBS`, `Prometheus Operator` and `Cert-Manager`
-
-Optionally, you can also install the below apps if you want functionality that they provide:
-
-- Install `Cloudnative-PG Operator` if you plan to use any [apps that rely on CNPG functionality](/general/faq#how-do-i-know-if-an-app-uses-cnpg)
-- Install `MetalLB` if you're an advanced user or want to assign specific IP addresses to your SCALE apps. See [here](/deprecated/scale/#metallb-installation-and-disabling-integrated-loadbalancer)
-- Install `Traefik` if you want [ingress or reverse-proxy](/deprecated/scale/#traefik-installation-for-ingress--reverse-proxy-support-with-truecharts-apps) support with our apps
-- Install `Authelia` if you want to add a [single-sign-on or multi-factor-authentication portal](/deprecated/scale/#authelia-installation) to your apps through integration with `Traefik`
-- Install `Blocky` if you want to take advantage of our [preferred DNS solution](/deprecated/scale/#blocky-dns-provider-for-split-dns-installation-and-guide) to allow for DNS proxy, enhancer and ad-blocking functions with your apps
-- ~~Install `VolSync` **after** doing the above steps if you want [backup and restore functionality](/deprecated/scale/guides/backup-restore) made available for your apps' PVCs. Then, in the options for OpenEBS which you installed earlier, check the [checkboxes](./img/volumesnapshotclass.png) for `enabled` and `isDefault` under the "volumeSnapshotClass" section.~~
+Removed as SCALE is deprecated.
 
 ## Adding TrueCharts
 
-import { Steps } from "@astrojs/starlight/components";
-
-<Steps>
-
-1.  Go to the **Apps** page from the top level SCALE menu
-
-        ![Apps](./guides/img/Apps.png)
-
-2.  Click the **Discover Apps** button on the Apps page
-
-        ![Discover Apps](./guides/img/Apps2.png)
-
-3.  Click the **Manage Catalogs** link on the Discover Apps page
-
-        ![Manage Catalogs](./guides/img/Apps3.png)
-
-4.  Click **Add Catalog**
-
-        ![Add Catalog](./guides/img/Apps4.png)
-
-5.  After reading the iXsystems notice, click **Continue** and enter the required information:
-
-        - Name: `truecharts`
-        - Repository: `https://github.com/truecharts/catalog`
-        - Preferred Trains: `premium`,`stable` and `system` (type each one manually)
-        - Branch: `main`
-
-        ![Catalog Info](./guides/img/Apps5.png)
-
-6.  Click **Save** and allow SCALE to refresh its catalog with TrueCharts (this may take a few minutes)
-
-</Steps>
-
-:::note[Potential issue with adding catalog]
-
-If you're having issues adding the TrueCharts catalog to SCALE, you may need to check the "Force Create" button. This can sometimes occur on systems with slow internet connections or insufficient processing power.
-
-:::
-
-:::tip[Introduction to TrueNAS SCALE Guide]
-
-Please free to check out our [Introduction to TrueNAS SCALE](/deprecated/scale/guides/scale-intro) guide on some specific information on installing, editing, rollbacks and CLI commands for use with apps on TrueNAS SCALE.
-
-:::
+Removed as SCALE is deprecated.
 
 ## Getting started using Charts with your own Domain
 
-- Steps Above -> [Minimal Getting Started with SCALE](/deprecated/scale#minimal-getting-started-setup-with-scale)
 - Move TrueNAS Port to 81,444 -> [TrueNAS WebUI Instructions](/charts/premium/traefik/how-to#truenas-webui)
 - Add Traefik -> [Traefik How-To](/charts/premium/traefik/how-to)
 - Use Cloudflare for DNS and create API token -> [Guide](/charts/premium/clusterissuer/how-to#configure-acme-issuer)
@@ -127,7 +59,7 @@ Please free to check out our [Introduction to TrueNAS SCALE](/deprecated/scale/g
 
 ## Full TrueCharts Setup on TrueNAS SCALE
 
-- Everything below (includes the steps listed above and extras like [HeavyScript](/deprecated/scale/#heavyscript), [MetalLB](/deprecated/scale/#metallb-installation-and-disabling-integrated-loadbalancer) and [Authelia](/deprecated/scale/#authelia-installation))
+Removed as SCALE is deprecated.
 
 ### TrueCharts Trains Overview
 
@@ -143,45 +75,11 @@ TrueCharts has multiple "trains", or branches of apps which you can choose to in
 
 ### HeavyScript
 
-Once you've added the TrueCharts catalog, we also recommend installing [HeavyScript](https://github.com/Heavybullets8/heavy_script#how-to-install) and configuring it to run nightly with a [cron job](https://github.com/Heavybullets8/heavy_script#how-to-create-a-cron-job). HeavyScript is a bash script for managing TrueNAS SCALE applications, automatically updating those applications, backing up applications datasets, opening a shell for containers, and many other features. Please visit the [HeavyScript GitHub Page](https://github.com/Heavybullets8/heavy_script) for more info.
+Removed as SCALE is deprecated and HeavyScript is no longer actively supported/developed by HeavyBullets.
 
 ### OpenEBS Setup
 
-![OpenEBS Icon](./guides/img/icons/openebs.png)
-
-As outlined [here](/deprecated/scale/migrations/cobia-dragonfish/#important-changes), iX-Systems no longer maintains or supports any form of PVC-based storage for apps. For this reason, TrueCharts provides our own OpenEBS storage solution for you to use with our apps. This means you need to install the `OpenEBS` app from the TrueCharts system train as below.
-
-<Steps>
-
-1.  In the SCALE GUI, go to Apps -> Discover Apps -> Manage Catalogs
-
-2.  Ensure you have `system` in the list of Preferred Trains in the TRUECHARTS row as below. If so, skip the next step and proceed to step 4
-
-        ![Catalog Trains](./guides/img/Dragonfish-Storage5.png)
-
-3.  If you don't already, you can add it by selecting the TRUECHARTS row and selecting the `Edit` button and selecting `system` under the "Preferred Trains" dropdown list as below
-
-        ![system List](./guides/img/Dragonfish-Storage5b.png)
-
-4.  Create a dedicated, unencrypted and empty dataset on the apps pool you [created above](https://www.truenas.com/docs/scale/scaleuireference/apps/#choose-a-pool-for-apps-dialog), outside of ix-applications. OpenEBS will create unencrypted datasets for PVC app storage in that dataset, using an encrypted dataset for OpenEBS is thus discouraged and pointless. Please ensure you've chosen the dataset that's **not** inside `ix-applications`. An example "apps" **pool** layout could look like [this](/deprecated/scale/migrations/cobia-dragonfish/#post-migration-steps) where you have a top-level "apps" dataset with "ix-applications" (non-PVC app data) and "pvcApps" (OpenEBS PVC app storage) nested under.
-
-5.  Then install the `OpenEBS` chart
-
-        ![OpenEBS Icon](./guides/img/icons/openebs.png)
-
-6.  Enter the name of the pool and dataset you created earlier in `pool/dataset` format and do not include `/mnt/` in front of the pool/dataset, as shown below
-
-        ![OpenEBS Storage](./guides/img/OpenEBS-storage.png)
-
-</Steps>
-
-:::danger
-
-When setting the `pool/dataset` as above, do **not** set the path to the existing ix-applications dataset
-
-:::
-
-It's important to set the `pool/dataset` to the dataset you want to store the folders with the application data in them.
+Removed as SCALE is deprecated.
 
 ### MetalLB installation and disabling integrated LoadBalancer
 
