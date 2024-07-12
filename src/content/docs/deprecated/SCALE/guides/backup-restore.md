@@ -4,6 +4,12 @@ sidebar:
   order: 15
 ---
 
+:::caution
+
+TrueNAS SCALE Apps are considered Deprecated. We heavily recommend using a more mature Kubernetes platform such as "TalosOS" instead, and no longer offer an apps/charts catalogue for SCALE users to install. The below docs exist purely as historical references and may be removed at any time.
+
+:::
+
 :::caution[The below is a work in progress]
 
 We've recently completely reworked the way we handle backups, moving away from platform-specific solutions to a "one size fits everyone" system using VolSync and CNPG backups. We're also making it known that the prior version of this guide will **not** work on TrueNAS SCALE 24.04.X "DragonFish". This updated guide has been written with the best efforts of the staff and tested as best possible. We are not responsible if it doesn't work for every scenario or user situation.

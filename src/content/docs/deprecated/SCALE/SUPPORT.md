@@ -6,25 +6,25 @@ sidebar:
 
 ## TrueCharts on TrueNAS SCALE
 
-TrueCharts aims to always support the latest version of TrueNAS SCALE.
-However, sometimes new versions of either TrueNAS or TrueCharts introduce breaking changes.
-This document highlights which versions of TrueCharts (or rather branches) support which versions of TrueNAS SCALE.
+:::caution
 
-We also document which versions of TrueNAS will receive TrueCharts updates and for which versions we are accepting bug reports.
+TrueNAS SCALE Apps are considered Deprecated. We heavily recommend using a more mature Kubernetes platform such as "TalosOS" instead, and no longer offer an apps/charts catalogue for SCALE users to install. The below docs exist purely as historical references and may be removed at any time.
+
+:::
 
 ### Supported Versions of TrueNAS SCALE
 
 | TrueNAS Version    | Branch         | Getting Updates | Accepting Support Tickets | Accepting Bug Reports | Notes                                                                                          |
 | ------------------ | -------------- | --------------- | ------------------------- | --------------------- | ---------------------------------------------------------------------------------------------- |
-| 22.12.4.2 or prior | `master`       | ❌              | ❌                        | ❌                    | Update to 24.04.X supported version [TrueNAS SCALE](https://www.truenas.com/docs/scale/24.04/) |
-| 23.10.2            | `legacy_23.10` | ✅              | ❌                        | ❌                    | Update to 24.04.X supported version [TrueNAS SCALE](https://www.truenas.com/docs/scale/24.04/) |
-| 24.04.X            | `master`       | ✅              | ✅                        | ✅                    | Stable release as of 23 April 2024                                                             |
-| Alpha/BETA/RC      | `master`       | ✅              | ❌                        | ✅                    | Please only submit bug reports during code-freeze                                              |
-| Nightly            | `master`       | ✅              | ❌                        | ❌                    |                                                                                                |
+| 22.12.4.2 or prior | `master`       | ❌              | ❌                        | ❌                    | SCALE is deprecated |
+| 23.10.2            | `legacy_23.10` | ❌              | ❌                        | ❌                    | SCALE is deprecated |
+| 24.04.X            | `master`       | ❌              | ❌                        | ❌                    | SCALE is deprecated |
+| Alpha/BETA/RC      | `master`       | ❌              | ❌                        | ❌                    | SCALE is deprecated |
+| Nightly            | `master`       | ❌              | ❌                        | ❌                    | SCALE is deprecated |
 
 :::tip
 
-Set aside time for a maintenance window or simple check-in for your SCALE system every week, month or quarter as this can go a long way to helping prevent lengthy amounts of time needing to be spent bringing a SCALE system up to date. Tools such as [HeavyScript](/deprecated/scale/#heavyscript) can be used to automate app updates to varying degrees, leaving required maintenance only needing to be done on SCALE itself. SCALE _usually_ has two major version releases each year, so at a minimum ensuring you're prepared for those will help.
+Set aside time for a maintenance window or simple check-in for your SCALE system every week, month or quarter as this can go a long way to helping prevent lengthy amounts of time needing to be spent bringing a SCALE system up to date. SCALE _usually_ has two major version releases each year, so at a minimum ensuring you're prepared for those will help.
 
 :::
 

@@ -2,6 +2,12 @@
 title: PCIe Device Passthrough to Apps
 ---
 
+:::caution
+
+TrueNAS SCALE Apps are considered Deprecated. We heavily recommend using a more mature Kubernetes platform such as "TalosOS" instead, and no longer offer an apps/charts catalogue for SCALE users to install. The below docs exist purely as historical references and may be removed at any time.
+
+:::
+
 To Passthrough your PCI(-E) cards you need to:
 
 1. Go to Installed Applications

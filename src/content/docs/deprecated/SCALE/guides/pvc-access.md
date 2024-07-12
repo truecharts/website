@@ -4,6 +4,12 @@ sidebar:
   order: 16
 ---
 
+:::caution
+
+TrueNAS SCALE Apps are considered Deprecated. We heavily recommend using a more mature Kubernetes platform such as "TalosOS" instead, and no longer offer an apps/charts catalogue for SCALE users to install. The below docs exist purely as historical references and may be removed at any time.
+
+:::
+
 ## Where are my application files?
 
 - Your files are held within the container
