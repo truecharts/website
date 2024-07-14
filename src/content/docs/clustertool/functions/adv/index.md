@@ -1,2 +1,5 @@
-# Advanced
+---
+title: Advanced
+---
 
+# Advanced

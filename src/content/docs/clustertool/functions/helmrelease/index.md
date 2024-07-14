@@ -1,2 +1,5 @@
-# HelmRelease
+---
+title: HELM Release
+---
 
+# HelmRelease
