@@ -14,6 +14,8 @@ All code and docs are considered Pre-Alpha drafts
 
 The `apply` command applies your Talos System configuration to each node in the cluster, existing or new It also runs automated checking of your config file and health checks between each node it has processed, to ensure you don't accidentally take down your whole cluster.
 
+
+## Bootstrapping
 If the cluster has not been bootstrapped yet, Apply will automatically detect this and ask if you want to bootstrap the cluster
 
 
@@ -28,6 +30,10 @@ After this is done, we apply a number of helm-charts and manifests by default su
 - Spegel
 - KubeApps
 - Kubernetes-Dashboard
+
+### Bootstrapping FluxCD
+
+During Bootstrapping, if a `GITHUB_REPOSITORY` is set in `clusterenv.yaml`, you will be asked if you also want to bootstrap FluxCD, checkout the getting-started guide for more info
 
 ## About Bootstrapping
 

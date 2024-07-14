@@ -51,6 +51,8 @@ Please follow the guides for setting-up VolSync backups on TrueNAS SCALE. Howeve
 
 Setup VolSync according to [this](https://truecharts.org/deprecated/scale/guides/backup-restore/) guide.
 
+*If you currently do not have VolSync installed, a migration catalog will be provided later to install it*
+
 ## Continue with ClusterTool Getting-Started
 
 From this point onwards, please go through the complete [ClusterTool Getting-Started](/clustertool/getting-started) guide.

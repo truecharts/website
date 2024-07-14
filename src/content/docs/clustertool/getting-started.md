@@ -62,11 +62,11 @@ It's **absolutely crucial** you save this file somewhere safe and preferably hav
 
 Thanks to our use of TalHelper, a streamlined Talos configuration tool, there are only two files that contain all our configuration for Talos:
 
-- `talenv.yaml`
-- `talconfig.yaml`
+- `clusters/main/clusterenv.yaml`
+- `clusters/main/talos/talconfig.yaml`
 
 
-### TalEnv
+### ClusterEnv
 
 This file that contains the most important settings, its content also gets saved on the cluster for (future) use with FluxCD and its settings get referenced in multiple places.
 You're free to add settings as you please, or as you need them. Feel free to adapt them if needed!
@@ -128,6 +128,19 @@ To send the data to git run:
 - `git add *`
 - `git commit -a -m "some description"`
 - `git push`
+
+## (optional) Setting Up Github SSH access for FluxCD
+
+If you want to use FluxCD, you need to add the SSH public key defined in `./ssh-public-key.txt`, to your Github Account.
+
+For More info, see:
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+
+
+## (optional) Enabling FluxCD Bootstrapping
+
+If you want to setup FluxCD during bootstrap, be sure to enter a `GITHUB_REPOSITORY` in `ClusterEnv.yaml`.
+It should start with `ssh://`, so be sure to pick the SSH repository url option when copying your repository url from GitHub
 
 ## Generating ClusterConfig and updating files from Config
 
