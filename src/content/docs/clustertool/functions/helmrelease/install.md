@@ -1,1 +1,4 @@
+---
+title: HELM Install
+---
 # Install
