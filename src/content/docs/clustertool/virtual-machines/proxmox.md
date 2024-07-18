@@ -1,6 +1,8 @@
 ---
-title: Virtual Machine on Proxmox
+title: Talos VM on Proxmox
 ---
+
+Below are the instructions for creating a Talos VM atop a Proxmox host for use with TrueCharts.
 
 ## Downloading Talos
 

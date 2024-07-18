@@ -1,6 +1,8 @@
 ---
-title: Virtual Machine on VirtualBox
+title: Talos VM on VirtualBox
 ---
+
+Below are the instructions for creating a Talos VM inside a VirtualBox host for use with TrueCharts.
 
 ## Downloading Talos
 
