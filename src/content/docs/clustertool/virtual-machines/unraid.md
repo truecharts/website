@@ -1,6 +1,8 @@
 ---
-title: Virtual Machine on UnRaid
+title: Talos VM on UnRaid
 ---
+
+Below are the instructions for creating a Talos VM atop an UnRaid host for use with TrueCharts.
 
 ## Downloading Talos
 
