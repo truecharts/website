@@ -473,7 +473,7 @@ ingress:
           - path: /
             pathType: Prefix
             overrideService:
-              name: main
+              port: 80
 ```
 
 ---
