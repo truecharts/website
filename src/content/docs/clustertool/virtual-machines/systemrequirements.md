@@ -4,9 +4,9 @@ sidebar:
   order: 1
 ---
 
-Below are our recommended and supported system requirements for running TrueCharts Charts inside a Talos VM atop a TrueNAS SCALE or other hypervisor (Proxmox, UnRaid, etc.) host system.
+Below are our recommended and supported system requirements for running TrueCharts Charts inside a Talos VM atop a TrueNAS SCALE or other hypervisor (Proxmox, UnRaid, etc.) host system. These are early, preliminary system requirements and will likely change in the future as we gather feedback from more migrated users.
 
-These are early, preliminary system requirements and will likely change in the future as we gather feedback from more migrated users.
+See [below](/clustertool/virtual-machines/systemrequirements/#best-effort-cpu-recommendations) for additional information.
 
 :::note
 
@@ -82,7 +82,13 @@ On the left of this page in the sidebar, under this page and in the `virtual-mac
 
 ### Best Effort CPU Recommendations
 
-We obviously cannot account for all possible system configurations on the planet. Please use some common sense when determining if your hardware may or may not be suitable for running a Talos VM for our apps.
+We obviously cannot account for all possible system configurations on the planet. Please use some common sense when determining if your hardware may or may not be suitable for running a Talos VM for our apps. Aside from our below recommendations, the most generic advice we can give is to use a CPU that is at least of the [x86-64 v3 baseline](https://en.wikipedia.org/wiki/X86-64#Microarchitecture_levels).
+
+These include, but are not limited to
+
+- Intel [Haswell](https://en.wikipedia.org/wiki/Haswell_(microarchitecture)#List_of_Haswell_processors) family CPUs
+- Intel [Gracemont](https://en.wikipedia.org/wiki/Gracemont_(microarchitecture)#List_of_Gracemont_processors) family Atom CPUs (specifically only the N300/N305)
+- AMD [Ryzen](https://en.wikipedia.org/wiki/List_of_AMD_Ryzen_processors) family CPUs
 
 [Here](https://www.cpubenchmark.net/compare/3099vs3481vs4814/Intel-i7-8700-vs-AMD-Ryzen-5-3600-vs-AMD-Ryzen-7-5700X) is a link to PassMark CPU score comparisons of our minimum and recommended CPUs. You can add your own CPU to the comparison table to determine your equivalent standing. In short, you want **your** CPU to be scoring higher than the minimum.
 
