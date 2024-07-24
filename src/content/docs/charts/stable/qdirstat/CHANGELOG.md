@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.2.0 • [Train: stable]
+
+- chore(deps): update container image jlesage/qdirstat to v24.07.2@10454fa by renovate (#24196) • [`62d932b`](https://github.com/truecharts/charts/commit/62d932b18b5210a58aed425973df091b98758ae5) • [@TrueCharts Bot] (2024-07-24)
+
 ## 11.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
