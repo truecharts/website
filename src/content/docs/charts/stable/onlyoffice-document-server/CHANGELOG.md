@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 19.3.2 • [Train: stable]
+
+- chore(deps): update container image onlyoffice/documentserver to v8.1.1@9b74cb0 by renovate (#24122) • [`9d4be5d`](https://github.com/truecharts/charts/commit/9d4be5d986e52a0f8fa4eddf400caf58ced6989c) • [@TrueCharts Bot] (2024-07-24)
+
 ## 19.3.1 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

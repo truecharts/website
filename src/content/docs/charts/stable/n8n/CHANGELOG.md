@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 15.6.2 • [Train: stable]
+
+- chore(deps): update container image n8nio/n8n to v1.48.3@6eb5263 by renovate (#24118) • [`8a47d4d`](https://github.com/truecharts/charts/commit/8a47d4d0d30f6403174dc6d3332c983b876ec6d3) • [@TrueCharts Bot] (2024-07-24)
+
 ## 15.6.1 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
