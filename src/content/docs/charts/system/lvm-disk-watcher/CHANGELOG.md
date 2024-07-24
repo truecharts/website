@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.3 • [Train: system]
 
+- chore(deps): update ignored by renovate (patch) (#24139) • [`51504b7`](https://github.com/truecharts/charts/commit/51504b7b0045e75470a34b20fdfe9004bbf3c081) • [@TrueCharts Bot] (2024-07-24)
 - Update values.yaml • [`07b3a76`](https://github.com/truecharts/charts/commit/07b3a766a855a2cb7c13089f34c6c624032d8774) • [@Stavros Kois] (2024-07-24)
 - Update Chart.yaml • [`790b583`](https://github.com/truecharts/charts/commit/790b583dc7d9cd340b104d5a66f8f5c3d3c96b3d) • [@Kjeld Schouten] (2024-07-23)
 
