@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 14.2.2 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/fleet to 2.3.3@84ca0f4 by renovate (#24002) • [`8099024`](https://github.com/truecharts/charts/commit/80990249b43adce7fa17e3256811c673f4e6eea7) • [@TrueCharts Bot] (2024-07-24)
+
 ## 14.2.1 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

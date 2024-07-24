@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 16.2.2 • [Train: stable]
+
+- chore(deps): update container image friendica to 2024.03@cf908c5 by renovate (#23954) • [`a9646fe`](https://github.com/truecharts/charts/commit/a9646fe063d4f6a200260b5a1fafad1620afe34e) • [@TrueCharts Bot] (2024-07-24)
+
 ## 16.2.1 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

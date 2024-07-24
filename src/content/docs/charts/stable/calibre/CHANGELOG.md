@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 16.2.2 • [Train: stable]
 
+- chore(deps): update container image ghcr.io/linuxserver/calibre to v@4e88625 by renovate (#23994) • [`a45868f`](https://github.com/truecharts/charts/commit/a45868ffe121151f2765c9f35140ba9fc124e120) • [@TrueCharts Bot] (2024-07-24)
 - fix(calibre): Update Calibre Probes to be TCP based (#23918) • [`fb189d1`](https://github.com/truecharts/charts/commit/fb189d1d9c06933ddda5bbbabd65fac96caef46d) • [@Saad Awan] (2024-07-10)
 
 ## 16.2.1 • [Train: stable]
