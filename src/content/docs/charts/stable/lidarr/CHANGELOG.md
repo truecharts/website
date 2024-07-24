@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 23.2.0 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/onedr0p/lidarr-develop to v2.5.0.4277@dcc8ed7 by renovate (#24170) • [`c501a0d`](https://github.com/truecharts/charts/commit/c501a0d8438682feef357948366fecdce1c23f0a) • [@TrueCharts Bot] (2024-07-24)
+
 ## 23.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

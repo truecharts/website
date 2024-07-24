@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.3.0 • [Train: stable]
+
+- chore(deps): update container image jlesage/makemkv to v24.07.1@39dccc4 by renovate (#24191) • [`68d9575`](https://github.com/truecharts/charts/commit/68d95759dff2421d0f6dfe41ac55ac850a4c5764) • [@TrueCharts Bot] (2024-07-24)
+
 ## 12.2.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

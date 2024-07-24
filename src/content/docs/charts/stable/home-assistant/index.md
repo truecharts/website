@@ -2,7 +2,7 @@
 title: home-assistant
 ---
 
-![Version: 26.2.4](https://img.shields.io/badge/Version-26.2.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2024.6.4](https://img.shields.io/badge/AppVersion-2024.6.4-informational?style=flat-square)
+![Version: 26.3.0](https://img.shields.io/badge/Version-26.3.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2024.7.3](https://img.shields.io/badge/AppVersion-2024.7.3-informational?style=flat-square)
 
 home-assistant App for TrueNAS SCALE
 

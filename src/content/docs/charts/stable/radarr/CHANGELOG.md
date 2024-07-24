@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 23.3.0 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/onedr0p/radarr to v5.8.3.8933@c8fa12f by renovate (#24172) • [`52fb04b`](https://github.com/truecharts/charts/commit/52fb04b3f0c4797c3a7b3921a7b44e9e35fbfc88) • [@TrueCharts Bot] (2024-07-24)
+
 ## 23.2.2 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

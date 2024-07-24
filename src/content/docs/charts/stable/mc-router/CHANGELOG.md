@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.2.0 • [Train: stable]
+
+- chore(deps): update container image itzg/mc-router to v1.21.0@2290017 by renovate (#24183) • [`b9da2fe`](https://github.com/truecharts/charts/commit/b9da2fe947c83e44af1b351f58eb46cf206300b5) • [@TrueCharts Bot] (2024-07-24)
+
 ## 6.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
