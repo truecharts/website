@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.1.6 • [Train: stable]
+
+- chore(deps): update container image josh5/steam-headless to latest@d6e8621 by renovate (#23963) • [`10907bf`](https://github.com/truecharts/charts/commit/10907bf409e15b798f9f074d2e2b52f41bee8b56) • [@TrueCharts Bot] (2024-07-24)
+
 ## 5.1.5 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

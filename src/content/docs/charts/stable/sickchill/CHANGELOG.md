@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 13.1.6 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/sickchill to 2024.3.1@4489703 by renovate (#24021) • [`ac979ce`](https://github.com/truecharts/charts/commit/ac979cedd84939f177c1cf77afc4519d4973cf9c) • [@TrueCharts Bot] (2024-07-24)
+
 ## 13.1.5 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

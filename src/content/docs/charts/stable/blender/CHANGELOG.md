@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.6 • [Train: stable]
+
+- chore(deps): update container image lscr.io/linuxserver/blender to latest@2ab4f09 by renovate (#24035) • [`9e0f975`](https://github.com/truecharts/charts/commit/9e0f97579867be0d5b4eec845fa7c59e9bf46ff7) • [@TrueCharts Bot] (2024-07-24)
+
 ## 7.1.5 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
