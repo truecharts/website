@@ -12,15 +12,13 @@ All code and docs are considered Pre-Alpha drafts
 
 :::
 
-With the upcoming "Electric Eel" version of TrueNAS SCALE, iX-Systems has decided to completely gut the kubernetes backend and screw over its community. However, we've got you covered so you can safely keep running your TrueCharts Charts.
+With the upcoming "Electric Eel" version of TrueNAS SCALE, iX-Systems has decided to completely gut the Kubernetes backend of SCALE. However, we've got you covered so you can safely keep running your TrueCharts Charts.
 
-Our new ClusterTool can, among other things, be used to craft yourself a new kubernetes backend to continue self-hosting using TrueCharts.
-
-For this guide we'll be using a TalosOS VM on TrueNAS SCALE, but any solid hypervisor would suffice.
+Our new ClusterTool can, among other things, be used to craft yourself a new kubernetes backend to continue self-hosting using TrueCharts. For this guide we'll be using a TalosOS VM on TrueNAS SCALE, but any solid hypervisor would suffice.
 
 ## Pre-Migrations Advisory
 
-Prior to migration, we advise the following:
+Prior to migration, we require the following to be done:
 
 ### Ensure all "hostPath" storage is replaced with "NFS"-share based storage
 
@@ -35,13 +33,14 @@ Ensure you setup the permissions on the Dataset according to [this](https://true
 
 And configure the NFS Shares according to [this](https://truecharts.org/deprecated/scale/guides/nfs-share/) guide.
 
-**note**
-With "NFS-share" based storage, we explicitly refer to NFS storage-type as explained in [this](https://truecharts.org/deprecated/scale/guides/nfs-share/) guide.
-We do not advice the use of "static-PVC" NFS storage as an alternative.
+:::note
 
-We would also *heavily* advice that config storage should nearly *always* be set to "PVC" and neither *hostPath* or *NFS* should be used for it.
-If you did decide on using NFS storage for config, we cannot take responsibility if the migration fails.
 
+With NFS-based storage, we explicitly refer to the NFS storage type as explained in [this](https://truecharts.org/deprecated/scale/guides/nfs-share/) guide. We do not advise the use of "static-PVC" NFS storage as an alternative
+
+:::
+
+We  also *heavily* advise that config storage should almost *always* be set to "PVC" and not *hostPath* nor *NFS*.  If you did decide on using NFS storage for config, we cannot take responsibility if the migration fails.
 
 ### Ensure all PVC storage has VolSync backups (not restore) Enabled
 
@@ -51,7 +50,7 @@ Please follow the guides for setting-up VolSync backups on TrueNAS SCALE. Howeve
 
 Setup VolSync according to [this](https://truecharts.org/deprecated/scale/guides/backup-restore/) guide.
 
-*If you currently do not have VolSync installed, a migration catalog will be provided later to install it*
+*If you currently do not have VolSync installed, a migration-specific catalog will be provided at a later date to install it prior to migration*
 
 ## Continue with ClusterTool Getting-Started
 
