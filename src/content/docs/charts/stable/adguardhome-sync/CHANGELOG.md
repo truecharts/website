@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.1.4 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/bakito/adguardhome-sync to v0.6.12@a604e63 by renovate (#24083) • [`b5d8c51`](https://github.com/truecharts/charts/commit/b5d8c51fe398a3c61d4bce74a7718ac85d43fe2a) • [@TrueCharts Bot] (2024-07-24)
+
 ## 8.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

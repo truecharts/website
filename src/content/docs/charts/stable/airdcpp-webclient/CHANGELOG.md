@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.1.4 • [Train: stable]
+
+- chore(deps): update container image docker.io/gangefors/airdcpp-webclient to v2.12.2@4818da9 by renovate (#24074) • [`19a2870`](https://github.com/truecharts/charts/commit/19a28700052564f3f4f7e33293e9ddd6246e2e19) • [@TrueCharts Bot] (2024-07-24)
+
 ## 12.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

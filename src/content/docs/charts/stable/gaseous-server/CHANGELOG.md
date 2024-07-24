@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.2.2 • [Train: stable]
+
+- chore(deps): update container image gaseousgames/gaseousserver to v1.7.6@1c6d0c7 by renovate (#24080) • [`a3af6e4`](https://github.com/truecharts/charts/commit/a3af6e4ebebc9f8fe1880173e1bf4a0650e2ccd4) • [@TrueCharts Bot] (2024-07-24)
+
 ## 3.2.1 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
