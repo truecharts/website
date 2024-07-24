@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 31.3.7 • [Train: premium]
+
+- chore(deps): update container image redis to v15.1.5@7d73817 by renovate (#24126) • [`663f5cc`](https://github.com/truecharts/charts/commit/663f5ccfd2a8bac39d0f8a727e7fbbd280c44500) • [@TrueCharts Bot] (2024-07-24)
+
 ## 31.3.6 • [Train: premium]
 
 - chore(deps): update container image clamav/clamav to 1.3.1@15bc89f by renovate (#23938) • [`42a1fa2`](https://github.com/truecharts/charts/commit/42a1fa2d8142d3d99870e1c9a186064957ea08a2) • [@TrueCharts Bot] (2024-07-24)
