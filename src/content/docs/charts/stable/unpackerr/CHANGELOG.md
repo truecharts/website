@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 15.2.0 • [Train: stable]
+
+- chore(deps): update container image golift/unpackerr to v0.14.0@1253c81 by renovate (#24179) • [`a78717d`](https://github.com/truecharts/charts/commit/a78717df379222c8850a50f710da9ecb8c34f6a1) • [@TrueCharts Bot] (2024-07-24)
+
 ## 15.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
