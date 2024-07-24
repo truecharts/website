@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 13.3.0 • [Train: stable]
+
+- chore(deps): update container image docker.io/codercom/code-server to v4.91.1@8403442 by renovate (#24151) • [`6a6257f`](https://github.com/truecharts/charts/commit/6a6257f38b3354f8d7f67c0ce92ece87f342abb1) • [@TrueCharts Bot] (2024-07-24)
+
 ## 13.2.4 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

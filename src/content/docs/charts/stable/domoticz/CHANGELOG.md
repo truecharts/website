@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 13.2.0 • [Train: stable]
+
+- chore(deps): update container image domoticz/domoticz to v2024.7@b1dd5e9 by renovate (#24155) • [`7bf9b23`](https://github.com/truecharts/charts/commit/7bf9b23381f02207f1466bebde21733c3542d016) • [@TrueCharts Bot] (2024-07-24)
+
 ## 13.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

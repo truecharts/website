@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.3.0 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/rommapp/romm to v3.3@3c7af9e by renovate (#24176) • [`54be63d`](https://github.com/truecharts/charts/commit/54be63ddf040e8cc6bef53bd4a3cb2f51bd3ad06) • [@TrueCharts Bot] (2024-07-24)
+
 ## 10.2.1 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

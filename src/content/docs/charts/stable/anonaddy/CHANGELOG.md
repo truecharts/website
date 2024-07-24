@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 22.3.0 • [Train: stable]
+
+- chore(deps): update container image anonaddy/anonaddy to v1.2.1@37ca3e2 by renovate (#24142) • [`19cbb21`](https://github.com/truecharts/charts/commit/19cbb21e0c15ac927575627e98e2f61b306eb04b) • [@TrueCharts Bot] (2024-07-24)
+
 ## 22.2.1 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
