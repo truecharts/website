@@ -14,6 +14,16 @@ Whilst system requirements for Talos on bare metal are inherently much lower due
 
 :::
 
+## Recommended System Specifications for Master-only Nodes
+
+Systems complying with these specifications are suitable for deployment as a master node only, and as such, have lower requirements than those used further down the page. This allows for deployment on platforms that are much more compute-starved.
+
+**CPU:** 4 *Physical* Cores, suitable for deployment on ARM environments such as a Raspberry Pi v4, v5, etc.
+
+**RAM:** 8GB or more
+
+**Storage:** SSD or alternatively a high-end, write-durable SD card such as a Samsung Pro Plus or Pro Ultimate, SanDisk Extreme Pro or High/Max Endurance and equivalents.
+
 ## Minimum System Specifications
 
 Systems complying with these minimum specifications will be able to run **some** of our apps and may be limited to just a few at the same time. Experiences in terms of performance and which apps work may vary.
