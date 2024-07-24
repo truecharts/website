@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.2.0 • [Train: incubator]
+
+- chore(deps): update container image victoriametrics/victoria-metrics to v1.102.0@b51f691 by renovate (#24218) • [`b892b81`](https://github.com/truecharts/charts/commit/b892b815512115ec460e6ab0fea043e264bcad63) • [@TrueCharts Bot] (2024-07-24)
+
 ## 2.1.3 • [Train: incubator]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

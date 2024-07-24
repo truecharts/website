@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 14.4.0 • [Train: stable]
+
+- chore(deps): update container image outlinewiki/outline to v0.78.0@d317b2e by renovate (#24206) • [`0ed4a8b`](https://github.com/truecharts/charts/commit/0ed4a8ba308a4a845a1a979c5a5cfba7748f9378) • [@TrueCharts Bot] (2024-07-24)
+
 ## 14.3.2 • [Train: stable]
 
 - chore(deps): update container image outlinewiki/outline to v0.77.3@9e1eb28 by renovate (#24123) • [`cc1de64`](https://github.com/truecharts/charts/commit/cc1de643d9ba621396bae1b6a37f8a9eb02fb71d) • [@TrueCharts Bot] (2024-07-24)
