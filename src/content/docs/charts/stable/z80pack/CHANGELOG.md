@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.4 • [Train: stable]
+
+- chore(deps): update container image dlandon/z80pack to latest@206d1cb by renovate (#23943) • [`84e03ba`](https://github.com/truecharts/charts/commit/84e03baf585dd1fc8b7631ae737f5bb5c44315c4) • [@TrueCharts Bot] (2024-07-24)
+
 ## 7.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
