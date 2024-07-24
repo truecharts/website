@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 15.2.0 • [Train: stable]
+
+- chore(deps): update container image bitnami/mariadb to v11.4.2@5aaf1d7 by renovate (#24144) • [`fa462ad`](https://github.com/truecharts/charts/commit/fa462adb4fddba004a35226fb03c2ce0fdab952b) • [@TrueCharts Bot] (2024-07-24)
+
 ## 15.1.4 • [Train: stable]
 
 - chore(deps): update container image bitnami/mariadb to v@0d4ac2f by renovate (#23931) • [`9a0e48d`](https://github.com/truecharts/charts/commit/9a0e48d63a970eb16e6aa9021d621f16b1354d0e) • [@TrueCharts Bot] (2024-07-24)

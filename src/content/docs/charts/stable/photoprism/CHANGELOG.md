@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 23.3.0 • [Train: stable]
+
+- chore(deps): update container image photoprism/photoprism to v240711@6e6eb5d by renovate (#24207) • [`4fa7c42`](https://github.com/truecharts/charts/commit/4fa7c4248e3bda28463c8b1db04691726f04b4a0) • [@TrueCharts Bot] (2024-07-24)
+
 ## 23.2.1 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

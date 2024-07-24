@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.2.0 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/almarklein/timetagger to v24.07.1@bfbc2d9 by renovate (#24202) • [`0f76f13`](https://github.com/truecharts/charts/commit/0f76f13a0206a0c744589ff08c42ca65b5b2858f) • [@TrueCharts Bot] (2024-07-24)
+
 ## 8.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

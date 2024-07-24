@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 18.3.0 • [Train: stable]
+
+- chore(deps): update container image pihole/pihole to v2024.07.0@0def896 by renovate (#24208) • [`adbb7aa`](https://github.com/truecharts/charts/commit/adbb7aad51c6c66d7fafb1a782852274f0e93fc5) • [@TrueCharts Bot] (2024-07-24)
+
 ## 18.2.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
