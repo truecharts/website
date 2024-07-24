@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.2.2 • [Train: stable]
+
+- chore(deps): update container image jc21/nginx-proxy-manager to v2.11.3@5bd2aae by renovate (#24106) • [`616b143`](https://github.com/truecharts/charts/commit/616b143190e364e5610b2d7a30e07298ef249f66) • [@TrueCharts Bot] (2024-07-24)
+
 ## 11.2.1 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

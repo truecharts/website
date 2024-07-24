@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.1.5 • [Train: incubator]
+
+- chore(deps): update container image ghcr.io/slskd/slskd to v0.21.2@c7ccb10 by renovate (#24101) • [`a4f453b`](https://github.com/truecharts/charts/commit/a4f453bf042be1347cd7045dc57a2282acdf0b45) • [@TrueCharts Bot] (2024-07-24)
+
 ## 2.1.4 • [Train: incubator]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

@@ -2,7 +2,7 @@
 title: sonarr
 ---
 
-![Version: 23.1.3](https://img.shields.io/badge/Version-23.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.0.5.1710](https://img.shields.io/badge/AppVersion-4.0.5.1710-informational?style=flat-square)
+![Version: 23.1.4](https://img.shields.io/badge/Version-23.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.0.8.1874](https://img.shields.io/badge/AppVersion-4.0.8.1874-informational?style=flat-square)
 
 Smart PVR for newsgroup and bittorrent users
 
