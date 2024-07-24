@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 15.2.2 • [Train: stable]
+
+- chore(deps): update container image nginx to 1.27.0@6af79ae by renovate (#23977) • [`3418a4c`](https://github.com/truecharts/charts/commit/3418a4c6a6c28901d7cb349763b0bde4e4187a38) • [@TrueCharts Bot] (2024-07-24)
+
 ## 15.2.1 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
