@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 13.4.1 • [Train: stable]
+
+- chore(deps): update container image jgraph/drawio to v24.7.5@116d8b5 by renovate (#24337) • [`71804cd`](https://github.com/truecharts/charts/commit/71804cde363403634acf63f921c415168a482e97) • [@TrueCharts Bot] (2024-07-25)
+
 ## 13.4.0 • [Train: stable]
 
 - chore(deps): update container image jgraph/drawio to v24.7.1@b6f5be7 by renovate (#24185) • [`82ecf69`](https://github.com/truecharts/charts/commit/82ecf698f028de69d086d658461f80a72a97a70d) • [@TrueCharts Bot] (2024-07-24)
