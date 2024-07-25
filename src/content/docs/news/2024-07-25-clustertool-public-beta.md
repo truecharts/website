@@ -2,7 +2,7 @@
 slug: "news/clustertool-public-beta-release"
 title: "ClusterTool Public Beta Release"
 authors: [bitpushr]
-date: 2024-07-27
+date: 2024-07-25
 tags:
   - "2024"
 ---
