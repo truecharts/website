@@ -17,19 +17,7 @@ Over the course of the last month and since our [last update](/news/clustertool-
 
 ClusterTool has also seen the addition of FluxCD functionality, among others, and new builds are regularly being posted for testing [here](https://github.com/truecharts/clustertool-public/releases). We invite discussion and feedback in the `#clustertool` channel of our [Discord](https://discord.gg/tVsPTHWTtr), or you can simply follow the development of ClusterTool there.
 
-Additionally, through collaborative efforts, we're onboarding additional developers to work on ClusterTool directly throughout its Beta period. The more feedback we get from users, the better we can make the experience for all!
-
-### Beta Blockers and Caveats
-
-Currently, a few things are being finalised before ClusterTool is promoted to Beta status. These include
-
-- Completing more testing of our storage backend to ensure it works correctly
-
-- Ensuring data is correctly encrypted and decrypted as-needed
-
-- A Windows-specific fix for pre-commit hooks
-
-Once these are closed off, ClusterTool's first Beta will become available. We invite our users to test ClusterTool thoroughly throughout this phase and discuss or report any feedback/issues using threads in the above-mentioned Discord channel.
+Additionally, through collaborative efforts, we're onboarding additional developers to work on ClusterTool directly throughout its Beta period. The more feedback we get from users, the better we can make the experience for all! We invite our users to test ClusterTool thoroughly throughout this phase and discuss or report any feedback/issues using threads in the above-mentioned Discord channel.
 
 :::caution
 
