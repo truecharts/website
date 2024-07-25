@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.1.4 • [Train: stable]
+
+- chore(deps): update container image shokoanime/server to v4.2.2@d5ff80b by renovate (#24325) • [`b5c0a6a`](https://github.com/truecharts/charts/commit/b5c0a6aa213700fb8297c5890261215519576c42) • [@TrueCharts Bot] (2024-07-25)
+
 ## 11.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
