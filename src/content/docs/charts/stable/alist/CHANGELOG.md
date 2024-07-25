@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.2.1 • [Train: stable]
+
+- chore(deps): update container image xhofe/alist-aria2 to v3.36.0@5618638 by renovate (#24330) • [`b292bbe`](https://github.com/truecharts/charts/commit/b292bbe320e5ae3afd9ecc504c04021a0881905e) • [@TrueCharts Bot] (2024-07-25)
+
 ## 11.2.0 • [Train: stable]
 
 - chore(deps): update container image xhofe/alist-aria2 to v3.36.0@bae4d11 by renovate (#24219) • [`ee428fc`](https://github.com/truecharts/charts/commit/ee428fc2b227aeda85f4c83359fe59d37a11d6c3) • [@TrueCharts Bot] (2024-07-24)

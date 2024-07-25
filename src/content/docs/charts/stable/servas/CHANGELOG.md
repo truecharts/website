@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.3.1 • [Train: stable]
+
+- chore(deps): update container image beromir/servas to 0.2.0@e3beaf0 by renovate (#24296) • [`2b141d0`](https://github.com/truecharts/charts/commit/2b141d06c54bea591dd1ef0ec21341d880d8cc75) • [@TrueCharts Bot] (2024-07-25)
+
 ## 6.3.0 • [Train: stable]
 
 - chore(deps): update container image mariadb to v15.2.0@fdde661 by renovate (#24241) • [`3944545`](https://github.com/truecharts/charts/commit/39445452b449e1fd37484911d0aea9da529cdac6) • [@TrueCharts Bot] (2024-07-24)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 14.2.3 • [Train: stable]
+
+- chore(deps): update container image baserow/baserow to v@32bff9b by renovate (#24295) • [`a83cefe`](https://github.com/truecharts/charts/commit/a83cefe4cfbec555354c58a66deee4e2fb1a1b45) • [@TrueCharts Bot] (2024-07-25)
+
 ## 14.2.2 • [Train: stable]
 
 - chore(deps): update container image redis to v15.1.5@7d73817 by renovate (#24126) • [`663f5cc`](https://github.com/truecharts/charts/commit/663f5ccfd2a8bac39d0f8a727e7fbbd280c44500) • [@TrueCharts Bot] (2024-07-24)

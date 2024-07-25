@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.3.1 • [Train: stable]
+
+- chore(deps): update container image ronivay/xen-orchestra to 5.148.2@c8c6b30 by renovate (#24323) • [`4d9b1f0`](https://github.com/truecharts/charts/commit/4d9b1f0353f672e6da0e5e8bc4a8bed764add3b6) • [@TrueCharts Bot] (2024-07-25)
+
 ## 10.3.0 • [Train: stable]
 
 - chore(deps): update container image ronivay/xen-orchestra to v5.148.2@d0bbb0d by renovate (#24210) • [`6f1e4d1`](https://github.com/truecharts/charts/commit/6f1e4d11458ba3b67daf79e5b2070341fd855ef5) • [@TrueCharts Bot] (2024-07-24)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.4 • [Train: stable]
+
+- chore(deps): update container image rhasspy/wyoming-whisper to 2.1.0@d7485ad by renovate (#24321) • [`e8b5e64`](https://github.com/truecharts/charts/commit/e8b5e64bb75f20a62d57c8ad68879f9644cedba5) • [@TrueCharts Bot] (2024-07-25)
+
 ## 7.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.4.1 • [Train: stable]
+
+- chore(deps): update container image plausible/analytics to v2.0.0@cd5f75e by renovate (#24316) • [`f407667`](https://github.com/truecharts/charts/commit/f40766787528a8593f5549f0b1eab59314f00fad) • [@TrueCharts Bot] (2024-07-25)
+
 ## 12.4.0 • [Train: stable]
 
 - chore(deps): update container image clickhouse to v14.2.1@9490358 by renovate (#24240) • [`cb57c9c`](https://github.com/truecharts/charts/commit/cb57c9c40d5a5b496c91f7b2496f2a5a20aa853c) • [@TrueCharts Bot] (2024-07-24)

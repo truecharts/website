@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.2.1 • [Train: stable]
+
+- chore(deps): update container image brandawg93/peanut to 2.6.0@5c290d5 by renovate (#24300) • [`bc46bb4`](https://github.com/truecharts/charts/commit/bc46bb42971f880c0697121b228dfbc913492ce3) • [@TrueCharts Bot] (2024-07-25)
+
 ## 3.2.0 • [Train: stable]
 
 - chore(deps): update container image brandawg93/peanut to v2.6.0@97d8f8a by renovate (#24146) • [`55f0f1c`](https://github.com/truecharts/charts/commit/55f0f1ce3c646d827e9effb369a9cd3e5fe0b7a1) • [@TrueCharts Bot] (2024-07-24)

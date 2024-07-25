@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.3.1 • [Train: incubator]
+
+- chore(deps): update container image msdeluise/plant-it-server to 0.7.4@fb1c0d1 by renovate (#24313) • [`eba7c2e`](https://github.com/truecharts/charts/commit/eba7c2e7dc51c9ba907b0cb4de000087c8406a86) • [@TrueCharts Bot] (2024-07-25)
+
 ## 1.3.0 • [Train: incubator]
 
 - chore(deps): update container image mariadb to v15.2.0@fdde661 by renovate (#24241) • [`3944545`](https://github.com/truecharts/charts/commit/39445452b449e1fd37484911d0aea9da529cdac6) • [@TrueCharts Bot] (2024-07-24)

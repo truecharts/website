@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 14.2.3 • [Train: stable]
+
+- chore(deps): update container image papermerge/papermerge to v@6633dde by renovate (#24315) • [`6b5d9e0`](https://github.com/truecharts/charts/commit/6b5d9e083ac124a54447dd32fc6d89bbd8360ee2) • [@TrueCharts Bot] (2024-07-25)
+
 ## 14.2.2 • [Train: stable]
 
 - chore(deps): update container image redis to v15.1.5@7d73817 by renovate (#24126) • [`663f5cc`](https://github.com/truecharts/charts/commit/663f5ccfd2a8bac39d0f8a727e7fbbd280c44500) • [@TrueCharts Bot] (2024-07-24)
