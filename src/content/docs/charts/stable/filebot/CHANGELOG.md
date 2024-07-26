@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.3.1 • [Train: stable]
+
+- chore(deps): update container image jlesage/filebot to v24.07.1@faaf72e by renovate (#24354) • [`75f4776`](https://github.com/truecharts/charts/commit/75f4776da934fd2ab0b431a13bd3b441c4339957) • [@TrueCharts Bot] (2024-07-26)
+
 ## 11.3.0 • [Train: stable]
 
 - chore(deps): update container image jlesage/filebot to v24.07.1@481afee by renovate (#24188) • [`568b8ad`](https://github.com/truecharts/charts/commit/568b8ada51d6b40c53a8295d2d814e97e13def2d) • [@TrueCharts Bot] (2024-07-24)

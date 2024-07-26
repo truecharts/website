@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.4 • [Train: stable]
+
+- chore(deps): update container image corentinth/it-tools to 2024.5.13-a0bc346@c191615 by renovate (#24341) • [`8536a4e`](https://github.com/truecharts/charts/commit/8536a4e1533e2c86bb5f3f0db3bedd049c8dea05) • [@TrueCharts Bot] (2024-07-26)
+
 ## 7.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

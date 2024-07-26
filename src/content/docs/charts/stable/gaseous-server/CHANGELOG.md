@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.3.1 • [Train: stable]
+
+- chore(deps): update container image gaseousgames/gaseousserver to v1.7.6@da982bb by renovate (#24349) • [`ee42232`](https://github.com/truecharts/charts/commit/ee422327f2e155569b152f28514b1cb172c56b83) • [@TrueCharts Bot] (2024-07-26)
+
 ## 3.3.0 • [Train: stable]
 
 - chore(deps): update container image mariadb to v15.2.0@fdde661 by renovate (#24241) • [`3944545`](https://github.com/truecharts/charts/commit/39445452b449e1fd37484911d0aea9da529cdac6) • [@TrueCharts Bot] (2024-07-24)
