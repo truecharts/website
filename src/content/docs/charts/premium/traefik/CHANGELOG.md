@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 29.2.1 • [Train: premium]
 
+- Commit daily changes • [`6acc02e`](https://github.com/truecharts/charts/commit/6acc02e025aa985cdf020bee5f754f65b4247697) • [@TrueCharts-Bot] (2024-07-26)
 - fix(traefik): add missing rbacs (#24262) • [`9d38d21`](https://github.com/truecharts/charts/commit/9d38d2159ba109436eb5a589d2bb33f844aec257) • [@Stavros Kois] (2024-07-25)
 
 ## 29.2.0 • [Train: premium]
