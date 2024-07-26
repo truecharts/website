@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.3.2 • [Train: stable]
+
+- chore(deps): update container image mariadb to v15.2.1@674cbcc by renovate (#24338) • [`2f559d7`](https://github.com/truecharts/charts/commit/2f559d7d68f7615f547ae090188b22983060bf92) • [@TrueCharts Bot] (2024-07-26)
+
 ## 7.3.1 • [Train: stable]
 
 - chore(deps): update container image seafileltd/seafile-mc to 11.0.9@889b4cd by renovate (#24324) • [`19af04a`](https://github.com/truecharts/charts/commit/19af04a154b04ea8cb3577ddb1f2844885f9738d) • [@TrueCharts Bot] (2024-07-25)
