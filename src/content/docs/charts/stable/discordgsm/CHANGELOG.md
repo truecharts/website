@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 9.1.4 • [Train: stable]
+
+- chore(deps): update container image discordgsm/discord-game-server-monitor to 2.17.0@8e6a5c9 by renovate (#24342) • [`5876be9`](https://github.com/truecharts/charts/commit/5876be9889c2ff328a036a5322225b18ae2c61c7) • [@TrueCharts Bot] (2024-07-26)
+
 ## 9.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
