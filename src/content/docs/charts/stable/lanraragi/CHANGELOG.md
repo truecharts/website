@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.1.6 • [Train: stable]
+
+- chore(deps): update container image difegue/lanraragi to vv.0.9.21@0fec342 by renovate (#24370) • [`5ec164b`](https://github.com/truecharts/charts/commit/5ec164b51cc6dc79d2a2371463dfa5898c6245a5) • [@TrueCharts Bot] (2024-07-26)
+
 ## 11.1.5 • [Train: stable]
 
 - chore(deps): update container image difegue/lanraragi to vv.0.9.20@98713d0 by renovate (#24335) • [`0ff4f40`](https://github.com/truecharts/charts/commit/0ff4f40c2cccd3e3a81e487b6e74332e82ef5497) • [@TrueCharts Bot] (2024-07-25)
