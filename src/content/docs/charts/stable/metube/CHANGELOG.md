@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 14.3.1 • [Train: stable]
+
+- chore(deps): update container image alexta69/metube to v2024-07-26@5b69048 by renovate (#24368) • [`dc094ad`](https://github.com/truecharts/charts/commit/dc094ad10bf61dc5f9d38ee636b28dbaf307d7cb) • [@TrueCharts Bot] (2024-07-26)
+
 ## 14.3.0 • [Train: stable]
 
 - chore(deps): update container image alexta69/metube to v2024-07-17@146c405 by renovate (#24141) • [`fd221fe`](https://github.com/truecharts/charts/commit/fd221fe1ded0dd7919ededdbd4032894ed289fea) • [@TrueCharts Bot] (2024-07-24)

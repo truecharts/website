@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.1.4 • [Train: stable]
+
+- chore(deps): update container image rhasspy/wyoming-piper to 1.5.0@b6bf208 by renovate (#24361) • [`8889be2`](https://github.com/truecharts/charts/commit/8889be23f9024a64d7c3aa8462c873971b0328de) • [@TrueCharts Bot] (2024-07-26)
+
 ## 6.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 13.1.9 • [Train: stable]
+
+- chore(deps): update container image redmine to 5.1.3@0ab1b27 by renovate (#24358) • [`93b7bad`](https://github.com/truecharts/charts/commit/93b7baddd8e57c15b8e674755b6c361a7fa01554) • [@TrueCharts Bot] (2024-07-26)
+
 ## 13.1.8 • [Train: stable]
 
 - chore(deps): update container image redmine to 5.1.3@d59ab5a by renovate (#24270) • [`53c71a2`](https://github.com/truecharts/charts/commit/53c71a28d7b466b0d2b81f1cfb51bb625b0529d8) • [@TrueCharts Bot] (2024-07-25)
