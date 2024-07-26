@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.1.4 • [Train: stable]
+
+- chore(deps): update container image portainer/portainer-ee to 2.20.3@daa3658 by renovate (#24385) • [`594aac0`](https://github.com/truecharts/charts/commit/594aac094071bb18d26f78f601502b0217ad3a42) • [@TrueCharts Bot] (2024-07-26)
+
 ## 10.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

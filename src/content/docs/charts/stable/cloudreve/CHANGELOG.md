@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.1.4 • [Train: stable]
+
+- chore(deps): update container image cloudreve/cloudreve to 3.8.3@b6c8bfd by renovate (#24372) • [`8189417`](https://github.com/truecharts/charts/commit/8189417d80fca2c5f0bd4334802ef2dbb2c248bf) • [@TrueCharts Bot] (2024-07-26)
+
 ## 8.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

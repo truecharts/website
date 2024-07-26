@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 17.1.4 • [Train: stable]
+
+- chore(deps): update container image sismics/docs to v1.11@70616d4 by renovate (#24389) • [`c89ed0f`](https://github.com/truecharts/charts/commit/c89ed0f8c9e5648c303618352ede823c15f7a626) • [@TrueCharts Bot] (2024-07-26)
+
 ## 17.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
