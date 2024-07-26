@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.2.2 • [Train: stable]
+
+- chore(deps): update container image danmed/tasmobackupv1 to v1.06.04@d623789 by renovate (#24406) • [`8deeaf5`](https://github.com/truecharts/charts/commit/8deeaf592cc83a3628dfeeb15d48948182c88233) • [@TrueCharts Bot] (2024-07-26)
+
 ## 8.2.1 • [Train: stable]
 
 - chore(deps): update container image danmed/tasmobackupv1 to v1.06.02@208e73b by renovate (#24396) • [`186f29a`](https://github.com/truecharts/charts/commit/186f29a4cfeaa42fff7c1507bb9aa22c7e86e8b1) • [@TrueCharts Bot] (2024-07-26)
