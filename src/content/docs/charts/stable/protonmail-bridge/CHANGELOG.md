@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 16.2.1 • [Train: stable]
+
+- chore(deps): update container image shenxn/protonmail-bridge to 3.12.0-1@4d4e82e by renovate (#24388) • [`b058853`](https://github.com/truecharts/charts/commit/b058853f1c0018a18199bd5fa7a24e44c486db2c) • [@TrueCharts Bot] (2024-07-26)
+
 ## 16.2.0 • [Train: stable]
 
 - chore(deps): update container image shenxn/protonmail-bridge to v3.12.0@7cf7698 by renovate (#24211) • [`0def729`](https://github.com/truecharts/charts/commit/0def729e65786cd9b362e12761255eabc9d2e999) • [@TrueCharts Bot] (2024-07-24)
