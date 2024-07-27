@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.1.8 • [Train: stable]
+
+- chore(deps): update container image wiserain/flexget to 3.11.41@07f5039 by renovate (#24436) • [`91a7d9f`](https://github.com/truecharts/charts/commit/91a7d9f2b397cb8ec7d43e94975ddd5b97ce8627) • [@TrueCharts Bot] (2024-07-27)
+
 ## 11.1.7 • [Train: stable]
 
 - chore(deps): update container image wiserain/flexget to v3.11.41@b22cdea by renovate (#24136) • [`d663adb`](https://github.com/truecharts/charts/commit/d663adb79faacdb0d883e90a71e478cf5d5c3df7) • [@TrueCharts Bot] (2024-07-24)

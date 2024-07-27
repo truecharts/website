@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.1.4 • [Train: stable]
+
+- chore(deps): update container image skrashevich/double-take to v1.13.11@e91d1d4 by renovate (#24435) • [`02cd1d5`](https://github.com/truecharts/charts/commit/02cd1d550ba20355cf0841574769cdbe6057d1b4) • [@TrueCharts Bot] (2024-07-27)
+
 ## 12.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
