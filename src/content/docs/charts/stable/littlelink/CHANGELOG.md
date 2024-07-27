@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 15.1.10 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/techno-tim/littlelink-server to latest@45c4731 by renovate (#24425) • [`a5cd163`](https://github.com/truecharts/charts/commit/a5cd1637dce53cf8da857f75ab8b9315793f1dd0) • [@TrueCharts Bot] (2024-07-27)
+
 ## 15.1.9 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/techno-tim/littlelink-server to latest@d558c29 by renovate (#24352) • [`ee980ec`](https://github.com/truecharts/charts/commit/ee980ec9e039804c65f28a1f85bf46038f4ea257) • [@TrueCharts Bot] (2024-07-26)
