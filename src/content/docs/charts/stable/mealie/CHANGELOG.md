@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 23.4.1 • [Train: stable]
 
+- Commit daily changes • [`80b0d10`](https://github.com/truecharts/charts/commit/80b0d1052357bb8ae90f1c5fdaf06237fd5c142f) • [@TrueCharts-Bot] (2024-07-27)
 - fix(mealie): decouple ldap and oidc • [`3f3212d`](https://github.com/truecharts/charts/commit/3f3212ddb2b2274e1049124c6ccd906407f4b78a) • [@Stavros Kois] (2024-07-26)
 
 ## 23.4.0 • [Train: stable]
