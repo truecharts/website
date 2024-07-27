@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 13.1.6 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/grav to 1.7.46@ed27423 by renovate (#24451) • [`b38ccdc`](https://github.com/truecharts/charts/commit/b38ccdc29f5fb6dbb3aa7aec0b9267d7ce63fa35) • [@TrueCharts Bot] (2024-07-27)
+
 ## 13.1.5 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/grav to 1.7.46@df7522f by renovate (#24005) • [`5d166c2`](https://github.com/truecharts/charts/commit/5d166c28e2191c464d0123724b76aa596a6534dc) • [@TrueCharts Bot] (2024-07-24)
