@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 17.1.6 • [Train: stable]
+
+- chore(deps): update container image deconzcommunity/deconz to v2.27.6@c6128b0 by renovate (#24445) • [`25d2a76`](https://github.com/truecharts/charts/commit/25d2a7699ffa91988513226eb8e253577f5b6bce) • [@TrueCharts Bot] (2024-07-27)
+
 ## 17.1.5 • [Train: stable]
 
 - chore(deps): update container image deconzcommunity/deconz to v2.27.5@9445976 by renovate (#24072) • [`e4ec6fc`](https://github.com/truecharts/charts/commit/e4ec6fc25035dbbdeb14ac6f06b3f710e0755b25) • [@TrueCharts Bot] (2024-07-24)
