@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 13.1.6 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/quassel-core to 0.14.0@1a5b555 by renovate (#24517) • [`1ddc710`](https://github.com/truecharts/charts/commit/1ddc7106e6f60c56b648204d552d92c6c1bb222a) • [@TrueCharts Bot] (2024-07-29)
+
 ## 13.1.5 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/quassel-core to 0.14.0@74fce6b by renovate (#24017) • [`ed6fd71`](https://github.com/truecharts/charts/commit/ed6fd718dd8bc65e0ef0087109531b0656477c3f) • [@TrueCharts Bot] (2024-07-24)
