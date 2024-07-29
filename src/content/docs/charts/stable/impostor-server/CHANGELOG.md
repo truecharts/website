@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.1.6 • [Train: stable]
+
+- chore(deps): update container image aeonlucid/impostor to nightly@959c66f by renovate (#24524) • [`1079bc0`](https://github.com/truecharts/charts/commit/1079bc0fbded462d6319a361314f9411624d81e1) • [@TrueCharts Bot] (2024-07-29)
+
 ## 10.1.5 • [Train: stable]
 
 - chore(deps): update container image aeonlucid/impostor to nightly@71f7b6c by renovate (#24449) • [`76c8712`](https://github.com/truecharts/charts/commit/76c8712d615da0d60106a9262f4215d6b66e4ebf) • [@TrueCharts Bot] (2024-07-27)
