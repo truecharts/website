@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.2.0 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/recyclarr/recyclarr to v7.2.0@bc7a7b9 by renovate (#24506) • [`40ca953`](https://github.com/truecharts/charts/commit/40ca953a312b49c30bc1f765f6c0637091ce20d3) • [@TrueCharts Bot] (2024-07-29)
+
 ## 12.1.0 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/recyclarr/recyclarr to v7.1.1@3bc426b by renovate (#24175) • [`b503e99`](https://github.com/truecharts/charts/commit/b503e99e66ed56b66ad7d5ecf624ca4a457672ae) • [@TrueCharts Bot] (2024-07-24)
