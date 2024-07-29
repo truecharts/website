@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.1.5 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/rogerfar/rdtclient to v2.0.81@17cfe6b by renovate (#24513) • [`1ec03bc`](https://github.com/truecharts/charts/commit/1ec03bcd77a8610bbec81cf16e8bafa8bf48a733) • [@TrueCharts Bot] (2024-07-29)
+
 ## 6.1.4 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/rogerfar/rdtclient to v2.0.80@c40a1d7 by renovate (#24100) • [`9c126b8`](https://github.com/truecharts/charts/commit/9c126b8b3f9130c99b3181f7067bb4062abf3c12) • [@TrueCharts Bot] (2024-07-24)
