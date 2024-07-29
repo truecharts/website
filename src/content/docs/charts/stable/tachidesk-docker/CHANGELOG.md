@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.1.6 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/suwayomi/tachidesk to preview@1c5432f by renovate (#24500) • [`242341c`](https://github.com/truecharts/charts/commit/242341cac9bd8a8ec7ef4eb2baaeb722bb23834e) • [@TrueCharts Bot] (2024-07-29)
+
 ## 8.1.5 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/suwayomi/tachidesk to preview@1457203 by renovate (#24032) • [`6f13745`](https://github.com/truecharts/charts/commit/6f13745b8654b378c4f585ea2ebefec5c1c7f102) • [@TrueCharts Bot] (2024-07-24)
