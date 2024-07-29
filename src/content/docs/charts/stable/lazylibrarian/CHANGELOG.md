@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 20.1.11 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/lazylibrarian to latest@d416a68 by renovate (#24527) • [`1166084`](https://github.com/truecharts/charts/commit/116608429109d918043b36442e83e8b76a771fdb) • [@TrueCharts Bot] (2024-07-29)
+
 ## 20.1.10 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/lazylibrarian to latest@8d424e7 by renovate (#24498) • [`923f5bb`](https://github.com/truecharts/charts/commit/923f5bbfc8ccaa4dd5e8fdffbb4274ff118610b0) • [@TrueCharts Bot] (2024-07-29)
