@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.5 • [Train: stable]
+
+- chore(deps): update container image ich777/mindustry-server to latest@ca6c9c6 by renovate (#24544) • [`d1dd942`](https://github.com/truecharts/charts/commit/d1dd9420968d302a6a5fb72a9ea2293c7e0978b1) • [@TrueCharts Bot] (2024-07-30)
+
 ## 7.1.4 • [Train: stable]
 
 - chore(deps): update container image ich777/mindustry-server to latest@b21317e by renovate (#23957) • [`b3d54a9`](https://github.com/truecharts/charts/commit/b3d54a950df54279938c57f7af4d2d77f7983180) • [@TrueCharts Bot] (2024-07-24)
