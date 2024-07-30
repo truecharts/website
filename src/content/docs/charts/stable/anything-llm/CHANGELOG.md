@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.1.11 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/mintplex-labs/anything-llm to latest@ea946ac by renovate (#24542) • [`5112687`](https://github.com/truecharts/charts/commit/51126873f0903602d9b826c5ee623da733a2f9b7) • [@TrueCharts Bot] (2024-07-30)
+
 ## 3.1.10 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/mintplex-labs/anything-llm to latest@f7b15b3 by renovate (#24499) • [`2e252fa`](https://github.com/truecharts/charts/commit/2e252fabcae525d9e3b4ce3cf91a83a64622f734) • [@TrueCharts Bot] (2024-07-29)
