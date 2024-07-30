@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 16.7.0 • [Train: stable]
+
+- chore(deps): update container image mongodb to v14.1.4@9ae3f5a by renovate (#23131) • [`b01d646`](https://github.com/truecharts/charts/commit/b01d646b86b19122951b8b3525187143f3f22993) • [@TrueCharts Bot] (2024-07-24)
+
 ## 16.6.1 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

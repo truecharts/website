@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.3.0 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/nwithan8/tauticord to v5.6.0@2dd9ffd by renovate (#24169) • [`5feb864`](https://github.com/truecharts/charts/commit/5feb86401cce91aac0ac888d77b2a67eacee60cd) • [@TrueCharts Bot] (2024-07-24)
+
 ## 7.2.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

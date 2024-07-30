@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.1.5 • [Train: stable]
+
+- chore(deps): update container image itzg/minecraft-bedrock-server to latest@d7a6795 by renovate (#23962) • [`2a96e68`](https://github.com/truecharts/charts/commit/2a96e681f16f20f5ee671725666be31ad3488250) • [@TrueCharts Bot] (2024-07-24)
+
 ## 10.1.4 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

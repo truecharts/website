@@ -11,6 +11,18 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 13.1.7 • [Train: stable]
+
+- chore(deps): update container image bitnami/dokuwiki to 20240206.1.0@07c6e46 by renovate (#24470) • [`7edc0a3`](https://github.com/truecharts/charts/commit/7edc0a3074c23f8994cd9dad01f233dfe4fe5af6) • [@TrueCharts Bot] (2024-07-28)
+
+## 13.1.6 • [Train: stable]
+
+- chore(deps): update container image bitnami/dokuwiki to 20240206.1.0@5237ece by renovate (#24264) • [`65645e5`](https://github.com/truecharts/charts/commit/65645e57189c8f99a274e88919a76c6c4e6c495e) • [@TrueCharts Bot] (2024-07-25)
+
+## 13.1.5 • [Train: stable]
+
+- chore(deps): update container image bitnami/dokuwiki to 20240206.1.0@b80c4d2 by renovate (#23930) • [`c405f0a`](https://github.com/truecharts/charts/commit/c405f0a70243df6cdbafe6347e7971686e6a7b80) • [@TrueCharts Bot] (2024-07-24)
+
 ## 13.1.4 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

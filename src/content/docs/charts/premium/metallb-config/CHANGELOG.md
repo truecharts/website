@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.1.5 • [Train: premium]
+
+- chore(deps): update container image hello-world to latest@1408fec by renovate (#23956) • [`988139a`](https://github.com/truecharts/charts/commit/988139ac56a80a1921d2daaf03485a838d9ed55f) • [@TrueCharts Bot] (2024-07-24)
+
 ## 8.1.4 • [Train: premium]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

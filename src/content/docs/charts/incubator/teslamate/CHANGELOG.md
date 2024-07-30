@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.2.0 • [Train: incubator]
+
+- chore(deps): update container image teslamate/teslamate to v1.30.1@21b53b2 by renovate (#24217) • [`197517d`](https://github.com/truecharts/charts/commit/197517d5fb4105e8e1df0575dce7fc556c4031c5) • [@TrueCharts Bot] (2024-07-24)
+
 ## 2.1.4 • [Train: incubator]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 22.3.0 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/goofball222/unifi to v8.3.32@820ff8b by renovate (#24163) • [`d575deb`](https://github.com/truecharts/charts/commit/d575deb76f13499503a75ecf5884f7f3f14fef6e) • [@TrueCharts Bot] (2024-07-24)
+
 ## 22.2.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

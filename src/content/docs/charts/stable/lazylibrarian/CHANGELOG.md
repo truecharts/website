@@ -11,6 +11,34 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 20.1.12 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/lazylibrarian to latest@7d4b1ae by renovate (#24540) • [`c011ad5`](https://github.com/truecharts/charts/commit/c011ad56e283ce5ea75ebe383c20183f59b7be9b) • [@TrueCharts Bot] (2024-07-30)
+
+## 20.1.11 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/lazylibrarian to latest@d416a68 by renovate (#24527) • [`1166084`](https://github.com/truecharts/charts/commit/116608429109d918043b36442e83e8b76a771fdb) • [@TrueCharts Bot] (2024-07-29)
+
+## 20.1.10 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/lazylibrarian to latest@8d424e7 by renovate (#24498) • [`923f5bb`](https://github.com/truecharts/charts/commit/923f5bbfc8ccaa4dd5e8fdffbb4274ff118610b0) • [@TrueCharts Bot] (2024-07-29)
+
+## 20.1.9 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/lazylibrarian to latest@aff8a7f by renovate (#24423) • [`9fea886`](https://github.com/truecharts/charts/commit/9fea886057cb8d65979e66d5e52fa8cb8669604c) • [@TrueCharts Bot] (2024-07-27)
+
+## 20.1.8 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/lazylibrarian to latest@b7991d9 by renovate (#24350) • [`3065c4a`](https://github.com/truecharts/charts/commit/3065c4a27ec37a9a3ef80a35ea1ac69eed3a5086) • [@TrueCharts Bot] (2024-07-26)
+
+## 20.1.7 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/lazylibrarian to latest@7790973 by renovate (#24306) • [`ec99a85`](https://github.com/truecharts/charts/commit/ec99a85881c11ea19102a69a9e9203c3bbe8513a) • [@TrueCharts Bot] (2024-07-25)
+
+## 20.1.6 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/lazylibrarian to latest@00698af by renovate (#24007) • [`9de7659`](https://github.com/truecharts/charts/commit/9de765983a94c9ee1442217743fbf1a4d0b8989d) • [@TrueCharts Bot] (2024-07-24)
+
 ## 20.1.5 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

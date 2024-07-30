@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.1.7 • [Train: stable]
+
+- chore(deps): update ersatztv by renovate (#24476) • [`bc80a20`](https://github.com/truecharts/charts/commit/bc80a2041aaf6e2541de738e6fefe1d05d04701e) • [@TrueCharts Bot] (2024-07-28)
+
 ## 5.1.6 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

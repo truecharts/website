@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.2.5 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/bitmagnet-io/bitmagnet to v0.9.5@7bf4688 by renovate (#24084) • [`c2ed712`](https://github.com/truecharts/charts/commit/c2ed712b916d1f9fef0af96dc2e7687d934cb766) • [@TrueCharts Bot] (2024-07-24)
+
 ## 3.2.4 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

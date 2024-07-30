@@ -11,6 +11,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 16.1.4 • [Train: stable]
+
+- chore(deps): update container image vexorian/dizquetv to 1.5.3-nvidia@13ef8f5 by renovate (#24366) • [`a6022b7`](https://github.com/truecharts/charts/commit/a6022b74661f49b09f544819e22769bce2906f42) • [@TrueCharts Bot] (2024-07-26)
+- chore(deps): update container image vexorian/dizquetv to 1.5.3@4de86b6 by renovate (#24367) • [`2e1ae30`](https://github.com/truecharts/charts/commit/2e1ae3048f52a717e5f23ba92ed7a49a11f03c32) • [@TrueCharts Bot] (2024-07-26)
+
 ## 16.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

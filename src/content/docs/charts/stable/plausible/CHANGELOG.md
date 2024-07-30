@@ -11,6 +11,55 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.4.9 • [Train: stable]
+
+- chore(deps): update container image clickhouse to v14.2.10@2725f5a by renovate (#24547) • [`0472b02`](https://github.com/truecharts/charts/commit/0472b027f77c8893c8fcda577d534a9e0f3538f5) • [@TrueCharts Bot] (2024-07-30)
+
+## 12.4.8 • [Train: stable]
+
+- chore(deps): update container image clickhouse to v14.2.9@0bf2681 by renovate (#24534) • [`922e9af`](https://github.com/truecharts/charts/commit/922e9af924905609c841c56492150a86e7803a8e) • [@TrueCharts Bot] (2024-07-29)
+
+## 12.4.7 • [Train: stable]
+
+- chore(deps): update container image clickhouse to v14.2.8@eb3fee0 by renovate (#24504) • [`21ccbe0`](https://github.com/truecharts/charts/commit/21ccbe0c6cb44f9991eadc61ec733658a5951a8e) • [@TrueCharts Bot] (2024-07-29)
+
+## 12.4.6 • [Train: stable]
+
+- chore(deps): update container image clickhouse to v14.2.7@3fc796c by renovate (#24493) • [`d3193b2`](https://github.com/truecharts/charts/commit/d3193b204c3445dcc4927d5701673f2ce198d221) • [@TrueCharts Bot] (2024-07-28)
+
+## 12.4.5 • [Train: stable]
+
+- chore(deps): update container image clickhouse to v14.2.6@360017c by renovate (#24468) • [`9457f3c`](https://github.com/truecharts/charts/commit/9457f3c620006d665c7598bd36e60108f56db4a2) • [@TrueCharts Bot] (2024-07-28)
+
+## 12.4.4 • [Train: stable]
+
+- chore(deps): update container image clickhouse to v14.2.5@8c88f04 by renovate (#24438) • [`3fdf2b9`](https://github.com/truecharts/charts/commit/3fdf2b903a7e66a2f7e2ca15e60171f5a475dc06) • [@TrueCharts Bot] (2024-07-27)
+
+## 12.4.3 • [Train: stable]
+
+- chore(deps): update container image clickhouse to v14.2.4@a1f4eac by renovate (#24416) • [`1e5a1fd`](https://github.com/truecharts/charts/commit/1e5a1fdec6cce8634ad5d7b557e0a07a094db5bb) • [@TrueCharts Bot] (2024-07-26)
+
+## 12.4.2 • [Train: stable]
+
+- chore(deps): update container image clickhouse to v14.2.3@96f7371 by renovate (#24369) • [`cad5d28`](https://github.com/truecharts/charts/commit/cad5d28174f00c8fd20d4fde687b566591cb5d5a) • [@TrueCharts Bot] (2024-07-26)
+
+## 12.4.1 • [Train: stable]
+
+- chore(deps): update container image clickhouse to v14.2.2@ab79b24 by renovate (#24334) • [`c673f3a`](https://github.com/truecharts/charts/commit/c673f3a63cbb7be598518029d156ab65eef307eb) • [@TrueCharts Bot] (2024-07-25)
+- chore(deps): update container image plausible/analytics to v2.0.0@cd5f75e by renovate (#24316) • [`f407667`](https://github.com/truecharts/charts/commit/f40766787528a8593f5549f0b1eab59314f00fad) • [@TrueCharts Bot] (2024-07-25)
+
+## 12.4.0 • [Train: stable]
+
+- chore(deps): update container image clickhouse to v14.2.1@9490358 by renovate (#24240) • [`cb57c9c`](https://github.com/truecharts/charts/commit/cb57c9c40d5a5b496c91f7b2496f2a5a20aa853c) • [@TrueCharts Bot] (2024-07-24)
+
+## 12.3.7 • [Train: stable]
+
+- chore(deps): update container image clickhouse to v14.1.4@10efa69 by renovate (#24237) • [`2399e9d`](https://github.com/truecharts/charts/commit/2399e9dd307f178484cc0f2f495011db5f2fb2b6) • [@TrueCharts Bot] (2024-07-24)
+
+## 12.3.6 • [Train: stable]
+
+- chore(deps): update container image clickhouse to v14.1.3@63611b3 by renovate (#24068) • [`6be4183`](https://github.com/truecharts/charts/commit/6be4183c9c2f8806de3e23e297ec4e73f1d9f9a5) • [@TrueCharts Bot] (2024-07-24)
+
 ## 12.3.5 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

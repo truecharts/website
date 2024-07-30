@@ -11,6 +11,14 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 27.2.3 • [Train: stable]
+
+- chore(deps): update container image redis to v15.1.5@7d73817 by renovate (#24126) • [`663f5cc`](https://github.com/truecharts/charts/commit/663f5ccfd2a8bac39d0f8a727e7fbbd280c44500) • [@TrueCharts Bot] (2024-07-24)
+
+## 27.2.2 • [Train: stable]
+
+- chore(deps): update container image fireflyiii/core to vversion-6.1.19@309e0e5 by renovate (#24079) • [`d6bb09e`](https://github.com/truecharts/charts/commit/d6bb09eedd0cf741e77aa871f37ac0f78bb8bdd4) • [@TrueCharts Bot] (2024-07-24)
+
 ## 27.2.1 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

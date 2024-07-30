@@ -11,6 +11,30 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 9.4.1 • [Train: stable]
+
+- chore(deps): update container image mariadb to v15.2.1@674cbcc by renovate (#24440) • [`7b6fdca`](https://github.com/truecharts/charts/commit/7b6fdca875102217b4544c1c1add8004dee4e9f5) • [@TrueCharts Bot] (2024-07-27)
+
+## 9.4.0 • [Train: stable]
+
+- chore(deps): update container image mariadb to v15.2.0@fdde661 by renovate (#24241) • [`3944545`](https://github.com/truecharts/charts/commit/39445452b449e1fd37484911d0aea9da529cdac6) • [@TrueCharts Bot] (2024-07-24)
+
+## 9.3.2 • [Train: stable]
+
+- chore(deps): update container image redis to v15.1.5@7d73817 by renovate (#24126) • [`663f5cc`](https://github.com/truecharts/charts/commit/663f5ccfd2a8bac39d0f8a727e7fbbd280c44500) • [@TrueCharts Bot] (2024-07-24)
+
+## 9.3.1 • [Train: stable]
+
+- chore(deps): update container image mariadb to v15.1.4@809b02c by renovate (#24111) • [`18f2f87`](https://github.com/truecharts/charts/commit/18f2f87f4980bf8d1263fa2dc8df55aa9fa16803) • [@TrueCharts Bot] (2024-07-24)
+
+## 9.3.0 • [Train: stable]
+
+- chore(deps): update humhub to v1.16.1@409e162 by renovate (minor) (#24221) • [`1fb5d3f`](https://github.com/truecharts/charts/commit/1fb5d3f9f956427f99d655e88cfe8564e1a5213f) • [@TrueCharts Bot] (2024-07-24)
+
+## 9.2.2 • [Train: stable]
+
+- chore(deps): update humhub to v1.15.6@0f0d8b7 by renovate (patch) (#24138) • [`b964014`](https://github.com/truecharts/charts/commit/b964014d16d8ec70a44301abb7c0d5bc5212569b) • [@TrueCharts Bot] (2024-07-24)
+
 ## 9.2.1 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

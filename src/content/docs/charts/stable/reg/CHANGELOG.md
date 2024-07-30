@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 15.1.5 • [Train: stable]
+
+- chore(deps): update container image registry to 2@d8cbd10 by renovate (#23639) • [`a31f7da`](https://github.com/truecharts/charts/commit/a31f7dab73c4a023b2a73e29d1030e2ed41d06f4) • [@TrueCharts Bot] (2024-07-24)
+
 ## 15.1.4 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.1.4 • [Train: stable]
+
+- chore(deps): update container image ich777/steamcmd to cs2@8c6d968 by renovate (#22964) • [`2084e60`](https://github.com/truecharts/charts/commit/2084e60359ffe7b446475a9ad9c18088dfbbe220) • [@TrueCharts Bot] (2024-07-24)
+
 ## 5.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 20.0.0 • [Train: stable]
+
+- chore(deps): update container image joplin/server to v3.0.1@52af578 by renovate (#24340) • [`091e717`](https://github.com/truecharts/charts/commit/091e717082c7f8723b3f63fe0fce515acfaab7d6) • [@TrueCharts Bot] (2024-07-26)
+
 ## 19.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

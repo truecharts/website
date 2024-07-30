@@ -11,6 +11,38 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 9.1.17 • [Train: stable]
+
+- chore(deps): update container image searxng/searxng to latest@8b644fd by renovate (#24520) • [`6c7cea4`](https://github.com/truecharts/charts/commit/6c7cea4420da4c0c7decc06dc6480273e1b97b6f) • [@TrueCharts Bot] (2024-07-29)
+
+## 9.1.16 • [Train: stable]
+
+- chore(deps): update container image searxng/searxng to latest@857a7da by renovate (#24512) • [`1126f64`](https://github.com/truecharts/charts/commit/1126f64417316326b25bc47601eae2f143a614ae) • [@TrueCharts Bot] (2024-07-29)
+
+## 9.1.15 • [Train: stable]
+
+- chore(deps): update container image searxng/searxng to latest@c87086d by renovate (#24492) • [`bc8ebec`](https://github.com/truecharts/charts/commit/bc8ebecda56dbc9fda742c6da459fd334d1b61e0) • [@TrueCharts Bot] (2024-07-28)
+
+## 9.1.14 • [Train: stable]
+
+- chore(deps): update container image searxng/searxng to latest@c2a5c13 by renovate (#24484) • [`403130b`](https://github.com/truecharts/charts/commit/403130b31472d4396025a25bded60a41fdb41038) • [@TrueCharts Bot] (2024-07-28)
+
+## 9.1.13 • [Train: stable]
+
+- chore(deps): update container image searxng/searxng to latest@e2b028c by renovate (#24457) • [`9a7ec14`](https://github.com/truecharts/charts/commit/9a7ec14319d96da3942182433a706920a1ef82d3) • [@TrueCharts Bot] (2024-07-27)
+
+## 9.1.12 • [Train: stable]
+
+- chore(deps): update container image searxng/searxng to latest@a334103 by renovate (#24444) • [`1eb7654`](https://github.com/truecharts/charts/commit/1eb76547727537aedb078f4a369317bcbe474cca) • [@TrueCharts Bot] (2024-07-27)
+
+## 9.1.11 • [Train: stable]
+
+- chore(deps): update container image searxng/searxng to latest@0774561 by renovate (#24404) • [`edc8d25`](https://github.com/truecharts/charts/commit/edc8d25a0b8948f8333b31a847f0c92e583a55f3) • [@TrueCharts Bot] (2024-07-26)
+
+## 9.1.10 • [Train: stable]
+
+- chore(deps): update container image searxng/searxng to latest@48c2be5 by renovate (#24042) • [`b781954`](https://github.com/truecharts/charts/commit/b781954d658eb398f959e45c13f7feb06639a61a) • [@TrueCharts Bot] (2024-07-24)
+
 ## 9.1.9 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

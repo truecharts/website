@@ -11,6 +11,14 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.1.6 • [Train: stable]
+
+- chore(deps): update container image docker.io/iyuucn/iyuuplus to latest@47121f0 by renovate (#24375) • [`fe7b501`](https://github.com/truecharts/charts/commit/fe7b501c4b9cecdd9421692d41a6c2cfdf0a481e) • [@TrueCharts Bot] (2024-07-26)
+
+## 11.1.5 • [Train: stable]
+
+- chore(deps): update container image docker.io/iyuucn/iyuuplus to latest@e571c98 by renovate (#23946) • [`da1da24`](https://github.com/truecharts/charts/commit/da1da24704ce7f935ba46dd3596bdadbaede32d8) • [@TrueCharts Bot] (2024-07-24)
+
 ## 11.1.4 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

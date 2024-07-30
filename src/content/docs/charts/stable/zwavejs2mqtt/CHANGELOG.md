@@ -11,6 +11,26 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 21.3.3 • [Train: stable]
+
+- chore(deps): update container image zwavejs/zwave-js-ui to v9.16.4@6f06b9c by renovate (#24567) • [`feb70cd`](https://github.com/truecharts/charts/commit/feb70cd24f50deb855e7ababbc0242ec477bb229) • [@TrueCharts Bot] (2024-07-30)
+
+## 21.3.2 • [Train: stable]
+
+- chore(deps): update container image zwavejs/zwave-js-ui to v9.16.3@eb13074 by renovate (#24420) • [`1fef8d1`](https://github.com/truecharts/charts/commit/1fef8d1c996b35d0d7df9581a46e593d2b4bdb61) • [@TrueCharts Bot] (2024-07-26)
+
+## 21.3.1 • [Train: stable]
+
+- chore(deps): update container image zwavejs/zwave-js-ui to 9.16.2@5a9fefa by renovate (#24395) • [`cd2a93c`](https://github.com/truecharts/charts/commit/cd2a93c96a110917f33eb2619760bbe2cc6b8ed9) • [@TrueCharts Bot] (2024-07-26)
+
+## 21.3.0 • [Train: stable]
+
+- chore(deps): update container image zwavejs/zwave-js-ui to v9.16.2@34ba7a6 by renovate (#24220) • [`4f82a0e`](https://github.com/truecharts/charts/commit/4f82a0e90db826916381ed207f5dcef3ac33d5b6) • [@TrueCharts Bot] (2024-07-24)
+
+## 21.2.9 • [Train: stable]
+
+- chore(deps): update container image zwavejs/zwave-js-ui to v9.14.6@294185d by renovate (#24137) • [`c2dbb16`](https://github.com/truecharts/charts/commit/c2dbb16ef2487e0d1f4a63277cca4505955ce8b2) • [@TrueCharts Bot] (2024-07-24)
+
 ## 21.2.8 • [Train: stable]
 
 - Commit daily changes • [`c466ce1`](https://github.com/truecharts/charts/commit/c466ce18f5acbb801986704006cb6c21304dfb2e) • [@TrueCharts-Bot] (2024-07-11)

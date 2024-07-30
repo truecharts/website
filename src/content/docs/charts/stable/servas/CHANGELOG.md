@@ -11,6 +11,22 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.3.2 • [Train: stable]
+
+- chore(deps): update container image mariadb to v15.2.1@674cbcc by renovate (#24338) • [`2f559d7`](https://github.com/truecharts/charts/commit/2f559d7d68f7615f547ae090188b22983060bf92) • [@TrueCharts Bot] (2024-07-26)
+
+## 6.3.1 • [Train: stable]
+
+- chore(deps): update container image beromir/servas to 0.2.0@e3beaf0 by renovate (#24296) • [`2b141d0`](https://github.com/truecharts/charts/commit/2b141d06c54bea591dd1ef0ec21341d880d8cc75) • [@TrueCharts Bot] (2024-07-25)
+
+## 6.3.0 • [Train: stable]
+
+- chore(deps): update container image mariadb to v15.2.0@fdde661 by renovate (#24241) • [`3944545`](https://github.com/truecharts/charts/commit/39445452b449e1fd37484911d0aea9da529cdac6) • [@TrueCharts Bot] (2024-07-24)
+
+## 6.2.2 • [Train: stable]
+
+- chore(deps): update container image mariadb to v15.1.4@809b02c by renovate (#24111) • [`18f2f87`](https://github.com/truecharts/charts/commit/18f2f87f4980bf8d1263fa2dc8df55aa9fa16803) • [@TrueCharts Bot] (2024-07-24)
+
 ## 6.2.1 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

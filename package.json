@@ -17,22 +17,22 @@
     "astro-windows": "set NODE_OPTIONS=--max-old-space-size=22000 && astro"
   },
   "dependencies": {
-    "@astrojs/check": "0.8.2",
+    "@astrojs/check": "0.8.3",
     "@astrojs/sitemap": "3.1.6",
-    "@astrojs/starlight": "0.25.1",
+    "@astrojs/starlight": "0.25.3",
     "@astrojs/starlight-tailwind": "2.0.3",
     "@astrojs/tailwind": "5.1.0",
-    "@playform/compress": "0.0.13",
-    "astro": "4.12.1",
-    "astro-better-image-service": "2.0.10",
+    "@playform/compress": "0.1.0",
+    "astro": "4.12.2",
+    "astro-better-image-service": "2.0.11",
     "astro-integration-lottie": "0.3.0",
     "astro-robots-txt": "1.0.0",
     "lottie-web": "5.12.2",
     "sharp": "0.33.4",
-    "starlight-blog": "0.11.0",
+    "starlight-blog": "0.11.1",
     "starlight-image-zoom": "0.7.0",
     "starlight-links-validator": "0.9.1",
-    "tailwindcss": "3.4.6",
-    "typescript": "5.5.3"
+    "tailwindcss": "3.4.7",
+    "typescript": "5.5.4"
   }
 }

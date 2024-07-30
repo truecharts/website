@@ -11,6 +11,31 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.3.2 • [Train: stable]
+
+- chore(deps): update container image ollama/ollama to v0.3.1 by renovate (#24549) • [`32e808a`](https://github.com/truecharts/charts/commit/32e808aa1a70eece19ab5eefd7da89315eda8548) • [@TrueCharts Bot] (2024-07-30)
+
+## 7.3.1 • [Train: stable]
+
+- chore(deps): update container image ollama/ollama to 0.3.0-rocm@f398f13 by renovate (#24355) • [`886dd3d`](https://github.com/truecharts/charts/commit/886dd3dc8f4e300f74aa4350644684f4a94e7885) • [@TrueCharts Bot] (2024-07-26)
+- chore(deps): update container image ollama/ollama to 0.3.0@0287b51 by renovate (#24356) • [`9fdc91d`](https://github.com/truecharts/charts/commit/9fdc91dc8601b16b02d9c30d8ae43bc319b33da0) • [@TrueCharts Bot] (2024-07-26)
+
+## 7.3.0 • [Train: stable]
+
+- chore(deps): update container image ollama/ollama to v0.3.0 by renovate (#24273) • [`e869d1d`](https://github.com/truecharts/charts/commit/e869d1d6c87a6ab109313475edfbeb2d5f36a6b1) • [@TrueCharts Bot] (2024-07-25)
+
+## 7.2.1 • [Train: stable]
+
+- chore(deps): update container image ollama/ollama to v0.1.48 by renovate (#24121) • [`1097cc7`](https://github.com/truecharts/charts/commit/1097cc77d715cb4504d23ab1028c9e7997749fc9) • [@TrueCharts Bot] (2024-07-24)
+
+## 7.2.0 • [Train: stable]
+
+- chore(deps): update container image ollama/ollama to v0.2.8 by renovate (#24204) • [`d1d8736`](https://github.com/truecharts/charts/commit/d1d8736ab6a1cab42f660155f9c097720089dafa) • [@TrueCharts Bot] (2024-07-24)
+
+## 7.1.12 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/open-webui/open-webui to latest@4d89fa0 by renovate (#24029) • [`8e71aad`](https://github.com/truecharts/charts/commit/8e71aadc84163767e6d1750f1f6d97cd9e5122a9) • [@TrueCharts Bot] (2024-07-24)
+
 ## 7.1.11 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

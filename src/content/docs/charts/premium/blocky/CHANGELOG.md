@@ -11,6 +11,18 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 16.2.4 • [Train: premium]
+
+- chore(deps): update container image redis to v15.1.7@25b82e2 by renovate (#24239) • [`56e817e`](https://github.com/truecharts/charts/commit/56e817e82f89ff002c6d0776adf3516966db35a5) • [@TrueCharts Bot] (2024-07-26)
+
+## 16.2.3 • [Train: premium]
+
+- chore(deps): update container image spx01/blocky to v0.24@9a82e02 by renovate (#24326) • [`d74c4a4`](https://github.com/truecharts/charts/commit/d74c4a423e4edcb7a0b1d7fb21c9b4e1ea5f73d2) • [@TrueCharts Bot] (2024-07-25)
+
+## 16.2.2 • [Train: premium]
+
+- chore(deps): update container image redis to v15.1.5@7d73817 by renovate (#24126) • [`663f5cc`](https://github.com/truecharts/charts/commit/663f5ccfd2a8bac39d0f8a727e7fbbd280c44500) • [@TrueCharts Bot] (2024-07-24)
+
 ## 16.2.1 • [Train: premium]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

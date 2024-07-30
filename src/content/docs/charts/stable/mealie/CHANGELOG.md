@@ -11,6 +11,15 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 23.4.1 • [Train: stable]
+
+- Commit daily changes • [`80b0d10`](https://github.com/truecharts/charts/commit/80b0d1052357bb8ae90f1c5fdaf06237fd5c142f) • [@TrueCharts-Bot] (2024-07-27)
+- fix(mealie): decouple ldap and oidc • [`3f3212d`](https://github.com/truecharts/charts/commit/3f3212ddb2b2274e1049124c6ccd906407f4b78a) • [@Stavros Kois] (2024-07-26)
+
+## 23.4.0 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/mealie-recipes/mealie to v1.10.2@54a9768 by renovate (#24168) • [`cb34447`](https://github.com/truecharts/charts/commit/cb34447068b661e038f0b7140ad26edc8e139c1e) • [@TrueCharts Bot] (2024-07-24)
+
 ## 23.3.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

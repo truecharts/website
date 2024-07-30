@@ -11,6 +11,35 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 31.4.0 • [Train: premium]
+
+- chore(deps): update container image tccr.io/tccr/nextcloud-push-notify to v0.7.0@277ce08 by renovate (#24560) • [`bb00f1a`](https://github.com/truecharts/charts/commit/bb00f1a95df93c641bb89d626d91993cbabf4bb3) • [@TrueCharts Bot] (2024-07-30)
+
+## 31.3.8 • [Train: premium]
+
+- chore(deps): update container image nginxinc/nginx-unprivileged to 1.27.0@ec78375 by renovate (#24509) • [`1bd7d0d`](https://github.com/truecharts/charts/commit/1bd7d0d120e2da14ff56f5c95b9e80bd27c4d6b9) • [@TrueCharts Bot] (2024-07-29)
+
+## 31.3.7 • [Train: premium]
+
+- chore(deps): update container image redis to v15.1.5@7d73817 by renovate (#24126) • [`663f5cc`](https://github.com/truecharts/charts/commit/663f5ccfd2a8bac39d0f8a727e7fbbd280c44500) • [@TrueCharts Bot] (2024-07-24)
+
+## 31.3.6 • [Train: premium]
+
+- chore(deps): update container image clamav/clamav to 1.3.1@15bc89f by renovate (#23938) • [`42a1fa2`](https://github.com/truecharts/charts/commit/42a1fa2d8142d3d99870e1c9a186064957ea08a2) • [@TrueCharts Bot] (2024-07-24)
+
+## 31.3.5 • [Train: premium]
+
+- chore(deps): update container image collabora/code to v24.04.5.2.1@b2cdde5 by renovate (#24070) • [`c07fe68`](https://github.com/truecharts/charts/commit/c07fe680ee0f52677c93f6cfd30587ad00f6e9a3) • [@TrueCharts Bot] (2024-07-24)
+
+## 31.3.4 • [Train: premium]
+
+- chore(deps): update container image tccr.io/tccr/nextcloud-fpm to v29.0.4@35b88c0 by renovate (#24130) • [`b033707`](https://github.com/truecharts/charts/commit/b03370782cd5810f9daf465cff1114475289802b) • [@TrueCharts Bot] (2024-07-24)
+
+## 31.3.3 • [Train: premium]
+
+- chore(deps): update nextcloud by renovate (#24049) • [`2bb13e8`](https://github.com/truecharts/charts/commit/2bb13e8596c062a4eeef10db8a334a6c57ad2f13) • [@TrueCharts Bot] (2024-07-24)
+- chore(deps): update container image nginxinc/nginx-unprivileged to 1.27.0@8c77100 by renovate (#23858) • [`7932c99`](https://github.com/truecharts/charts/commit/7932c99876cf87bcfb0bad66965670fb9cb5473a) • [@TrueCharts Bot] (2024-07-24)
+
 ## 31.3.2 • [Train: premium]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

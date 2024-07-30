@@ -11,6 +11,34 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.1.22 • [Train: incubator]
+
+- chore(deps): update container image ghcr.io/neggles/sd-webui-docker to latest@48a6030 by renovate (#24552) • [`20fd883`](https://github.com/truecharts/charts/commit/20fd88386331472d2780268626d87849cdbee899) • [@TrueCharts Bot] (2024-07-30)
+
+## 2.1.21 • [Train: incubator]
+
+- chore(deps): update container image ghcr.io/neggles/sd-webui-docker to latest@de1a969 by renovate (#24508) • [`1815ca1`](https://github.com/truecharts/charts/commit/1815ca15a0242408340801141048e195d48347d7) • [@TrueCharts Bot] (2024-07-29)
+
+## 2.1.20 • [Train: incubator]
+
+- chore(deps): update container image ghcr.io/neggles/sd-webui-docker to latest@99beebe by renovate (#24471) • [`a69f28a`](https://github.com/truecharts/charts/commit/a69f28a301ee7fcc3b1b1c399ecca73e70ea102d) • [@TrueCharts Bot] (2024-07-28)
+
+## 2.1.19 • [Train: incubator]
+
+- chore(deps): update container image ghcr.io/neggles/sd-webui-docker to latest@c26c3dc by renovate (#24430) • [`0da13d6`](https://github.com/truecharts/charts/commit/0da13d68f4189e9d931f3de11a9be8b2212bd81c) • [@TrueCharts Bot] (2024-07-27)
+
+## 2.1.18 • [Train: incubator]
+
+- chore(deps): update container image ghcr.io/neggles/sd-webui-docker to latest@0b556bd by renovate (#24378) • [`8306b52`](https://github.com/truecharts/charts/commit/8306b52f22d470b9dbb2b90838a28e5a3ad4c182) • [@TrueCharts Bot] (2024-07-26)
+
+## 2.1.17 • [Train: incubator]
+
+- chore(deps): update container image ghcr.io/neggles/sd-webui-docker to latest@1df05b6 by renovate (#24266) • [`ee2e487`](https://github.com/truecharts/charts/commit/ee2e48788e37a06228d1b4324e24ffa71114a75a) • [@TrueCharts Bot] (2024-07-25)
+
+## 2.1.16 • [Train: incubator]
+
+- chore(deps): update container image ghcr.io/neggles/sd-webui-docker to latest@b418282 by renovate (#24028) • [`3b924a6`](https://github.com/truecharts/charts/commit/3b924a6b82b6bdf4bc0d40ad9ee8bb18d602d67e) • [@TrueCharts Bot] (2024-07-24)
+
 ## 2.1.15 • [Train: incubator]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

@@ -11,6 +11,18 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 9.5.2 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/paperless-ngx/paperless-ngx to v2.11.2@4935f39 by renovate (#24505) • [`ea8c36a`](https://github.com/truecharts/charts/commit/ea8c36a94b84ebf53d0d789249d88414f71761ec) • [@TrueCharts Bot] (2024-07-29)
+
+## 9.5.1 • [Train: stable]
+
+- chore(deps): update container image redis to v15.1.5@7d73817 by renovate (#24126) • [`663f5cc`](https://github.com/truecharts/charts/commit/663f5ccfd2a8bac39d0f8a727e7fbbd280c44500) • [@TrueCharts Bot] (2024-07-24)
+
+## 9.5.0 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/paperless-ngx/paperless-ngx to v2.11.1@8405343 by renovate (#24173) • [`2b045c6`](https://github.com/truecharts/charts/commit/2b045c60dc091187cd2c8d2ec86e026e786d6269) • [@TrueCharts Bot] (2024-07-24)
+
 ## 9.4.1 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

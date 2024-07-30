@@ -11,6 +11,26 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.3.2 • [Train: stable]
+
+- chore(deps): update container image mariadb to v15.2.1@674cbcc by renovate (#24440) • [`7b6fdca`](https://github.com/truecharts/charts/commit/7b6fdca875102217b4544c1c1add8004dee4e9f5) • [@TrueCharts Bot] (2024-07-27)
+
+## 3.3.1 • [Train: stable]
+
+- chore(deps): update container image gaseousgames/gaseousserver to v1.7.6@da982bb by renovate (#24349) • [`ee42232`](https://github.com/truecharts/charts/commit/ee422327f2e155569b152f28514b1cb172c56b83) • [@TrueCharts Bot] (2024-07-26)
+
+## 3.3.0 • [Train: stable]
+
+- chore(deps): update container image mariadb to v15.2.0@fdde661 by renovate (#24241) • [`3944545`](https://github.com/truecharts/charts/commit/39445452b449e1fd37484911d0aea9da529cdac6) • [@TrueCharts Bot] (2024-07-24)
+
+## 3.2.3 • [Train: stable]
+
+- chore(deps): update container image mariadb to v15.1.4@809b02c by renovate (#24111) • [`18f2f87`](https://github.com/truecharts/charts/commit/18f2f87f4980bf8d1263fa2dc8df55aa9fa16803) • [@TrueCharts Bot] (2024-07-24)
+
+## 3.2.2 • [Train: stable]
+
+- chore(deps): update container image gaseousgames/gaseousserver to v1.7.6@1c6d0c7 by renovate (#24080) • [`a3af6e4`](https://github.com/truecharts/charts/commit/a3af6e4ebebc9f8fe1880173e1bf4a0650e2ccd4) • [@TrueCharts Bot] (2024-07-24)
+
 ## 3.2.1 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

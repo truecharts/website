@@ -11,6 +11,19 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 29.2.1 • [Train: premium]
+
+- Commit daily changes • [`6acc02e`](https://github.com/truecharts/charts/commit/6acc02e025aa985cdf020bee5f754f65b4247697) • [@TrueCharts-Bot] (2024-07-26)
+- fix(traefik): add missing rbacs (#24262) • [`9d38d21`](https://github.com/truecharts/charts/commit/9d38d2159ba109436eb5a589d2bb33f844aec257) • [@Stavros Kois] (2024-07-25)
+
+## 29.2.0 • [Train: premium]
+
+- chore(deps): update container image tccr.io/tccr/traefik to v3.1.0@fb90f60 by renovate (#24216) • [`d0fe460`](https://github.com/truecharts/charts/commit/d0fe4603bf18231a278e7b425a3905b74b24384e) • [@TrueCharts Bot] (2024-07-24)
+
+## 29.1.7 • [Train: premium]
+
+- chore(deps): update container image tccr.io/tccr/traefik to v3.0.4@1634246 by renovate (#24131) • [`cbdcdb0`](https://github.com/truecharts/charts/commit/cbdcdb03ed631ef1df7d4ea03bbe40451c4cf23b) • [@TrueCharts Bot] (2024-07-24)
+
 ## 29.1.6 • [Train: premium]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

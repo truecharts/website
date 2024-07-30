@@ -11,6 +11,22 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.12.0 • [Train: stable]
+
+- chore(deps): update container image ghostfolio/ghostfolio to v2.99.0@f8ab546 by renovate (#24550) • [`15dcce4`](https://github.com/truecharts/charts/commit/15dcce44f69ed5a573ca280aa1a03b6e961f9155) • [@TrueCharts Bot] (2024-07-30)
+
+## 6.11.0 • [Train: stable]
+
+- chore(deps): update container image ghostfolio/ghostfolio to v2.98.0@aebdb70 by renovate (#24464) • [`44abcac`](https://github.com/truecharts/charts/commit/44abcace92ec4eb8271a03876a4d24cb72b7eb00) • [@TrueCharts Bot] (2024-07-27)
+
+## 6.10.1 • [Train: stable]
+
+- chore(deps): update container image redis to v15.1.5@7d73817 by renovate (#24126) • [`663f5cc`](https://github.com/truecharts/charts/commit/663f5ccfd2a8bac39d0f8a727e7fbbd280c44500) • [@TrueCharts Bot] (2024-07-24)
+
+## 6.10.0 • [Train: stable]
+
+- chore(deps): update container image ghostfolio/ghostfolio to v2.97.0@9f33154 by renovate (#24177) • [`92686c7`](https://github.com/truecharts/charts/commit/92686c7b17e4a373680e30b781e9404d5711c922) • [@TrueCharts Bot] (2024-07-24)
+
 ## 6.9.1 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

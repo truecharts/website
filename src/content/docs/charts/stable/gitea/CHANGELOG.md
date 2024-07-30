@@ -11,6 +11,22 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 20.3.1 • [Train: stable]
+
+- chore(deps): update container image memcached to v14.1.5@db5e52b by renovate (#24289) • [`b659c93`](https://github.com/truecharts/charts/commit/b659c93171753a93463ec091a65b710697a8ec52) • [@TrueCharts Bot] (2024-07-25)
+
+## 20.3.0 • [Train: stable]
+
+- chore(deps): update container image gitea/gitea to v1.22.1@b993066 by renovate (#22506) • [`e9f1d38`](https://github.com/truecharts/charts/commit/e9f1d381c7a19cccb1283ea2f94a5a5d64b63918) • [@TrueCharts Bot] (2024-07-24)
+
+## 20.2.3 • [Train: stable]
+
+- chore(deps): update container image memcached to v14.1.4@da0ac33 by renovate (#24201) • [`9d7e040`](https://github.com/truecharts/charts/commit/9d7e0407cf6770792b71f5ffb384bc5219c05752) • [@TrueCharts Bot] (2024-07-24)
+
+## 20.2.2 • [Train: stable]
+
+- chore(deps): update container image memcached to v14.1.3@eeb2429 by renovate (#24113) • [`5a8222f`](https://github.com/truecharts/charts/commit/5a8222f84503425040a528c1094aeec041d87971) • [@TrueCharts Bot] (2024-07-24)
+
 ## 20.2.1 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

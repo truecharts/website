@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.1.4 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/tasmoadmin/tasmoadmin to v4.1.2@e158f99 by renovate (#24104) • [`f2bdffe`](https://github.com/truecharts/charts/commit/f2bdffee890e5da26888bf2b9a19fcd548c1e1a3) • [@TrueCharts Bot] (2024-07-24)
+
 ## 10.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

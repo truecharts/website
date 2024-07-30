@@ -11,6 +11,26 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.4.1 • [Train: stable]
+
+- chore(deps): update container image mariadb to v15.2.1@674cbcc by renovate (#24440) • [`7b6fdca`](https://github.com/truecharts/charts/commit/7b6fdca875102217b4544c1c1add8004dee4e9f5) • [@TrueCharts Bot] (2024-07-27)
+
+## 10.4.0 • [Train: stable]
+
+- chore(deps): update container image mariadb to v15.2.0@fdde661 by renovate (#24241) • [`3944545`](https://github.com/truecharts/charts/commit/39445452b449e1fd37484911d0aea9da529cdac6) • [@TrueCharts Bot] (2024-07-24)
+
+## 10.3.2 • [Train: stable]
+
+- chore(deps): update container image redis to v15.1.5@7d73817 by renovate (#24126) • [`663f5cc`](https://github.com/truecharts/charts/commit/663f5ccfd2a8bac39d0f8a727e7fbbd280c44500) • [@TrueCharts Bot] (2024-07-24)
+
+## 10.3.1 • [Train: stable]
+
+- chore(deps): update container image mariadb to v15.1.4@809b02c by renovate (#24111) • [`18f2f87`](https://github.com/truecharts/charts/commit/18f2f87f4980bf8d1263fa2dc8df55aa9fa16803) • [@TrueCharts Bot] (2024-07-24)
+
+## 10.3.0 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/rommapp/romm to v3.3@3c7af9e by renovate (#24176) • [`54be63d`](https://github.com/truecharts/charts/commit/54be63ddf040e8cc6bef53bd4a3cb2f51bd3ad06) • [@TrueCharts Bot] (2024-07-24)
+
 ## 10.2.1 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

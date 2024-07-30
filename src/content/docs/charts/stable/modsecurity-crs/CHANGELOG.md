@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.1.4 • [Train: stable]
+
+- chore(deps): update container image owasp/modsecurity-crs to 3.3.4-apache-202307110507@0ee904f by renovate (#24432) • [`c74c4e9`](https://github.com/truecharts/charts/commit/c74c4e9cc6d66bae1d7b91a5d66edad5243b5f0c) • [@TrueCharts Bot] (2024-07-27)
+
 ## 5.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

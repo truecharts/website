@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 15.1.4 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/wg-easy/wg-easy to 13@4c2c591 by renovate (#24034) • [`f5651f2`](https://github.com/truecharts/charts/commit/f5651f22e3f281c78fdac0a6e8d3da6b70697389) • [@TrueCharts Bot] (2024-07-24)
+
 ## 15.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

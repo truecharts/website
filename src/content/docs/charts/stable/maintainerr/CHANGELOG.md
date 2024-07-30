@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.1.5 • [Train: stable]
+
+- chore(deps): update container image jorenn92/maintainerr to 2.0.4@c590387 by renovate (#24380) • [`2979108`](https://github.com/truecharts/charts/commit/29791081dd28c5d94ba0aaee298a3e01fea4b6ac) • [@TrueCharts Bot] (2024-07-26)
+
 ## 4.1.4 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

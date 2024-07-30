@@ -11,6 +11,18 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.2.2 • [Train: stable]
+
+- chore(deps): update container image golift/notifiarr to v0.8.1@9184218 by renovate (#24477) • [`aebea21`](https://github.com/truecharts/charts/commit/aebea210eb8d918ce092d96c209b888c030a40be) • [@TrueCharts Bot] (2024-07-28)
+
+## 6.2.1 • [Train: stable]
+
+- chore(deps): update container image golift/notifiarr to 0.8.0@7fce9f1 by renovate (#24411) • [`14881e2`](https://github.com/truecharts/charts/commit/14881e2ffd0d43b6300875e171ad67cc0cef561c) • [@TrueCharts Bot] (2024-07-26)
+
+## 6.2.0 • [Train: stable]
+
+- chore(deps): update container image golift/notifiarr to v0.8.0@3d54799 by renovate (#24178) • [`a7cd8e1`](https://github.com/truecharts/charts/commit/a7cd8e18a729a270755a5c9b2fcfb9b07fcc67da) • [@TrueCharts Bot] (2024-07-24)
+
 ## 6.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
