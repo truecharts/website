@@ -2,7 +2,7 @@
 title: minio
 ---
 
-![Version: 13.3.2](https://img.shields.io/badge/Version-13.3.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2024.07.26](https://img.shields.io/badge/AppVersion-2024.07.26-informational?style=flat-square)
+![Version: 13.3.3](https://img.shields.io/badge/Version-13.3.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2024.07.29](https://img.shields.io/badge/AppVersion-2024.07.29-informational?style=flat-square)
 
 Minio is a self-hosted S3 storage server
 
