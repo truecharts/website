@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 31.4.0 • [Train: premium]
+
+- chore(deps): update container image tccr.io/tccr/nextcloud-push-notify to v0.7.0@277ce08 by renovate (#24560) • [`bb00f1a`](https://github.com/truecharts/charts/commit/bb00f1a95df93c641bb89d626d91993cbabf4bb3) • [@TrueCharts Bot] (2024-07-30)
+
 ## 31.3.8 • [Train: premium]
 
 - chore(deps): update container image nginxinc/nginx-unprivileged to 1.27.0@ec78375 by renovate (#24509) • [`1bd7d0d`](https://github.com/truecharts/charts/commit/1bd7d0d120e2da14ff56f5c95b9e80bd27c4d6b9) • [@TrueCharts Bot] (2024-07-29)
