@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.4 • [Train: stable]
+
+- chore(deps): update container image awesometic/h5ai to latest@efa4514 by renovate (#24614) • [`0915885`](https://github.com/truecharts/charts/commit/09158855ffb9f6a6512bf72e2e1e8676bf138986) • [@TrueCharts Bot] (2024-07-31)
+
 ## 7.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
