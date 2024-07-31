@@ -2,7 +2,7 @@
 title: tasmobackup
 ---
 
-![Version: 8.2.3](https://img.shields.io/badge/Version-8.2.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.06.05](https://img.shields.io/badge/AppVersion-1.06.05-informational?style=flat-square)
+![Version: 8.2.4](https://img.shields.io/badge/Version-8.2.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.06.06](https://img.shields.io/badge/AppVersion-1.06.06-informational?style=flat-square)
 
 backup all your tasmota devices in one place.
 
