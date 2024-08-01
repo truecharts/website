@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 9.4.4 • [Train: stable]
+
+- chore(deps): update container image bitnami/wordpress to 6.6.1@b55f247 by renovate (#24656) • [`785de9b`](https://github.com/truecharts/charts/commit/785de9b682ec5b04dd6dfe183a6fc1fcf6c20b1f) • [@TrueCharts Bot] (2024-08-01)
+
 ## 9.4.3 • [Train: stable]
 
 - chore(deps): update container image mariadb to v15.2.1@674cbcc by renovate (#24440) • [`7b6fdca`](https://github.com/truecharts/charts/commit/7b6fdca875102217b4544c1c1add8004dee4e9f5) • [@TrueCharts Bot] (2024-07-27)
