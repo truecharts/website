@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 19.8.1 • [Train: premium]
+
+- chore(deps): update container image kube-prometheus-stack to v61.6.1@38293e9 by renovate (#24655) • [`e9c104b`](https://github.com/truecharts/charts/commit/e9c104b86c1be280b74d8c9cbb1ba11058dfc404) • [@TrueCharts Bot] (2024-08-01)
+
 ## 19.8.0 • [Train: premium]
 
 - chore(deps): update container image quay.io/thanos/thanos to v0.36.0@785c18b by renovate (#24626) • [`52b9d12`](https://github.com/truecharts/charts/commit/52b9d125aa058733faffe3a65e0ba3ac6166e301) • [@TrueCharts Bot] (2024-07-31)
