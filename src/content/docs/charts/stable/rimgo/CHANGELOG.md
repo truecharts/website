@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.1.31 • [Train: stable]
+
+- chore(deps): update container image quay.io/pussthecatorg/rimgo to latest@a093ea2 by renovate (#24620) • [`306edbd`](https://github.com/truecharts/charts/commit/306edbd7b12d83f136542ff606502c02b985d9a1) • [@TrueCharts Bot] (2024-08-01)
+
 ## 8.1.30 • [Train: stable]
 
 - chore(deps): update container image quay.io/pussthecatorg/rimgo to latest@3ddb15b by renovate (#24600) • [`c06e31b`](https://github.com/truecharts/charts/commit/c06e31b22448bb4091bdaa474265b4f32347e4a1) • [@TrueCharts Bot] (2024-07-31)

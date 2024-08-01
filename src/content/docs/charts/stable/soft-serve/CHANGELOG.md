@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.1.4 • [Train: stable]
+
+- chore(deps): update container image charmcli/soft-serve to v0.7.6@8058b39 by renovate (#24635) • [`26d52cc`](https://github.com/truecharts/charts/commit/26d52cc6bdc95539cd7a760ce8d8aebe9a408ba4) • [@TrueCharts Bot] (2024-08-01)
+
 ## 8.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
