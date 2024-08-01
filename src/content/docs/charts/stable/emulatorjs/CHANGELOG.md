@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.1.8 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/emulatorjs to 1.9.0@0be6bec by renovate (#24645) • [`ed72eb1`](https://github.com/truecharts/charts/commit/ed72eb16bde4d9a7d05f4e18888ec9df25095b35) • [@TrueCharts Bot] (2024-08-01)
+
 ## 11.1.7 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/emulatorjs to 1.9.0@080859d by renovate (#24284) • [`3eafec5`](https://github.com/truecharts/charts/commit/3eafec53c5013b9b820ffaccea01a3f48fcc70d1) • [@TrueCharts Bot] (2024-07-25)
