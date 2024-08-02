@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 19.9.0 • [Train: premium]
+
+- chore(deps): update container image kube-prometheus-stack to v61.7.0@15507b8 by renovate (#24697) • [`c7db66e`](https://github.com/truecharts/charts/commit/c7db66e5e52ee7306036f96618e5b75db1677878) • [@TrueCharts Bot] (2024-08-02)
+
 ## 19.8.1 • [Train: premium]
 
 - chore(deps): update container image kube-prometheus-stack to v61.6.1@38293e9 by renovate (#24655) • [`e9c104b`](https://github.com/truecharts/charts/commit/e9c104b86c1be280b74d8c9cbb1ba11058dfc404) • [@TrueCharts Bot] (2024-08-01)
