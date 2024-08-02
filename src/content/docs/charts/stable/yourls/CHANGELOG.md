@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.5 • [Train: stable]
+
+- chore(deps): update container image yourls to latest@2b8ac13 by renovate (#24672) • [`090f5ab`](https://github.com/truecharts/charts/commit/090f5abfd8fee6764f61050ef749c4a318a03327) • [@TrueCharts Bot] (2024-08-02)
+
 ## 7.1.4 • [Train: stable]
 
 - chore(deps): update container image yourls to latest@4d12cfb by renovate (#24057) • [`13dc929`](https://github.com/truecharts/charts/commit/13dc9291d13484f935e9dcb402610096c315209e) • [@TrueCharts Bot] (2024-07-24)
