@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 9.1.18 • [Train: stable]
+
+- chore(deps): update container image searxng/searxng to latest@d8d44d4 by renovate (#24692) • [`89f4b49`](https://github.com/truecharts/charts/commit/89f4b491e3170dd4654653e122ea4c32c0b2127f) • [@TrueCharts Bot] (2024-08-02)
+
 ## 9.1.17 • [Train: stable]
 
 - chore(deps): update container image searxng/searxng to latest@8b644fd by renovate (#24520) • [`6c7cea4`](https://github.com/truecharts/charts/commit/6c7cea4420da4c0c7decc06dc6480273e1b97b6f) • [@TrueCharts Bot] (2024-07-29)
