@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 14.3.3 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/projectsend to latest@5058ab4 by renovate (#24721) • [`441ce5f`](https://github.com/truecharts/charts/commit/441ce5f84bb99ab14b235e8b61f656101872176b) • [@TrueCharts Bot] (2024-08-03)
+
 ## 14.3.2 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/projectsend to latest@604fc89 by renovate (#24541) • [`317df55`](https://github.com/truecharts/charts/commit/317df55f451fb865d4b39ee18fee51f096700737) • [@TrueCharts Bot] (2024-07-30)
