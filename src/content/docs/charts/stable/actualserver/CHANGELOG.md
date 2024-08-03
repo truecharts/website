@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.4.0 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/actualbudget/actual-server to v24.8.0@cbdc8d5 by renovate (#24738) • [`7ce8b05`](https://github.com/truecharts/charts/commit/7ce8b0535883eeab5db81b8c10f32b5b56aa6940) • [@TrueCharts Bot] (2024-08-03)
+
 ## 12.3.0 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/actualbudget/actual-server to v24.7.0@8506846 by renovate (#24159) • [`044d06d`](https://github.com/truecharts/charts/commit/044d06d6975d3f9415ba31e4a2f8e4dfce9e8b32) • [@TrueCharts Bot] (2024-07-24)
