@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.13.0 • [Train: stable]
+
+- chore(deps): update container image ghostfolio/ghostfolio to v2.101.0@68a6c73 by renovate (#24739) • [`5889248`](https://github.com/truecharts/charts/commit/58892484d47126ecbcd632503314d7faf70dff80) • [@TrueCharts Bot] (2024-08-03)
+
 ## 6.12.0 • [Train: stable]
 
 - chore(deps): update container image ghostfolio/ghostfolio to v2.99.0@f8ab546 by renovate (#24550) • [`15dcce4`](https://github.com/truecharts/charts/commit/15dcce44f69ed5a573ca280aa1a03b6e961f9155) • [@TrueCharts Bot] (2024-07-30)
