@@ -31,7 +31,7 @@ Enables or Disables the cert-manager integration
 | Type       | `bool`                                       |
 | Required   | ✅                                           |
 | Helm `tpl` | ❌                                           |
-| Default    | `false`                                      |
+| Default    | `true`                                       |
 
 Example
 
