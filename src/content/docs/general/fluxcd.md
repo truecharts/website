@@ -49,8 +49,8 @@ and checking all the many options available in our [Common Library Chart](/commo
 
 ```yaml
 ---
-# yaml-language-server: $schema=https://kubernetes-schemas.zinn.ca/helm.toolkit.fluxcd.io/helmrepository_v2.json
-apiVersion: helm.toolkit.fluxcd.io/v2
+# yaml-language-server: $schema=https://kubernetes-schemas.zinn.ca/source.toolkit.fluxcd.io/helmrepository_v1.json
+apiVersion: source.toolkit.fluxcd.io/v1
 kind: HelmRepository
 metadata:
     name: truecharts
