@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.4.0 • [Train: stable]
+
+- chore(deps): update container image jlesage/mediainfo to v24.08.1@7719cd7 by renovate (#24773) • [`1f332b8`](https://github.com/truecharts/charts/commit/1f332b8c4aaafc3fccfee0b7908b7fdd04fad70b) • [@TrueCharts Bot] (2024-08-05)
+
 ## 11.3.0 • [Train: stable]
 
 - chore(deps): update container image jlesage/mediainfo to v24.07.1@6754b62 by renovate (#24192) • [`11613f7`](https://github.com/truecharts/charts/commit/11613f77cd9c8ae6fd101562c6c5ef9812bc367e) • [@TrueCharts Bot] (2024-07-24)
