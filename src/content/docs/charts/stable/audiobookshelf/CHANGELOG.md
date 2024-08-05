@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.3.0 • [Train: stable]
+
+- chore(deps): update container image advplyr/audiobookshelf to v2.12.0@7b566ad by renovate (#24771) • [`a60b3ef`](https://github.com/truecharts/charts/commit/a60b3ef733cd0f024d65679764cd97134c036217) • [@TrueCharts Bot] (2024-08-05)
+
 ## 11.2.0 • [Train: stable]
 
 - chore(deps): update container image advplyr/audiobookshelf to v2.11.0@725c287 by renovate (#24140) • [`5ac28d7`](https://github.com/truecharts/charts/commit/5ac28d7aba2afb5614a69b424d46e51c2e75260b) • [@TrueCharts Bot] (2024-07-24)
