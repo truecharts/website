@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 25.2.4 • [Train: premium]
 
+- Commit daily changes • [`50df313`](https://github.com/truecharts/charts/commit/50df3137182a8d79f6131b370ed86b2f3ee2c918) • [@TrueCharts-Bot] (2024-08-06)
 - chore(deps): update container image redis to v15.1.7@25b82e2 by renovate (#24398) • [`ba36c6e`](https://github.com/truecharts/charts/commit/ba36c6e123158ac59b6a55416542017907808d51) • [@TrueCharts Bot] (2024-08-05)
 
 ## 25.2.3 • [Train: premium]
