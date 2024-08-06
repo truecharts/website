@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 9.4.3 • [Train: stable]
+
+- chore(deps): update humhub by renovate (#24829) • [`83cf7e2`](https://github.com/truecharts/charts/commit/83cf7e220acc7fa3894f0865e488504e310c5c3a) • [@TrueCharts Bot] (2024-08-06)
+
 ## 9.4.2 • [Train: stable]
 
 - chore(deps): update humhub by renovate (#24817) • [`a0e737e`](https://github.com/truecharts/charts/commit/a0e737ed59606d72a3f7346817f6f0094cd0aa4f) • [@TrueCharts Bot] (2024-08-06)
