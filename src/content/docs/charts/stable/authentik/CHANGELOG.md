@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 27.3.4 • [Train: stable]
+
+- chore(deps): update container image redis to v15.1.7@25b82e2 by renovate (#24801) • [`20d2e05`](https://github.com/truecharts/charts/commit/20d2e05c5425da681c9c518482144692db113907) • [@TrueCharts Bot] (2024-08-06)
+
 ## 27.3.3 • [Train: stable]
 
 - chore(deps): update authentik to v2024.6.3@10518d3 by renovate (patch) (#24795) • [`35fb3db`](https://github.com/truecharts/charts/commit/35fb3db2211a802bf85c2d9014368596e8564232) • [@TrueCharts Bot] (2024-08-05)
