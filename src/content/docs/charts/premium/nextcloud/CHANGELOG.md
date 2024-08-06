@@ -11,6 +11,15 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 31.4.4 • [Train: premium]
+
+- chore(deps): update container image redis to v15.1.7@25b82e2 by renovate (#24780) • [`c4fe87d`](https://github.com/truecharts/charts/commit/c4fe87d09eb6b4686a50f90e11176fc801f80ca6) • [@TrueCharts Bot] (2024-08-05)
+- chore(deps): update container image common to v24.1.7@5b934b1 by renovate (#24737) • [`ed600a9`](https://github.com/truecharts/charts/commit/ed600a9160e295db5a9aa0a2db130571b9349b49) • [@TrueCharts Bot] (2024-08-05)
+
+## 31.4.3 • [Train: premium]
+
+- chore(deps): update container image nginxinc/nginx-unprivileged to 1.27.0@78e0a42 by renovate (#24776) • [`34c2027`](https://github.com/truecharts/charts/commit/34c2027345d5da0e178556bf2e4d5c68361de4e4) • [@TrueCharts Bot] (2024-08-05)
+
 ## 31.4.2 • [Train: premium]
 
 - chore(deps): update container image tccr.io/tccr/nextcloud-fpm to v29.0.4@40ca0a5 by renovate (#24715) • [`3d686f4`](https://github.com/truecharts/charts/commit/3d686f4c14e33f71a1eca667d455fdf267878555) • [@TrueCharts Bot] (2024-08-03)

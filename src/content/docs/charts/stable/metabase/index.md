@@ -2,7 +2,7 @@
 title: metabase
 ---
 
-![Version: 5.2.9](https://img.shields.io/badge/Version-5.2.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.50.18](https://img.shields.io/badge/AppVersion-0.50.18-informational?style=flat-square)
+![Version: 5.2.10](https://img.shields.io/badge/Version-5.2.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.50.19](https://img.shields.io/badge/AppVersion-0.50.19-informational?style=flat-square)
 
 Business intelligence, dashboards, and data visualization tools
 
