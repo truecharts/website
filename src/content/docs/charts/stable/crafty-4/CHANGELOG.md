@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 9.1.5 • [Train: stable]
+
+- chore(deps): update container image registry.gitlab.com/crafty-controller/crafty-4 to v4.4.1@b0ceb4c by renovate (#24844) • [`fb0fac2`](https://github.com/truecharts/charts/commit/fb0fac278a388efe4bb78363556b86fd4e877393) • [@TrueCharts Bot] (2024-08-07)
+
 ## 9.1.4 • [Train: stable]
 
 - chore(deps): update container image registry.gitlab.com/crafty-controller/crafty-4 to 4.4.0@d3ec66e by renovate (#24546) • [`2e2d276`](https://github.com/truecharts/charts/commit/2e2d276902d505f6b03afd13d311ecb6eb4d48fa) • [@TrueCharts Bot] (2024-07-30)
