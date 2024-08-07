@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.1.28 • [Train: stable]
+
+- chore(deps): update rdesktop by renovate (#24842) • [`ce0d817`](https://github.com/truecharts/charts/commit/ce0d817553522bcf0bbeced4889666cfb0fc35a3) • [@TrueCharts Bot] (2024-08-07)
+
 ## 10.1.27 • [Train: stable]
 
 - chore(deps): update rdesktop by renovate (#24767) • [`53a1bd7`](https://github.com/truecharts/charts/commit/53a1bd755bc71928512b74eb99aaf907bbbe0f0a) • [@TrueCharts Bot] (2024-08-05)
