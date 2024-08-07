@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.1.9 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/smokeping to 2.8.2@88f8f87 by renovate (#24835) • [`9444e64`](https://github.com/truecharts/charts/commit/9444e64808b2ec9663b3c2edd3cec742dc301f3c) • [@TrueCharts Bot] (2024-08-07)
+
 ## 12.1.8 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/smokeping to 2.8.2@489db4a by renovate (#24466) • [`66c99fe`](https://github.com/truecharts/charts/commit/66c99fea74506e80cf959b0b0492fc07b1bd0a16) • [@TrueCharts Bot] (2024-07-28)
