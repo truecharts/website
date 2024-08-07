@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.3.4 • [Train: stable]
+
+- chore(deps): update container image seafileltd/seafile-mc to v11.0.11@50c1ae8 by renovate (#24862) • [`167738f`](https://github.com/truecharts/charts/commit/167738feee9ff868647cb5462a53bf4372fe81b0) • [@TrueCharts Bot] (2024-08-07)
+
 ## 7.3.3 • [Train: stable]
 
 - chore(deps): update container image seafileltd/seafile-mc to v11.0.10@873768c by renovate (#24812) • [`9a1058d`](https://github.com/truecharts/charts/commit/9a1058d3ce5977fab547e2560690cce3e9ad7cb2) • [@TrueCharts Bot] (2024-08-06)
