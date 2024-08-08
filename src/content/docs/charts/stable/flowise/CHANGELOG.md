@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.0.3 • [Train: stable]
+
+- chore(deps): update container image flowiseai/flowise to v2.0.4@3793428 by renovate (#24882) • [`f599eb0`](https://github.com/truecharts/charts/commit/f599eb0009ea07980ffc96049e4594bde65bfab3) • [@TrueCharts Bot] (2024-08-08)
+
 ## 7.0.2 • [Train: stable]
 
 - chore(deps): update container image flowiseai/flowise to v2.0.2@674e984 by renovate (#24798) • [`067a0ad`](https://github.com/truecharts/charts/commit/067a0ad3291786e790085707bbbfa56e8fde526a) • [@TrueCharts Bot] (2024-08-05)

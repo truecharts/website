@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.5.0 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/rommapp/romm to v3.4@ae48534 by renovate (#24883) • [`09cd61e`](https://github.com/truecharts/charts/commit/09cd61e662e93bb08c7f3969b0e1e4256d874693) • [@TrueCharts Bot] (2024-08-08)
+
 ## 10.4.1 • [Train: stable]
 
 - chore(deps): update container image mariadb to v15.2.1@674cbcc by renovate (#24440) • [`7b6fdca`](https://github.com/truecharts/charts/commit/7b6fdca875102217b4544c1c1add8004dee4e9f5) • [@TrueCharts Bot] (2024-07-27)
