@@ -11,6 +11,26 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 9.4.8 • [Train: stable]
+
+- chore(deps): update container image bitnami/wordpress to 6.6.1@d981f9f by renovate (#24892) • [`dfb8e60`](https://github.com/truecharts/charts/commit/dfb8e60908422e51a75df8ac39e473dd8d45be02) • [@TrueCharts Bot] (2024-08-08)
+
+## 9.4.7 • [Train: stable]
+
+- chore(deps): update container image bitnami/wordpress to 6.6.1@a903c3b by renovate (#24802) • [`4586d21`](https://github.com/truecharts/charts/commit/4586d21764fc75715330f68d0f3df5b707370a46) • [@TrueCharts Bot] (2024-08-06)
+
+## 9.4.6 • [Train: stable]
+
+- chore(deps): update container image bitnami/wordpress to 6.6.1@4f2d2eb by renovate (#24781) • [`9941f12`](https://github.com/truecharts/charts/commit/9941f123ee9e60d147797ac70a698ff5b95f65ae) • [@TrueCharts Bot] (2024-08-05)
+
+## 9.4.5 • [Train: stable]
+
+- chore(deps): update container image bitnami/wordpress to 6.6.1@54ba54f by renovate (#24698) • [`35eac27`](https://github.com/truecharts/charts/commit/35eac277bcf5dc419db9d5336b1322c51fb26205) • [@TrueCharts Bot] (2024-08-02)
+
+## 9.4.4 • [Train: stable]
+
+- chore(deps): update container image bitnami/wordpress to 6.6.1@b55f247 by renovate (#24656) • [`785de9b`](https://github.com/truecharts/charts/commit/785de9b682ec5b04dd6dfe183a6fc1fcf6c20b1f) • [@TrueCharts Bot] (2024-08-01)
+
 ## 9.4.3 • [Train: stable]
 
 - chore(deps): update container image mariadb to v15.2.1@674cbcc by renovate (#24440) • [`7b6fdca`](https://github.com/truecharts/charts/commit/7b6fdca875102217b4544c1c1add8004dee4e9f5) • [@TrueCharts Bot] (2024-07-27)

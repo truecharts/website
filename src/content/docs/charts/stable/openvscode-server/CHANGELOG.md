@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.3.1 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/openvscode-server to 1.91.1@d953c16 by renovate (#24729) • [`e741e5c`](https://github.com/truecharts/charts/commit/e741e5cdf830f0b6ba54df05ed8f4abb67f1dd0a) • [@TrueCharts Bot] (2024-08-03)
+
 ## 11.3.0 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/openvscode-server to v1.91.1@a19a9d3 by renovate (#24166) • [`0e89b02`](https://github.com/truecharts/charts/commit/0e89b02efff4b5b68e5c7c17b6c412764eafcbb8) • [@TrueCharts Bot] (2024-07-24)

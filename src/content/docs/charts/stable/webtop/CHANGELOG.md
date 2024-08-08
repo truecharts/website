@@ -11,6 +11,18 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.1.51 • [Train: stable]
+
+- chore(deps): update container image lscr.io/linuxserver/webtop to alpine-kde@880e355 by renovate (#24837) • [`2421d73`](https://github.com/truecharts/charts/commit/2421d73b203a60bdc18a17ea72e648fb9def21f8) • [@TrueCharts Bot] (2024-08-07)
+
+## 11.1.50 • [Train: stable]
+
+- chore(deps): update webtop by renovate (#24809) • [`a6244bc`](https://github.com/truecharts/charts/commit/a6244bcc929097fb930bc8072943f57d9438dc2b) • [@TrueCharts Bot] (2024-08-06)
+
+## 11.1.49 • [Train: stable]
+
+- chore(deps): update webtop by renovate (#24704) • [`3d47c44`](https://github.com/truecharts/charts/commit/3d47c44727c6f7bee15a4a8fe09a1added7c256b) • [@TrueCharts Bot] (2024-08-02)
+
 ## 11.1.48 • [Train: stable]
 
 - chore(deps): update webtop by renovate (#24558) • [`7fc9bc6`](https://github.com/truecharts/charts/commit/7fc9bc69a1ef755a21461032910ef9e1d11fa058) • [@TrueCharts Bot] (2024-07-30)

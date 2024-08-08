@@ -11,6 +11,58 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.1.41 • [Train: stable]
+
+- chore(deps): update container image quay.io/pussthecatorg/rimgo to latest@5f65536 by renovate (#24873) • [`0ad18b2`](https://github.com/truecharts/charts/commit/0ad18b271408414c16ef1da263104e57ad129287) • [@TrueCharts Bot] (2024-08-08)
+
+## 8.1.40 • [Train: stable]
+
+- chore(deps): update container image quay.io/pussthecatorg/rimgo to latest@9e88898 by renovate (#24853) • [`8d07ce0`](https://github.com/truecharts/charts/commit/8d07ce0f18bd7efb85734a34332b303edefdcc19) • [@TrueCharts Bot] (2024-08-07)
+
+## 8.1.39 • [Train: stable]
+
+- chore(deps): update container image quay.io/pussthecatorg/rimgo to latest@1bf5d05 by renovate (#24794) • [`34665fb`](https://github.com/truecharts/charts/commit/34665fbfc0dbe18abf80acd5a996efd899e853b3) • [@TrueCharts Bot] (2024-08-07)
+
+## 8.1.38 • [Train: stable]
+
+- chore(deps): update container image quay.io/pussthecatorg/rimgo to latest@0c23cc7 by renovate (#24778) • [`b7b4384`](https://github.com/truecharts/charts/commit/b7b43848dde8114051a961a381f865f49786c0de) • [@TrueCharts Bot] (2024-08-05)
+
+## 8.1.37 • [Train: stable]
+
+- chore(deps): update container image quay.io/pussthecatorg/rimgo to latest@09015f0 by renovate (#24753) • [`b254f73`](https://github.com/truecharts/charts/commit/b254f73d4571bbfced092da1b7926bcbad7bc7f7) • [@TrueCharts Bot] (2024-08-05)
+
+## 8.1.36 • [Train: stable]
+
+- chore(deps): update container image quay.io/pussthecatorg/rimgo to latest@17f0854 by renovate (#24725) • [`81e6ab8`](https://github.com/truecharts/charts/commit/81e6ab83b6ed907c9a3cd030db7cd62b9e41ad12) • [@TrueCharts Bot] (2024-08-04)
+
+## 8.1.35 • [Train: stable]
+
+- chore(deps): update container image quay.io/pussthecatorg/rimgo to latest@2095e28 by renovate (#24701) • [`b399be8`](https://github.com/truecharts/charts/commit/b399be84a7be23cccd3466d2cfd29df8aa90fa61) • [@TrueCharts Bot] (2024-08-03)
+
+## 8.1.34 • [Train: stable]
+
+- chore(deps): update container image quay.io/pussthecatorg/rimgo to latest@840ff76 by renovate (#24687) • [`4c74b94`](https://github.com/truecharts/charts/commit/4c74b9498ed5aa459c3d00cba8bb5b792ec3fec3) • [@TrueCharts Bot] (2024-08-02)
+
+## 8.1.33 • [Train: stable]
+
+- chore(deps): update container image quay.io/pussthecatorg/rimgo to latest@5cf49db by renovate (#24662) • [`69583f0`](https://github.com/truecharts/charts/commit/69583f02c79718fc6b891a12762d3c12f9a2988a) • [@TrueCharts Bot] (2024-08-02)
+
+## 8.1.32 • [Train: stable]
+
+- chore(deps): update container image quay.io/pussthecatorg/rimgo to latest@a18ff1a by renovate (#24642) • [`9900ffa`](https://github.com/truecharts/charts/commit/9900ffa55cf80513a816f9e6b486e36b9d74af9a) • [@TrueCharts Bot] (2024-08-01)
+
+## 8.1.31 • [Train: stable]
+
+- chore(deps): update container image quay.io/pussthecatorg/rimgo to latest@a093ea2 by renovate (#24620) • [`306edbd`](https://github.com/truecharts/charts/commit/306edbd7b12d83f136542ff606502c02b985d9a1) • [@TrueCharts Bot] (2024-08-01)
+
+## 8.1.30 • [Train: stable]
+
+- chore(deps): update container image quay.io/pussthecatorg/rimgo to latest@3ddb15b by renovate (#24600) • [`c06e31b`](https://github.com/truecharts/charts/commit/c06e31b22448bb4091bdaa474265b4f32347e4a1) • [@TrueCharts Bot] (2024-07-31)
+
+## 8.1.29 • [Train: stable]
+
+- chore(deps): update container image quay.io/pussthecatorg/rimgo to latest@2ff4431 by renovate (#24577) • [`4258af9`](https://github.com/truecharts/charts/commit/4258af94496a0cbe05e118dd1bb6871d46d40af9) • [@TrueCharts Bot] (2024-07-31)
+
 ## 8.1.28 • [Train: stable]
 
 - chore(deps): update container image quay.io/pussthecatorg/rimgo to latest@f4d5269 by renovate (#24557) • [`d4db317`](https://github.com/truecharts/charts/commit/d4db317146dc223693cf55f5636100942ee48b88) • [@TrueCharts Bot] (2024-07-30)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.1.7 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/medusa to 1.0.21@b9ec4b9 by renovate (#24657) • [`249537d`](https://github.com/truecharts/charts/commit/249537d0d3c4e57ec920efd20f3cfa7e21215e2f) • [@TrueCharts Bot] (2024-08-01)
+
 ## 12.1.6 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/medusa to 1.0.21@b2ada51 by renovate (#24009) • [`2f83c1f`](https://github.com/truecharts/charts/commit/2f83c1f3ab42732740f46c9c75332fa49c4dc389) • [@TrueCharts Bot] (2024-07-24)

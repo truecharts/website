@@ -11,6 +11,34 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.18 • [Train: stable]
+
+- chore(deps): update container image mikenye/tar1090 to latest@e2c802d by renovate (#24898) • [`76bc653`](https://github.com/truecharts/charts/commit/76bc653608294e531c0c6deb493e3b2cbc7b5453) • [@TrueCharts Bot] (2024-08-08)
+
+## 7.1.17 • [Train: stable]
+
+- chore(deps): update container image mikenye/tar1090 to latest@74d2f56 by renovate (#24871) • [`b9cd26b`](https://github.com/truecharts/charts/commit/b9cd26bff7f6784f246456bc44686bb798978e90) • [@TrueCharts Bot] (2024-08-07)
+
+## 7.1.16 • [Train: stable]
+
+- chore(deps): update container image mikenye/tar1090 to latest@b7d975f by renovate (#24838) • [`e699f5b`](https://github.com/truecharts/charts/commit/e699f5bfb8aba14b00f4e92cb0c6e69fdacc2c85) • [@TrueCharts Bot] (2024-08-07)
+
+## 7.1.15 • [Train: stable]
+
+- chore(deps): update container image mikenye/tar1090 to latest@37f0bc2 by renovate (#24792) • [`cd1a239`](https://github.com/truecharts/charts/commit/cd1a2393b24ae2e45860346a1369667e557b05d1) • [@TrueCharts Bot] (2024-08-05)
+
+## 7.1.14 • [Train: stable]
+
+- chore(deps): update container image mikenye/tar1090 to latest@58e8c43 by renovate (#24761) • [`f225c79`](https://github.com/truecharts/charts/commit/f225c79bab0a5b7a9aa0ee10720daf8538cb2691) • [@TrueCharts Bot] (2024-08-04)
+
+## 7.1.13 • [Train: stable]
+
+- chore(deps): update container image mikenye/tar1090 to latest@5cc2704 by renovate (#24736) • [`acc6f4f`](https://github.com/truecharts/charts/commit/acc6f4f5a9fc6f77521d35860f34ad68c23133d6) • [@TrueCharts Bot] (2024-08-03)
+
+## 7.1.12 • [Train: stable]
+
+- chore(deps): update container image mikenye/tar1090 to latest@241473f by renovate (#24660) • [`421a56b`](https://github.com/truecharts/charts/commit/421a56b5da56e60fa167aef49cf7afdf0ea43e0e) • [@TrueCharts Bot] (2024-08-01)
+
 ## 7.1.11 • [Train: stable]
 
 - chore(deps): update container image mikenye/tar1090 to latest@9369472 by renovate (#24530) • [`839300b`](https://github.com/truecharts/charts/commit/839300b9383457bb2dbac7ddc5c270e542cfe756) • [@TrueCharts Bot] (2024-07-29)

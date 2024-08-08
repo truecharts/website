@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.1.5 • [Train: stable]
+
+- chore(deps): update container image lancachenet/lancache-dns to latest@a9a37f6 by renovate (#24632) • [`2f8ddc1`](https://github.com/truecharts/charts/commit/2f8ddc1b9d71773d811e37d3d165ccc10b0ca07b) • [@TrueCharts Bot] (2024-08-01)
+
 ## 10.1.4 • [Train: stable]
 
 - chore(deps): update container image lancachenet/lancache-dns to latest@eece259 by renovate (#23964) • [`ff43c31`](https://github.com/truecharts/charts/commit/ff43c318df05e753913881f0eb732a089a2f42ae) • [@TrueCharts Bot] (2024-07-24)

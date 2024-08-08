@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 15.2.0 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/librespeed to v5.4.20240804@1513bbf by renovate (#24756) • [`b0a7f69`](https://github.com/truecharts/charts/commit/b0a7f692e81f95b8e9604d10721942dd0f80707b) • [@TrueCharts Bot] (2024-08-04)
+
 ## 15.1.6 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/librespeed to 5.3.3@ad71f23 by renovate (#24481) • [`4000c15`](https://github.com/truecharts/charts/commit/4000c15a294ba57c7ddc148347d97b3922758ef5) • [@TrueCharts Bot] (2024-07-28)

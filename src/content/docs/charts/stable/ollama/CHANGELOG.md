@@ -11,6 +11,45 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.3.11 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/open-webui/open-webui to latest@60b9cc7 by renovate (#24895) • [`6efd809`](https://github.com/truecharts/charts/commit/6efd809470eb908f919dd79692127d66a2cdbf32) • [@TrueCharts Bot] (2024-08-08)
+
+## 7.3.10 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/open-webui/open-webui to latest@1827785 by renovate (#24869) • [`f422c5f`](https://github.com/truecharts/charts/commit/f422c5f8ff769d06e7e3b33a29afc7f2dffa0df7) • [@TrueCharts Bot] (2024-08-07)
+
+## 7.3.9 • [Train: stable]
+
+- chore(deps): update container image ollama/ollama to 0.3.4@31b45db by renovate (#24851) • [`77de00c`](https://github.com/truecharts/charts/commit/77de00c774353d80468c6cf62a94bfd94a6466df) • [@TrueCharts Bot] (2024-08-07)
+- chore(deps): update container image ollama/ollama to 0.3.4-rocm@2cb632e by renovate (#24850) • [`c43f23b`](https://github.com/truecharts/charts/commit/c43f23bdfee3a5c58f6b4b9fb20c11c9f61877c5) • [@TrueCharts Bot] (2024-08-07)
+
+## 7.3.8 • [Train: stable]
+
+- chore(deps): update container image ollama/ollama to 0.3.4@4343979 by renovate (#24840) • [`2cdcc91`](https://github.com/truecharts/charts/commit/2cdcc913feac835bca803facb1ce5c00da341cc3) • [@TrueCharts Bot] (2024-08-07)
+- chore(deps): update container image ollama/ollama to 0.3.4-rocm@c6a102c by renovate (#24839) • [`e77c3eb`](https://github.com/truecharts/charts/commit/e77c3ebce3a2b27b18d614dda254b13ee4b739ef) • [@TrueCharts Bot] (2024-08-07)
+
+## 7.3.7 • [Train: stable]
+
+- chore(deps): update container image ollama/ollama to v0.3.4 by renovate (#24811) • [`174f18c`](https://github.com/truecharts/charts/commit/174f18c907b77cd2d107daebdac90ba3f40d2a0f) • [@TrueCharts Bot] (2024-08-06)
+
+## 7.3.6 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/open-webui/open-webui to latest@a510fa1 by renovate (#24710) • [`d5c535c`](https://github.com/truecharts/charts/commit/d5c535cecf59f4ec903c4eb3c812457945a14d20) • [@TrueCharts Bot] (2024-08-03)
+
+## 7.3.5 • [Train: stable]
+
+- chore(deps): update container image ollama/ollama to v0.3.3 by renovate (#24696) • [`33a67e6`](https://github.com/truecharts/charts/commit/33a67e64e5348e9aaa32db2a1f49c69b61b06b95) • [@TrueCharts Bot] (2024-08-02)
+
+## 7.3.4 • [Train: stable]
+
+- chore(deps): update container image ollama/ollama to v0.3.2 by renovate (#24643) • [`9604d73`](https://github.com/truecharts/charts/commit/9604d73cca48f972a4eadb01762686186d2c707c) • [@TrueCharts Bot] (2024-08-01)
+
+## 7.3.3 • [Train: stable]
+
+- chore(deps): update container image ollama/ollama to 0.3.1@1982fe6 by renovate (#24598) • [`25139c7`](https://github.com/truecharts/charts/commit/25139c70ed4869cdf41dc96abef11c0a9e17064e) • [@TrueCharts Bot] (2024-07-31)
+- chore(deps): update container image ollama/ollama to 0.3.1-rocm@cc2810f by renovate (#24597) • [`846eb27`](https://github.com/truecharts/charts/commit/846eb27c709e29f15b15c1c374488aae869e6ac0) • [@TrueCharts Bot] (2024-07-31)
+
 ## 7.3.2 • [Train: stable]
 
 - chore(deps): update container image ollama/ollama to v0.3.1 by renovate (#24549) • [`32e808a`](https://github.com/truecharts/charts/commit/32e808aa1a70eece19ab5eefd7da89315eda8548) • [@TrueCharts Bot] (2024-07-30)

@@ -37,7 +37,7 @@ However the scope of this support is limited to two things:
 
 ### Supported Versions of Helm
 
-| TrueNAS version | Branch   | Supported with updates | Accepting Support tickets | Accepting Bug Reports | Notes |
+| Helm version    | Branch   | Supported with updates | Accepting Support tickets | Accepting Bug Reports | Notes |
 | --------------- | -------- | ---------------------- | ------------------------- | --------------------- | ----- |
 | 3.11 and prior  | `master` | ✅                     | ❌                        | ❌                    |       |
 | 3.12 - 3.14     | `master` | ✅                     | ✅                        | ✅                    |       |

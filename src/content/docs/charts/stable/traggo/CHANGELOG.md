@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.1.5 • [Train: stable]
+
+- chore(deps): update container image traggo/server to v0.4.5@7b86249 by renovate (#24582) • [`6d5331f`](https://github.com/truecharts/charts/commit/6d5331f6c5f452f014019cc9bf61bef05d2a658a) • [@TrueCharts Bot] (2024-07-30)
+
 ## 8.1.4 • [Train: stable]
 
 - chore(deps): update container image traggo/server to 0.4.4@0f6aa4d by renovate (#24392) • [`371d9ab`](https://github.com/truecharts/charts/commit/371d9ab10648b1887596e601fa23750fe2d566a3) • [@TrueCharts Bot] (2024-07-26)

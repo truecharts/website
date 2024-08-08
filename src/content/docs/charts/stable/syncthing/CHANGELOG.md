@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 20.1.5 • [Train: stable]
+
+- chore(deps): update container image syncthing/syncthing to v1.27.10@311f1e1 by renovate (#24821) • [`4b6e570`](https://github.com/truecharts/charts/commit/4b6e570888cd11a731e3e3578bd481495c564bf3) • [@TrueCharts Bot] (2024-08-06)
+
 ## 20.1.4 • [Train: stable]
 
 - chore(deps): update container image syncthing/syncthing to v1.27.9@9f16c4a by renovate (#24129) • [`4a8c331`](https://github.com/truecharts/charts/commit/4a8c33101edc2303c51b3bf119ae92dc7546ef82) • [@TrueCharts Bot] (2024-07-24)

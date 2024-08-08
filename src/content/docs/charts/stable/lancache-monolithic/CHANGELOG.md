@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.1.5 • [Train: stable]
+
+- chore(deps): update container image lancachenet/monolithic to latest@dfdf02b by renovate (#24633) • [`1669880`](https://github.com/truecharts/charts/commit/16698804387934bc8264ea17b50cf3a208fa6e78) • [@TrueCharts Bot] (2024-08-01)
+
 ## 10.1.4 • [Train: stable]
 
 - chore(deps): update container image lancachenet/monolithic to latest@2866a93 by renovate (#23965) • [`ce7e684`](https://github.com/truecharts/charts/commit/ce7e6840494dd323469376a0a66a59a177563cb5) • [@TrueCharts Bot] (2024-07-24)

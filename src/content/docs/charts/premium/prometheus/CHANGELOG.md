@@ -11,6 +11,30 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 19.9.3 • [Train: premium]
+
+- chore(deps): update container image bitnami/prometheus to 2.53.1@5687ee7 by renovate (#24865) • [`2a107df`](https://github.com/truecharts/charts/commit/2a107dfe2af030dba4b0b07380c947247285eb88) • [@TrueCharts Bot] (2024-08-07)
+
+## 19.9.2 • [Train: premium]
+
+- chore(deps): update container image bitnami/alertmanager to 0.27.0@a15427d by renovate (#24833) • [`22475d4`](https://github.com/truecharts/charts/commit/22475d47037a5a2d0b0058aa486aed980c744be7) • [@TrueCharts Bot] (2024-08-07)
+
+## 19.9.1 • [Train: premium]
+
+- chore(deps): update container image kube-prometheus-stack to v61.7.1@36bc4ec by renovate (#24799) • [`6b5d0cf`](https://github.com/truecharts/charts/commit/6b5d0cfc09d24a60ee36c1ab090c07044c38d8f0) • [@TrueCharts Bot] (2024-08-05)
+
+## 19.9.0 • [Train: premium]
+
+- chore(deps): update container image kube-prometheus-stack to v61.7.0@15507b8 by renovate (#24697) • [`c7db66e`](https://github.com/truecharts/charts/commit/c7db66e5e52ee7306036f96618e5b75db1677878) • [@TrueCharts Bot] (2024-08-02)
+
+## 19.8.1 • [Train: premium]
+
+- chore(deps): update container image kube-prometheus-stack to v61.6.1@38293e9 by renovate (#24655) • [`e9c104b`](https://github.com/truecharts/charts/commit/e9c104b86c1be280b74d8c9cbb1ba11058dfc404) • [@TrueCharts Bot] (2024-08-01)
+
+## 19.8.0 • [Train: premium]
+
+- chore(deps): update container image quay.io/thanos/thanos to v0.36.0@785c18b by renovate (#24626) • [`52b9d12`](https://github.com/truecharts/charts/commit/52b9d125aa058733faffe3a65e0ba3ac6166e301) • [@TrueCharts Bot] (2024-07-31)
+
 ## 19.7.0 • [Train: premium]
 
 - chore(deps): update container image kube-prometheus-stack to v61.6.0@85107eb by renovate (#24536) • [`80c9f3e`](https://github.com/truecharts/charts/commit/80c9f3e2c699794926cb28d5038ae94d411a3d0d) • [@TrueCharts Bot] (2024-07-29)

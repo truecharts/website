@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 9.2.0 • [Train: stable]
+
+- chore(deps): update container image splunk/splunk to v9.3.0@ec4479b by renovate (#24593) • [`f36c35d`](https://github.com/truecharts/charts/commit/f36c35d8cd35bef792b70b43af0a682584ede45b) • [@TrueCharts Bot] (2024-07-31)
+
 ## 9.1.6 • [Train: stable]
 
 - chore(deps): update container image splunk/splunk to 9.2.2@c7208b6 by renovate (#24363) • [`b5d592f`](https://github.com/truecharts/charts/commit/b5d592f7609e48f0105b288cf529e4f2172d1560) • [@TrueCharts Bot] (2024-07-26)

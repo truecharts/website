@@ -11,6 +11,23 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 31.4.4 • [Train: premium]
+
+- chore(deps): update container image redis to v15.1.7@25b82e2 by renovate (#24780) • [`c4fe87d`](https://github.com/truecharts/charts/commit/c4fe87d09eb6b4686a50f90e11176fc801f80ca6) • [@TrueCharts Bot] (2024-08-05)
+- chore(deps): update container image common to v24.1.7@5b934b1 by renovate (#24737) • [`ed600a9`](https://github.com/truecharts/charts/commit/ed600a9160e295db5a9aa0a2db130571b9349b49) • [@TrueCharts Bot] (2024-08-05)
+
+## 31.4.3 • [Train: premium]
+
+- chore(deps): update container image nginxinc/nginx-unprivileged to 1.27.0@78e0a42 by renovate (#24776) • [`34c2027`](https://github.com/truecharts/charts/commit/34c2027345d5da0e178556bf2e4d5c68361de4e4) • [@TrueCharts Bot] (2024-08-05)
+
+## 31.4.2 • [Train: premium]
+
+- chore(deps): update container image tccr.io/tccr/nextcloud-fpm to v29.0.4@40ca0a5 by renovate (#24715) • [`3d686f4`](https://github.com/truecharts/charts/commit/3d686f4c14e33f71a1eca667d455fdf267878555) • [@TrueCharts Bot] (2024-08-03)
+
+## 31.4.1 • [Train: premium]
+
+- chore(deps): update container image tccr.io/tccr/nextcloud-fpm to v29.0.4@45480a2 by renovate (#24688) • [`0b9bbea`](https://github.com/truecharts/charts/commit/0b9bbeacb4ded1c3f5a824b3f3c585e8700fbe4b) • [@TrueCharts Bot] (2024-08-02)
+
 ## 31.4.0 • [Train: premium]
 
 - chore(deps): update container image tccr.io/tccr/nextcloud-push-notify to v0.7.0@277ce08 by renovate (#24560) • [`bb00f1a`](https://github.com/truecharts/charts/commit/bb00f1a95df93c641bb89d626d91993cbabf4bb3) • [@TrueCharts Bot] (2024-07-30)
