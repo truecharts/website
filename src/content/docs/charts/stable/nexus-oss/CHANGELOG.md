@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.4.0 • [Train: stable]
+
+- chore(deps): update container image sonatype/nexus3 to v3.71.0@49a8919 by renovate (#24926) • [`c3d84fd`](https://github.com/truecharts/charts/commit/c3d84fd234f0002ec0b876a7a2bf96f4dd531dd9) • [@TrueCharts Bot] (2024-08-09)
+
 ## 7.3.0 • [Train: stable]
 
 - chore(deps): update container image sonatype/nexus3 to v3.70.1@00ecf29 by renovate (#24212) • [`493fcaa`](https://github.com/truecharts/charts/commit/493fcaa77e450fff55c004c3cc8d40d31600ac5b) • [@TrueCharts Bot] (2024-07-24)
