@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.1.7 • [Train: stable]
+
+- chore(deps): update container image jeessy/ddns-go to v6.6.8@e85ac37 by renovate (#24937) • [`f0b5265`](https://github.com/truecharts/charts/commit/f0b5265607ecd1cad21aa1610a829616d1521a39) • [@TrueCharts Bot] (2024-08-09)
+
 ## 12.1.6 • [Train: stable]
 
 - chore(deps): update container image jeessy/ddns-go to v6.6.7@d89998c by renovate (#24654) • [`5c42a48`](https://github.com/truecharts/charts/commit/5c42a4808026f4e860f59174ef613bd04ed0cab5) • [@TrueCharts Bot] (2024-08-01)

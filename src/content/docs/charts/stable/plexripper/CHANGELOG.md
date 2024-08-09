@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.5.0 • [Train: stable]
+
+- chore(deps): update container image plexripper/plexripper to v0.18.0@2d30b4e by renovate (#24938) • [`5e798ee`](https://github.com/truecharts/charts/commit/5e798ee005b6e67864a7ef4931806862a8a71590) • [@TrueCharts Bot] (2024-08-09)
+
 ## 10.4.0 • [Train: stable]
 
 - chore(deps): update container image plexripper/plexripper to v0.17.0@e2f350f by renovate (#24831) • [`4f8ca15`](https://github.com/truecharts/charts/commit/4f8ca15f274e7173c500a40a6b10bdad57429552) • [@TrueCharts Bot] (2024-08-06)
