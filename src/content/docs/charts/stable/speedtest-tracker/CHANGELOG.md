@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.3.2 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/speedtest-tracker to v0.21.2@7042d0d by renovate (#24949) • [`d663fa6`](https://github.com/truecharts/charts/commit/d663fa620d97b1ebabc9bb3891f82fa54cb73550) • [@TrueCharts Bot] (2024-08-09)
+
 ## 5.3.1 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/speedtest-tracker to v0.21.1@54e30ca by renovate (#24932) • [`27c525a`](https://github.com/truecharts/charts/commit/27c525a8231bf0b040afa0d69f87de40a796d70e) • [@TrueCharts Bot] (2024-08-09)
