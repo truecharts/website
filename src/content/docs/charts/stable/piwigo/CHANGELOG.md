@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 14.4.4 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/piwigo to 14.5.0@d477509 by renovate (#24975) • [`46af7ce`](https://github.com/truecharts/charts/commit/46af7cee7d365c1e758d972ebc11dcff90c351b0) • [@TrueCharts Bot] (2024-08-10)
+
 ## 14.4.3 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/piwigo to 14.5.0@9600bb6 by renovate (#24735) • [`3515002`](https://github.com/truecharts/charts/commit/3515002554d85c94664f94eb7f39d8e4334fa393) • [@TrueCharts Bot] (2024-08-03)
