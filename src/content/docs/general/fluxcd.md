@@ -49,19 +49,8 @@ and checking all the many options available in our [Common Library Chart](/commo
 
 ```yaml
 ---
-# yaml-language-server: $schema=https://kubernetes-schemas.zinn.ca/source.toolkit.fluxcd.io/helmrepository_v1.json
-apiVersion: source.toolkit.fluxcd.io/v1
-kind: HelmRepository
-metadata:
-    name: truecharts
-    namespace: flux-system
-spec:
-    type: oci
-    interval: 60m
-    url: oci://tccr.io/truecharts
----
-# yaml-language-server: $schema=https://kubernetes-schemas.zinn.ca/helm.toolkit.fluxcd.io/helmrelease_v2.json
-apiVersion: helm.toolkit.fluxcd.io/v2
+# yaml-language-server: $schema=https://kubernetes-schemas.zinn.ca/helm.toolkit.fluxcd.io/helmrelease_v2beta1.json
+apiVersion: helm.toolkit.fluxcd.io/v2beta2
 kind: HelmRelease
 metadata:
   name: sonarr
@@ -74,7 +63,7 @@ spec:
       version: 21.5.7
       sourceRef:
         kind: HelmRepository
-        name: truecharts
+        name: truechartsoci
         namespace: flux-system
       interval: 15m
   timeout: 20m
