@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.5 • [Train: stable]
+
+- chore(deps): update container image x1unix/go-playground to latest@9d40084 by renovate (#24689) • [`03cf44f`](https://github.com/truecharts/charts/commit/03cf44fe770210a15c6b0c3fba81ffa9ab366f80) • [@TrueCharts Bot] (2024-08-11)
+
 ## 7.1.4 • [Train: stable]
 
 - chore(deps): update container image x1unix/go-playground to latest@059f1e6 by renovate (#24053) • [`8c22a1f`](https://github.com/truecharts/charts/commit/8c22a1f9753fc47ec9c163d5556d91b2fe8143d9) • [@TrueCharts Bot] (2024-07-24)
