@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.3.2 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/anotherstranger/borg-server to v2.6.2@9fdf995 by renovate (#25013) • [`08986e5`](https://github.com/truecharts/charts/commit/08986e5fc38a37e8dd426811f7e29009c71f885a) • [@TrueCharts Bot] (2024-08-11)
+
 ## 6.3.1 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/anotherstranger/borg-server to v2.6.1@055aec4 by renovate (#24460) • [`1efd4dd`](https://github.com/truecharts/charts/commit/1efd4dde1d406c82d8b75cf568ad9c62f226a410) • [@TrueCharts Bot] (2024-07-27)

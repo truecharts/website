@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.2.0 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/minetest to v5.9.0@c872b6a by renovate (#25015) • [`ce82560`](https://github.com/truecharts/charts/commit/ce8256094939c1b3df8eb659363127b990a73af1) • [@TrueCharts Bot] (2024-08-11)
+
 ## 10.1.7 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/minetest to 5.8.0@de1ebd6 by renovate (#24646) • [`bcf0a65`](https://github.com/truecharts/charts/commit/bcf0a65efd612619cea3861f94a40207cf49e85a) • [@TrueCharts Bot] (2024-08-01)
