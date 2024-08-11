@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 16.3.0 • [Train: stable]
+
+- chore(deps): update container image shlinkio/shlink to v4.2.0@8693a2b by renovate (#25016) • [`0896700`](https://github.com/truecharts/charts/commit/089670037d81f3c1001f471c35c9ef4ce4575011) • [@TrueCharts Bot] (2024-08-11)
+
 ## 16.2.2 • [Train: stable]
 
 - chore(deps): update container image redis to v15.1.5@7d73817 by renovate (#24126) • [`663f5cc`](https://github.com/truecharts/charts/commit/663f5ccfd2a8bac39d0f8a727e7fbbd280c44500) • [@TrueCharts Bot] (2024-07-24)
