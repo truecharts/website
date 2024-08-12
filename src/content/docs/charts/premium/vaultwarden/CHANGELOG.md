@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 28.3.0 • [Train: premium]
+
+- chore(deps): update container image docker.io/vaultwarden/server to v1.32.0@71668d2 by renovate (#25023) • [`54290a5`](https://github.com/truecharts/charts/commit/54290a55dcc5c0c5d9087869393015e1cd28d014) • [@TrueCharts Bot] (2024-08-12)
+
 ## 28.2.0 • [Train: premium]
 
 - chore(deps): update container image docker.io/vaultwarden/server to v1.31.0@4e28425 by renovate (#24153) • [`dbc7e48`](https://github.com/truecharts/charts/commit/dbc7e48992394109313165456d0ac1d90b960432) • [@TrueCharts Bot] (2024-07-24)
