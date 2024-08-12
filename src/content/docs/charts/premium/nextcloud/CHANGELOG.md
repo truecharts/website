@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 31.4.6 • [Train: premium]
+
+- chore(deps): update container image nginxinc/nginx-unprivileged to 1.27.0@e0b90e4 by renovate (#25027) • [`2174dc1`](https://github.com/truecharts/charts/commit/2174dc1f21487e2e06ac80ea1b4ea370aa13c615) • [@TrueCharts Bot] (2024-08-12)
+
 ## 31.4.5 • [Train: premium]
 
 - chore(deps): update container image tccr.io/tccr/nextcloud-fpm to v29.0.4@4a2d5eb by renovate (#25020) • [`bd38860`](https://github.com/truecharts/charts/commit/bd388602f119c5061d47c5fed5770f53d6a1f0d2) • [@TrueCharts Bot] (2024-08-12)
