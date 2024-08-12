@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.1.10 • [Train: stable]
+
+- chore(deps): update container image lscr.io/linuxserver/cops to 2.7.2@688f1c0 by renovate (#25026) • [`21aab9c`](https://github.com/truecharts/charts/commit/21aab9c4f799993dbb061987fa9e6923d3a7300a) • [@TrueCharts Bot] (2024-08-12)
+
 ## 10.1.9 • [Train: stable]
 
 - chore(deps): update container image lscr.io/linuxserver/cops to 2.7.2@621f30f by renovate (#25018) • [`c04728a`](https://github.com/truecharts/charts/commit/c04728ad04b9f19cc701834b64495ea6906f7ad5) • [@TrueCharts Bot] (2024-08-12)

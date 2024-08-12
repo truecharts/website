@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.1.8 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/duckdns to latest@951798b by renovate (#25024) • [`b0ab080`](https://github.com/truecharts/charts/commit/b0ab080aaafad2e85c564228ee4f31265d5468eb) • [@TrueCharts Bot] (2024-08-12)
+
 ## 11.1.7 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/duckdns to latest@74c4f65 by renovate (#23998) • [`d7821fa`](https://github.com/truecharts/charts/commit/d7821fa987b96b332c298d135bf5074805081b1c) • [@TrueCharts Bot] (2024-07-24)
