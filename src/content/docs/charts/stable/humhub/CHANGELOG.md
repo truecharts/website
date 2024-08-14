@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 9.4.4 • [Train: stable]
+
+- chore(deps): update container image mariadb to v15.2.2@853f10e by renovate (#25144) • [`ff52489`](https://github.com/truecharts/charts/commit/ff5248965951012e503fa68c1eaca6777c13a43a) • [@TrueCharts Bot] (2024-08-14)
+
 ## 9.4.3 • [Train: stable]
 
 - chore(deps): update humhub by renovate (#24829) • [`83cf7e2`](https://github.com/truecharts/charts/commit/83cf7e220acc7fa3894f0865e488504e310c5c3a) • [@TrueCharts Bot] (2024-08-06)

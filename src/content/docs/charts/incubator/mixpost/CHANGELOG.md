@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.4.3 • [Train: incubator]
+
+- chore(deps): update container image mariadb to v15.2.2@853f10e by renovate (#25144) • [`ff52489`](https://github.com/truecharts/charts/commit/ff5248965951012e503fa68c1eaca6777c13a43a) • [@TrueCharts Bot] (2024-08-14)
+
 ## 1.4.2 • [Train: incubator]
 
 - chore(deps): update container image mariadb to v15.2.1@674cbcc by renovate (#24397) • [`8d38787`](https://github.com/truecharts/charts/commit/8d38787f4660f5de09b7c8e73f6c9b2cfd6bdaa5) • [@TrueCharts Bot] (2024-07-26)
