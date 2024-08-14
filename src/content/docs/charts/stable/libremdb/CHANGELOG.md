@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 9.2.64 • [Train: stable]
+
+- chore(deps): update container image quay.io/pussthecatorg/libremdb to latest@79bf85c by renovate (#25138) • [`a76dbc5`](https://github.com/truecharts/charts/commit/a76dbc59bad8f10d360050f33d9ad553058245b6) • [@TrueCharts Bot] (2024-08-14)
+
 ## 9.2.63 • [Train: stable]
 
 - chore(deps): update container image quay.io/pussthecatorg/libremdb to latest@1f45bc7 by renovate (#25095) • [`029388f`](https://github.com/truecharts/charts/commit/029388fe449b6ccde96048767209fe2be0acdce2) • [@TrueCharts Bot] (2024-08-14)

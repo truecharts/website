@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.1.10 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/remmina to 1.4.2@39e4d6a by renovate (#25135) • [`b511da6`](https://github.com/truecharts/charts/commit/b511da6ec2fc574187a708354e6b6f70c94d3d63) • [@TrueCharts Bot] (2024-08-14)
+
 ## 12.1.9 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/remmina to 1.4.2@717fb84 by renovate (#24617) • [`15bc59b`](https://github.com/truecharts/charts/commit/15bc59bdb3e9a47e5800d7a43e753452445550ce) • [@TrueCharts Bot] (2024-08-07)
