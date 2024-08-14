@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.11 • [Train: stable]
+
+- chore(deps): update container image phasecorex/red-discordbot to full@37cd16d by renovate (#25116) • [`b6a09aa`](https://github.com/truecharts/charts/commit/b6a09aabe7ec16ecce759624c893928894b4bdf5) • [@TrueCharts Bot] (2024-08-14)
+
 ## 7.1.10 • [Train: stable]
 
 - chore(deps): update container image phasecorex/red-discordbot to full@77c58e1 by renovate (#24808) • [`1a27063`](https://github.com/truecharts/charts/commit/1a27063625e0883149d1dd8cebf61f36e1cae8d2) • [@TrueCharts Bot] (2024-08-06)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 16.4.2 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/calibre to 7.16.0@b15e0c3 by renovate (#25112) • [`35ebd75`](https://github.com/truecharts/charts/commit/35ebd75c6848df2c6ec298a26faf7cfa1a3e7c8e) • [@TrueCharts Bot] (2024-08-14)
+
 ## 16.4.1 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/calibre to 7.16.0@346da07 by renovate (#24858) • [`48cb0ae`](https://github.com/truecharts/charts/commit/48cb0ae1042303c3de771e06c2ed36eac7c0a9df) • [@TrueCharts Bot] (2024-08-07)
