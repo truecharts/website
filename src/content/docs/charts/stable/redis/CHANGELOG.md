@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 15.2.1 • [Train: stable]
+
+- chore(deps): update container image bitnami/redis to 7.4.0@7be05d6 by renovate (#25131) • [`fc5c4be`](https://github.com/truecharts/charts/commit/fc5c4be176ce42f306c0a2b47d30d52d3d11782c) • [@TrueCharts Bot] (2024-08-14)
+
 ## 15.2.0 • [Train: stable]
 
 - chore(deps): update container image bitnami/redis to v7.4.0@ad4f1a1 by renovate (#24951) • [`6ac1cfc`](https://github.com/truecharts/charts/commit/6ac1cfc60a5ea4eeb8e78c8f5e4ba76203fd32aa) • [@TrueCharts Bot] (2024-08-09)
