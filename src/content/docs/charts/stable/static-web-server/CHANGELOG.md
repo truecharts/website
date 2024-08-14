@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.2.4 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/static-web-server/static-web-server to v2.32.2@7aff682 by renovate (#25123) • [`1dbe253`](https://github.com/truecharts/charts/commit/1dbe25313fcb8e2600d4deda9f952f15f18412ec) • [@TrueCharts Bot] (2024-08-14)
+
 ## 6.2.3 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/static-web-server/static-web-server to v2.32.1@eca0750 by renovate (#24102) • [`b393510`](https://github.com/truecharts/charts/commit/b393510984446b1f53893e79623ab51f5bbee8d6) • [@TrueCharts Bot] (2024-07-24)
