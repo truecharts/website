@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 17.6.2 • [Train: stable]
+
+- chore(deps): update container image altran1502/immich-machine-learning to v1.112.1@e80fa94 by renovate (#25164) • [`b0ca427`](https://github.com/truecharts/charts/commit/b0ca427c089305ba559516c0ef501050c72a96ef) • [@TrueCharts Bot] (2024-08-15)
+
 ## 17.6.1 • [Train: stable]
 
 - chore(deps): update immich to v1.112.1@9600eff by renovate (patch) (#25156) • [`d6ce113`](https://github.com/truecharts/charts/commit/d6ce113088dd22328bf686c0d319d8899b3d5b5e) • [@TrueCharts Bot] (2024-08-15)
