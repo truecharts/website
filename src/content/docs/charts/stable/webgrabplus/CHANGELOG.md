@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.2.9 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/webgrabplus to v5.2.2@2831761 by renovate (#25183) • [`4f8a7fb`](https://github.com/truecharts/charts/commit/4f8a7fb5ea87b3f2e548ae934a0ef7576df3cf11) • [@TrueCharts Bot] (2024-08-15)
+
 ## 11.2.8 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/webgrabplus to 5.2.1@7f6350c by renovate (#25171) • [`1ff86ae`](https://github.com/truecharts/charts/commit/1ff86aeff9d68ca3654b0d956b285f997651d245) • [@TrueCharts Bot] (2024-08-15)
