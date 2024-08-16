@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.4.4 • [Train: incubator]
+
+- chore(deps): update container image inovector/mixpost to v1.7.2@5abbc9e by renovate (#25208) • [`ac9daa1`](https://github.com/truecharts/charts/commit/ac9daa1ab4e51d1cef4da480a355cc3e4b9dedd8) • [@TrueCharts Bot] (2024-08-16)
+
 ## 1.4.3 • [Train: incubator]
 
 - chore(deps): update container image mariadb to v15.2.2@853f10e by renovate (#25144) • [`ff52489`](https://github.com/truecharts/charts/commit/ff5248965951012e503fa68c1eaca6777c13a43a) • [@TrueCharts Bot] (2024-08-14)
