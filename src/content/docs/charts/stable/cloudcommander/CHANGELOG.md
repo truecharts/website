@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.5 • [Train: stable]
+
+- chore(deps): update container image coderaiser/cloudcmd to latest@8da6f16 by renovate (#25196) • [`5ff483f`](https://github.com/truecharts/charts/commit/5ff483f8a217ed4683c7472d7d111a4a1ac1fe16) • [@TrueCharts Bot] (2024-08-16)
+
 ## 7.1.4 • [Train: stable]
 
 - chore(deps): update container image coderaiser/cloudcmd to latest@39a2931 by renovate (#23939) • [`43835e9`](https://github.com/truecharts/charts/commit/43835e967f97d153a0d6a4ce9be9b2bc31a82baf) • [@TrueCharts Bot] (2024-07-24)
