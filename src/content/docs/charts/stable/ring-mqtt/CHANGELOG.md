@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.2.2 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.10@000858c by renovate (#24978) • [`3852211`](https://github.com/truecharts/charts/commit/3852211e60f60459fcc774bbc03ae52087e76c64) • [@TrueCharts Bot] (2024-08-17)
+
 ## 10.2.1 • [Train: stable]
 
 - chore(deps): update container image tsightler/ring-mqtt to v5.7.1@671498f by renovate (#25227) • [`4cb2b6e`](https://github.com/truecharts/charts/commit/4cb2b6edf7b51b1e92f3cff1a303de50bc1c82cc) • [@TrueCharts Bot] (2024-08-17)

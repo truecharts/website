@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.1.5 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.10@000858c by renovate (#24978) • [`3852211`](https://github.com/truecharts/charts/commit/3852211e60f60459fcc774bbc03ae52087e76c64) • [@TrueCharts Bot] (2024-08-17)
+
 ## 11.1.4 • [Train: stable]
 
 - chore(deps): update container image 601096721/mosdns to v5.3.3@e90df93 by renovate (#25226) • [`1519562`](https://github.com/truecharts/charts/commit/151956258ed3da6d04fbac2eaf79fcd1cbf64277) • [@TrueCharts Bot] (2024-08-17)
