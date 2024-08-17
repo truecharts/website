@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 14.4.6 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/piwigo to 14.5.0@a422e12 by renovate (#25237) • [`4b46c06`](https://github.com/truecharts/charts/commit/4b46c066075e37e1c3153b905170bb2a5f938512) • [@TrueCharts Bot] (2024-08-17)
+
 ## 14.4.5 • [Train: stable]
 
 - chore(deps): update container image mariadb to v15.2.2@853f10e by renovate (#25144) • [`ff52489`](https://github.com/truecharts/charts/commit/ff5248965951012e503fa68c1eaca6777c13a43a) • [@TrueCharts Bot] (2024-08-14)
