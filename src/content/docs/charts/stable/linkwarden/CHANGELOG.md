@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.3.0 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linkwarden/linkwarden to v2.7.1@d7e76ab by renovate (#25217) • [`edc9abc`](https://github.com/truecharts/charts/commit/edc9abcd95eec531ce8777f0403182085ead7044) • [@TrueCharts Bot] (2024-08-17)
+
 ## 6.2.2 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linkwarden/linkwarden to v2.6.2@1968909 by renovate (#24417) • [`e37b867`](https://github.com/truecharts/charts/commit/e37b8679a29220e1e695bdca46ac458a470b3bbc) • [@TrueCharts Bot] (2024-07-26)
