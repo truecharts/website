@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 23.0.6 • [Train: stable]
+
+- chore(deps): update container image linuxserver/heimdall to v@a174994 by renovate (#25213) • [`535e24f`](https://github.com/truecharts/charts/commit/535e24f789dda0170fd5f86260175738f70601d1) • [@TrueCharts Bot] (2024-08-17)
+
 ## 23.0.5 • [Train: stable]
 
 - chore(deps): update container image linuxserver/heimdall to v@f9dda31 by renovate (#24953) • [`1c1f653`](https://github.com/truecharts/charts/commit/1c1f65338cd182feb1c16ca5bdc445cbf4aea8a4) • [@TrueCharts Bot] (2024-08-10)
