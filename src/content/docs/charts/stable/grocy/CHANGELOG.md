@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 20.1.10 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/grocy to 4.2.0@7c1b497 by renovate (#25262) • [`32751ed`](https://github.com/truecharts/charts/commit/32751ede3c0235383f83937a864cbefb34035e54) • [@TrueCharts Bot] (2024-08-18)
+
 ## 20.1.9 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/grocy to 4.2.0@d90881c by renovate (#25086) • [`22a20f6`](https://github.com/truecharts/charts/commit/22a20f675a6be7d83af0e9c425624a9c898210f4) • [@TrueCharts Bot] (2024-08-13)
