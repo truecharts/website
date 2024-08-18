@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.1.4 • [Train: stable]
+
+- chore(deps): update container image prom/graphite-exporter to v0.15.2@24f1590 by renovate (#25275) • [`9e766f6`](https://github.com/truecharts/charts/commit/9e766f691e21b1a133981da9cf25edda95191c63) • [@TrueCharts Bot] (2024-08-18)
+
 ## 3.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
