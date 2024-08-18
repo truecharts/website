@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.4.0 • [Train: stable]
+
+- chore(deps): update container image misskey/misskey to v2024.8.0@89149e3 by renovate (#25265) • [`6f9c1de`](https://github.com/truecharts/charts/commit/6f9c1defe411e26ec6b3ee77662415471f85dde5) • [@TrueCharts Bot] (2024-08-18)
+
 ## 10.3.0 • [Train: stable]
 
 - chore(deps): update container image misskey/misskey to v2024.7.0@aac354d by renovate (#24613) • [`1b5e109`](https://github.com/truecharts/charts/commit/1b5e109dfca134c5792fe7df6df1cd6e1c56b589) • [@TrueCharts Bot] (2024-07-31)
