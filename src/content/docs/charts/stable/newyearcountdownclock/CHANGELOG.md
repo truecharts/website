@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.4 • [Train: stable]
+
+- chore(deps): update container image modem7/newyearcountdown to latest@562dcc1 by renovate (#25270) • [`a817150`](https://github.com/truecharts/charts/commit/a817150f7b8794e7107d5c1637c85bb1b09b9603) • [@TrueCharts Bot] (2024-08-18)
+
 ## 7.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
