@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.2.3 • [Train: stable]
+
+- chore(deps): update container image codetheweb/muse to v2.9.3@a73ed38 by renovate (#25294) • [`85a4b0c`](https://github.com/truecharts/charts/commit/85a4b0c84a118517135c9c4f096a80a68b0973ee) • [@TrueCharts Bot] (2024-08-19)
+
 ## 7.2.2 • [Train: stable]
 
 - chore(deps): update container image codetheweb/muse to v2.9.2@47957eb by renovate (#25283) • [`25cbcbe`](https://github.com/truecharts/charts/commit/25cbcbeb605d367f6454f93c3f0294e571893129) • [@TrueCharts Bot] (2024-08-19)
