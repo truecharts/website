@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.6.4 • [Train: stable]
+
+- chore(deps): update container image haveagitgat/tdarr to v2.24.05@9fb794f by renovate (#25365) • [`dcabfdc`](https://github.com/truecharts/charts/commit/dcabfdcf76efd7d08088d3207aa260d693850777) • [@TrueCharts Bot] (2024-08-21)
+
 ## 11.6.3 • [Train: stable]
 
 - chore(deps): update container image haveagitgat/tdarr to v2.24.04@b01fc64 by renovate (#25251) • [`ca5d21a`](https://github.com/truecharts/charts/commit/ca5d21a9f1a54330c6f63afd7853252e0299e99c) • [@TrueCharts Bot] (2024-08-18)
