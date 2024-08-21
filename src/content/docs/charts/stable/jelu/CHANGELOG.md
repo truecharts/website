@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.4 • [Train: stable]
+
+- chore(deps): update container image wabayang/jelu to latest@76c3953 by renovate (#25330) • [`a6afe51`](https://github.com/truecharts/charts/commit/a6afe51e31c5835d74a39856fe4bcf581ca42da4) • [@TrueCharts Bot] (2024-08-21)
+
 ## 7.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)

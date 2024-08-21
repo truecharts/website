@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.1.5 • [Train: stable]
+
+- chore(deps): update container image foxxmd/multi-scrobbler to latest@598cb0c by renovate (#25305) • [`6cab895`](https://github.com/truecharts/charts/commit/6cab89513c044f042e3f5bae07cf33c629c9d894) • [@TrueCharts Bot] (2024-08-21)
+
 ## 8.1.4 • [Train: stable]
 
 - chore(deps): update container image foxxmd/multi-scrobbler to latest@11c1489 by renovate (#23953) • [`c4ab827`](https://github.com/truecharts/charts/commit/c4ab827c44a6362cd60c644e3b4b94e8938a86de) • [@TrueCharts Bot] (2024-07-24)
