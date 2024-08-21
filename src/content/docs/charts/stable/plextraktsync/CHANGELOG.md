@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 9.2.6 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/taxel/plextraktsync to v0.31.8@815bdd4 by renovate (#25340) • [`1f8acef`](https://github.com/truecharts/charts/commit/1f8acef429cc547f9a4e4c9cb31532798159cddc) • [@TrueCharts Bot] (2024-08-21)
+
 ## 9.2.5 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/taxel/plextraktsync to v0.31.7@dd2d3a9 by renovate (#23809) • [`eb7ac5b`](https://github.com/truecharts/charts/commit/eb7ac5b68b90791febf7b17318eeafabe5998fa3) • [@TrueCharts Bot] (2024-07-24)

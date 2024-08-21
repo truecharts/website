@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.2.2 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/dgtlmoon/changedetection.io to v0.46.03@5a9f049 by renovate (#25337) • [`2385f3c`](https://github.com/truecharts/charts/commit/2385f3c95069b18a7c52367c0149040bf9b11736) • [@TrueCharts Bot] (2024-08-21)
+
 ## 4.2.1 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/dgtlmoon/changedetection.io to v0.46.02@1a7e703 by renovate (#24469) • [`2f70a63`](https://github.com/truecharts/charts/commit/2f70a633acd9561e9b02f347bb416daf720c1e18) • [@TrueCharts Bot] (2024-07-28)

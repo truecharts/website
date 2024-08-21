@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 18.1.5 • [Train: stable]
+
+- chore(deps): update container image vabene1111/recipes to v1.5.19@77a556a by renovate (#25343) • [`826280d`](https://github.com/truecharts/charts/commit/826280dc98b704c4626a2bfc8d637d043bde7c2b) • [@TrueCharts Bot] (2024-08-21)
+
 ## 18.1.4 • [Train: stable]
 
 - chore(deps): update container image vabene1111/recipes to v1.5.18@e5f1287 by renovate (#24134) • [`0401d0a`](https://github.com/truecharts/charts/commit/0401d0a3de214199fe8c7db7fb1f8c10f64ffe64) • [@TrueCharts Bot] (2024-07-24)
