@@ -714,7 +714,7 @@ ingress:
       main: main
     hosts:
       -  host: chart-example.local
-          paths:
+         paths:
             - path: /
               pathType: Prefix
               overrideService:
