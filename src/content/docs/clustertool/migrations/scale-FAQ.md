@@ -24,11 +24,11 @@ TrueCharts is not affiliated with IX Systems. We found out about the removal of 
 
 ## So, does this mean that TrueCharts is dead?
 
-No TrueCharts is not dead. We have always made Helm Charts and our Charts can be installed on any supported OS not just TrueNAS Scale. We continue to provide these Helm Charts as always and they can already be installed on a compatible OS.
+No TrueCharts is not dead. We have always made Helm Charts and our Charts can be installed on any compatible OS not just TrueNAS Scale. We continue to provide these Helm Charts as always and they can already be installed on a compatible OS.
 
 ## How do I install TrueCharts now?
 
-You are able to install any supported OS and add the TrueCharts repository.
+You are able to install any compatible OS and add the TrueCharts repository.
 
 ## I want to keep using TrueNAS Scale as my OS. What can I do?
 
@@ -66,5 +66,5 @@ Almost all apps will continue to run without updates.
 
 If you do not want to wait for ClusterTool you have the following options:
 
-1. Install a supported OS and add the TrueCharts repository.
+1. Install a compatible OS and add the TrueCharts repository.
 2. Switch your applications to those provided by IX Systems. They have promised their applications will migrate to the new Docker system.
