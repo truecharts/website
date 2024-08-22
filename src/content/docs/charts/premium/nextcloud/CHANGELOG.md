@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 31.4.13 • [Train: premium]
+
+- chore(deps): update container image tccr.io/tccr/nextcloud-fpm to v29.0.5@6a44ac8 by renovate (#25390) • [`cde0ab1`](https://github.com/truecharts/charts/commit/cde0ab115be7673acf966609a648c6d64dada0c9) • [@TrueCharts Bot] (2024-08-22)
+
 ## 31.4.12 • [Train: premium]
 
 - chore(deps): update container image redis to v15.1.8@c332b26 by renovate (#24911) • [`d7c3434`](https://github.com/truecharts/charts/commit/d7c34344dbd67cc77136f6d2fb8f5cbbc1fdaf5f) • [@TrueCharts Bot] (2024-08-19)
