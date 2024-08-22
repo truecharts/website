@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.3.1 • [Train: stable]
+
+- chore(deps): update container image cloudflare/cloudflared to v2024.8.3@14d9c6b by renovate (#25416) • [`4c6e5aa`](https://github.com/truecharts/charts/commit/4c6e5aa5d4ac0c4b8480a791188ada2aca451dc3) • [@TrueCharts Bot] (2024-08-22)
+
 ## 12.3.0 • [Train: stable]
 
 - chore(deps): update container image cloudflare/cloudflared to v2024.8.2@004f4b7 by renovate (#24830) • [`9eb50c9`](https://github.com/truecharts/charts/commit/9eb50c994eb894777f75de0b2f9d596a58f7386b) • [@TrueCharts Bot] (2024-08-06)

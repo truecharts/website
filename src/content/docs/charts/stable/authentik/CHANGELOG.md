@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 27.3.5 • [Train: stable]
+
+- chore(deps): update authentik to v2024.6.4@8495aa2 by renovate (patch) (#25414) • [`59f4ed2`](https://github.com/truecharts/charts/commit/59f4ed2dd2638d9ab719b15b9efd8026826f95b6) • [@TrueCharts Bot] (2024-08-22)
+
 ## 27.3.4 • [Train: stable]
 
 - Commit daily changes • [`e4d8780`](https://github.com/truecharts/charts/commit/e4d8780776ca03b2c9a58eaeadafe6dc0cb89c01) • [@TrueCharts-Bot] (2024-08-07)
