@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.3.0 • [Train: stable]
+
+- chore(deps): update container image netdata/netdata to v1.47.0@84ae611 by renovate (#25418) • [`da69ab7`](https://github.com/truecharts/charts/commit/da69ab77f7130b237ed4ad2c296da129efcb10e3) • [@TrueCharts Bot] (2024-08-22)
+
 ## 11.2.4 • [Train: stable]
 
 - chore(deps): update container image netdata/netdata to v1.46.3@fa9580f by renovate (#24119) • [`8a96d87`](https://github.com/truecharts/charts/commit/8a96d87c71cedd52a48b005b1672ea69664c29dc) • [@TrueCharts Bot] (2024-07-24)
