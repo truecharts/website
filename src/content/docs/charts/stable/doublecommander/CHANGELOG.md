@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 14.1.10 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/doublecommander to latest@92c0fc1 by renovate (#25375) • [`ed0c9d3`](https://github.com/truecharts/charts/commit/ed0c9d3169158808ff05228b70b44f0f52365237) • [@TrueCharts Bot] (2024-08-22)
+
 ## 14.1.9 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/doublecommander to latest@d479dd4 by renovate (#24878) • [`f3ac067`](https://github.com/truecharts/charts/commit/f3ac067ca8a11668fffd7f5a7aea163fe75aad0b) • [@TrueCharts Bot] (2024-08-08)
