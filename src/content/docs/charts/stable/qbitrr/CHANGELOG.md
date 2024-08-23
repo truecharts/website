@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.3.1 • [Train: stable]
+
+- chore(deps): update container image feramance/qbitrr to v4.9.2@b9f01b8 by renovate (#25457) • [`1cbb5cb`](https://github.com/truecharts/charts/commit/1cbb5cb69690d0540d84b63c42dd4a28a27c3587) • [@TrueCharts Bot] (2024-08-23)
+
 ## 6.3.0 • [Train: stable]
 
 - chore(deps): update container image feramance/qbitrr to v4.9.0@de4301b by renovate (#25446) • [`0335822`](https://github.com/truecharts/charts/commit/033582226a73d446d5bc2550cd4dc10b19341aae) • [@TrueCharts Bot] (2024-08-23)
