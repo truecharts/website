@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.1.9 • [Train: stable]
+
+- chore(deps): update container image mikeah/prusaslicer-novnc to latest@310609e by renovate (#25432) • [`4d6bc8a`](https://github.com/truecharts/charts/commit/4d6bc8af4047a863edc9b527b442cffa47079c0b) • [@TrueCharts Bot] (2024-08-23)
+
 ## 10.1.8 • [Train: stable]
 
 - chore(deps): update container image mikeah/prusaslicer-novnc to latest@ce7a155 by renovate (#25193) • [`bc85089`](https://github.com/truecharts/charts/commit/bc85089f279ebb5cf075ed3e65aac74569cc8cf5) • [@TrueCharts Bot] (2024-08-16)
