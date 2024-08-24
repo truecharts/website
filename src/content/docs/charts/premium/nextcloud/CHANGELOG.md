@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 31.4.14 • [Train: premium]
 
+- Commit daily changes • [`f53ed2a`](https://github.com/truecharts/charts/commit/f53ed2a8b2c87cec9813c71e1201484d3a85bd70) • [@TrueCharts-Bot] (2024-08-24)
 - fix(nextcloud): fix nil reference (#25447) • [`064c008`](https://github.com/truecharts/charts/commit/064c008a21aefac380261c9c5cde6b7d64982e48) • [@Stavros Kois] (2024-08-23)
 
 ## 31.4.13 • [Train: premium]
