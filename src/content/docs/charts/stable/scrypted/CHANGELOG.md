@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.13.15 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25491) • [`c44e23b`](https://github.com/truecharts/charts/commit/c44e23b4e8696b41153c0ec080f96901bd72aeaf) • [@TrueCharts Bot] (2024-08-25)
+
 ## 6.13.14 • [Train: stable]
 
 - chore(deps): update container image koush/scrypted to v0.115.36 by renovate (#25504) • [`25bf97c`](https://github.com/truecharts/charts/commit/25bf97cdbe3202d80d12c8f4f9a6223bc27cf212) • [@TrueCharts Bot] (2024-08-25)
