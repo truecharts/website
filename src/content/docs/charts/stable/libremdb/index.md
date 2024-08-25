@@ -2,7 +2,7 @@
 title: libremdb
 ---
 
-![Version: 9.2.91](https://img.shields.io/badge/Version-9.2.91-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 9.2.92](https://img.shields.io/badge/Version-9.2.92-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 A free & open source IMDb front-end.
 
