@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.0.0 • [Train: incubator]
+
+- chore(deps): update container image stonith404/pingvin-share to v1.0.1@5787de0 by renovate (#25516) • [`5c89671`](https://github.com/truecharts/charts/commit/5c89671721dceb9d19f86b01bb65c7242245cf09) • [@TrueCharts Bot] (2024-08-26)
+
 ## 1.4.1 • [Train: incubator]
 
 - chore(deps): update container image stonith404/pingvin-share to v0.29.0@ea0c6bc by renovate (#24606) • [`b3685f8`](https://github.com/truecharts/charts/commit/b3685f8f7c8a223d356d6e611d68f93a4436b68b) • [@TrueCharts Bot] (2024-07-31)

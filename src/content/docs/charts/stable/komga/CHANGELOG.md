@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 15.1.5 • [Train: stable]
+
+- chore(deps): update container image gotson/komga to v1.11.3@dda1dbd by renovate (#25532) • [`730d85c`](https://github.com/truecharts/charts/commit/730d85c4091b84cd2e8bf769542a6a42ff958225) • [@TrueCharts Bot] (2024-08-26)
+
 ## 15.1.4 • [Train: stable]
 
 - chore(deps): update container image gotson/komga to v1.11.2@4724a28 by renovate (#24272) • [`3902d63`](https://github.com/truecharts/charts/commit/3902d6388234c507fb7dcd4cb37fd83f3b1d2bcb) • [@TrueCharts Bot] (2024-07-25)
