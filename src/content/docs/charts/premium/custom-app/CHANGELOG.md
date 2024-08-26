@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 14.1.4 • [Train: premium]
+
+- chore(deps): update container image traefik/whoami to v1.10.3@43a68d1 by renovate (#25401) • [`ea3aaeb`](https://github.com/truecharts/charts/commit/ea3aaeb1c824cf15d4e1fb9ee994f23e56e1c0e4) • [@TrueCharts Bot] (2024-08-26)
+
 ## 14.1.3 • [Train: premium]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
