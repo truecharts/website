@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.5 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/jens-maus/raspberrymatic to latest@88c91a9 by renovate (#25534) • [`bad0160`](https://github.com/truecharts/charts/commit/bad01600dffc28cca0fa2b8efb9faf409b11001e) • [@TrueCharts Bot] (2024-08-26)
+
 ## 7.1.4 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/jens-maus/raspberrymatic to latest@247a3ee by renovate (#23988) • [`7660816`](https://github.com/truecharts/charts/commit/76608164f3099a705cf122a1fe96ec2620b7657a) • [@TrueCharts Bot] (2024-07-24)
