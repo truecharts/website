@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.2.0 • [Train: stable]
+
+- chore(deps): update container image clamav/clamav to v1.4.0@8b9ca14 by renovate (#25186) • [`414d6e5`](https://github.com/truecharts/charts/commit/414d6e55676b087914ba6d1087f134c73cd5055a) • [@TrueCharts Bot] (2024-08-26)
+
 ## 12.1.6 • [Train: stable]
 
 - chore(deps): update container image clamav/clamav to 1.3.1@15bc89f by renovate (#23938) • [`42a1fa2`](https://github.com/truecharts/charts/commit/42a1fa2d8142d3d99870e1c9a186064957ea08a2) • [@TrueCharts Bot] (2024-07-24)
