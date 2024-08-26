@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 21.1.4 • [Train: stable]
+
+- chore(deps): update container image ixsystems/truecommand to v3.0.2@d2d90dd by renovate (#25102) • [`06bb467`](https://github.com/truecharts/charts/commit/06bb467fc7aa922bbe2d3c4579a824b6f8f45fde) • [@TrueCharts Bot] (2024-08-26)
+
 ## 21.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
