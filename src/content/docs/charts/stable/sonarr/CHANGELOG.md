@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 23.1.6 • [Train: stable]
+
+- fix(prowlarr): Change prowlarr exportarr pod into a sidecar container (#25111) • [`a9bc884`](https://github.com/truecharts/charts/commit/a9bc88418bdbb5c9870c47eaef0322770097fc31) • [@Felix von Arx] (2024-08-26)
+
 ## 23.1.5 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/onedr0p/sonarr to v4.0.9.2244@0965059 by renovate (#25531) • [`fbb286b`](https://github.com/truecharts/charts/commit/fbb286bd9773d2de9350267788be82945b7a931d) • [@TrueCharts Bot] (2024-08-26)

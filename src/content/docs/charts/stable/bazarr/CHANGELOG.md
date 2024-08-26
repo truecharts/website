@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 21.1.4 • [Train: stable]
+
+- fix(prowlarr): Change prowlarr exportarr pod into a sidecar container (#25111) • [`a9bc884`](https://github.com/truecharts/charts/commit/a9bc88418bdbb5c9870c47eaef0322770097fc31) • [@Felix von Arx] (2024-08-26)
+
 ## 21.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
