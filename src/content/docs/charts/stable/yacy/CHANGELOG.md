@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.7 • [Train: stable]
+
+- chore(deps): update container image yacy/yacy_search_server to latest@3cba1df by renovate (#25552) • [`dba9764`](https://github.com/truecharts/charts/commit/dba97644a62111568e06c6bd35307c03de59b01f) • [@TrueCharts Bot] (2024-08-27)
+
 ## 7.1.6 • [Train: stable]
 
 - chore(deps): update container image yacy/yacy_search_server to latest@ea07f6e by renovate (#24236) • [`f6ebe3e`](https://github.com/truecharts/charts/commit/f6ebe3e25f44dd34caa53a8100d29f5f7c3ffb3f) • [@TrueCharts Bot] (2024-07-24)

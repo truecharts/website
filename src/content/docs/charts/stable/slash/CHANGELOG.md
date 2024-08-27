@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.1.18 • [Train: stable]
+
+- chore(deps): update container image yourselfhosted/slash to 1.0.0@c25b6d4 by renovate (#25553) • [`57922aa`](https://github.com/truecharts/charts/commit/57922aa632e4b64518a8c87f35c6720e777beb66) • [@TrueCharts Bot] (2024-08-27)
+
 ## 6.1.17 • [Train: stable]
 
 - chore(deps): update container image yourselfhosted/slash to 1.0.0@8730811 by renovate (#25454) • [`eefb647`](https://github.com/truecharts/charts/commit/eefb6472a0607eb6834977e4fa84d387da4e7b62) • [@TrueCharts Bot] (2024-08-23)

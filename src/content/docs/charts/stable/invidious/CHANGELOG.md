@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.1.4 • [Train: stable]
+
+- chore(deps): update container image quay.io/invidious/invidious to latest@8ea514c by renovate (#25549) • [`38a32fd`](https://github.com/truecharts/charts/commit/38a32fd73c21d227ac519c8b31a1f56bacb39bc9) • [@TrueCharts Bot] (2024-08-27)
+
 ## 11.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
