@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 19.13.1 • [Train: premium]
 
+- chore(deps): update container image bitnami/prometheus to v2.54.1@2aab5cd by renovate (#25587) • [`c5225ab`](https://github.com/truecharts/charts/commit/c5225ab33a7b22db120d348b07490bba74da53e1) • [@TrueCharts Bot] (2024-08-27)
 - chore(deps): update container image bitnami/alertmanager to 0.27.0@57a0900 by renovate (#25579) • [`eaa2161`](https://github.com/truecharts/charts/commit/eaa216138b314e63043d9867140fdb43269b64c2) • [@TrueCharts Bot] (2024-08-27)
 
 ## 19.13.0 • [Train: premium]

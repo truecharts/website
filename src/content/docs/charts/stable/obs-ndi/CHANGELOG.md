@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.1.4 • [Train: stable]
+
+- chore(deps): update container image patrickstigler/obs-ndi to latest@b29e0e5 by renovate (#25584) • [`8e0b33b`](https://github.com/truecharts/charts/commit/8e0b33bb04cd57fd0d678478c46930d416b6f794) • [@TrueCharts Bot] (2024-08-27)
+
 ## 8.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
