@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 22.5.0 • [Train: stable]
+
+- chore(deps): update container image mariadb to v15.3.0@6e0c361 by renovate (#25574) • [`e7d29f4`](https://github.com/truecharts/charts/commit/e7d29f43ebb7d16425c27e96ba3969a1c6f6626c) • [@TrueCharts Bot] (2024-08-27)
+
 ## 22.4.3 • [Train: stable]
 
 - chore(deps): update container image anonaddy/anonaddy to v1.2.3@21164e3 by renovate (#25523) • [`26a8a2e`](https://github.com/truecharts/charts/commit/26a8a2e3684239b48d6900e61a67faae9472840c) • [@TrueCharts Bot] (2024-08-26)
