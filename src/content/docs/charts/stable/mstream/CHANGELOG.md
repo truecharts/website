@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.1.11 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/mstream to 5.12.2@7b75e4a by renovate (#25609) • [`f848108`](https://github.com/truecharts/charts/commit/f848108addb5201c5f7a9c9e801b552105397109) • [@TrueCharts Bot] (2024-08-28)
+
 ## 12.1.10 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/mstream to 5.12.2@4d02b96 by renovate (#25311) • [`f57880e`](https://github.com/truecharts/charts/commit/f57880e5060a0572d62e467c4a5c9d84d247c6b1) • [@TrueCharts Bot] (2024-08-21)
