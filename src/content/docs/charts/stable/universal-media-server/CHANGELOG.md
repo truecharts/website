@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.6 • [Train: stable]
+
+- chore(deps): update container image universalmediaserver/ums to latest@e4ec42f by renovate (#25595) • [`9ce5fd2`](https://github.com/truecharts/charts/commit/9ce5fd27544794b72241f8f26ebb8cbe038fb8cf) • [@TrueCharts Bot] (2024-08-28)
+
 ## 7.1.5 • [Train: stable]
 
 - chore(deps): update container image universalmediaserver/ums to latest@b476295 by renovate (#24997) • [`0bef34a`](https://github.com/truecharts/charts/commit/0bef34a4a912784063adb8a4004fbfdc7092672f) • [@TrueCharts Bot] (2024-08-11)
