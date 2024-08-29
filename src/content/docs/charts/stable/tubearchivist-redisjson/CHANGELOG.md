@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.6 • [Train: stable]
+
+- chore(deps): update container image redislabs/rejson to latest@14193cb by renovate (#25647) • [`e97922b`](https://github.com/truecharts/charts/commit/e97922be5a8327eb2507e77b6e4a23dbcbd06c76) • [@TrueCharts Bot] (2024-08-29)
+
 ## 7.1.5 • [Train: stable]
 
 - chore(deps): update container image redislabs/rejson to latest@3eeb305 by renovate (#25586) • [`e58c04b`](https://github.com/truecharts/charts/commit/e58c04b4fbcb667bf810fc13f6f93e9e1fb5e43d) • [@TrueCharts Bot] (2024-08-27)
