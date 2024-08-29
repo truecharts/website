@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.1.6 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/kiwix/kiwix-serve to 3.7.0@c3369ab by renovate (#25642) • [`244d0c1`](https://github.com/truecharts/charts/commit/244d0c11b53dfae5f9de1ef84af48f06edfdebfe) • [@TrueCharts Bot] (2024-08-29)
+
 ## 10.1.5 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/kiwix/kiwix-serve to 3.7.0@91ac4d6 by renovate (#25626) • [`282d37e`](https://github.com/truecharts/charts/commit/282d37eab3209b70b9cc3482a27e154ce6fd3c1b) • [@TrueCharts Bot] (2024-08-29)
