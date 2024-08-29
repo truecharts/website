@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 15.6.2 • [Train: stable]
+
+- chore(deps): update container image nocodb/nocodb to v0.255.2@f9667fd by renovate (#25662) • [`3b67084`](https://github.com/truecharts/charts/commit/3b67084f691751885139a8c3ce4515785da2d54d) • [@TrueCharts Bot] (2024-08-29)
+
 ## 15.6.1 • [Train: stable]
 
 - chore(deps): update container image nocodb/nocodb to v0.255.1@161d9a1 by renovate (#25649) • [`d1bd298`](https://github.com/truecharts/charts/commit/d1bd29839ba0eae6cfce1eddfdb2a015ff73f1c5) • [@TrueCharts Bot] (2024-08-29)
