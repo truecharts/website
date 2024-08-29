@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.1.4 • [Train: stable]
+
+- chore(deps): update container image jupyter/minimal-notebook to 2023-10-20@1c4c8b6 by renovate (#25637) • [`4acc634`](https://github.com/truecharts/charts/commit/4acc6340ed5b3b8de65ecc193f22e5277c2ea35c) • [@TrueCharts Bot] (2024-08-29)
+
 ## 10.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
