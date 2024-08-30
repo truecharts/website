@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 17.3.1 • [Train: premium]
+
+- chore(deps): update container image quay.io/kiwigrid/k8s-sidecar to v1.27.6@db85bd5 by renovate (#25681) • [`20ac0e9`](https://github.com/truecharts/charts/commit/20ac0e9af4c153c5d9f522a88f1a7eced6dfffdf) • [@TrueCharts Bot] (2024-08-30)
+
 ## 17.3.0 • [Train: premium]
 
 - chore(deps): update container image grafana/grafana to v11.2.0@408afb9 by renovate (#25590) • [`b0c41dc`](https://github.com/truecharts/charts/commit/b0c41dc8866e4431323eecfb6b9dbb32e921d84c) • [@TrueCharts Bot] (2024-08-28)
