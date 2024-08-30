@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.2.4 • [Train: stable]
+
+- chore(deps): update container image sissbruecker/linkding to v1.31.1@b1c13af by renovate (#25691) • [`e8f4326`](https://github.com/truecharts/charts/commit/e8f4326f621bca2becd0d372b3a374726d2e3d89) • [@TrueCharts Bot] (2024-08-30)
+
 ## 11.2.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
