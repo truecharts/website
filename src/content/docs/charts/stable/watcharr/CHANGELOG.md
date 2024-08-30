@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.5.0 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/sbondco/watcharr to v1.43.0@fe0735d by renovate (#25674) • [`97219ac`](https://github.com/truecharts/charts/commit/97219acc1aee0163c0b6af1e9cf065e6ebcd412d) • [@TrueCharts Bot] (2024-08-30)
+
 ## 6.4.0 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/sbondco/watcharr to v1.42.0@cfb51f5 by renovate (#25526) • [`00865fe`](https://github.com/truecharts/charts/commit/00865fea1b7638353141461d59119a2ea8f4f468) • [@TrueCharts Bot] (2024-08-26)
