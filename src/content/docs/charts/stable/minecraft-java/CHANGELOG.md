@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.0.1 • [Train: stable]
+
+- fix(minecraft-java): fix container mistake • [`5d70d8e`](https://github.com/truecharts/charts/commit/5d70d8e523ec031050f519267517479018f75c76) • [@Kjeld Schouten] (2024-08-31)
+
 ## 11.0.0 • [Train: stable]
 
 - feat(minecraft-java): move mc-backup to sidecar container and restructure config options • [`1a09e6b`](https://github.com/truecharts/charts/commit/1a09e6bffd0ed6257d6e390100409770aa6bd117) • [@Kjeld Schouten] (2024-08-31)
