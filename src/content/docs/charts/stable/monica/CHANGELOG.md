@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 14.4.3 • [Train: stable]
+
+- chore(deps): update container image monica to 4.1.2@6ec1983 by renovate (#25732) • [`f3ebde7`](https://github.com/truecharts/charts/commit/f3ebde7dff524bf2e420b52746041411df9fbd35) • [@TrueCharts Bot] (2024-08-31)
+
 ## 14.4.2 • [Train: stable]
 
 - chore(deps): update container image monica to 4.1.2@801f3f7 by renovate (#25718) • [`dff9f0e`](https://github.com/truecharts/charts/commit/dff9f0e03a9cde3a4b3bdf7597c3dd72ef6b90e8) • [@TrueCharts Bot] (2024-08-31)
