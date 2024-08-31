@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 16.0.0 • [Train: stable]
+
+- fix(vikunja) Update vikunja to last version (#25614) • [`26c370a`](https://github.com/truecharts/charts/commit/26c370a93f39bcd3ae9bff15cf44a84fff387014) • [@yodatak] (2024-08-31)
+
 ## 15.2.8 • [Train: stable]
 
 - chore(deps): update container image nginx to v1.27.1@1540e37 by renovate (#25185) • [`3dfef2e`](https://github.com/truecharts/charts/commit/3dfef2e4e512b3e5556931674a1fb3629ab9f913) • [@TrueCharts Bot] (2024-08-16)

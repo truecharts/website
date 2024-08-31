@@ -2,16 +2,14 @@
 title: vikunja
 ---
 
-![Version: 15.2.8](https://img.shields.io/badge/Version-15.2.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.22.1](https://img.shields.io/badge/AppVersion-0.22.1-informational?style=flat-square)
+![Version: 16.0.0](https://img.shields.io/badge/Version-16.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.24.2](https://img.shields.io/badge/AppVersion-0.24.2-informational?style=flat-square)
 
 The to-do app to organize your life.
 
 ## Chart Sources
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/vikunja
-- https://hub.docker.com/_/nginx
-- https://hub.docker.com/r/vikunja/api
-- https://hub.docker.com/r/vikunja/frontend
+- https://hub.docker.com/r/vikunja/vikunja
 - https://vikunja.io/docs
 
 ## Available Documentation
