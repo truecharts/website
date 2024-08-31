@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.0.0 • [Train: stable]
+
+- feat(van-dam): van-dam deprecated (#25756) • [`445e763`](https://github.com/truecharts/charts/commit/445e7635cdb350811f0d52fcb1812bf149d544c8) • [@kqmaverick] (2024-08-31)
+
 ## 6.2.1 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
