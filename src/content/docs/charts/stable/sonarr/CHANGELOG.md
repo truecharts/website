@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 23.1.8 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/onedr0p/sonarr to 4.0.9.2244@411bce3 by renovate (#25747) • [`8b6d991`](https://github.com/truecharts/charts/commit/8b6d991130e182e42c0e05be34ff1222798f5a1a) • [@TrueCharts Bot] (2024-08-31)
+
 ## 23.1.7 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/onedr0p/sonarr to 4.0.9.2244@c89b8f7 by renovate (#25705) • [`947ede2`](https://github.com/truecharts/charts/commit/947ede21bdc6f5d999461008ad614370f3c3bf27) • [@TrueCharts Bot] (2024-08-31)

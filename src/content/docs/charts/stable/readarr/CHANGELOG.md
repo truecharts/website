@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 23.1.7 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/onedr0p/readarr-develop to 0.3.32.2587@1ffa635 by renovate (#25745) • [`3d4fc5b`](https://github.com/truecharts/charts/commit/3d4fc5be7e9ffaa33fe57e768c9b0bace7e15fb9) • [@TrueCharts Bot] (2024-08-31)
+
 ## 23.1.6 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/onedr0p/readarr-develop to 0.3.32.2587@9f6f62f by renovate (#25703) • [`664905a`](https://github.com/truecharts/charts/commit/664905ac1d6d89c6d0cd00f3bd564a4f184edc48) • [@TrueCharts Bot] (2024-08-31)
