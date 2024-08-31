@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 16.0.1 • [Train: stable]
+
+- fix • [`a0d50fe`](https://github.com/truecharts/charts/commit/a0d50fedae3ffe06a3433f6aa4dbdbc018fcf0f7) • [@Stavros Kois] (2024-08-31)
+
 ## 16.0.0 • [Train: stable]
 
 - fix(vikunja) Update vikunja to last version (#25614) • [`26c370a`](https://github.com/truecharts/charts/commit/26c370a93f39bcd3ae9bff15cf44a84fff387014) • [@yodatak] (2024-08-31)
