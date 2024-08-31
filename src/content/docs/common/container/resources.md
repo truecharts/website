@@ -234,7 +234,7 @@ workload:
         container-name:
           resources:
             limits:
-              intel.com/i915: 1
+              gpu.intel.com/i915: 1
 ```
 
 ---

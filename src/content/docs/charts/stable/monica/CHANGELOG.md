@@ -11,6 +11,18 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 14.4.3 • [Train: stable]
+
+- chore(deps): update container image monica to 4.1.2@6ec1983 by renovate (#25732) • [`f3ebde7`](https://github.com/truecharts/charts/commit/f3ebde7dff524bf2e420b52746041411df9fbd35) • [@TrueCharts Bot] (2024-08-31)
+
+## 14.4.2 • [Train: stable]
+
+- chore(deps): update container image monica to 4.1.2@801f3f7 by renovate (#25718) • [`dff9f0e`](https://github.com/truecharts/charts/commit/dff9f0e03a9cde3a4b3bdf7597c3dd72ef6b90e8) • [@TrueCharts Bot] (2024-08-31)
+
+## 14.4.1 • [Train: stable]
+
+- chore(deps): update container image monica to 4.1.2@4de63b1 by renovate (#25707) • [`b6df1c3`](https://github.com/truecharts/charts/commit/b6df1c3e41799eaabdd32e6872236c1f0bb996f1) • [@TrueCharts Bot] (2024-08-31)
+
 ## 14.4.0 • [Train: stable]
 
 - chore(deps): update container image mariadb to v15.3.0@6e0c361 by renovate (#25574) • [`e7d29f4`](https://github.com/truecharts/charts/commit/e7d29f43ebb7d16425c27e96ba3969a1c6f6626c) • [@TrueCharts Bot] (2024-08-27)

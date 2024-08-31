@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 19.1.8 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/onedr0p/plex to 1.40.5.8921-836b34c27@1a37af8 by renovate (#25699) • [`c4cf810`](https://github.com/truecharts/charts/commit/c4cf810758aa04d30945f163173a95ef718dee7f) • [@TrueCharts Bot] (2024-08-31)
+
 ## 19.1.7 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/onedr0p/plex to v1.40.5.8921-836b34c27@1546365 by renovate (#25622) • [`60093dc`](https://github.com/truecharts/charts/commit/60093dc7e33d6bc6a6a5e447a3e6d71f22ee809f) • [@TrueCharts Bot] (2024-08-28)

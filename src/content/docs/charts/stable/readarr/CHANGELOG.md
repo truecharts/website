@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 23.1.6 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/onedr0p/readarr-develop to 0.3.32.2587@9f6f62f by renovate (#25703) • [`664905a`](https://github.com/truecharts/charts/commit/664905ac1d6d89c6d0cd00f3bd564a4f184edc48) • [@TrueCharts Bot] (2024-08-31)
+
 ## 23.1.5 • [Train: stable]
 
 - fix(prowlarr): Change prowlarr exportarr pod into a sidecar container (#25111) • [`a9bc884`](https://github.com/truecharts/charts/commit/a9bc88418bdbb5c9870c47eaef0322770097fc31) • [@Felix von Arx] (2024-08-26)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 23.2.4 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/onedr0p/lidarr-develop to 2.5.2.4316@1c480ea by renovate (#25698) • [`6996a9f`](https://github.com/truecharts/charts/commit/6996a9f3d31067e358b274f75b38a36f514190dd) • [@TrueCharts Bot] (2024-08-31)
+
 ## 23.2.3 • [Train: stable]
 
 - fix(prowlarr): Change prowlarr exportarr pod into a sidecar container (#25111) • [`a9bc884`](https://github.com/truecharts/charts/commit/a9bc88418bdbb5c9870c47eaef0322770097fc31) • [@Felix von Arx] (2024-08-26)

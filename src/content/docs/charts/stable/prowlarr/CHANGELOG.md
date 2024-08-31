@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 18.3.3 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/onedr0p/prowlarr-develop to 1.21.2.4649@122ee7c by renovate (#25700) • [`3230a21`](https://github.com/truecharts/charts/commit/3230a21a572f51fd4b662b67e2bcee2ea6fb6f2e) • [@TrueCharts Bot] (2024-08-31)
+
 ## 18.3.2 • [Train: stable]
 
 - fix(prowlarr): Change prowlarr exportarr pod into a sidecar container (#25111) • [`a9bc884`](https://github.com/truecharts/charts/commit/a9bc88418bdbb5c9870c47eaef0322770097fc31) • [@Felix von Arx] (2024-08-26)
