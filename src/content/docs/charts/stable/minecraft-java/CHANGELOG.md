@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.0.0 • [Train: stable]
+
+- feat(minecraft-java): move mc-backup to sidecar container and restructure config options • [`1a09e6b`](https://github.com/truecharts/charts/commit/1a09e6bffd0ed6257d6e390100409770aa6bd117) • [@Kjeld Schouten] (2024-08-31)
+
 ## 10.1.9 • [Train: stable]
 
 - chore(deps): update container image itzg/mc-backup to latest@5ecd2cb by renovate (#25629) • [`f13dba8`](https://github.com/truecharts/charts/commit/f13dba86df41ae0203d9b8305d33e06dd4c0d8ba) • [@TrueCharts Bot] (2024-08-29)
