@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.0.2 • [Train: stable]
+
+- fix(minecraft-java): correct bugged mcbackup toggle • [`bdd9b21`](https://github.com/truecharts/charts/commit/bdd9b21097868b7e1da2fef0111d6c725d5fbb53) • [@Kjeld Schouten] (2024-08-31)
+
 ## 11.0.1 • [Train: stable]
 
 - fix(minecraft-java): fix container mistake • [`5d70d8e`](https://github.com/truecharts/charts/commit/5d70d8e523ec031050f519267517479018f75c76) • [@Kjeld Schouten] (2024-08-31)
