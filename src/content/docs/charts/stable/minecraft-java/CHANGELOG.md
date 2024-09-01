@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 11.0.2 • [Train: stable]
 
+- Commit daily changes • [`8ba5031`](https://github.com/truecharts/charts/commit/8ba5031d503e46e62f0f71bee77324ec579ee162) • [@TrueCharts-Bot] (2024-09-01)
 - fix(minecraft-java): correct bugged mcbackup toggle • [`bdd9b21`](https://github.com/truecharts/charts/commit/bdd9b21097868b7e1da2fef0111d6c725d5fbb53) • [@Kjeld Schouten] (2024-08-31)
 
 ## 11.0.1 • [Train: stable]
