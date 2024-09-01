@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 14.2.0 • [Train: stable]
+
+- chore(deps): update container image quay.io/hedgedoc/hedgedoc to v1.10.0@2fb4b8b by renovate (#25792) • [`d8769e6`](https://github.com/truecharts/charts/commit/d8769e6af9d61e691e684d2a57a97327aa71b3c6) • [@TrueCharts Bot] (2024-09-01)
+
 ## 14.1.9 • [Train: stable]
 
 - chore(deps): update container image quay.io/hedgedoc/hedgedoc to 1.9.9@095d267 by renovate (#25778) • [`99b3705`](https://github.com/truecharts/charts/commit/99b37050de285dc7880974feef415eec04d71a6d) • [@TrueCharts Bot] (2024-09-01)
