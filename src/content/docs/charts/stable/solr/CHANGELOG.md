@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.1.9 • [Train: stable]
+
+- chore(deps): update container image bitnami/solr to 9.6.1@fe93b1b by renovate (#25775) • [`c080c5e`](https://github.com/truecharts/charts/commit/c080c5e139b505930441b0bc0e9dbdc2bf4a3c9d) • [@TrueCharts Bot] (2024-09-01)
+
 ## 12.1.8 • [Train: stable]
 
 - chore(deps): update container image bitnami/solr to 9.6.1@c6449d2 by renovate (#25477) • [`ad84abf`](https://github.com/truecharts/charts/commit/ad84abf80570d242612ef9cd76120e02512bdd4d) • [@TrueCharts Bot] (2024-08-24)
