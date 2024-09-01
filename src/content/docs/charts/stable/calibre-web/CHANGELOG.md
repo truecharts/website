@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 20.1.17 • [Train: stable]
+
+- chore(deps): update container image linuxserver/calibre-web to version-0.6.23@095dc66 by renovate (#25770) • [`e2f2d16`](https://github.com/truecharts/charts/commit/e2f2d16b0244a3795d3e0d5f5b482c90227e09a6) • [@TrueCharts Bot] (2024-09-01)
+
 ## 20.1.16 • [Train: stable]
 
 - chore(deps): update container image linuxserver/calibre-web to version-0.6.23@bd3365c by renovate (#25538) • [`7f00b27`](https://github.com/truecharts/charts/commit/7f00b27052d4a1c8208d7ac1516a804b21a06aa8) • [@TrueCharts Bot] (2024-08-26)
