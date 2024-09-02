@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 14.1.8 • [Train: stable]
+
+- chore(deps): update container image bitnami/memcached to 1.6.29@34e0d87 by renovate (#25807) • [`cf60a3f`](https://github.com/truecharts/charts/commit/cf60a3f15191c6099bf6b4de964782dd62980e4e) • [@TrueCharts Bot] (2024-09-02)
+
 ## 14.1.7 • [Train: stable]
 
 - chore(deps): update container image bitnami/memcached to 1.6.29@b369662 by renovate (#25476) • [`1ad3e81`](https://github.com/truecharts/charts/commit/1ad3e8190f9125af8ad345c47023494074639079) • [@TrueCharts Bot] (2024-08-24)
