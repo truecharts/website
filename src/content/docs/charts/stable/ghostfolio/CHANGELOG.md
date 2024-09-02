@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.18.0 • [Train: stable]
+
+- chore(deps): update container image redis to v15.2.2@c6cdeaf by renovate (#24959) • [`9d444d2`](https://github.com/truecharts/charts/commit/9d444d2871216c9ca3b8b30de67897b09f779056) • [@TrueCharts Bot] (2024-09-02)
+
 ## 6.17.0 • [Train: stable]
 
 - chore(deps): update container image ghostfolio/ghostfolio to v2.105.0@855e1f9 by renovate (#25370) • [`cd75d81`](https://github.com/truecharts/charts/commit/cd75d81fa8b0c6f17bcb3d24c6a7f3966b02c407) • [@TrueCharts Bot] (2024-08-21)

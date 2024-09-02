@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 1.6.0 • [Train: incubator]
+
+- chore(deps): update container image redis to v15.2.2@c6cdeaf by renovate (#24959) • [`9d444d2`](https://github.com/truecharts/charts/commit/9d444d2871216c9ca3b8b30de67897b09f779056) • [@TrueCharts Bot] (2024-09-02)
+
 ## 1.5.0 • [Train: incubator]
 
 - chore(deps): update container image msdeluise/plant-it-server to v0.8.0@b05762c by renovate (#25578) • [`26e3e78`](https://github.com/truecharts/charts/commit/26e3e78aede71a048932dabb4cbe5a09c30939d4) • [@TrueCharts Bot] (2024-08-27)

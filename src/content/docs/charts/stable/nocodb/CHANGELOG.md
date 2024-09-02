@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 15.7.0 • [Train: stable]
+
+- chore(deps): update container image redis to v15.2.2@c6cdeaf by renovate (#24959) • [`9d444d2`](https://github.com/truecharts/charts/commit/9d444d2871216c9ca3b8b30de67897b09f779056) • [@TrueCharts Bot] (2024-09-02)
+
 ## 15.6.2 • [Train: stable]
 
 - chore(deps): update container image nocodb/nocodb to v0.255.2@f9667fd by renovate (#25662) • [`3b67084`](https://github.com/truecharts/charts/commit/3b67084f691751885139a8c3ce4515785da2d54d) • [@TrueCharts Bot] (2024-08-29)

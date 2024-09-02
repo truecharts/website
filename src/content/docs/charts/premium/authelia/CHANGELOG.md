@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 25.3.0 • [Train: premium]
+
+- chore(deps): update container image redis to v15.2.2@c6cdeaf by renovate (#24959) • [`9d444d2`](https://github.com/truecharts/charts/commit/9d444d2871216c9ca3b8b30de67897b09f779056) • [@TrueCharts Bot] (2024-09-02)
+
 ## 25.2.4 • [Train: premium]
 
 - Commit daily changes • [`50df313`](https://github.com/truecharts/charts/commit/50df3137182a8d79f6131b370ed86b2f3ee2c918) • [@TrueCharts-Bot] (2024-08-06)
