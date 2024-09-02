@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.1.4 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/ajnart/homarr to v0.15.4@c13f04c by renovate (#25798) • [`e41613c`](https://github.com/truecharts/charts/commit/e41613c4fb5231de0bd5042e2df55a7e0a962544) • [@TrueCharts Bot] (2024-09-02)
+
 ## 12.1.3 • [Train: stable]
 
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
