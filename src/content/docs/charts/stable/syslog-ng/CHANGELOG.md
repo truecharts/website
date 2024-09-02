@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.2.1 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
+
 ## 11.2.0 • [Train: stable]
 
 - chore(deps): update container image balabit/syslog-ng to v4.8.0@835dec2 by renovate (#24143) • [`02e0d00`](https://github.com/truecharts/charts/commit/02e0d002a16e5aa876719fdab6b5b6b358796b78) • [@TrueCharts Bot] (2024-07-24)

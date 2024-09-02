@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.2.2 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
+
 ## 11.2.1 • [Train: stable]
 
 - chore(deps): update container image docker.io/filebrowser/filebrowser to v2.31.1@b9b0dca by renovate (#25712) • [`b2b0d5b`](https://github.com/truecharts/charts/commit/b2b0d5b3d2ebacc37a72b1ae60a018db580beb3b) • [@TrueCharts Bot] (2024-08-31)

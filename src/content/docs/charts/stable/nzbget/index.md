@@ -2,7 +2,7 @@
 title: nzbget
 ---
 
-![Version: 23.1.3](https://img.shields.io/badge/Version-23.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 24.1.0](https://img.shields.io/badge/AppVersion-24.1.0-informational?style=flat-square)
+![Version: 23.1.4](https://img.shields.io/badge/Version-23.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 24.1.0](https://img.shields.io/badge/AppVersion-24.1.0-informational?style=flat-square)
 
 NZBGet is a Usenet downloader client
 

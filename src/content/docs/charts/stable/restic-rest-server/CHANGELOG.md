@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.2.1 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
+
 ## 7.2.0 • [Train: stable]
 
 - chore(deps): update container image restic/rest-server to v0.13.0@8668c23 by renovate (#24421) • [`014a1e9`](https://github.com/truecharts/charts/commit/014a1e9aab418991e4629f90860aa7c2c79bda89) • [@TrueCharts Bot] (2024-07-26)

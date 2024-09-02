@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.1.5 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
+
 ## 8.1.4 • [Train: stable]
 
 - chore(deps): update container image modem7/docker-rickroll to latest@ec27a90 by renovate (#25269) • [`c0915b0`](https://github.com/truecharts/charts/commit/c0915b085a5ed34590fa37a7092cbe59728d4f79) • [@TrueCharts Bot] (2024-08-18)

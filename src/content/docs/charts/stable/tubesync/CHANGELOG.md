@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.10 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
+
 ## 7.1.9 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/meeb/tubesync to latest@c723de8 by renovate (#25482) • [`20d7bbf`](https://github.com/truecharts/charts/commit/20d7bbf96458435db0bc4b01f8a8f9d806f0ae5a) • [@TrueCharts Bot] (2024-08-24)

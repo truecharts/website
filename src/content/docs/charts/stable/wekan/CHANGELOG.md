@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 16.12.1 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
+
 ## 16.12.0 • [Train: stable]
 
 - chore(deps): update container image wekanteam/wekan to v7.56@ef0717e by renovate (#25563) • [`5e9a979`](https://github.com/truecharts/charts/commit/5e9a97979e8d21c241ffb9548c2d119bec4bc566) • [@TrueCharts Bot] (2024-08-27)

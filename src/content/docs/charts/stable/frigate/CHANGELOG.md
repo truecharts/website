@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 16.2.1 • [Train: stable]
 
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
 - chore(deps): update container image ghcr.io/blakeblackshear/frigate to v0.14.1 by renovate (#25670) • [`994e00e`](https://github.com/truecharts/charts/commit/994e00e65581bf55c0ede8d2e844d18e1262e7a2) • [@TrueCharts Bot] (2024-08-30)
 
 ## 16.2.0 • [Train: stable]

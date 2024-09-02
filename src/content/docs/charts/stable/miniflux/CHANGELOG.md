@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 16.2.1 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
+
 ## 16.2.0 • [Train: stable]
 
 - chore(deps): update container image miniflux/miniflux to v2.2.0@6af8056 by renovate (#25287) • [`65af22e`](https://github.com/truecharts/charts/commit/65af22e9ce6c42a1ff545e9851ae7e0f6df283c4) • [@TrueCharts Bot] (2024-08-19)

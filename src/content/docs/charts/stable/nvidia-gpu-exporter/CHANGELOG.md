@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.1.5 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
+
 ## 4.1.4 • [Train: stable]
 
 - chore(deps): update container image utkuozdemir/nvidia_gpu_exporter to v1.2.1@50e9be9 by renovate (#24133) • [`e1811ca`](https://github.com/truecharts/charts/commit/e1811ca74c74224e59f437b54b8a5eb9d756564c) • [@TrueCharts Bot] (2024-07-24)

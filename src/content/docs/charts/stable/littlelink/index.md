@@ -2,7 +2,7 @@
 title: littlelink
 ---
 
-![Version: 15.1.14](https://img.shields.io/badge/Version-15.1.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 15.1.15](https://img.shields.io/badge/Version-15.1.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Easy platform to combine all your social links
 

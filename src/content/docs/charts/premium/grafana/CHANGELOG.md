@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 17.3.2 • [Train: premium]
+
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
+
 ## 17.3.1 • [Train: premium]
 
 - chore(deps): update container image quay.io/kiwigrid/k8s-sidecar to v1.27.6@db85bd5 by renovate (#25681) • [`20ac0e9`](https://github.com/truecharts/charts/commit/20ac0e9af4c153c5d9f522a88f1a7eced6dfffdf) • [@TrueCharts Bot] (2024-08-30)

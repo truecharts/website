@@ -2,7 +2,7 @@
 title: googlephotossync
 ---
 
-![Version: 8.1.4](https://img.shields.io/badge/Version-8.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.2.5](https://img.shields.io/badge/AppVersion-3.2.5-informational?style=flat-square)
+![Version: 8.1.5](https://img.shields.io/badge/Version-8.1.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.2.5](https://img.shields.io/badge/AppVersion-3.2.5-informational?style=flat-square)
 
 Google Photos Sync downloads your Google Photos to the local file system. It will backup all the photos the user uploaded to Google Photos, but also the album information and additional Google Photos 'Creations' (animations, panoramas, movies, effects and collages).
 

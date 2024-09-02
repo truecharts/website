@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.1.5 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
+
 ## 3.1.4 • [Train: stable]
 
 - chore(deps): update container image rhasspy/wyoming-openwakeword to 1.10.0@3165a5c by renovate (#24320) • [`d8429ca`](https://github.com/truecharts/charts/commit/d8429ca257d94a2e0be88ecefeb01ab0ebc92951) • [@TrueCharts Bot] (2024-07-25)

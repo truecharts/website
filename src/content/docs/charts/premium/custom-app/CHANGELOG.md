@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 14.1.4 • [Train: premium]
 
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
 - chore(deps): update container image traefik/whoami to v1.10.3@43a68d1 by renovate (#25401) • [`ea3aaeb`](https://github.com/truecharts/charts/commit/ea3aaeb1c824cf15d4e1fb9ee994f23e56e1c0e4) • [@TrueCharts Bot] (2024-08-26)
 
 ## 14.1.3 • [Train: premium]

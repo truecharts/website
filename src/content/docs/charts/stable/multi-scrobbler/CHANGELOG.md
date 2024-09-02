@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 8.1.6 • [Train: stable]
 
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
 - chore(deps): update container image foxxmd/multi-scrobbler to latest@c598fc6 by renovate (#25616) • [`a7bad51`](https://github.com/truecharts/charts/commit/a7bad51427dd2c1e530ae6456fc59a8f941ebaba) • [@TrueCharts Bot] (2024-08-28)
 
 ## 8.1.5 • [Train: stable]

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.1.5 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
+
 ## 4.1.4 • [Train: stable]
 
 - chore(deps): update container image prometheuscommunity/smartctl-exporter to v0.12.0@d49a659 by renovate (#24318) • [`aeb7461`](https://github.com/truecharts/charts/commit/aeb7461652159419acbbf93c68c30d20832e9faf) • [@TrueCharts Bot] (2024-07-25)

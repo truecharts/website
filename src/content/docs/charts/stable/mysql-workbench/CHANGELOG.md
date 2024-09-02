@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 11.1.11 • [Train: stable]
 
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
 - chore(deps): update container image ghcr.io/linuxserver/mysql-workbench to 8.0.38@20d1782 by renovate (#25728) • [`bb73c4f`](https://github.com/truecharts/charts/commit/bb73c4f0f73258be8bef81f243e0162fc31d5161) • [@TrueCharts Bot] (2024-08-31)
 
 ## 11.1.10 • [Train: stable]

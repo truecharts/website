@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 9.0.1 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
+
 ## 9.0.0 • [Train: stable]
 
 - chore(deps): update container image redislabs/redisinsight to v2.54.0@938c50c by renovate (#22667) • [`d0dae6b`](https://github.com/truecharts/charts/commit/d0dae6b84cfd6670ccb4150eb5ba5056eb306ee8) • [@TrueCharts Bot] (2024-08-31)

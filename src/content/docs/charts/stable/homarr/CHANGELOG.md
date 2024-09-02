@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 12.1.4 • [Train: stable]
 
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
 - chore(deps): update container image ghcr.io/ajnart/homarr to v0.15.4@c13f04c by renovate (#25798) • [`e41613c`](https://github.com/truecharts/charts/commit/e41613c4fb5231de0bd5042e2df55a7e0a962544) • [@TrueCharts Bot] (2024-09-02)
 
 ## 12.1.3 • [Train: stable]

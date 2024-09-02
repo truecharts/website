@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.1.5 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
+
 ## 11.1.4 • [Train: stable]
 
 - chore(deps): update container image docker.io/zerotier/zerotier to 1.14.0@7404ff5 by renovate (#24344) • [`c9c3e06`](https://github.com/truecharts/charts/commit/c9c3e06c846862fc24a3a690417973022d08ce3e) • [@TrueCharts Bot] (2024-07-26)

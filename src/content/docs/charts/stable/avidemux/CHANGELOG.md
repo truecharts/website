@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.2.1 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
+
 ## 11.2.0 • [Train: stable]
 
 - chore(deps): update container image jlesage/avidemux to v24.07.1@2b71bdb by renovate (#24186) • [`f003b1a`](https://github.com/truecharts/charts/commit/f003b1ac0dd0df492c38c926f8000b9069e5bd4f) • [@TrueCharts Bot] (2024-07-24)

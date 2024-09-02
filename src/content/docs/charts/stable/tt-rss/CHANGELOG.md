@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 18.1.28 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
+
 ## 18.1.27 • [Train: stable]
 
 - chore(deps): update container image cthulhoo/ttrss-web-nginx to latest@7101591 by renovate (#25727) • [`7242ea5`](https://github.com/truecharts/charts/commit/7242ea510209f083fc2d97c4a0d3f289b9930405) • [@TrueCharts Bot] (2024-08-31)

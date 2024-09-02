@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 21.4.1 • [Train: stable]
 
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
 - chore(deps): update container image esphome/esphome to v2024.8.1@1eb151c by renovate (#25603) • [`2631efb`](https://github.com/truecharts/charts/commit/2631efb9345bd4be83f19c3efb9a444340496eda) • [@TrueCharts Bot] (2024-08-28)
 
 ## 21.4.0 • [Train: stable]

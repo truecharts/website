@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.5 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
+
 ## 7.1.4 • [Train: stable]
 
 - chore(deps): update container image accetto/ubuntu-vnc-xfce-chromium-g3 to latest@135d8e8 by renovate (#25404) • [`0d75275`](https://github.com/truecharts/charts/commit/0d75275e38fa8a51c0f6c1981b3e3253760d67d2) • [@TrueCharts Bot] (2024-08-22)

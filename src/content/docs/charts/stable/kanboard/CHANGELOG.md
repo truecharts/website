@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 18.1.6 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
+
 ## 18.1.5 • [Train: stable]
 
 - chore(deps): update container image kanboard/kanboard to v1.2.39@28d547f by renovate (#25285) • [`25232b6`](https://github.com/truecharts/charts/commit/25232b63770c8cad00a0bcc5a6538f67172be8ac) • [@TrueCharts Bot] (2024-08-19)

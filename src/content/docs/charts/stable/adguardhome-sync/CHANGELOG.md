@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.1.5 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
+
 ## 8.1.4 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/bakito/adguardhome-sync to v0.6.12@a604e63 by renovate (#24083) • [`b5d8c51`](https://github.com/truecharts/charts/commit/b5d8c51fe398a3c61d4bce74a7718ac85d43fe2a) • [@TrueCharts Bot] (2024-07-24)

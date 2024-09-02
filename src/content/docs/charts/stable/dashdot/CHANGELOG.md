@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.1.6 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
+
 ## 10.1.5 • [Train: stable]
 
 - chore(deps): update container image mauricenino/dashdot to v5.8.6@53f3058 by renovate (#24610) • [`2348043`](https://github.com/truecharts/charts/commit/2348043a484df02fa738cd61ebce3dc57da02fb1) • [@TrueCharts Bot] (2024-07-31)

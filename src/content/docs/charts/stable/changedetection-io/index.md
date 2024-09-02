@@ -2,7 +2,7 @@
 title: changedetection-io
 ---
 
-![Version: 4.2.2](https://img.shields.io/badge/Version-4.2.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.46.03](https://img.shields.io/badge/AppVersion-0.46.03-informational?style=flat-square)
+![Version: 4.2.3](https://img.shields.io/badge/Version-4.2.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.46.03](https://img.shields.io/badge/AppVersion-0.46.03-informational?style=flat-square)
 
 The best and simplest free open source website change detection, website watcher, restock monitor and notification service
 

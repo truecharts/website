@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.1.5 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
+
 ## 8.1.4 • [Train: stable]
 
 - chore(deps): update container image epoupon/fileshelter to 6.2.0@4610b3a by renovate (#24346) • [`e6f0184`](https://github.com/truecharts/charts/commit/e6f0184a8d464cd271ced663fe74123f3662dff0) • [@TrueCharts Bot] (2024-07-26)

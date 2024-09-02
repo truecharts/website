@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 12.1.6 • [Train: stable]
 
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
 - chore(deps): update container image tinymediamanager/tinymediamanager to v5.0.10@3cdeb3b by renovate (#25606) • [`9bfa357`](https://github.com/truecharts/charts/commit/9bfa3575d9deba32223f00e9b3e90f8f3a6c5b2d) • [@TrueCharts Bot] (2024-08-28)
 
 ## 12.1.5 • [Train: stable]

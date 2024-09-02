@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.1.5 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
+
 ## 8.1.4 • [Train: stable]
 
 - chore(deps): update container image shaneisrael/fireshare to v1.2.20@dcc3db5 by renovate (#24362) • [`170f1c9`](https://github.com/truecharts/charts/commit/170f1c91d25119709996943a6db5d8af184c956f) • [@TrueCharts Bot] (2024-07-26)

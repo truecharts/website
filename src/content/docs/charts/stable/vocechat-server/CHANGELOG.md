@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.1.9 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
+
 ## 5.1.8 • [Train: stable]
 
 - chore(deps): update container image privoce/vocechat-server to v0.3.50@7349c9e by renovate (#24124) • [`4901697`](https://github.com/truecharts/charts/commit/49016974f434521bccbef279921574ef252079de) • [@TrueCharts Bot] (2024-07-24)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.1.5 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
+
 ## 5.1.4 • [Train: stable]
 
 - chore(deps): update container image answerdev/answer to 1.2.0@2e93c6a by renovate (#24293) • [`e86727f`](https://github.com/truecharts/charts/commit/e86727f9dcd9f781316d68d4937f1566a557581f) • [@TrueCharts Bot] (2024-07-25)

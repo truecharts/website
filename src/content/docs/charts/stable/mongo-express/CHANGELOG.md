@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.2.2 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
+
 ## 8.2.1 • [Train: stable]
 
 - chore(deps): update container image docker.io/mongo-express to latest@16ec177 by renovate (#22151) • [`edf9eed`](https://github.com/truecharts/charts/commit/edf9eede9e3f16966e6e76f50bc9c5520ea16da7) • [@TrueCharts Bot] (2024-07-24)

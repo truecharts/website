@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.5 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
+
 ## 7.1.4 • [Train: stable]
 
 - chore(deps): update container image xavierh/goaccess-for-nginxproxymanager to latest@fdc3dd5 by renovate (#24054) • [`48727f1`](https://github.com/truecharts/charts/commit/48727f169c667aa08d937c381bbc3ac3dbf725ab) • [@TrueCharts Bot] (2024-07-24)

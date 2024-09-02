@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.1.5 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
+
 ## 8.1.4 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/gilesknap/gphotos-sync to v3.2.5@bd89d19 by renovate (#24088) • [`b35f28b`](https://github.com/truecharts/charts/commit/b35f28b115d933099c3822cb5f3ce9f56f06ec8d) • [@TrueCharts Bot] (2024-07-24)
