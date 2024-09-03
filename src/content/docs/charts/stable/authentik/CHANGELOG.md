@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 27.6.0 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/goauthentik/server to v2024.8.0@c996ffd by renovate (#25870) • [`dfd4c3d`](https://github.com/truecharts/charts/commit/dfd4c3d4df23eb9520002994737c6d08bd5cb2a9) • [@TrueCharts Bot] (2024-09-03)
+
 ## 27.5.0 • [Train: stable]
 
 - chore(deps): update authentik to v2024.8.0@fe674fe by renovate (minor) (#25859) • [`1d185d5`](https://github.com/truecharts/charts/commit/1d185d59ff1f3a6a211c71cf5267803da16dd309) • [@TrueCharts Bot] (2024-09-03)
