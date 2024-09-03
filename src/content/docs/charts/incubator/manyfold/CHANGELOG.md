@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 0.2.0 • [Train: incubator]
+
+- chore(deps): update container image redis to v15.2.3@6bc33b8 by renovate (#25831) • [`7ab7d4c`](https://github.com/truecharts/charts/commit/7ab7d4c6c1d2ebbdd86201e57facd568bf489dc1) • [@TrueCharts Bot] (2024-09-03)
+
 ## 0.1.2 • [Train: incubator]
 
 - Commit daily changes • [`5f7c608`](https://github.com/truecharts/charts/commit/5f7c608042c44783d9a0864853f6e411d5c5d1b9) • [@TrueCharts-Bot] (2024-09-03)
