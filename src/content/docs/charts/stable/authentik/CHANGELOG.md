@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 27.5.0 • [Train: stable]
+
+- chore(deps): update authentik to v2024.8.0@fe674fe by renovate (minor) (#25859) • [`1d185d5`](https://github.com/truecharts/charts/commit/1d185d59ff1f3a6a211c71cf5267803da16dd309) • [@TrueCharts Bot] (2024-09-03)
+
 ## 27.4.1 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
