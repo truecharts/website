@@ -2,7 +2,7 @@
 title: syncthing
 ---
 
-![Version: 20.1.6](https://img.shields.io/badge/Version-20.1.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.27.10](https://img.shields.io/badge/AppVersion-1.27.10-informational?style=flat-square)
+![Version: 20.1.7](https://img.shields.io/badge/Version-20.1.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.27.11](https://img.shields.io/badge/AppVersion-1.27.11-informational?style=flat-square)
 
 P2P file synchronization application
 
