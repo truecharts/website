@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.1.11 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/ubooquity to 2.1.2@fa307d5 by renovate (#25873) • [`54c8102`](https://github.com/truecharts/charts/commit/54c810264bcd7a48ead4b69774307c492d869e4b) • [@TrueCharts Bot] (2024-09-04)
+
 ## 12.1.10 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
