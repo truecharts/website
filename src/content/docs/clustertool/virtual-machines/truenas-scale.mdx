@@ -3,7 +3,7 @@ title: Talos VM on TrueNAS SCALE
 sidebar:
   order: 2
 ---
-
+import { Steps } from "@astrojs/starlight/components";
 Below are the instructions for creating a Talos VM atop a TrueNAS SCALE host for use with TrueCharts.
 
 ## Creating a Network Bridge
@@ -12,29 +12,67 @@ A network bridge will be needed for running a VM inside of SCALE and to be able 
 
 :::caution[Network]
 
-Do not click `Test Changes` before you finish the whole guide
+We will be modifying the main network interface for your TrueNAS server. Do not click `Test Changes` before it is mentioned in the guide. If you click `Test Changes` before you do you will loose connectivity to the server.
 
 :::
 
-### Acquiring Interface Settings
+### Preparation
 
-import { Steps } from "@astrojs/starlight/components";
+#### Acquire Interface Settings
+Note down the interface IP Address and the Subnet mask of your currently used interface. 
+
+This can be found through the WebUI:
+
+![Network Overview UI ](./img/network_overview_ui.png)
+
+Or through the Console with option "1) Configure network interfaces":
+
+![Network Overview Console ](./img/network_overview_console.png)
+
+#### Make sure the TrueNAS Apps service is not using the IP for the node IP
+If the current node IP is the IP address the we retrieved in the previous preparation step you will not be able to remove the IP Address from the interface in the next steps.
+
+To resolve this add an IP address in another subnet to a interface and bind the apps service to that interface temporarily. When you do this the Apps service will crash if normal network behavior is not possible through the IP/interface.
+
+Once done you can reset the settings to the new bridge interface at which point the Apps service will restart.
+
+To change this using the TrueNAS web UI go to "Apps" -> "Settings" -> "Advanced Settings".
+
+![Kubernetes Settings ](./img/kubernetes_settings.png)
+
+Change:
 
 <Steps>
 
-  1.  Note down the interface IP Address and the Subnet mask of your currently used interface
+  1.  Node IP to the temporary IP (and back once done)
 
-  2.  Click on `Edit` on the currently used interface
+  2.  Route v4 Interface to the interface that IP is on (and back once done)
 
-  3.  Disable "DHCP" and remove all "Aliases" by clicking on the x next to them
+  3.  Route v4 Gateway to a address in the subnet for the temporary IP (and back once done)
 
-  4.  Create the Network Bridge as described in the following section
+</Steps>
+
+### Removing the Alias from the main interface
+
+<Steps>
+
+  1.  Click on `Edit` on the currently used interface
+
+  2.  Disable "DHCP" and remove all "Aliases" by clicking on the x next to them
 
 </Steps>
 
 The Network Interface should then look like this:
 
 ![Network Interface ](./img/network_interface.png)
+
+:::caution[Settings not applied]
+
+Make sure the network interface overview does not show the IP on the interface. If it does something went wrong. If you repeat this using the TrueNAS console it will give you a error message explaining what went wrong.
+
+This probably means the IP Address is bound to something within TrueNAS. See the "Preparation" section for guidance.
+
+:::
 
 ### Creating the Network Bridge
 
@@ -64,6 +102,14 @@ The Network Interface should then look like this:
 The bridge should now look similar to this one when done:
 
 ![Network Bridge ](./img/network_bridge.png)
+
+:::caution[Previous step failed]
+
+If TrueNAS gives an error that is cannot add the Address because the subnet is already in use this means the previous step "Removing the Alias from the main interface" failed.
+
+Go back to the "preparation" section and make sure the IP you are trying to move is not in use.
+
+:::
 
 ## Creating ZVOL storage for the VM
 
