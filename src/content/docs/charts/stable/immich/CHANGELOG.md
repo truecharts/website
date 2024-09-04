@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 17.8.3 • [Train: stable]
+
+- chore(deps): update container image redis to v15.2.4@64c06ec by renovate (#25916) • [`13eb8c1`](https://github.com/truecharts/charts/commit/13eb8c11f9e99aafe6ce82b649f8d600c76cffc1) • [@TrueCharts Bot] (2024-09-05)
+
 ## 17.8.2 • [Train: stable]
 
 - chore(deps): update immich to v1.113.1@37d7220 by renovate (patch) (#25868) • [`3143077`](https://github.com/truecharts/charts/commit/314307792ef6f7c1e728b240199c5bc035f410b0) • [@TrueCharts Bot] (2024-09-03)
