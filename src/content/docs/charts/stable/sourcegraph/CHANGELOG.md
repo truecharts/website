@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.4.1 • [Train: stable]
+
+- chore(deps): update container image sourcegraph/server to 5.7.0@7e7083d by renovate (#25949) • [`5be54d0`](https://github.com/truecharts/charts/commit/5be54d00deda1acecd9beb049902a2af97cdda3d) • [@TrueCharts Bot] (2024-09-05)
+
 ## 7.4.0 • [Train: stable]
 
 - chore(deps): update container image sourcegraph/server to v5.7.0@fc4d96d by renovate (#25936) • [`42daeff`](https://github.com/truecharts/charts/commit/42daeff35cbff3d86ee89a1ddec932c0f7a27e7b) • [@TrueCharts Bot] (2024-09-05)

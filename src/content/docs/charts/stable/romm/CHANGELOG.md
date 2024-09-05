@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.8.4 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/rommapp/romm to 3.5@d3a0cd1 by renovate (#25945) • [`2f5c172`](https://github.com/truecharts/charts/commit/2f5c17282714678c757fcf0ea1478a081628bf75) • [@TrueCharts Bot] (2024-09-05)
+
 ## 10.8.3 • [Train: stable]
 
 - chore(deps): update container image redis to v15.2.4@64c06ec by renovate (#25916) • [`13eb8c1`](https://github.com/truecharts/charts/commit/13eb8c11f9e99aafe6ce82b649f8d600c76cffc1) • [@TrueCharts Bot] (2024-09-05)
