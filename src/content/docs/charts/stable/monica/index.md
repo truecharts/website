@@ -2,7 +2,7 @@
 title: monica
 ---
 
-![Version: 14.4.7](https://img.shields.io/badge/Version-14.4.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.1.2](https://img.shields.io/badge/AppVersion-4.1.2-informational?style=flat-square)
+![Version: 14.4.8](https://img.shields.io/badge/Version-14.4.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.1.2](https://img.shields.io/badge/AppVersion-4.1.2-informational?style=flat-square)
 
 Monica is a great open source personal relationship management system.
 
