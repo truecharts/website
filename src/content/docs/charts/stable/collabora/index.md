@@ -2,7 +2,7 @@
 title: collabora
 ---
 
-![Version: 7.1.6](https://img.shields.io/badge/Version-7.1.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 24.04.6.2.1](https://img.shields.io/badge/AppVersion-24.04.6.2.1-informational?style=flat-square)
+![Version: 7.1.7](https://img.shields.io/badge/Version-7.1.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 24.04.7.1.2](https://img.shields.io/badge/AppVersion-24.04.7.1.2-informational?style=flat-square)
 
 An awesome, Online Office suite image suitable for home use.
 
