@@ -2,7 +2,7 @@
 title: nextcloud
 ---
 
-![Version: 31.5.2](https://img.shields.io/badge/Version-31.5.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 29.0.6](https://img.shields.io/badge/AppVersion-29.0.6-informational?style=flat-square)
+![Version: 31.5.3](https://img.shields.io/badge/Version-31.5.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 29.0.6](https://img.shields.io/badge/AppVersion-29.0.6-informational?style=flat-square)
 
 A private cloud server that puts the control and security of your own data back into your hands.
 
