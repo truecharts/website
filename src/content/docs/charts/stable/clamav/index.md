@@ -2,7 +2,7 @@
 title: clamav
 ---
 
-![Version: 12.2.0](https://img.shields.io/badge/Version-12.2.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.4.0](https://img.shields.io/badge/AppVersion-1.4.0-informational?style=flat-square)
+![Version: 12.2.1](https://img.shields.io/badge/Version-12.2.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.4.1](https://img.shields.io/badge/AppVersion-1.4.1-informational?style=flat-square)
 
 ClamAV is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
 
