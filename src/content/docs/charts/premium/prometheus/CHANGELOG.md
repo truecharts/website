@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 19.14.0 • [Train: premium]
+
+- chore(deps): update container image kube-prometheus-stack to v62.4.0@6a5e19f by renovate (#25935) • [`b1d30af`](https://github.com/truecharts/charts/commit/b1d30af668d37578ca1483c41828d6437b010435) • [@TrueCharts Bot] (2024-09-05)
+
 ## 19.13.7 • [Train: premium]
 
 - chore(deps): update container image bitnami/prometheus to 2.54.1@7116816 by renovate (#25923) • [`f828800`](https://github.com/truecharts/charts/commit/f828800cd616a9e15ac81fe29b4a4df40f26fab6) • [@TrueCharts Bot] (2024-09-05)
