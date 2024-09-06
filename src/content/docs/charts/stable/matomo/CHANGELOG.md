@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 15.5.6 • [Train: stable]
+
+- chore(deps): update container image mariadb to v15.3.3@a261ec5 by renovate (#25983) • [`930d95f`](https://github.com/truecharts/charts/commit/930d95f01b3f85cd2de93aea7d2a35d00d954299) • [@TrueCharts Bot] (2024-09-07)
+
 ## 15.5.5 • [Train: stable]
 
 - chore(deps): update container image bitnami/matomo to 5.1.1@61abb24 by renovate (#25955) • [`3988dc6`](https://github.com/truecharts/charts/commit/3988dc6e048807b86dfb973d653f2e9ac9ad638d) • [@TrueCharts Bot] (2024-09-05)

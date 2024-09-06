@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.5.4 • [Train: stable]
+
+- chore(deps): update container image mariadb to v15.3.3@a261ec5 by renovate (#25983) • [`930d95f`](https://github.com/truecharts/charts/commit/930d95f01b3f85cd2de93aea7d2a35d00d954299) • [@TrueCharts Bot] (2024-09-07)
+
 ## 6.5.3 • [Train: stable]
 
 - chore(deps): update container image redis to v15.2.4@64c06ec by renovate (#25916) • [`13eb8c1`](https://github.com/truecharts/charts/commit/13eb8c11f9e99aafe6ce82b649f8d600c76cffc1) • [@TrueCharts Bot] (2024-09-05)

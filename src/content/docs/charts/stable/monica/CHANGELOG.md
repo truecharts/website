@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 14.4.9 • [Train: stable]
+
+- chore(deps): update container image mariadb to v15.3.3@a261ec5 by renovate (#25983) • [`930d95f`](https://github.com/truecharts/charts/commit/930d95f01b3f85cd2de93aea7d2a35d00d954299) • [@TrueCharts Bot] (2024-09-07)
+
 ## 14.4.8 • [Train: stable]
 
 - chore(deps): update container image monica to 4.1.2@d6d759c by renovate (#25976) • [`a1530ad`](https://github.com/truecharts/charts/commit/a1530ad5a982647066450fac45de2ecbbd448171) • [@TrueCharts Bot] (2024-09-05)
