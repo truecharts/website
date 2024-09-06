@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.6 • [Train: stable]
+
+- chore(deps): update container image niruix/sshwifty to latest@33b8d3c by renovate (#26026) • [`7dabce0`](https://github.com/truecharts/charts/commit/7dabce08cf5f6c55a42b5170fe5707335c03da19) • [@TrueCharts Bot] (2024-09-06)
+
 ## 7.1.5 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
