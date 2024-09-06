@@ -23,7 +23,7 @@ title: Traefik Integration
 
 ## `enabled`
 
-Enables or Disables the cert-manager integration
+Enables or Disables the traefik integration
 
 |            |                                              |
 | ---------- | -------------------------------------------- |
