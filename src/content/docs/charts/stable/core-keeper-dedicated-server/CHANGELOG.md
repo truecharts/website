@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.7 • [Train: stable]
+
+- chore(deps): update container image escaping/core-keeper-dedicated to latest@1082320 by renovate (#26023) • [`bbf3b5b`](https://github.com/truecharts/charts/commit/bbf3b5bc5641b703058ad1219768c67734541d05) • [@TrueCharts Bot] (2024-09-06)
+
 ## 7.1.6 • [Train: stable]
 
 - chore(deps): update container image escaping/core-keeper-dedicated to latest@49fc93b by renovate (#25906) • [`ae3dabb`](https://github.com/truecharts/charts/commit/ae3dabb9be642e794c53cde082575aea13f9084c) • [@TrueCharts Bot] (2024-09-04)
