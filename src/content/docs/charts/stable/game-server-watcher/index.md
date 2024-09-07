@@ -2,7 +2,7 @@
 title: game-server-watcher
 ---
 
-![Version: 3.1.6](https://img.shields.io/badge/Version-3.1.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.1.17](https://img.shields.io/badge/AppVersion-3.1.17-informational?style=flat-square)
+![Version: 3.1.7](https://img.shields.io/badge/Version-3.1.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.1.18](https://img.shields.io/badge/AppVersion-3.1.18-informational?style=flat-square)
 
 A simple discord/telegram/slack bot to monitor your game servers and players in style.
 
