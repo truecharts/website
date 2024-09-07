@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.1.5 • [Train: incubator]
+
+- chore(deps): update container image lmscommunity/lyrionmusicserver to 9.0.0@2b90b4b by renovate (#26063) • [`2622751`](https://github.com/truecharts/charts/commit/262275150a2e58dfbae2fcf3b819bfeac985e7b1) • [@TrueCharts Bot] (2024-09-07)
+
 ## 3.1.4 • [Train: incubator]
 
 - chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
