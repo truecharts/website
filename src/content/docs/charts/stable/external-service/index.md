@@ -2,7 +2,7 @@
 title: external-service
 ---
 
-![Version: 15.1.7](https://img.shields.io/badge/Version-15.1.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.20.2](https://img.shields.io/badge/AppVersion-3.20.2-informational?style=flat-square)
+![Version: 15.1.8](https://img.shields.io/badge/Version-15.1.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.20.3](https://img.shields.io/badge/AppVersion-3.20.3-informational?style=flat-square)
 
 Allow external services to be used like Apps.
 

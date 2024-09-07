@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 26.5.1 • [Train: stable]
+
+- chore(deps): update container image homeassistant/home-assistant to v2024.9.1@f1a96b6 by renovate (#26046) • [`76fed9f`](https://github.com/truecharts/charts/commit/76fed9fd14bff07b0bfc4956f8b7b71d0bc93817) • [@TrueCharts Bot] (2024-09-07)
+
 ## 26.5.0 • [Train: stable]
 
 - chore(deps): update container image homeassistant/home-assistant to v2024.9.0@796615b by renovate (#25918) • [`0ac7a04`](https://github.com/truecharts/charts/commit/0ac7a04ad7120600e5c01d713a462345bd7f3ee4) • [@TrueCharts Bot] (2024-09-04)
