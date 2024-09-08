@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.3.28 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/open-webui/open-webui to latest@d5d05c2 by renovate (#26103) • [`1a4b6e9`](https://github.com/truecharts/charts/commit/1a4b6e9674e69e6f04dbb3a7e0ab54e00c1f216f) • [@TrueCharts Bot] (2024-09-08)
+
 ## 7.3.27 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/open-webui/open-webui to latest@2acb51d by renovate (#26061) • [`33a76b4`](https://github.com/truecharts/charts/commit/33a76b492538f184e754ba098596dc5db91cc173) • [@TrueCharts Bot] (2024-09-07)
