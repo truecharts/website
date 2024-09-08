@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.5 • [Train: stable]
+
+- chore(deps): update container image jvt038/metatube to latest@073ef60 by renovate (#26122) • [`186beb2`](https://github.com/truecharts/charts/commit/186beb2e230baa8cceef80c4d9feca7aa0b2a03d) • [@TrueCharts Bot] (2024-09-08)
+
 ## 7.1.4 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
