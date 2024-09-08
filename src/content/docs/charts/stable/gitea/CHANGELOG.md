@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 20.3.9 • [Train: stable]
+
+- chore(deps): update container image memcached to v14.1.11@6559d3e by renovate (#26118) • [`2980cf8`](https://github.com/truecharts/charts/commit/2980cf831317fe0742cbe67f861a073658b4e4fe) • [@TrueCharts Bot] (2024-09-08)
+
 ## 20.3.8 • [Train: stable]
 
 - chore(deps): update container image memcached to v14.1.10@f2f85a9 by renovate (#26017) • [`f4c81fd`](https://github.com/truecharts/charts/commit/f4c81fd0e6b945c6479a08147e259c58e13e5709) • [@TrueCharts Bot] (2024-09-06)
