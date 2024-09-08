@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.1.11 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/budge to 0.0.9@08067ff by renovate (#26112) • [`c616528`](https://github.com/truecharts/charts/commit/c6165288d21de4474331af87a716727b5347e4a1) • [@TrueCharts Bot] (2024-09-08)
+
 ## 11.1.10 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.14@d84223d by renovate (#25491) • [`c44e23b`](https://github.com/truecharts/charts/commit/c44e23b4e8696b41153c0ec080f96901bd72aeaf) • [@TrueCharts Bot] (2024-08-25)
