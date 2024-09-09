@@ -2,7 +2,7 @@
 title: webnut
 ---
 
-![Version: 10.1.4](https://img.shields.io/badge/Version-10.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 10.1.5](https://img.shields.io/badge/Version-10.1.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 webNUT (UPS network monitoring web ui).
 

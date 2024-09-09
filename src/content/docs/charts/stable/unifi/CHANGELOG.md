@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 22.4.1 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.15@0763087 by renovate (#26098) • [`5fca841`](https://github.com/truecharts/charts/commit/5fca8413569321d0bb70e2e788319c99151f624f) • [@TrueCharts Bot] (2024-09-09)
+
 ## 22.4.0 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/goofball222/unifi to v8.4.59@995d4e6 by renovate (#25838) • [`293c5cc`](https://github.com/truecharts/charts/commit/293c5cc8689c1bae335cb08289b2b9b4ce0c361c) • [@TrueCharts Bot] (2024-09-03)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.7 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.15@0763087 by renovate (#26098) • [`5fca841`](https://github.com/truecharts/charts/commit/5fca8413569321d0bb70e2e788319c99151f624f) • [@TrueCharts Bot] (2024-09-09)
+
 ## 7.1.6 • [Train: stable]
 
 - chore(deps): update container image wabayang/jelu to latest@785515f by renovate (#25897) • [`ae28e41`](https://github.com/truecharts/charts/commit/ae28e414f6738a70a98379ba02d091c65de4e6b0) • [@TrueCharts Bot] (2024-09-04)

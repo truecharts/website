@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.9 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.15@0763087 by renovate (#26098) • [`5fca841`](https://github.com/truecharts/charts/commit/5fca8413569321d0bb70e2e788319c99151f624f) • [@TrueCharts Bot] (2024-09-09)
+
 ## 7.1.8 • [Train: stable]
 
 - chore(deps): update container image redislabs/rejson to latest@465de6d by renovate (#25855) • [`de64892`](https://github.com/truecharts/charts/commit/de64892e6e053f077914dde3c9bc7bdf6027fa3e) • [@TrueCharts Bot] (2024-09-03)

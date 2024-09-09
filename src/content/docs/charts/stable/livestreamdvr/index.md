@@ -2,7 +2,7 @@
 title: livestreamdvr
 ---
 
-![Version: 7.1.4](https://img.shields.io/badge/Version-7.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: master](https://img.shields.io/badge/AppVersion-master-informational?style=flat-square)
+![Version: 7.1.5](https://img.shields.io/badge/Version-7.1.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: master](https://img.shields.io/badge/AppVersion-master-informational?style=flat-square)
 
 An automatic twitch recorder.
 

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.1.62 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.15@0763087 by renovate (#26098) • [`5fca841`](https://github.com/truecharts/charts/commit/5fca8413569321d0bb70e2e788319c99151f624f) • [@TrueCharts Bot] (2024-09-09)
+
 ## 11.1.61 • [Train: stable]
 
 - chore(deps): update webtop by renovate (#26043) • [`de9d0eb`](https://github.com/truecharts/charts/commit/de9d0eb617ee51debf0951909fec0e384aac4945) • [@TrueCharts Bot] (2024-09-07)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.0.4 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.15@0763087 by renovate (#26098) • [`5fca841`](https://github.com/truecharts/charts/commit/5fca8413569321d0bb70e2e788319c99151f624f) • [@TrueCharts Bot] (2024-09-09)
+
 ## 11.0.3 • [Train: stable]
 
 - chore(deps): update container image aceberg/watchyourlan to v2.0.2@e6ea765 by renovate (#26097) • [`9ecfea6`](https://github.com/truecharts/charts/commit/9ecfea669ffa2a88046c075afbf50d54837a78f6) • [@TrueCharts Bot] (2024-09-07)

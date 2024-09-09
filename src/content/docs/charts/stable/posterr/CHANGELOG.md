@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.1.7 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.15@0763087 by renovate (#26098) • [`5fca841`](https://github.com/truecharts/charts/commit/5fca8413569321d0bb70e2e788319c99151f624f) • [@TrueCharts Bot] (2024-09-09)
+
 ## 10.1.6 • [Train: stable]
 
 - chore(deps): update container image petersem/posterr to latest@de70dde by renovate (#25843) • [`28972b2`](https://github.com/truecharts/charts/commit/28972b283525e64875c79dbceb72f71d77c7bbb8) • [@TrueCharts Bot] (2024-09-03)

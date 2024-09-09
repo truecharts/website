@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.1.11 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.15@0763087 by renovate (#26098) • [`5fca841`](https://github.com/truecharts/charts/commit/5fca8413569321d0bb70e2e788319c99151f624f) • [@TrueCharts Bot] (2024-09-09)
+
 ## 11.1.10 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/pylon to 2.10.0@a1b6743 by renovate (#25862) • [`d7e3314`](https://github.com/truecharts/charts/commit/d7e33147fb85af9055b030848671fe0487955030) • [@TrueCharts Bot] (2024-09-03)

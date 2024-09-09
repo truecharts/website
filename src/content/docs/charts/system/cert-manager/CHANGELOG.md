@@ -13,6 +13,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.1.1 • [Train: system]
 
+- chore(deps): lock file maintenance helm system by renovate (#24247) • [`30311a5`](https://github.com/truecharts/charts/commit/30311a57f33e611fbd21aea7a4fc0ba3cb90cf8a) • [@TrueCharts Bot] (2024-09-09)
+- chore(deps): update ignored by renovate (patch) (#25560) • [`866009d`](https://github.com/truecharts/charts/commit/866009d9b3dff8e93e5d9fc55080942887b09eee) • [@TrueCharts Bot] (2024-09-09)
 - chore(deps): update ignored by renovate (patch) (#24139) • [`51504b7`](https://github.com/truecharts/charts/commit/51504b7b0045e75470a34b20fdfe9004bbf3c081) • [@TrueCharts Bot] (2024-07-24)
 - Commit daily changes • [`9c6cf1b`](https://github.com/truecharts/charts/commit/9c6cf1b50bf0ffbf6d3475b06ccd16b7e246f18f) • [@TrueCharts-Bot] (2024-07-06)
 - chore(deps): lock file maintenance helm system by renovate (#22792) • [`58e2395`](https://github.com/truecharts/charts/commit/58e2395dfda33cd2ed02cc91dda8e4e0cf8bb86a) • [@TrueCharts Bot] (2024-06-30)

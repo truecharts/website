@@ -2,7 +2,7 @@
 title: backuppc
 ---
 
-![Version: 8.1.4](https://img.shields.io/badge/Version-8.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.0.4](https://img.shields.io/badge/AppVersion-6.0.4-informational?style=flat-square)
+![Version: 8.1.5](https://img.shields.io/badge/Version-8.1.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.0.4](https://img.shields.io/badge/AppVersion-6.0.4-informational?style=flat-square)
 
 A high-performance, enterprise-grade system for backing up Linux, Windows and macOS PCs and laptops to a server's disk.
 

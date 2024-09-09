@@ -2,7 +2,7 @@
 title: endlessh
 ---
 
-![Version: 11.1.4](https://img.shields.io/badge/Version-11.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2021.11.21](https://img.shields.io/badge/AppVersion-2021.11.21-informational?style=flat-square)
+![Version: 11.1.5](https://img.shields.io/badge/Version-11.1.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2021.11.21](https://img.shields.io/badge/AppVersion-2021.11.21-informational?style=flat-square)
 
 Endlessh is an SSH tarpit that very slowly sends an endless, random SSH banner.
 
