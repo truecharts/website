@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.2.3 • [Train: stable]
+
+- chore(deps): update portainer to v2.21.1@2c7d295 by renovate (patch) (#26181) • [`d8f755d`](https://github.com/truecharts/charts/commit/d8f755deffa3bb4feaa101a59fdc006f5edb35ac) • [@TrueCharts Bot] (2024-09-10)
+
 ## 10.2.2 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.15@0763087 by renovate (#26098) • [`5fca841`](https://github.com/truecharts/charts/commit/5fca8413569321d0bb70e2e788319c99151f624f) • [@TrueCharts Bot] (2024-09-09)

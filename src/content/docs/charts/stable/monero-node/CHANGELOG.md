@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.1.15 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/sethforprivacy/simple-monerod to v0.18.3.4@795e543 by renovate (#26166) • [`74db165`](https://github.com/truecharts/charts/commit/74db165129e17e2e54e223e9c954a210e739c89e) • [@TrueCharts Bot] (2024-09-10)
+
 ## 8.1.14 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.15@0763087 by renovate (#26098) • [`5fca841`](https://github.com/truecharts/charts/commit/5fca8413569321d0bb70e2e788319c99151f624f) • [@TrueCharts Bot] (2024-09-09)

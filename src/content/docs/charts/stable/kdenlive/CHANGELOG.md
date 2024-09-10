@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.8 • [Train: stable]
+
+- chore(deps): update container image lscr.io/linuxserver/kdenlive to latest@02a3d06 by renovate (#26168) • [`414a166`](https://github.com/truecharts/charts/commit/414a1666f8cfe7655e737cd9287ccc09bc157a3d) • [@TrueCharts Bot] (2024-09-10)
+
 ## 7.1.7 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.15@0763087 by renovate (#26098) • [`5fca841`](https://github.com/truecharts/charts/commit/5fca8413569321d0bb70e2e788319c99151f624f) • [@TrueCharts Bot] (2024-09-09)

@@ -2,7 +2,7 @@
 title: red-discordbot
 ---
 
-![Version: 7.1.16](https://img.shields.io/badge/Version-7.1.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: full](https://img.shields.io/badge/AppVersion-full-informational?style=flat-square)
+![Version: 7.1.17](https://img.shields.io/badge/Version-7.1.17-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: full](https://img.shields.io/badge/AppVersion-full-informational?style=flat-square)
 
 The newest Red-Discordbot in a convenient multi-arch Chart 
 
