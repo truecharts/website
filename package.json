@@ -19,12 +19,12 @@
   "dependencies": {
     "@astrojs/check": "0.9.3",
     "@astrojs/sitemap": "3.1.6",
-    "@astrojs/starlight": "0.26.2",
+    "@astrojs/starlight": "0.27.1",
     "@astrojs/starlight-tailwind": "2.0.3",
     "@astrojs/tailwind": "5.1.0",
     "@playform/compress": "0.1.1",
-    "astro": "4.15.2",
-    "astro-better-image-service": "2.0.27",
+    "astro": "4.15.4",
+    "astro-better-image-service": "2.0.29",
     "astro-integration-lottie": "0.3.0",
     "astro-robots-txt": "1.0.0",
     "lottie-web": "5.12.2",
@@ -34,6 +34,6 @@
     "starlight-image-zoom": "0.8.0",
     "starlight-links-validator": "0.11.0",
     "tailwindcss": "3.4.10",
-    "typescript": "5.5.4"
+    "typescript": "5.6.2"
   }
 }
