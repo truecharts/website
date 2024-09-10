@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 9.2.6 • [Train: stable]
+
+- chore(deps): update container image docker to 27.2.1-dind@c51fa20 by renovate (#26196) • [`93caba8`](https://github.com/truecharts/charts/commit/93caba88e168204a90c612653469a808f3e4e767) • [@TrueCharts Bot] (2024-09-10)
+
 ## 9.2.5 • [Train: stable]
 
 - chore(deps): update container image docker to v27.2.1@eb63082 by renovate (#26176) • [`03c33d8`](https://github.com/truecharts/charts/commit/03c33d8d9b3f21fdeb86696336348ca54a15981d) • [@TrueCharts Bot] (2024-09-10)
