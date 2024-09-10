@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 9.2.10 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/gethomepage/homepage to v0.9.9@5c26491 by renovate (#26207) • [`6a4a635`](https://github.com/truecharts/charts/commit/6a4a6353e1597a602261b88237cb37cbeb2d87c3) • [@TrueCharts Bot] (2024-09-10)
+
 ## 9.2.9 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/gethomepage/homepage to v0.9.8@ad78ce1 by renovate (#26199) • [`a96d3f1`](https://github.com/truecharts/charts/commit/a96d3f1ddf12bdf805b783692983ee05fe2cf229) • [@TrueCharts Bot] (2024-09-10)

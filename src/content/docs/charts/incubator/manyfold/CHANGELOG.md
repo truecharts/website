@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 0.4.0 • [Train: incubator]
+
+- chore(deps): update container image ghcr.io/manyfold3d/manyfold to v0.78.0@332ca1c by renovate (#26210) • [`525ceb2`](https://github.com/truecharts/charts/commit/525ceb2a4a6d54f769c57ebb45bfc8be7bf4750a) • [@TrueCharts Bot] (2024-09-10)
+
 ## 0.3.5 • [Train: incubator]
 
 - chore(deps): update container image common to v24.1.15@0763087 by renovate (#26098) • [`5fca841`](https://github.com/truecharts/charts/commit/5fca8413569321d0bb70e2e788319c99151f624f) • [@TrueCharts Bot] (2024-09-09)
