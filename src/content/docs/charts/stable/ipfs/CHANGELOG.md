@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.3.0 • [Train: stable]
+
+- chore(deps): update container image ipfs/kubo to v0.30.0@6a8e6e0 by renovate (#26252) • [`4ade6e4`](https://github.com/truecharts/charts/commit/4ade6e4df489092fd82934c5fe7ed72c247788f0) • [@TrueCharts Bot] (2024-09-11)
+
 ## 12.2.5 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.15@0763087 by renovate (#26098) • [`5fca841`](https://github.com/truecharts/charts/commit/5fca8413569321d0bb70e2e788319c99151f624f) • [@TrueCharts Bot] (2024-09-09)
