@@ -45,6 +45,7 @@ export default defineConfig({
       title: "TrueCharts Charts",
       customCss: ["./src/tailwind.css"],
       tagline: "Awesome Helm Charts",
+      lastUpdated: true,
       pagefind: true,
       logo: {
         src: "./src/assets/with-text.svg",
