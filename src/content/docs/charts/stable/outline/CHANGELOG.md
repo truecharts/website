@@ -11,6 +11,18 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 14.6.1 • [Train: stable]
+
+- chore(deps): update container image outlinewiki/outline to v0.79.1@0785351 by renovate (#25995) • [`b5e17a9`](https://github.com/truecharts/charts/commit/b5e17a96f0e515aaea02fa92cd93c4274b184ace) • [@TrueCharts Bot] (2024-09-06)
+
+## 14.6.0 • [Train: stable]
+
+- chore(deps): update container image outlinewiki/outline to v0.79.0@0c7790c by renovate (#25953) • [`05ed84b`](https://github.com/truecharts/charts/commit/05ed84b0457a1d6898e78bbbc66316ce76a492af) • [@TrueCharts Bot] (2024-09-05)
+
+## 14.5.2 • [Train: stable]
+
+- chore(deps): update container image redis to v15.2.4@64c06ec by renovate (#25916) • [`13eb8c1`](https://github.com/truecharts/charts/commit/13eb8c11f9e99aafe6ce82b649f8d600c76cffc1) • [@TrueCharts Bot] (2024-09-05)
+
 ## 14.5.1 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)

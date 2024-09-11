@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.2.0 • [Train: stable]
+
+- chore(deps): update container image registry.k8s.io/external-dns/external-dns to v0.15.0@338dd8c by renovate (#25969) • [`051fa8b`](https://github.com/truecharts/charts/commit/051fa8be5288c83126f93ebbaa09364003bae311) • [@TrueCharts Bot] (2024-09-05)
+
 ## 6.1.4 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)

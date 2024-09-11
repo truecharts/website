@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.5 • [Train: stable]
+
+- chore(deps): update container image binhex/arch-hexchat to latest@9300f74 by renovate (#25922) • [`a31685d`](https://github.com/truecharts/charts/commit/a31685d15e41c456846f1ccbc5da939241423afa) • [@TrueCharts Bot] (2024-09-05)
+
 ## 7.1.4 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)

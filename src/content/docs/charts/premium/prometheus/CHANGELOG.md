@@ -11,6 +11,22 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 19.14.1 • [Train: premium]
+
+- chore(deps): update container image bitnami/prometheus to 2.54.1@08b1b7c by renovate (#25998) • [`65c9908`](https://github.com/truecharts/charts/commit/65c9908a71f049c1c56161904e1534fd75646b2a) • [@TrueCharts Bot] (2024-09-06)
+
+## 19.14.0 • [Train: premium]
+
+- chore(deps): update container image kube-prometheus-stack to v62.4.0@6a5e19f by renovate (#25935) • [`b1d30af`](https://github.com/truecharts/charts/commit/b1d30af668d37578ca1483c41828d6437b010435) • [@TrueCharts Bot] (2024-09-05)
+
+## 19.13.7 • [Train: premium]
+
+- chore(deps): update container image bitnami/prometheus to 2.54.1@7116816 by renovate (#25923) • [`f828800`](https://github.com/truecharts/charts/commit/f828800cd616a9e15ac81fe29b4a4df40f26fab6) • [@TrueCharts Bot] (2024-09-05)
+
+## 19.13.6 • [Train: premium]
+
+- chore(deps): update container image bitnami/alertmanager to 0.27.0@470dc1a by renovate (#25900) • [`73fbdf6`](https://github.com/truecharts/charts/commit/73fbdf6a7bcce88017ca86268224462f453c22ee) • [@TrueCharts Bot] (2024-09-04)
+
 ## 19.13.5 • [Train: premium]
 
 - chore(deps): update container image bitnami/alertmanager to 0.27.0@d24276b by renovate (#25832) • [`e70125c`](https://github.com/truecharts/charts/commit/e70125ce3618951a27931f563bbc6702fcb2a6d0) • [@TrueCharts Bot] (2024-09-03)

@@ -11,6 +11,14 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.32 • [Train: stable]
+
+- chore(deps): update container image mikenye/tar1090 to latest@bb6ea0f by renovate (#26025) • [`e3131be`](https://github.com/truecharts/charts/commit/e3131be1030c4ffaefdfe2cb667072def9357054) • [@TrueCharts Bot] (2024-09-06)
+
+## 7.1.31 • [Train: stable]
+
+- chore(deps): update container image mikenye/tar1090 to latest@3f6a23f by renovate (#26011) • [`c3801d2`](https://github.com/truecharts/charts/commit/c3801d2173c23facb83fd36098dfd9d5fd8507d9) • [@TrueCharts Bot] (2024-09-06)
+
 ## 7.1.30 • [Train: stable]
 
 - chore(deps): update container image mikenye/tar1090 to latest@bed74e2 by renovate (#25817) • [`ae654d1`](https://github.com/truecharts/charts/commit/ae654d1dc8e66dcb9839eac7e796f52775ad1034) • [@TrueCharts Bot] (2024-09-02)

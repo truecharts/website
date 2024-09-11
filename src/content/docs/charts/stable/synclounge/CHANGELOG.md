@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.1.15 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/synclounge to 5.2.31@7fec50e by renovate (#25909) • [`73a98bc`](https://github.com/truecharts/charts/commit/73a98bc4c75a2468e4b648295ca9caddba83a041) • [@TrueCharts Bot] (2024-09-04)
+
 ## 11.1.14 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/synclounge to 5.2.31@bcc131a by renovate (#25863) • [`96352b8`](https://github.com/truecharts/charts/commit/96352b85de7955549a0fe6190071691251d598a7) • [@TrueCharts Bot] (2024-09-03)

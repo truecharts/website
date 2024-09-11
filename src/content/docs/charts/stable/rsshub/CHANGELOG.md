@@ -11,6 +11,30 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 14.3.11 • [Train: stable]
+
+- chore(deps): update container image diygod/rsshub to latest@a85d270 by renovate (#26022) • [`dc29dd3`](https://github.com/truecharts/charts/commit/dc29dd3509bf4c39bc008cdddf65807b9d384030) • [@TrueCharts Bot] (2024-09-06)
+
+## 14.3.10 • [Train: stable]
+
+- chore(deps): update container image diygod/rsshub to latest@2a9880c by renovate (#25972) • [`51fa6bc`](https://github.com/truecharts/charts/commit/51fa6bc894a6a4af78c700a88f91b17d6b747b46) • [@TrueCharts Bot] (2024-09-05)
+
+## 14.3.9 • [Train: stable]
+
+- chore(deps): update container image diygod/rsshub to latest@c5d8a45 by renovate (#25957) • [`b5c45a7`](https://github.com/truecharts/charts/commit/b5c45a7160f29c2ec86cc2cc79591ece4124595d) • [@TrueCharts Bot] (2024-09-05)
+
+## 14.3.8 • [Train: stable]
+
+- chore(deps): update container image diygod/rsshub to latest@eaba365 by renovate (#25941) • [`ef2189e`](https://github.com/truecharts/charts/commit/ef2189e7f79b34a76aaefbf63c8e7a0d837b6fad) • [@TrueCharts Bot] (2024-09-05)
+
+## 14.3.7 • [Train: stable]
+
+- chore(deps): update container image diygod/rsshub to latest@1f86e70 by renovate (#25924) • [`2ef67a1`](https://github.com/truecharts/charts/commit/2ef67a13c075cdd724269059be7c7af1ed70ee70) • [@TrueCharts Bot] (2024-09-05)
+
+## 14.3.6 • [Train: stable]
+
+- chore(deps): update container image diygod/rsshub to latest@a6648a4 by renovate (#25904) • [`597113b`](https://github.com/truecharts/charts/commit/597113b116c0276196eba61f490ea1b2e7bc4826) • [@TrueCharts Bot] (2024-09-04)
+
 ## 14.3.5 • [Train: stable]
 
 - chore(deps): update container image redis to v15.2.4@64c06ec by renovate (#25828) • [`20ec48b`](https://github.com/truecharts/charts/commit/20ec48b29c989ec9e6d3b55df4634efaff27f9a3) • [@TrueCharts Bot] (2024-09-04)

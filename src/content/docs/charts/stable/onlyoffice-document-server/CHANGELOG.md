@@ -11,6 +11,18 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 19.4.4 • [Train: stable]
+
+- chore(deps): update container image onlyoffice/documentserver to 8.1.3@b9e3c35 by renovate (#25977) • [`6217b51`](https://github.com/truecharts/charts/commit/6217b5125ca1ed2b5fb343c68a59d03425b00d82) • [@TrueCharts Bot] (2024-09-05)
+
+## 19.4.3 • [Train: stable]
+
+- chore(deps): update container image redis to v15.2.4@64c06ec by renovate (#25916) • [`13eb8c1`](https://github.com/truecharts/charts/commit/13eb8c11f9e99aafe6ce82b649f8d600c76cffc1) • [@TrueCharts Bot] (2024-09-05)
+
+## 19.4.2 • [Train: stable]
+
+- chore(deps): update container image onlyoffice/documentserver to v8.1.3@a69b1c4 by renovate (#25915) • [`9626cf9`](https://github.com/truecharts/charts/commit/9626cf9b27d6210b1b4b9a6df608c392d5eb0718) • [@TrueCharts Bot] (2024-09-04)
+
 ## 19.4.1 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.14@d84223d by renovate (#25511) • [`7f5c638`](https://github.com/truecharts/charts/commit/7f5c638c425571d0b415cf827821160521a99b17) • [@TrueCharts Bot] (2024-09-02)
