@@ -41,7 +41,7 @@ jobs:
         uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4
         with:
           # This is needed for the "last updated" field to update correctly.
-          fetch-depth: 1
+          fetch-depth: 0
 
       - name: Prefetch contributor icons
         shell: bash
