@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.2.18 • [Train: stable]
+
+- chore(deps): update container image metabase/metabase to v0.50.25@7986673 by renovate (#26219) • [`88852c5`](https://github.com/truecharts/charts/commit/88852c514cfc52cce03b22513cfc0f3cfd8d3b62) • [@TrueCharts Bot] (2024-09-11)
+
 ## 5.2.17 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.15@0763087 by renovate (#26098) • [`5fca841`](https://github.com/truecharts/charts/commit/5fca8413569321d0bb70e2e788319c99151f624f) • [@TrueCharts Bot] (2024-09-09)

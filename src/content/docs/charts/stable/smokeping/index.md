@@ -2,7 +2,7 @@
 title: smokeping
 ---
 
-![Version: 12.1.14](https://img.shields.io/badge/Version-12.1.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.8.2](https://img.shields.io/badge/AppVersion-2.8.2-informational?style=flat-square)
+![Version: 12.1.15](https://img.shields.io/badge/Version-12.1.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.8.2](https://img.shields.io/badge/AppVersion-2.8.2-informational?style=flat-square)
 
 Keep track of your network latency.
 
