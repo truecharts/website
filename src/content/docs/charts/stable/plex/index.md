@@ -2,7 +2,7 @@
 title: plex
 ---
 
-![Version: 19.1.10](https://img.shields.io/badge/Version-19.1.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.40.5.8921](https://img.shields.io/badge/AppVersion-1.40.5.8921-informational?style=flat-square)
+![Version: 19.2.0](https://img.shields.io/badge/Version-19.2.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.41.0.8992](https://img.shields.io/badge/AppVersion-1.41.0.8992-informational?style=flat-square)
 
 Plex Media Server
 

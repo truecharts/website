@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.1.9 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/fluidd-core/fluidd to v1.30.4@fe1c634 by renovate (#26279) • [`8357e8c`](https://github.com/truecharts/charts/commit/8357e8c220a894fad8380c1dfcc4453acf5b4626) • [@TrueCharts Bot] (2024-09-12)
+
 ## 11.1.8 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.15@0763087 by renovate (#26098) • [`5fca841`](https://github.com/truecharts/charts/commit/5fca8413569321d0bb70e2e788319c99151f624f) • [@TrueCharts Bot] (2024-09-09)
