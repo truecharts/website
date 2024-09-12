@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 16.4.0 • [Train: premium]
+
+- feat(blocky): repair template for filtering of queryTypes (#26254) • [`5e58131`](https://github.com/truecharts/charts/commit/5e58131d6c81f444e0029b2720daf0179f3b1fd4) • [@Marcel Henrich] (2024-09-12)
+
 ## 16.3.3 • [Train: premium]
 
 - chore(deps): update container image common to v24.1.15@0763087 by renovate (#26098) • [`5fca841`](https://github.com/truecharts/charts/commit/5fca8413569321d0bb70e2e788319c99151f624f) • [@TrueCharts Bot] (2024-09-09)
