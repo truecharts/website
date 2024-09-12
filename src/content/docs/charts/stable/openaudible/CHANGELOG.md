@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.6 • [Train: stable]
+
+- chore(deps): update container image openaudible/openaudible to latest@da84288 by renovate (#26258) • [`8b9e11b`](https://github.com/truecharts/charts/commit/8b9e11be7717214343b510374aa7304304ab092a) • [@TrueCharts Bot] (2024-09-12)
+
 ## 7.1.5 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.15@0763087 by renovate (#26098) • [`5fca841`](https://github.com/truecharts/charts/commit/5fca8413569321d0bb70e2e788319c99151f624f) • [@TrueCharts Bot] (2024-09-09)
