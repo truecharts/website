@@ -2,7 +2,7 @@
 title: thelounge
 ---
 
-![Version: 15.1.13](https://img.shields.io/badge/Version-15.1.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.4.3](https://img.shields.io/badge/AppVersion-4.4.3-informational?style=flat-square)
+![Version: 15.1.14](https://img.shields.io/badge/Version-15.1.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.4.3](https://img.shields.io/badge/AppVersion-4.4.3-informational?style=flat-square)
 
 The Lounge, modern web IRC client designed for self-hosting
 

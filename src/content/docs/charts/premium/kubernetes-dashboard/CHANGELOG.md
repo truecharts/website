@@ -15,6 +15,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - chore: Add a bunch of direct-from-upstream system charts for clustertool-use (#23768) • [`e1bc567`](https://github.com/truecharts/charts/commit/e1bc5676c686f29322d66bd7e71f4c41c411ecf5) • [@Kjeld Schouten] (2024-06-25)
 
+## 1.5.0 • [Train: premium]
+
+- chore(deps): update container image kubernetesui/dashboard-api to v1.8.0@f6f2f0b by renovate (#26330) • [`d5bbca2`](https://github.com/truecharts/charts/commit/d5bbca27c3c990374b23adb846db713d7bbc5e35) • [@TrueCharts Bot] (2024-09-13)
+
 ## 1.4.3 • [Train: premium]
 
 - chore(deps): update container image common to v24.1.15@0763087 by renovate (#26098) • [`5fca841`](https://github.com/truecharts/charts/commit/5fca8413569321d0bb70e2e788319c99151f624f) • [@TrueCharts Bot] (2024-09-09)
