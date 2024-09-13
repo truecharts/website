@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 14.3.30 • [Train: stable]
+
+- chore(deps): update container image diygod/rsshub to latest@ecdc72b by renovate (#26310) • [`4fcb34c`](https://github.com/truecharts/charts/commit/4fcb34c0ceb37906411f04c7612388d20da74169) • [@TrueCharts Bot] (2024-09-13)
+
 ## 14.3.29 • [Train: stable]
 
 - chore(deps): update container image diygod/rsshub to latest@c731307 by renovate (#26299) • [`5a70662`](https://github.com/truecharts/charts/commit/5a706627a50f16c5f0b720d164f5f15b4500f68d) • [@TrueCharts Bot] (2024-09-13)
