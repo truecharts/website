@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 14.1.12 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/davos to 2.2.2@43fb36d by renovate (#26346) • [`b39c88d`](https://github.com/truecharts/charts/commit/b39c88d34dd2545bc5f973a41dcb72d5b238ac8e) • [@TrueCharts Bot] (2024-09-14)
+
 ## 14.1.11 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.15@0763087 by renovate (#26098) • [`5fca841`](https://github.com/truecharts/charts/commit/5fca8413569321d0bb70e2e788319c99151f624f) • [@TrueCharts Bot] (2024-09-09)
