@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.7 • [Train: stable]
+
+- chore(deps): update container image accetto/ubuntu-vnc-xfce-opengl-g3 to latest@f52674f by renovate (#26376) • [`33acce8`](https://github.com/truecharts/charts/commit/33acce85154bbf44385ac6dec7715c9ab9067c75) • [@TrueCharts Bot] (2024-09-14)
+
 ## 7.1.6 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.15@0763087 by renovate (#26098) • [`5fca841`](https://github.com/truecharts/charts/commit/5fca8413569321d0bb70e2e788319c99151f624f) • [@TrueCharts Bot] (2024-09-09)
