@@ -450,6 +450,35 @@ ingress:
 
 ---
 
+###### `hosts[].paths[].overrideService.expandObjectName`
+
+Define if the override service object name should be expanded
+
+|            |                                                                  |
+| ---------- | ---------------------------------------------------------------- |
+| Key        | `ingress.$name.hosts[].paths[].overrideService.expandObjectName` |
+| Type       | `bool`                                                           |
+| Required   | ❌                                                               |
+| Helm `tpl` | ✅                                                               |
+| Default    | `true`                                                           |
+
+Example
+
+```yaml
+ingress:
+  ingress-name:
+    hosts:
+      - host: chart-example.local
+        paths:
+          - path: /
+            pathType: Prefix
+            overrideService:
+              name: main
+              expandObjectName: false
+```
+
+---
+
 ###### `hosts[].paths[].overrideService.port`
 
 Define the service port for this path
@@ -709,20 +738,20 @@ ingress:
       key: value
     annotations:
       key: value
-    ingressClassName:  ""
+    ingressClassName: ""
     targetSelector:
       main: main
     hosts:
-      -  host: chart-example.local
-         paths:
-            - path: /
-              pathType: Prefix
-              overrideService:
-                name: main
-                port: 80
+      - host: chart-example.local
+        paths:
+          - path: /
+            pathType: Prefix
+            overrideService:
+              name: main
+              port: 80
     tls:
       - hosts:
-         - chart-example.local
+          - chart-example.local
         secretName: chart-example-tls
         # OR
         certificateIssuer: ""
