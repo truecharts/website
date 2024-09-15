@@ -8,10 +8,10 @@ Speedtest automation made simple.
 
 ## Chart Sources
 
-- https://myspeed.dev/
 - https://github.com/gnmyt/myspeed
 - https://github.com/truecharts/charts/tree/master/charts/incubator/myspeed
 - https://hub.docker.com/r/germannewsmaker/myspeed
+- https://myspeed.dev/
 
 ## Available Documentation
 
