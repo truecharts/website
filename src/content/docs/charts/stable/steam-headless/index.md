@@ -2,7 +2,7 @@
 title: steam-headless
 ---
 
-![Version: 5.1.21](https://img.shields.io/badge/Version-5.1.21-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 5.1.22](https://img.shields.io/badge/Version-5.1.22-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 A Headless Steam chart.
 

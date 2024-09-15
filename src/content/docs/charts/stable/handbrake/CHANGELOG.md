@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 23.3.1 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.16@ea19f8a by renovate (#26428) • [`3fc10f5`](https://github.com/truecharts/charts/commit/3fc10f588f4af5a073cece42a8659b2c015f93b4) • [@TrueCharts Bot] (2024-09-15)
+
 ## 23.3.0 • [Train: stable]
 
 - chore(deps): update container image jlesage/handbrake to v24.09.1@a932aa8 by renovate (#26394) • [`39834d8`](https://github.com/truecharts/charts/commit/39834d8a47f6ea9c32c287e41b1193ff5c3645e4) • [@TrueCharts Bot] (2024-09-14)

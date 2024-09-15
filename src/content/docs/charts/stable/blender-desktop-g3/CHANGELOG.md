@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.8 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.16@ea19f8a by renovate (#26428) • [`3fc10f5`](https://github.com/truecharts/charts/commit/3fc10f588f4af5a073cece42a8659b2c015f93b4) • [@TrueCharts Bot] (2024-09-15)
+
 ## 7.1.7 • [Train: stable]
 
 - chore(deps): update container image accetto/ubuntu-vnc-xfce-blender-g3 to latest@5cc8010 by renovate (#26373) • [`48cb31b`](https://github.com/truecharts/charts/commit/48cb31b88fa3b3dcbbcc5bfdf1e4f9a64580eaf5) • [@TrueCharts Bot] (2024-09-14)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.4.1 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.16@ea19f8a by renovate (#26428) • [`3fc10f5`](https://github.com/truecharts/charts/commit/3fc10f588f4af5a073cece42a8659b2c015f93b4) • [@TrueCharts Bot] (2024-09-15)
+
 ## 12.4.0 • [Train: stable]
 
 - chore(deps): update container image jlesage/mkvtoolnix to v24.09.1@008ec79 by renovate (#26343) • [`4954b89`](https://github.com/truecharts/charts/commit/4954b89656814fbfbd3b1742ee5db26c9dd20689) • [@TrueCharts Bot] (2024-09-13)

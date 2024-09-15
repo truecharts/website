@@ -2,7 +2,7 @@
 title: alist
 ---
 
-![Version: 11.3.3](https://img.shields.io/badge/Version-11.3.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.37.2](https://img.shields.io/badge/AppVersion-3.37.2-informational?style=flat-square)
+![Version: 11.3.4](https://img.shields.io/badge/Version-11.3.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.37.2](https://img.shields.io/badge/AppVersion-3.37.2-informational?style=flat-square)
 
 Alist program that supports multiple storage, powered by Gin and React
 

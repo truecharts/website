@@ -2,7 +2,7 @@
 title: it-tools
 ---
 
-![Version: 7.1.6](https://img.shields.io/badge/Version-7.1.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2024.5.13](https://img.shields.io/badge/AppVersion-2024.5.13-informational?style=flat-square)
+![Version: 7.1.7](https://img.shields.io/badge/Version-7.1.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2024.5.13](https://img.shields.io/badge/AppVersion-2024.5.13-informational?style=flat-square)
 
 Useful tools for developer and people working in IT.
 

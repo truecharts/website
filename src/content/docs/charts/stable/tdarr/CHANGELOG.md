@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.7.2 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.16@ea19f8a by renovate (#26428) • [`3fc10f5`](https://github.com/truecharts/charts/commit/3fc10f588f4af5a073cece42a8659b2c015f93b4) • [@TrueCharts Bot] (2024-09-15)
+
 ## 11.7.1 • [Train: stable]
 
 - fix(tdarr): Fix Node Connection on newest version (#26407) • [`04b6085`](https://github.com/truecharts/charts/commit/04b608572cd8277d15894497aa729782ce04863c) • [@alfi0812] (2024-09-15)

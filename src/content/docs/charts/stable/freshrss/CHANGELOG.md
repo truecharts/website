@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 20.1.16 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.16@ea19f8a by renovate (#26428) • [`3fc10f5`](https://github.com/truecharts/charts/commit/3fc10f588f4af5a073cece42a8659b2c015f93b4) • [@TrueCharts Bot] (2024-09-15)
+
 ## 20.1.15 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/freshrss to 1.24.3@00173bf by renovate (#26380) • [`c8eadb9`](https://github.com/truecharts/charts/commit/c8eadb984111d4a956e92ea022b5a2d5bcf69800) • [@TrueCharts Bot] (2024-09-14)
