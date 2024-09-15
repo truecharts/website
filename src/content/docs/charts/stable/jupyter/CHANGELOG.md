@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.1.8 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.16@ea19f8a by renovate (#26306) • [`6ee1a63`](https://github.com/truecharts/charts/commit/6ee1a6382b93c50bb8f4886cd84f77ab88de64da) • [@TrueCharts Bot] (2024-09-15)
+
 ## 10.1.7 • [Train: stable]
 
 - chore(deps): update container image jupyter/scipy-notebook to 2023-10-20@fca4bcc by renovate (#26413) • [`a83e1fd`](https://github.com/truecharts/charts/commit/a83e1fddf387028b450a688751a0acb6e0409aa0) • [@TrueCharts Bot] (2024-09-15)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.1.8 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.16@ea19f8a by renovate (#26306) • [`6ee1a63`](https://github.com/truecharts/charts/commit/6ee1a6382b93c50bb8f4886cd84f77ab88de64da) • [@TrueCharts Bot] (2024-09-15)
+
 ## 12.1.7 • [Train: stable]
 
 - chore(deps): update container image thomst08/requestrr to v2.1.7@6de400d by renovate (#26418) • [`e68f5c2`](https://github.com/truecharts/charts/commit/e68f5c22a7a3eb647476f8213804bc4ae5dc114b) • [@TrueCharts Bot] (2024-09-15)
