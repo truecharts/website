@@ -2,14 +2,14 @@
 title: myspeed
 ---
 
-![Version: 0.0.1](https://img.shields.io/badge/Version-0.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.0.9](https://img.shields.io/badge/AppVersion-1.0.9-informational?style=flat-square)
+![Version: 0.0.2](https://img.shields.io/badge/Version-0.0.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.0.9](https://img.shields.io/badge/AppVersion-1.0.9-informational?style=flat-square)
 
 Speedtest automation made simple.
 
 ## Chart Sources
 
 - https://github.com/gnmyt/myspeed
-- https://github.com/truecharts/charts/tree/master/charts/incubator/myspeed
+- https://github.com/truecharts/charts/tree/master/charts/stable/myspeed
 - https://hub.docker.com/r/germannewsmaker/myspeed
 - https://myspeed.dev/
 
@@ -27,7 +27,7 @@ Speedtest automation made simple.
 TrueCharts can be installed as both _normal_ Helm Charts or as TrueNAS SCALE Apps.
 Both solutions are fully supported, but we heavily advice the use of normal Helm Charts where possible
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://truecharts.org/charts/incubator/myspeed)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://truecharts.org/charts/stable/myspeed)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/charts/issues/new/choose)**
 
@@ -50,7 +50,7 @@ For more information on how to use TrueCharts as TrueNAS SCALE Apps, please chec
 
 All our charts have dedicated documentation pages.
 The documentation for this chart can be found here:
-https://truecharts.org/charts/incubator/myspeed
+https://truecharts.org/charts/stable/myspeed
 
 ### Configuration Options
 
@@ -58,7 +58,7 @@ Please note: For TrueNAS SCALE, only options available in the GUI are supported.
 Hence most of these docs do not apply to TrueNAS SCALE
 
 To view the chart specific options, please view Values.yaml included in the chart.
-The most recent version of which, is available here: https://github.com/truecharts/charts/blob/master/charts/incubator/myspeed/values.yaml
+The most recent version of which, is available here: https://github.com/truecharts/charts/blob/master/charts/stable/myspeed/values.yaml
 
 All our Charts use a shared "common" library chart that contains most of the templating and options.
 For the complete overview of all available options, please checkout the documentation for them on the [common docs on our website](/common)
