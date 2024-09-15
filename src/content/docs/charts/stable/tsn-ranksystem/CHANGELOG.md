@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.4.6 • [Train: stable]
+
+- chore(deps): update container image serverlein/tsn-ranksystem-webserver to latest@a6e549f by renovate (#26426) • [`fbae3d9`](https://github.com/truecharts/charts/commit/fbae3d97392ce6addc9e4a18d895a6effc3be238) • [@TrueCharts Bot] (2024-09-15)
+
 ## 3.4.5 • [Train: stable]
 
 - chore(deps): update container image mariadb to v15.3.4@5f05dd5 by renovate (#26177) • [`cee6787`](https://github.com/truecharts/charts/commit/cee6787464d03aa41302bee41032fbcb776bd7f0) • [@TrueCharts Bot] (2024-09-10)
