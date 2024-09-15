@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.7.1 • [Train: stable]
+
+- fix(tdarr): Fix Node Connection on newest version (#26407) • [`04b6085`](https://github.com/truecharts/charts/commit/04b608572cd8277d15894497aa729782ce04863c) • [@alfi0812] (2024-09-15)
+
 ## 11.7.0 • [Train: stable]
 
 - chore(deps): update container image haveagitgat/tdarr to v2.25.01@30ae9ec by renovate (#26392) • [`e9fdb51`](https://github.com/truecharts/charts/commit/e9fdb510c8f336299b487589435cc11976d11ea5) • [@TrueCharts Bot] (2024-09-14)
