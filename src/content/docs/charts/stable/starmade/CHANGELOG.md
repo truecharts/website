@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.7 • [Train: stable]
+
+- chore(deps): update container image ich777/starmade-server to latest@b397636 by renovate (#26473) • [`ca282be`](https://github.com/truecharts/charts/commit/ca282be8f64bbddfa21bb1abf5cb11e797f5f2f1) • [@TrueCharts Bot] (2024-09-16)
+
 ## 7.1.6 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.16@ea19f8a by renovate (#26428) • [`3fc10f5`](https://github.com/truecharts/charts/commit/3fc10f588f4af5a073cece42a8659b2c015f93b4) • [@TrueCharts Bot] (2024-09-15)

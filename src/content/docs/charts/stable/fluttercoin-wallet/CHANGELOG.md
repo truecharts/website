@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.7 • [Train: stable]
+
+- chore(deps): update container image ich777/fluttercoin to latest@010e719 by renovate (#26462) • [`90b6406`](https://github.com/truecharts/charts/commit/90b6406e24ff4f8fcb9ccb586f2c1fae0654c91a) • [@TrueCharts Bot] (2024-09-16)
+
 ## 7.1.6 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.16@ea19f8a by renovate (#26428) • [`3fc10f5`](https://github.com/truecharts/charts/commit/3fc10f588f4af5a073cece42a8659b2c015f93b4) • [@TrueCharts Bot] (2024-09-15)

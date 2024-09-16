@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.7 • [Train: stable]
+
+- chore(deps): update container image ich777/openttdserver to latest@259924c by renovate (#26469) • [`8475335`](https://github.com/truecharts/charts/commit/847533583aeb27d91542dc37f5e08201a6cfc825) • [@TrueCharts Bot] (2024-09-16)
+
 ## 7.1.6 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.16@ea19f8a by renovate (#26428) • [`3fc10f5`](https://github.com/truecharts/charts/commit/3fc10f588f4af5a073cece42a8659b2c015f93b4) • [@TrueCharts Bot] (2024-09-15)
