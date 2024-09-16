@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 23.6.0 • [Train: stable]
+
+- chore(deps): update container image photoprism/photoprism to v240915@1f14335 by renovate (#26442) • [`8dc3c3e`](https://github.com/truecharts/charts/commit/8dc3c3e67b07f6703876a4beebe62251df77a340) • [@TrueCharts Bot] (2024-09-16)
+
 ## 23.5.7 • [Train: stable]
 
 - chore(deps): update container image mariadb to v15.3.5@792ebdb by renovate (#26439) • [`ba055dc`](https://github.com/truecharts/charts/commit/ba055dcd2dbbf418edc4b54d6d274d367928a409) • [@TrueCharts Bot] (2024-09-16)
