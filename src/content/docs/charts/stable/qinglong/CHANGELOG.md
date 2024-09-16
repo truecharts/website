@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.1.19 • [Train: stable]
+
+- chore(deps): update container image whyour/qinglong to 2.17.11@4356d28 by renovate (#26539) • [`66223d1`](https://github.com/truecharts/charts/commit/66223d12b993f9d88e55c39b57bae730c34efd59) • [@TrueCharts Bot] (2024-09-16)
+
 ## 11.1.18 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.16@ea19f8a by renovate (#26428) • [`3fc10f5`](https://github.com/truecharts/charts/commit/3fc10f588f4af5a073cece42a8659b2c015f93b4) • [@TrueCharts Bot] (2024-09-15)
