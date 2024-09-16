@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 31.5.16 • [Train: premium]
+
+- chore(deps): update container image redis to v15.2.7@d261bbb by renovate (#26441) • [`2b2f0c7`](https://github.com/truecharts/charts/commit/2b2f0c790d3564175ec7af9833dccf179272e588) • [@TrueCharts Bot] (2024-09-16)
+
 ## 31.5.15 • [Train: premium]
 
 - chore(deps): update container image nginxinc/nginx-unprivileged to 1.27.1@d98d0e6 by renovate (#26448) • [`418dd94`](https://github.com/truecharts/charts/commit/418dd94987681e4e5ffe64865efae471eb3948ec) • [@TrueCharts Bot] (2024-09-16)
