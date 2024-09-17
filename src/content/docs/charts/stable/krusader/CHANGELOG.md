@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.8 • [Train: stable]
+
+- chore(deps): update container image ich777/krusader to latest@0948b3a by renovate (#26574) • [`2c979c0`](https://github.com/truecharts/charts/commit/2c979c0eb003cfeed8fe44f0b92bb0242bce819f) • [@TrueCharts Bot] (2024-09-17)
+
 ## 7.1.7 • [Train: stable]
 
 - chore(deps): update container image ich777/krusader to latest@bda0f3a by renovate (#26463) • [`341a0af`](https://github.com/truecharts/charts/commit/341a0afc5fb7753fa28454e4856da24d8c739766) • [@TrueCharts Bot] (2024-09-16)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.11 • [Train: stable]
+
+- chore(deps): update container image ich777/thunderbird to latest@c840084 by renovate (#26577) • [`167f04b`](https://github.com/truecharts/charts/commit/167f04be6a8bd83c43afb3fe71ade9af8fd82a5b) • [@TrueCharts Bot] (2024-09-17)
+
 ## 7.1.10 • [Train: stable]
 
 - chore(deps): update container image ich777/thunderbird to latest@da4cb14 by renovate (#26522) • [`80e2e6b`](https://github.com/truecharts/charts/commit/80e2e6b31f9521e6ae4203fffb341a5e9d0602d8) • [@TrueCharts Bot] (2024-09-16)

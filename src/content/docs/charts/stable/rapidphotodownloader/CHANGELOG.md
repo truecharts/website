@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.8 • [Train: stable]
+
+- chore(deps): update container image ich777/rapidphotodownloader to latest@1d572e1 by renovate (#26576) • [`6f9b07e`](https://github.com/truecharts/charts/commit/6f9b07e9dfbb84df29f99defd30214b1c2fa8dac) • [@TrueCharts Bot] (2024-09-17)
+
 ## 7.1.7 • [Train: stable]
 
 - chore(deps): update container image ich777/rapidphotodownloader to latest@74da1f9 by renovate (#26471) • [`15b36d7`](https://github.com/truecharts/charts/commit/15b36d73d7fe1d44cb5bd9e2cdcd2308aa5a26a5) • [@TrueCharts Bot] (2024-09-16)

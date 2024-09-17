@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.1.10 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/a-sync/game-server-watcher to v3.1.20@dea53a0 by renovate (#26581) • [`31d65d4`](https://github.com/truecharts/charts/commit/31d65d430d8cad0ed5f4211539b67e76ff8817d1) • [@TrueCharts Bot] (2024-09-17)
+
 ## 3.1.9 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.16@ea19f8a by renovate (#26428) • [`3fc10f5`](https://github.com/truecharts/charts/commit/3fc10f588f4af5a073cece42a8659b2c015f93b4) • [@TrueCharts Bot] (2024-09-15)

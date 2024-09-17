@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.8 • [Train: stable]
+
+- chore(deps): update container image ich777/chrome to latest@bbe3f4a by renovate (#26571) • [`02a3210`](https://github.com/truecharts/charts/commit/02a32105b394227cd5a253a2bb7e2f96011c05c8) • [@TrueCharts Bot] (2024-09-17)
+
 ## 7.1.7 • [Train: stable]
 
 - chore(deps): update container image ich777/chrome to latest@4a9d224 by renovate (#26458) • [`a9a0aa1`](https://github.com/truecharts/charts/commit/a9a0aa19dd27ac36c4066498ae8f8855f7e95dbc) • [@TrueCharts Bot] (2024-09-16)
