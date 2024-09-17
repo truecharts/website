@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.8 • [Train: stable]
+
+- chore(deps): update container image ich777/electrum to latest@be7f12c by renovate (#26572) • [`efa2792`](https://github.com/truecharts/charts/commit/efa27926f9fa5a2736ef96b63d4daa3466ab7e6c) • [@TrueCharts Bot] (2024-09-17)
+
 ## 7.1.7 • [Train: stable]
 
 - chore(deps): update container image ich777/electrum to latest@9f2a6c5 by renovate (#26460) • [`d850f11`](https://github.com/truecharts/charts/commit/d850f11989ef83fe19e561541a52fefcbf23a411) • [@TrueCharts Bot] (2024-09-16)
