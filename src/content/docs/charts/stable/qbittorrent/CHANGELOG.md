@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 21.1.11 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/onedr0p/qbittorrent to v4.6.7@5391f94 by renovate (#26566) • [`2ea2f77`](https://github.com/truecharts/charts/commit/2ea2f77ab2d822eda1b7bd1225f08fae59ab94f8) • [@TrueCharts Bot] (2024-09-17)
+
 ## 21.1.10 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.16@ea19f8a by renovate (#26428) • [`3fc10f5`](https://github.com/truecharts/charts/commit/3fc10f588f4af5a073cece42a8659b2c015f93b4) • [@TrueCharts Bot] (2024-09-15)
