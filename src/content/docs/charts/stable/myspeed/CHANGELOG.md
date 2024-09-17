@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 0.0.4 • [Train: stable]
+
+- fix(myspeed) add data persistence (#26556) • [`8eedfdc`](https://github.com/truecharts/charts/commit/8eedfdc321312e67d5efd231ef82957f453e9629) • [@Xstar97TheNoob] (2024-09-16)
+
 ## 0.0.3 • [Train: stable]
 
 - Commit daily changes • [`77756a6`](https://github.com/truecharts/charts/commit/77756a63e83a320541c5961b3d3b7bf769cd9bd8) • [@TrueCharts-Bot] (2024-09-16)
