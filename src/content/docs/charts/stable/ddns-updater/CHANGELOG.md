@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.3.0 • [Train: stable]
+
+- chore(deps): update container image qmcgaw/ddns-updater to v2.8.0@9103e5c by renovate (#26604) • [`8663fe6`](https://github.com/truecharts/charts/commit/8663fe6639bbd3d120166d91bc6211c91120c1ac) • [@TrueCharts Bot] (2024-09-18)
+
 ## 11.2.5 • [Train: stable]
 
 - chore(deps): update container image qmcgaw/ddns-updater to v2.7.1@987b410 by renovate (#26583) • [`c842fdb`](https://github.com/truecharts/charts/commit/c842fdbf3e6303d730b9dbb34d2c779e58d44316) • [@TrueCharts Bot] (2024-09-17)

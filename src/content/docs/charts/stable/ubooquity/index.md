@@ -2,7 +2,7 @@
 title: ubooquity
 ---
 
-![Version: 12.1.15](https://img.shields.io/badge/Version-12.1.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.1.4](https://img.shields.io/badge/AppVersion-2.1.4-informational?style=flat-square)
+![Version: 12.1.16](https://img.shields.io/badge/Version-12.1.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.1.4](https://img.shields.io/badge/AppVersion-2.1.4-informational?style=flat-square)
 
 Ubooquity is a free, lightweight and easy-to-use home server for your comics and ebooks.
 

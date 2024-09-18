@@ -2,7 +2,7 @@
 title: rimgo
 ---
 
-![Version: 8.1.103](https://img.shields.io/badge/Version-8.1.103-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 8.1.104](https://img.shields.io/badge/Version-8.1.104-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Alternative Imgur front-end
 
