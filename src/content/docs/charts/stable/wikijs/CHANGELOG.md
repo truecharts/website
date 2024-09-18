@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 17.1.7 • [Train: stable]
+
+- chore(deps): update container image requarks/wiki to v2.5.304@99f465d by renovate (#26615) • [`a3d6db0`](https://github.com/truecharts/charts/commit/a3d6db01a4e61c12af2c7c2f419888acca6ff11e) • [@TrueCharts Bot] (2024-09-18)
+
 ## 17.1.6 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.16@ea19f8a by renovate (#26428) • [`3fc10f5`](https://github.com/truecharts/charts/commit/3fc10f588f4af5a073cece42a8659b2c015f93b4) • [@TrueCharts Bot] (2024-09-15)
