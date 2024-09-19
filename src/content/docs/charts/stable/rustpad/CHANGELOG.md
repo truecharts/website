@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.9 • [Train: stable]
+
+- chore(deps): update container image ekzhang/rustpad to latest@b4237c9 by renovate (#26667) • [`646d3c5`](https://github.com/truecharts/charts/commit/646d3c5950f34b495bad837ec85459e353fdda7a) • [@TrueCharts Bot] (2024-09-19)
+
 ## 7.1.8 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.16@ea19f8a by renovate (#26428) • [`3fc10f5`](https://github.com/truecharts/charts/commit/3fc10f588f4af5a073cece42a8659b2c015f93b4) • [@TrueCharts Bot] (2024-09-15)
