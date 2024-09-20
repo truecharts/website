@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.3.9 • [Train: stable]
+
+- chore(deps): update container image doitandbedone/ispyagentdvr to v5.7.8.0@25ee98e by renovate (#26700) • [`8c5112d`](https://github.com/truecharts/charts/commit/8c5112d3ad3d76c5addae53fd0a346747db223b7) • [@TrueCharts Bot] (2024-09-20)
+
 ## 11.3.8 • [Train: stable]
 
 - chore(deps): update container image doitandbedone/ispyagentdvr to v5.7.7.0@59a1fc7 by renovate (#26664) • [`bf6e987`](https://github.com/truecharts/charts/commit/bf6e9872574b4f057ba74c00ea9e7a8596e927a5) • [@TrueCharts Bot] (2024-09-19)
