@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.1.12 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.18@7f6a309 by renovate (#26673) • [`e061ead`](https://github.com/truecharts/charts/commit/e061eade8e506c3fe7e51e000d60a82696a79375) • [@TrueCharts Bot] (2024-09-20)
+
 ## 5.1.11 • [Train: stable]
 
 - chore(deps): update container image jasongdove/ersatztv to v0.8.8 by renovate (#26674) • [`087b5c2`](https://github.com/truecharts/charts/commit/087b5c26c6182b4317250b5f9846c8b88a1bd1cb) • [@TrueCharts Bot] (2024-09-19)
