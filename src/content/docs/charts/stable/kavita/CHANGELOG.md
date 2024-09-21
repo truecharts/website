@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.1.11 • [Train: stable]
+
+- chore(deps): update container image jvmilazz0/kavita to 0.8.3@6d6bf8e by renovate (#26709) • [`2b62cf6`](https://github.com/truecharts/charts/commit/2b62cf6f4bf200ae9a172183278c080158983756) • [@TrueCharts Bot] (2024-09-21)
+
 ## 11.1.10 • [Train: stable]
 
 - chore(deps): update container image jvmilazz0/kavita to v0.8.3@86b83cf by renovate (#26630) • [`def9d39`](https://github.com/truecharts/charts/commit/def9d39f9067b12f0c21c9a51baf00ae0b83105b) • [@TrueCharts Bot] (2024-09-18)
