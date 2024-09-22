@@ -134,7 +134,7 @@ Go back to the "preparation" section and make sure the IP you are trying to move
   7. Hit `save` and wait for the system to create the Zvol. The GUI should refresh and then show your Zvol in the list of datasets like so
       ![ZVOL Creation 2](./img/vm_zvol2.png)
 
-  8. As you can see, I have 2 Zvols in my dataset. This is because we [require](/clustertool/virtual-machines/systemrequirements/#storage-recommendations) the presence of multiple disks for the Talos VM. So, repeat the above steps, however this time set `Size for this zvol` to between `768GiB` and `2TiB` or however large you desire it to be. The first Zvol you created will be the "system" disk for Talos, and the second Zvol will be the "data" disk for Talos. Instructions on how to attach the second Zvol to the Talos VM will follow below.
+  8. As you can see, I have 2 Zvols in my dataset. Multiple storage devices/drives aren't required for Talos, but if you would like them then you can repeat the above steps, however this time set `Size for this zvol` to between `768GiB` and `2TiB` or however large you desire it to be. The first Zvol you created will be the "system" disk for Talos, and the second Zvol will be the "data" disk for Talos. Instructions on how to attach the second Zvol to the Talos VM will follow below.
 
 </Steps>
 
@@ -203,7 +203,7 @@ Change the `Attach NIC` to the Bridge you created in the beginning of the guide
 
 ### Installation Media
 
-1. Download the Talos Linux image [here](https://github.com/siderolabs/talos/releases/download/v1.7.5/metal-amd64.iso) and save it to your PC
+1. Download the Talos Linux image [here](https://github.com/siderolabs/talos/releases/download/v1.7.6/metal-amd64.iso) and save it to your PC
 
 2. Click on `Upload New Image File` in the VM Creation Screen and choose `Choose File` and select the downloaded ISO. Make sure to select a location _on your SCALE host_ where you want to save your ISO to. An example can be seen below:
 
@@ -224,6 +224,12 @@ If you followed this guide correctly, the options shown should look similar to t
 ![VM Confirm](./img/vm_confirm.png)
 
 ### Attaching Extra Disk
+
+:::note
+
+You can skip this step if you don't have multiple disks configured for usage with Talos
+
+:::
 
 Now that we have created the Talos VM, we need to attach the second Zvol we created earlier to it.
 
