@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 21.7.0 • [Train: stable]
+
+- chore(deps): update container image zwavejs/zwave-js-ui to v9.20.0@009c6cd by renovate (#26780) • [`ea8a790`](https://github.com/truecharts/charts/commit/ea8a790cc067311f4b01860c818c88daf72b39bc) • [@TrueCharts Bot] (2024-09-24)
+
 ## 21.6.0 • [Train: stable]
 
 - chore(deps): update container image zwavejs/zwave-js-ui to v9.19.0@a39688f by renovate (#26584) • [`fc24f5d`](https://github.com/truecharts/charts/commit/fc24f5d7ad715813f9db649856305c3e6ee771f7) • [@TrueCharts Bot] (2024-09-17)

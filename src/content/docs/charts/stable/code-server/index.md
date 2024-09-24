@@ -2,7 +2,7 @@
 title: code-server
 ---
 
-![Version: 13.4.3](https://img.shields.io/badge/Version-13.4.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.92.2](https://img.shields.io/badge/AppVersion-4.92.2-informational?style=flat-square)
+![Version: 13.5.0](https://img.shields.io/badge/Version-13.5.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.93.1](https://img.shields.io/badge/AppVersion-4.93.1-informational?style=flat-square)
 
 Run VS Code on any machine anywhere and access it in the browser.
 

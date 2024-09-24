@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.3.5 • [Train: incubator]
+
+- chore(deps): update container image docuseal/docuseal to v1.7.3@97321a3 by renovate (#26777) • [`5663037`](https://github.com/truecharts/charts/commit/5663037d7eaf0d17567620de5ea827e9dc5506a0) • [@TrueCharts Bot] (2024-09-24)
+
 ## 2.3.4 • [Train: incubator]
 
 - chore(deps): update container image docuseal/docuseal to v1.7.2@e76edcd by renovate (#26527) • [`0274dbf`](https://github.com/truecharts/charts/commit/0274dbfc0ae0653bec867581c8492a5a73dad5c6) • [@TrueCharts Bot] (2024-09-16)
