@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.1.9 • [Train: stable]
+
+- chore(deps): update container image rocker/rstudio to 4.4.1@e20873e by renovate (#26820) • [`1c3ecc9`](https://github.com/truecharts/charts/commit/1c3ecc94a3bb08ed89e6b396a6294c0c0f5ecd6a) • [@TrueCharts Bot] (2024-09-24)
+
 ## 8.1.8 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.16@ea19f8a by renovate (#26428) • [`3fc10f5`](https://github.com/truecharts/charts/commit/3fc10f588f4af5a073cece42a8659b2c015f93b4) • [@TrueCharts Bot] (2024-09-15)

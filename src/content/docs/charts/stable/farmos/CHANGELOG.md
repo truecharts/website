@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.9 • [Train: stable]
+
+- chore(deps): update container image farmos/farmos to latest@197eb96 by renovate (#26813) • [`d2ff715`](https://github.com/truecharts/charts/commit/d2ff71571acb6cd3eb71ed0fc5ff17f3baed7431) • [@TrueCharts Bot] (2024-09-24)
+
 ## 7.1.8 • [Train: stable]
 
 - chore(deps): update container image farmos/farmos to latest@5149140 by renovate (#26636) • [`acff1ee`](https://github.com/truecharts/charts/commit/acff1eea7f7de3c5de0446a2fa219044d4dbe501) • [@TrueCharts Bot] (2024-09-19)

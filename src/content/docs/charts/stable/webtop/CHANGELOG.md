@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.1.70 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.18@7f6a309 by renovate (#26694) • [`d11e831`](https://github.com/truecharts/charts/commit/d11e831f18734d9378ce38b73e28cc7d1930b94f) • [@TrueCharts Bot] (2024-09-24)
+
 ## 11.1.69 • [Train: stable]
 
 - chore(deps): update container image lscr.io/linuxserver/webtop to ubuntu-kde@614c4e6 by renovate (#26807) • [`9457a2f`](https://github.com/truecharts/charts/commit/9457a2f5a3466954a52e0afa13217321bf56c09c) • [@TrueCharts Bot] (2024-09-24)

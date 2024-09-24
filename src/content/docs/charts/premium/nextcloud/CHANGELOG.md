@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 32.0.2 • [Train: premium]
+
+- chore(deps): update container image nginxinc/nginx-unprivileged to 1.27.1@09d7e89 by renovate (#26817) • [`40a6835`](https://github.com/truecharts/charts/commit/40a68354e6cb6cca104a304756adc74850243d26) • [@TrueCharts Bot] (2024-09-24)
+
 ## 32.0.1 • [Train: premium]
 
 - chore(deps): update container image nginxinc/nginx-unprivileged to 1.27.1@f748071 by renovate (#26774) • [`2ac798c`](https://github.com/truecharts/charts/commit/2ac798c2626c33e5a7104b64a425996c6d26034b) • [@TrueCharts Bot] (2024-09-24)
