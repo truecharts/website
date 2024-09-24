@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.1.8 • [Train: stable]
+
+- chore(deps): update container image edgd1er/webnut to latest@cb2c70e by renovate (#26802) • [`a073a6f`](https://github.com/truecharts/charts/commit/a073a6fe4de87004f3ad0823b16d5314a5fb7e03) • [@TrueCharts Bot] (2024-09-24)
+
 ## 10.1.7 • [Train: stable]
 
 - chore(deps): update container image edgd1er/webnut to latest@7ea2132 by renovate (#26770) • [`48cc3fd`](https://github.com/truecharts/charts/commit/48cc3fdc180b39fa42fc0701aeca8e878dd9da41) • [@TrueCharts Bot] (2024-09-24)
