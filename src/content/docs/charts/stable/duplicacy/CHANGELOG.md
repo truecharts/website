@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.1.13 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.19@008fa68 by renovate (#26832) • [`54ad8b0`](https://github.com/truecharts/charts/commit/54ad8b06481ee8cc25ca5ab18fdd4fae71a1b510) • [@TrueCharts Bot] (2024-09-25)
+
 ## 8.1.12 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/hotio/duplicacy to release-1.7.2@c74e17d by renovate (#26837) • [`7d80fee`](https://github.com/truecharts/charts/commit/7d80feeb7a8e0b01302e49184232036bab5f8795) • [@TrueCharts Bot] (2024-09-25)
