@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.1.4 • [Train: incubator]
 
+- Commit daily changes • [`16c568d`](https://github.com/truecharts/charts/commit/16c568d5deaa859047e106cfa5fb53cbe9526e4f) • [@TrueCharts-Bot] (2024-09-25)
 - chore(deps): update container image common to v24.1.18@7f6a309 by renovate (#26694) • [`d11e831`](https://github.com/truecharts/charts/commit/d11e831f18734d9378ce38b73e28cc7d1930b94f) • [@TrueCharts Bot] (2024-09-24)
 
 ## 2.1.3 • [Train: incubator]
