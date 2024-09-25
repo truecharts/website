@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.3.43 • [Train: stable]
+
+- chore(deps): update container image ollama/ollama to v0.3.12 by renovate (#26855) • [`7b03811`](https://github.com/truecharts/charts/commit/7b03811982cf7b2ba69c4d8af2ff08708f514762) • [@TrueCharts Bot] (2024-09-25)
+
 ## 7.3.42 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.18@7f6a309 by renovate (#26694) • [`d11e831`](https://github.com/truecharts/charts/commit/d11e831f18734d9378ce38b73e28cc7d1930b94f) • [@TrueCharts Bot] (2024-09-24)
