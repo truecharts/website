@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.1.12 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/hotio/cloudflareddns to latest@99d831c by renovate (#26836) • [`31b8657`](https://github.com/truecharts/charts/commit/31b8657e0aea4e4ea11f122e7c15ccd8f2826817) • [@TrueCharts Bot] (2024-09-25)
+
 ## 11.1.11 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.16@ea19f8a by renovate (#26428) • [`3fc10f5`](https://github.com/truecharts/charts/commit/3fc10f588f4af5a073cece42a8659b2c015f93b4) • [@TrueCharts Bot] (2024-09-15)
