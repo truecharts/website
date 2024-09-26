@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.1.9 • [Train: stable]
+
+- chore(deps): update jupyter by renovate (#26889) • [`f5b992a`](https://github.com/truecharts/charts/commit/f5b992a2a65b8082b3eee8b191779ecf3f9d832f) • [@TrueCharts Bot] (2024-09-26)
+
 ## 10.1.8 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.16@ea19f8a by renovate (#26306) • [`6ee1a63`](https://github.com/truecharts/charts/commit/6ee1a6382b93c50bb8f4886cd84f77ab88de64da) • [@TrueCharts Bot] (2024-09-15)

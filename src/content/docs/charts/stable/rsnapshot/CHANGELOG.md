@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.1.15 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/rsnapshot to 1.4.5@0437021 by renovate (#26883) • [`43f6caf`](https://github.com/truecharts/charts/commit/43f6caf5b6db08f0106bcd303bdc18a3dbd898bd) • [@TrueCharts Bot] (2024-09-26)
+
 ## 11.1.14 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.17@27e4a4b by renovate (#26629) • [`42551c6`](https://github.com/truecharts/charts/commit/42551c64ae2d36e0ccad2ab43be54cfa027a9dbe) • [@TrueCharts Bot] (2024-09-19)
