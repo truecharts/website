@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 17.3.5 • [Train: premium]
+
+- chore(deps): update container image grafana/grafana to v11.2.1@999ac5b by renovate (#26913) • [`5d6fb59`](https://github.com/truecharts/charts/commit/5d6fb59bba7a2306b34c0228137d643a7a83eb88) • [@TrueCharts Bot] (2024-09-26)
+
 ## 17.3.4 • [Train: premium]
 
 - chore(deps): update container image common to v24.1.16@ea19f8a by renovate (#26428) • [`3fc10f5`](https://github.com/truecharts/charts/commit/3fc10f588f4af5a073cece42a8659b2c015f93b4) • [@TrueCharts Bot] (2024-09-15)
