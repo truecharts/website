@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.14.2 • [Train: stable]
+
+- chore(deps): update container image docker.io/localai/localai to v2.21.0-cublas-cuda11-ffmpeg-core@97a44c5 by renovate (#26878) • [`989a7b1`](https://github.com/truecharts/charts/commit/989a7b105f352621ee1d99a68bbb9e0ad8e0938d) • [@TrueCharts Bot] (2024-09-26)
+
 ## 11.14.1 • [Train: stable]
 
 - chore(deps): update container image docker.io/localai/localai to v2.21.1 by renovate (#26865) • [`d587899`](https://github.com/truecharts/charts/commit/d587899a377849ab2ccc0a40e39eb16874a9e56d) • [@TrueCharts Bot] (2024-09-25)
