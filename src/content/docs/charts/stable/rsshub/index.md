@@ -2,7 +2,7 @@
 title: rsshub
 ---
 
-![Version: 14.3.58](https://img.shields.io/badge/Version-14.3.58-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 14.3.59](https://img.shields.io/badge/Version-14.3.59-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 RSSHub can generate RSS feeds from pretty much everything
 
