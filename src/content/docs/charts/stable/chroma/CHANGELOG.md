@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 4.1.14 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/chroma-core/chroma to v0.5.11@55ed237 by renovate (#26940) • [`111ae0e`](https://github.com/truecharts/charts/commit/111ae0e09f12b407959516d5088f1f125e8111e0) • [@TrueCharts Bot] (2024-09-27)
+
 ## 4.1.13 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/chroma-core/chroma to v0.5.9@5ac0e47 by renovate (#26873) • [`8305bde`](https://github.com/truecharts/charts/commit/8305bdec9d2a3d155fd46abb574e2f01d20859ee) • [@TrueCharts Bot] (2024-09-26)

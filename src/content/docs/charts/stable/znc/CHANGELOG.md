@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.1.13 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/znc to 1.9.1@d167ae1 by renovate (#26934) • [`4483ec0`](https://github.com/truecharts/charts/commit/4483ec0f410fdaceb6b2c1f279a4a1fb7def2ad6) • [@TrueCharts Bot] (2024-09-27)
+
 ## 11.1.12 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/znc to 1.9.1@ea8d94f by renovate (#26687) • [`daaec5f`](https://github.com/truecharts/charts/commit/daaec5f604f11d8b1e69369978463e26dbe76231) • [@TrueCharts Bot] (2024-09-20)
