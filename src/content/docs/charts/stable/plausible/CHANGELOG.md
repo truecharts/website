@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.7.0 • [Train: stable]
+
+- chore(deps): update container image clickhouse to v14.5.0@353d154 by renovate (#26942) • [`8581a38`](https://github.com/truecharts/charts/commit/8581a38cb364425537bd4030e307d175e93197dc) • [@TrueCharts Bot] (2024-09-27)
+
 ## 12.6.9 • [Train: stable]
 
 - chore(deps): update container image clickhouse to v14.4.6@153db6e by renovate (#26435) • [`ad58c1c`](https://github.com/truecharts/charts/commit/ad58c1c89f007dd04d0f961777966d541b40fead) • [@TrueCharts Bot] (2024-09-16)
