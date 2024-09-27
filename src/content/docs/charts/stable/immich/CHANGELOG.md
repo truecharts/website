@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 17.11.1 • [Train: stable]
+
+- chore(deps): update immich to v1.116.1@833f997 by renovate (patch) (#26973) • [`ba11265`](https://github.com/truecharts/charts/commit/ba112656179f0b08c8ca26782e9fc4d936134212) • [@TrueCharts Bot] (2024-09-27)
+
 ## 17.11.0 • [Train: stable]
 
 - chore(deps): update immich to v1.116.0@e31b99b by renovate (minor) (#26916) • [`25aef02`](https://github.com/truecharts/charts/commit/25aef024fb88b824be12b9abbed6d7bfbb0848c1) • [@TrueCharts Bot] (2024-09-26)

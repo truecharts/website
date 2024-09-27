@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.2.0 • [Train: stable]
+
+- chore(deps): update container image 2fauth/2fauth to v5.3.0@13d9547 by renovate (#26974) • [`4016ada`](https://github.com/truecharts/charts/commit/4016ada5fa51d4fc757dbb021235f1ef7fd97164) • [@TrueCharts Bot] (2024-09-27)
+
 ## 3.1.7 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.16@ea19f8a by renovate (#26428) • [`3fc10f5`](https://github.com/truecharts/charts/commit/3fc10f588f4af5a073cece42a8659b2c015f93b4) • [@TrueCharts Bot] (2024-09-15)
