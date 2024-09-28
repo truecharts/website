@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.1.17 • [Train: stable]
+
+- chore(deps): update container image lscr.io/linuxserver/pyload-ng to latest@916eb21 by renovate (#26980) • [`8413a8c`](https://github.com/truecharts/charts/commit/8413a8ccd35d1e639c7d68f6c68ed158d7f6648e) • [@TrueCharts Bot] (2024-09-28)
+
 ## 7.1.16 • [Train: stable]
 
 - chore(deps): update container image lscr.io/linuxserver/pyload-ng to latest@a4285d2 by renovate (#26711) • [`1b5425c`](https://github.com/truecharts/charts/commit/1b5425cdb991cd812a8af0fa086818f73915b67a) • [@TrueCharts Bot] (2024-09-21)
