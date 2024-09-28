@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.1.8 • [Train: incubator]
+
+- chore(deps): update container image pepperlabs/peppermint to latest@9181104 by renovate (#26984) • [`2583a60`](https://github.com/truecharts/charts/commit/2583a60c0cd80af36deef2700fc1b7d905e83ec7) • [@TrueCharts Bot] (2024-09-28)
+
 ## 2.1.7 • [Train: incubator]
 
 - chore(deps): update container image common to v24.1.16@ea19f8a by renovate (#26428) • [`3fc10f5`](https://github.com/truecharts/charts/commit/3fc10f588f4af5a073cece42a8659b2c015f93b4) • [@TrueCharts Bot] (2024-09-15)
