@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 20.1.27 • [Train: stable]
+
+- chore(deps): update container image docker.io/alpine/socat to 1.8.0.0@a6be4c0 by renovate (#26997) • [`e3426f4`](https://github.com/truecharts/charts/commit/e3426f4ef155d977d519b7805c88838f273b43e9) • [@TrueCharts Bot] (2024-09-28)
+
 ## 20.1.26 • [Train: stable]
 
 - chore(deps): update container image docker.io/alpine/socat to 1.8.0.0@bd396cc by renovate (#26717) • [`781fb74`](https://github.com/truecharts/charts/commit/781fb74c0e61f905b4c351e4d3b6fcb704d0feb1) • [@TrueCharts Bot] (2024-09-23)
