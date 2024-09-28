@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.0.2 • [Train: stable]
+
+- chore(deps): update container image wolveix/satisfactory-server to v1.8.7@4b80789 by renovate (#27025) • [`2fe48a6`](https://github.com/truecharts/charts/commit/2fe48a634cb0a878c9de9d646ab8b30ef5137f79) • [@TrueCharts Bot] (2024-09-28)
+
 ## 12.0.1 • [Train: stable]
 
 - chore(deps): update container image wolveix/satisfactory-server to v1.8.6@4af56d4 by renovate (#26702) • [`e7bf411`](https://github.com/truecharts/charts/commit/e7bf411568df3d4f481c2ac345cca02cc1f552aa) • [@TrueCharts Bot] (2024-09-20)
