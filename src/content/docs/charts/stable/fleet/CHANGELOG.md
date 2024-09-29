@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 14.4.13 • [Train: stable]
+
+- chore(deps): update container image mariadb to v15.3.7@999750e by renovate (#27046) • [`708406d`](https://github.com/truecharts/charts/commit/708406dbf41b8bbfdfd09977a870471156575374) • [@TrueCharts Bot] (2024-09-29)
+
 ## 14.4.12 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/fleet to 2.3.3@243323c by renovate (#26947) • [`86f549c`](https://github.com/truecharts/charts/commit/86f549ca30790c271d1941e6868ce6d9a68e8dd3) • [@TrueCharts Bot] (2024-09-27)
