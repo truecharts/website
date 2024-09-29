@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 21.1.17 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/tvheadend to latest@cc0119b by renovate (#27029) • [`53ea0d4`](https://github.com/truecharts/charts/commit/53ea0d44ef7555e0ee74bce21a02d724fc172af7) • [@TrueCharts Bot] (2024-09-29)
+
 ## 21.1.16 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/tvheadend to latest@729118e by renovate (#27020) • [`371621c`](https://github.com/truecharts/charts/commit/371621c430b18b45090390240a2c9b58e1304fe1) • [@TrueCharts Bot] (2024-09-28)
