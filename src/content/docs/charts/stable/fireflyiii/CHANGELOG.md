@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 27.3.10 • [Train: stable]
+
+- chore(deps): update container image fireflyiii/core to version-6.1.21@da3d404 by renovate (#27054) • [`a67b70b`](https://github.com/truecharts/charts/commit/a67b70b4170951313a9e329a0d13c5a48e0c3e52) • [@TrueCharts Bot] (2024-09-29)
+
 ## 27.3.9 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.19@008fa68 by renovate (#26912) • [`88741e7`](https://github.com/truecharts/charts/commit/88741e74911bc2c3d202ca4e28ddf82629962d98) • [@TrueCharts Bot] (2024-09-29)
