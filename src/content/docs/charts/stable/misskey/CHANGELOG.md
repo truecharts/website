@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.6.0 • [Train: stable]
+
+- chore(deps): update container image misskey/misskey to v2024.9.0@a99ce9c by renovate (#27052) • [`dcfddfe`](https://github.com/truecharts/charts/commit/dcfddfefac6b28a998713a67f504a9ce59cf293e) • [@TrueCharts Bot] (2024-09-29)
+
 ## 10.5.6 • [Train: stable]
 
 - chore(deps): update container image redis to v15.2.7@d261bbb by renovate (#26441) • [`2b2f0c7`](https://github.com/truecharts/charts/commit/2b2f0c790d3564175ec7af9833dccf179272e588) • [@TrueCharts Bot] (2024-09-16)

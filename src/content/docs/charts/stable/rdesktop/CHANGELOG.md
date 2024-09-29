@@ -11,6 +11,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.1.46 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.19@008fa68 by renovate (#26912) • [`88741e7`](https://github.com/truecharts/charts/commit/88741e74911bc2c3d202ca4e28ddf82629962d98) • [@TrueCharts Bot] (2024-09-29)
+- chore(deps): update container image lscr.io/linuxserver/rdesktop to arch-kde@6f02280 by renovate (#27049) • [`897520d`](https://github.com/truecharts/charts/commit/897520d500fc0017609d58479395ccc50f53f3b0) • [@TrueCharts Bot] (2024-09-29)
+
 ## 10.1.45 • [Train: stable]
 
 - chore(deps): update rdesktop by renovate (#27043) • [`65edaca`](https://github.com/truecharts/charts/commit/65edaca47c5818f3dda741ebc888bcfe1a2e7a8e) • [@TrueCharts Bot] (2024-09-29)
