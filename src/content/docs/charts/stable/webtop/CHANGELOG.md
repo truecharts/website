@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.1.75 • [Train: stable]
+
+- chore(deps): update container image lscr.io/linuxserver/webtop to arch-openbox@622ff00 by renovate (#27039) • [`1873544`](https://github.com/truecharts/charts/commit/1873544844a03d65e486d4cd5906149918fcf824) • [@TrueCharts Bot] (2024-09-29)
+
 ## 11.1.74 • [Train: stable]
 
 - chore(deps): update webtop by renovate (#27013) • [`a455d41`](https://github.com/truecharts/charts/commit/a455d418238c87f4c39a1be63ebc5a6ead5aa5d9) • [@TrueCharts Bot] (2024-09-28)
