@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.1.86 • [Train: incubator]
+
+- chore(deps): update container image ghcr.io/neggles/sd-webui-docker to latest@9b2ef64 by renovate (#27037) • [`a49e905`](https://github.com/truecharts/charts/commit/a49e905c9bfd4876d9df33a0c3daf82bf94fa74f) • [@TrueCharts Bot] (2024-09-29)
+
 ## 2.1.85 • [Train: incubator]
 
 - chore(deps): update container image ghcr.io/neggles/sd-webui-docker to latest@18e6f4d by renovate (#26998) • [`c60e798`](https://github.com/truecharts/charts/commit/c60e798c528a28a777b4d8354de88ecfd8a74091) • [@TrueCharts Bot] (2024-09-28)
