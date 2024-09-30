@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.1.17 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/pwndrop to 1.0.1@7fddbfe by renovate (#27102) • [`10935a9`](https://github.com/truecharts/charts/commit/10935a9925a36478ec0f78d38b6e19de5268f8cf) • [@TrueCharts Bot] (2024-09-30)
+
 ## 11.1.16 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/pwndrop to 1.0.1@07baeb6 by renovate (#26781) • [`12cf5f3`](https://github.com/truecharts/charts/commit/12cf5f338eba342d2479644afee3a25bb77ff944) • [@TrueCharts Bot] (2024-09-23)
