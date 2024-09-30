@@ -13,7 +13,7 @@ All code and docs are considered Pre-Beta drafts
 
 :::
 
-```yaml
+```python
 from datetime import datetime, timedelta, timezone
 from middlewared.client import Client
 import subprocess
