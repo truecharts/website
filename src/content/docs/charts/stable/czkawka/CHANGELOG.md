@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.3.0 • [Train: stable]
+
+- chore(deps): update container image jlesage/czkawka to v24.09.1@5181167 by renovate (#27076) • [`1ca1d87`](https://github.com/truecharts/charts/commit/1ca1d87ecd01422c5a9d7f7d9711cc14a322fe5c) • [@TrueCharts Bot] (2024-09-30)
+
 ## 11.2.3 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.16@ea19f8a by renovate (#26428) • [`3fc10f5`](https://github.com/truecharts/charts/commit/3fc10f588f4af5a073cece42a8659b2c015f93b4) • [@TrueCharts Bot] (2024-09-15)

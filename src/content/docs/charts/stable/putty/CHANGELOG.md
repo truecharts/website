@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.4.0 • [Train: stable]
+
+- chore(deps): update container image jlesage/putty to v24.09.1@5572657 by renovate (#27081) • [`5a84ea9`](https://github.com/truecharts/charts/commit/5a84ea938f383b10c2ae78a6641b6fa9e4b80169) • [@TrueCharts Bot] (2024-09-30)
+
 ## 11.3.3 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.16@ea19f8a by renovate (#26428) • [`3fc10f5`](https://github.com/truecharts/charts/commit/3fc10f588f4af5a073cece42a8659b2c015f93b4) • [@TrueCharts Bot] (2024-09-15)

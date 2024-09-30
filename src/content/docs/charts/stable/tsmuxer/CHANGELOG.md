@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.3.0 • [Train: stable]
+
+- chore(deps): update container image jlesage/tsmuxer to v24.09.1@8c30f8e by renovate (#27083) • [`6b28e2c`](https://github.com/truecharts/charts/commit/6b28e2c6ea790fbfa705347d229c54da431b6280) • [@TrueCharts Bot] (2024-09-30)
+
 ## 11.2.3 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.16@ea19f8a by renovate (#26428) • [`3fc10f5`](https://github.com/truecharts/charts/commit/3fc10f588f4af5a073cece42a8659b2c015f93b4) • [@TrueCharts Bot] (2024-09-15)

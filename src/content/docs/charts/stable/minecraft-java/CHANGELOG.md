@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.0.7 • [Train: stable]
+
+- chore(deps): update container image itzg/mc-backup to latest@b40aebf by renovate (#27067) • [`2623bd1`](https://github.com/truecharts/charts/commit/2623bd1f66fdde233d533404d2f1533f1b67a68d) • [@TrueCharts Bot] (2024-09-30)
+
 ## 11.0.6 • [Train: stable]
 
 - chore(deps): update container image itzg/mc-backup to latest@fbab303 by renovate (#26698) • [`e315702`](https://github.com/truecharts/charts/commit/e31570272886d3f92fcc857754970d2759de055d) • [@TrueCharts Bot] (2024-09-20)

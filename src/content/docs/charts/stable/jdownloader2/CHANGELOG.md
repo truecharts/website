@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 18.4.0 • [Train: stable]
+
+- chore(deps): update container image jlesage/jdownloader-2 to v24.09.1@e489287 by renovate (#27078) • [`af356af`](https://github.com/truecharts/charts/commit/af356af9e38f2fd0cb96e03fc72c3435a8306b5f) • [@TrueCharts Bot] (2024-09-30)
+
 ## 18.3.3 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.16@ea19f8a by renovate (#26428) • [`3fc10f5`](https://github.com/truecharts/charts/commit/3fc10f588f4af5a073cece42a8659b2c015f93b4) • [@TrueCharts Bot] (2024-09-15)

@@ -2,7 +2,7 @@
 title: mediainfo
 ---
 
-![Version: 11.4.3](https://img.shields.io/badge/Version-11.4.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 24.08.1](https://img.shields.io/badge/AppVersion-24.08.1-informational?style=flat-square)
+![Version: 11.5.0](https://img.shields.io/badge/Version-11.5.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 24.09.1](https://img.shields.io/badge/AppVersion-24.09.1-informational?style=flat-square)
 
 MediaInfo is a convenient unified display of the most relevant technical and tag data for video and audio files.
 
