@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.1.8 • [Train: stable]
+
+- chore(deps): update container image louislam/uptime-kuma to v1.23.15@d8b1b21 by renovate (#27073) • [`5bbbbcd`](https://github.com/truecharts/charts/commit/5bbbbcd0e5f285bb28fa30ec0fe7ceaeecde6c5c) • [@TrueCharts Bot] (2024-09-30)
+
 ## 12.1.7 • [Train: stable]
 
 - chore(deps): update container image louislam/uptime-kuma to v1.23.14@efbd17d by renovate (#27062) • [`2b482c2`](https://github.com/truecharts/charts/commit/2b482c2e164bc6c3c000288fa864c902cdd1def8) • [@TrueCharts Bot] (2024-09-29)
