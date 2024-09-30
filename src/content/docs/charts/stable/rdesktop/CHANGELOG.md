@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.1.48 • [Train: stable]
+
+- chore(deps): update container image lscr.io/linuxserver/rdesktop to ubuntu-i3@ff64b80 by renovate (#27087) • [`af58398`](https://github.com/truecharts/charts/commit/af583982e08ffa9d6bb6d34c70186ca2d01824e3) • [@TrueCharts Bot] (2024-09-30)
+
 ## 10.1.47 • [Train: stable]
 
 - chore(deps): update rdesktop by renovate (#27071) • [`0a1e14c`](https://github.com/truecharts/charts/commit/0a1e14cab8be182d2f53bc4464e698022177287c) • [@TrueCharts Bot] (2024-09-30)
