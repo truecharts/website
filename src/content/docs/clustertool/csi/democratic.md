@@ -1,6 +1,4 @@
 ---
-sidebar:
-  order: 7
 title: Democratic-CSI
 ---
 
