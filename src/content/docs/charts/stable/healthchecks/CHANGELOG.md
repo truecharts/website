@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 16.4.4 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/healthchecks to v3.6.20240930@b257d72 by renovate (#27097) • [`b56d4f0`](https://github.com/truecharts/charts/commit/b56d4f03c701b04c7e950038e9777d5af323e49e) • [@TrueCharts Bot] (2024-09-30)
+
 ## 16.4.3 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/healthchecks to v3.6.20240916@5678adb by renovate (#26528) • [`aadd977`](https://github.com/truecharts/charts/commit/aadd977b680f44b8b294c992703534e52788bf72) • [@TrueCharts Bot] (2024-09-16)
