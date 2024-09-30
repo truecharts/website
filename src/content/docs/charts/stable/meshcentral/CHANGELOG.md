@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 17.1.10 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/ylianst/meshcentral to v1.1.32@9f7c68b by renovate (#27111) • [`15d5984`](https://github.com/truecharts/charts/commit/15d5984b6ae4076bff41426c36d31a553872b029) • [@TrueCharts Bot] (2024-09-30)
+
 ## 17.1.9 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/ylianst/meshcentral to v1.1.31@680d5f3 by renovate (#26955) • [`007fd25`](https://github.com/truecharts/charts/commit/007fd25c0d57dfd1f362897235d3742e9052d99f) • [@TrueCharts Bot] (2024-09-27)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.2.5 • [Train: stable]
+
+- chore(deps): update container image f0rc3/gokapi to v1.9.2@734a6d4 by renovate (#27110) • [`1a0ac5f`](https://github.com/truecharts/charts/commit/1a0ac5f9ac53d13eb60e99610fada7d195642609) • [@TrueCharts Bot] (2024-09-30)
+
 ## 7.2.4 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.16@ea19f8a by renovate (#26428) • [`3fc10f5`](https://github.com/truecharts/charts/commit/3fc10f588f4af5a073cece42a8659b2c015f93b4) • [@TrueCharts Bot] (2024-09-15)
