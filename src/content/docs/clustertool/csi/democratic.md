@@ -11,6 +11,134 @@ All code and docs are considered Pre-Beta drafts
 
 :::
 
+Democratic CSI is a multi-platform CSI, mostly using either local or network (NFS/iSCSI) based storage.
+
+
+## Values
+
+Their Helm-Chart is available at: https://democratic-csi.github.io/charts/
+All below examples, are based on their Helm-Chart
+
+### NFS
+
+
+```yaml
+csiDriver:
+    name: "nfs"
+storageClasses:
+- name: nfs
+  defaultClass: true
+  reclaimPolicy: Delete
+  volumeBindingMode: Immediate
+  allowVolumeExpansion: true
+  parameters:
+    fsType: nfs
+    detachedVolumesFromSnapshots: "false"
+  secrets:
+    provisioner-secret:
+    controller-publish-secret:
+    node-stage-secret:
+    node-publish-secret:
+    controller-expand-secret:
+# if you want to use snapshots
+volumeSnapshotClasses:
+- name: nfs-snapshot
+    parameters:
+        detachedSnapshots: "true"
+driver:
+  config:
+    driver: freenas-api-nfs
+    instance_id:
+    httpConnection:
+        protocol: http
+        host: ${CONFIG_TRUENAS_IP}
+        port: 81
+        allowInsecure: true
+        apiKey: ${TRUENAS_API_KEY}
+    zfs:
+        datasetParentName: ${PATH TO YOUR PARENT SHARE}
+        detachedSnapshotsDatasetParentName: ${PATH TO YOUR PARENT SNAPSHOT SHARE}
+        datasetEnableQuotas: true
+        datasetEnableReservation: false
+        datasetPermissionsMode: "0770"
+        datasetPermissionsUser: 0
+        datasetPermissionsGroup: 0
+    nfs:
+        shareHost: ${CONFIG_TRUENAS_IP}
+        shareAlldirs: false
+        shareAllowedHosts: []
+        shareAllowedNetworks: []
+        shareMaprootUser: root
+        shareMaprootGroup: root
+        shareMapallUser: ""
+        shareMapallGroup: ""
+```
+
+### iSCSI
+
+```yaml
+csiDriver:
+      name: "iscsi"
+storageClasses:
+    - name: iscsi
+    defaultClass: true
+    reclaimPolicy: Delete
+    volumeBindingMode: Immediate
+    allowVolumeExpansion: true
+    parameters:
+        fsType: ext4
+        detachedVolumesFromSnapshots: "false"
+    mountOptions: []
+    secrets:
+        provisioner-secret:
+        controller-publish-secret:
+        node-stage-secret:
+        node-publish-secret:
+        controller-expand-secret:
+volumeSnapshotClasses:
+    - name: iscsi
+    parameters:
+        detachedSnapshots: "true"
+driver:
+    config:
+    driver: freenas-api-iscsi
+    instance_id:
+    httpConnection:
+        protocol: http
+        host: ${TRUENAS_IP}
+        port: 81
+        allowInsecure: true
+        apiKey: ${SECRET_TRUENAS_API}
+    zfs:
+        datasetParentName: ${PATH TO YOUR PARENT SHARE}
+        detachedSnapshotsDatasetParentName: ${PATH TO YOUR PARENT SNAPSHOT SHARE}
+        zvolCompression:
+        zvolDedup:
+        zvolEnableReservation: false
+        zvolBlocksize:
+    iscsi:
+        targetPortal: "${TRUENAS_IP}:3260"
+        interface:
+        namePrefix: csi-
+        nameSuffix: "-talos"
+        targetGroups:
+        - targetGroupPortalGroup: 1
+            targetGroupInitiatorGroup: 1
+            targetGroupAuthType: None
+            targetGroupAuthGroup:
+        extentInsecureTpc: true
+        extentXenCompat: false
+        extentDisablePhysicalBlocksize: true
+        extentBlocksize: 512
+        extentRpm: "SSD"
+        extentAvailThreshold: 0"
+```
+
+## TrueNAS CRON Job Script
+
+Due to flaws in TrueNAS SCALE, this script needs to run each day est. 20min after volsync cycle to clear stuck jobs. (Truenas Cronjob)
+
+
 ```python
 from datetime import datetime, timedelta, timezone
 from middlewared.client import Client
@@ -79,121 +207,7 @@ if __name__ == "__main__":
     main()
 ```
 
-Script needs to run each day 20min after volsync cycle to clear stuck jobs. (Truenas Cronjob)
 
-Need to generate an api key in truenas scale (top right click on your user -> api key)
-Values for democratic csi for nfs:
+## Other references
 
-```yaml
-csiDriver:
-    name: "nfs"
-storageClasses:
-- name: nfs
-  defaultClass: true
-  reclaimPolicy: Delete
-  volumeBindingMode: Immediate
-  allowVolumeExpansion: true
-  parameters:
-    fsType: nfs
-    detachedVolumesFromSnapshots: "false"
-  secrets:
-    provisioner-secret:
-    controller-publish-secret:
-    node-stage-secret:
-    node-publish-secret:
-    controller-expand-secret:
-# if you want to use snapshots
-volumeSnapshotClasses:
-- name: nfs-snapshot
-    parameters:
-        detachedSnapshots: "true"
-driver:
-  config:
-    driver: freenas-api-nfs
-    instance_id:
-    httpConnection:
-        protocol: http
-        host: ${CONFIG_TRUENAS_IP}
-        port: 81
-        allowInsecure: true
-        apiKey: ${TRUENAS_API_KEY}
-    zfs:
-        datasetParentName: ${PATH TO YOUR PARENT SHARE}
-        detachedSnapshotsDatasetParentName: ${PATH TO YOUR PARENT SNAPSHOT SHARE}
-        datasetEnableQuotas: true
-        datasetEnableReservation: false
-        datasetPermissionsMode: "0770"
-        datasetPermissionsUser: 0
-        datasetPermissionsGroup: 0
-    nfs:
-        shareHost: ${CONFIG_TRUENAS_IP}
-        shareAlldirs: false
-        shareAllowedHosts: []
-        shareAllowedNetworks: []
-        shareMaprootUser: root
-        shareMaprootGroup: root
-        shareMapallUser: ""
-        shareMapallGroup: ""
-```
-
-Values for democratic csi for iscsi:
-
-```yaml
-csiDriver:
-      name: "iscsi"
-storageClasses:
-    - name: iscsi
-    defaultClass: true
-    reclaimPolicy: Delete
-    volumeBindingMode: Immediate
-    allowVolumeExpansion: true
-    parameters:
-        fsType: ext4
-        detachedVolumesFromSnapshots: "false"
-    mountOptions: []
-    secrets:
-        provisioner-secret:
-        controller-publish-secret:
-        node-stage-secret:
-        node-publish-secret:
-        controller-expand-secret:
-volumeSnapshotClasses:
-    - name: iscsi
-    parameters:
-        detachedSnapshots: "true"
-driver:
-    config:
-    driver: freenas-api-iscsi
-    instance_id:
-    httpConnection:
-        protocol: http
-        host: ${TRUENAS_IP}
-        port: 81
-        allowInsecure: true
-        apiKey: ${SECRET_TRUENAS_API}
-    zfs:
-        datasetParentName: ${PATH TO YOUR PARENT SHARE}
-        detachedSnapshotsDatasetParentName: ${PATH TO YOUR PARENT SNAPSHOT SHARE}
-        zvolCompression:
-        zvolDedup:
-        zvolEnableReservation: false
-        zvolBlocksize:
-    iscsi:
-        targetPortal: "${TRUENAS_IP}:3260"
-        interface:
-        namePrefix: csi-
-        nameSuffix: "-talos"
-        targetGroups:
-        - targetGroupPortalGroup: 1
-            targetGroupInitiatorGroup: 1
-            targetGroupAuthType: None
-            targetGroupAuthGroup:
-        extentInsecureTpc: true
-        extentXenCompat: false
-        extentDisablePhysicalBlocksize: true
-        extentBlocksize: 512
-        extentRpm: "SSD"
-        extentAvailThreshold: 0"
-```
-
-usual resource for the guide: https://github.com/fenio/k8s-truenas
+Other resource for guidance: https://github.com/fenio/k8s-truenas
