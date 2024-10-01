@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 12.2.0 • [Train: stable]
+
+- chore(deps): update container image benbusby/whoogle-search to v0.9.0@2c87cc3 by renovate (#27120) • [`80489b2`](https://github.com/truecharts/charts/commit/80489b2fab7a15f9431be0207bd762bf816b8f12) • [@TrueCharts Bot] (2024-10-01)
+
 ## 12.1.6 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.16@ea19f8a by renovate (#26428) • [`3fc10f5`](https://github.com/truecharts/charts/commit/3fc10f588f4af5a073cece42a8659b2c015f93b4) • [@TrueCharts Bot] (2024-09-15)

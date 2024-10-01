@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 17.0.7 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/resilio-sync to 3.0.0@6b4c58a by renovate (#27116) • [`88f4061`](https://github.com/truecharts/charts/commit/88f40610e5eed4f06c845b9617e9e9d27d346919) • [@TrueCharts Bot] (2024-10-01)
+
 ## 17.0.6 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/resilio-sync to 3.0.0@7b42f34 by renovate (#26788) • [`72554c5`](https://github.com/truecharts/charts/commit/72554c5bd638e205f8f32525bd141f6e7bcbfd83) • [@TrueCharts Bot] (2024-09-24)
