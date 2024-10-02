@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 21.1.12 • [Train: stable]
+
+- chore(deps): update container image common to v24.1.19@008fa68 by renovate (#27109) • [`2a771b6`](https://github.com/truecharts/charts/commit/2a771b653d0539a4a4458955a834c045e18beda7) • [@TrueCharts Bot] (2024-10-02)
+
 ## 21.1.11 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/onedr0p/bazarr to v1.4.5@7292dc9 by renovate (#27163) • [`a17215b`](https://github.com/truecharts/charts/commit/a17215b6d68c0b433a4b742bb6e3986a9fd272ad) • [@TrueCharts Bot] (2024-10-02)
