@@ -2,7 +2,7 @@
 title: airdcpp-webclient
 ---
 
-![Version: 12.1.7](https://img.shields.io/badge/Version-12.1.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.12.2](https://img.shields.io/badge/AppVersion-2.12.2-informational?style=flat-square)
+![Version: 12.2.0](https://img.shields.io/badge/Version-12.2.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.12.2](https://img.shields.io/badge/AppVersion-2.12.2-informational?style=flat-square)
 
 AirDC++ Web Client is a locally installed application, which is designed for flexible sharing of files or directories within groups of people in a local network or over internet.
 

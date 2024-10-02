@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 18.6.0 • [Train: stable]
+
+- chore(deps): update container image common to v25.0.0@6c13a11 by renovate (#26977) • [`6479095`](https://github.com/truecharts/charts/commit/64790953345c6bde2f8623b193a1ca6546522341) • [@TrueCharts Bot] (2024-10-02)
+
 ## 18.5.0 • [Train: stable]
 
 - chore(deps): update container image traccar/traccar to v6.5@e569632 by renovate (#26622) • [`b97af08`](https://github.com/truecharts/charts/commit/b97af08d7d49ed0dbc87ab9ff0bae12d9eafef10) • [@TrueCharts Bot] (2024-09-18)

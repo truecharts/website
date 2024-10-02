@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 32.1.0 • [Train: premium]
+
+- chore(deps): update container image common to v25.0.0@6c13a11 by renovate (#26977) • [`6479095`](https://github.com/truecharts/charts/commit/64790953345c6bde2f8623b193a1ca6546522341) • [@TrueCharts Bot] (2024-10-02)
+
 ## 32.0.9 • [Train: premium]
 
 - chore(deps): update container image collabora/code to v24.04.8.1.1@9e8449f by renovate (#27134) • [`67094b2`](https://github.com/truecharts/charts/commit/67094b27482c6d9e3e2c50d7fee13cfaa57b892d) • [@TrueCharts Bot] (2024-10-02)

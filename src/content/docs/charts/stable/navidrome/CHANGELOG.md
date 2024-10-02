@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 21.3.0 • [Train: stable]
+
+- chore(deps): update container image common to v25.0.0@6c13a11 by renovate (#26977) • [`6479095`](https://github.com/truecharts/charts/commit/64790953345c6bde2f8623b193a1ca6546522341) • [@TrueCharts Bot] (2024-10-02)
+
 ## 21.2.3 • [Train: stable]
 
 - chore(deps): update container image deluan/navidrome to v0.53.3@d864c5d by renovate (#26993) • [`fc77b53`](https://github.com/truecharts/charts/commit/fc77b53588c297ff7ffdd1d620d46b5e72f8b3d7) • [@TrueCharts Bot] (2024-09-28)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 20.2.0 • [Train: stable]
+
+- chore(deps): update container image common to v25.0.0@6c13a11 by renovate (#26977) • [`6479095`](https://github.com/truecharts/charts/commit/64790953345c6bde2f8623b193a1ca6546522341) • [@TrueCharts Bot] (2024-10-02)
+
 ## 20.1.9 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/tautulli/tautulli to v2.14.5@6017b49 by renovate (#26730) • [`63fe33c`](https://github.com/truecharts/charts/commit/63fe33c1d587f833fc8e5132500c8a9f5588e271) • [@TrueCharts Bot] (2024-09-24)

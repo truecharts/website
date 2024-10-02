@@ -2,7 +2,7 @@
 title: kavita
 ---
 
-![Version: 11.1.11](https://img.shields.io/badge/Version-11.1.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.8.3](https://img.shields.io/badge/AppVersion-0.8.3-informational?style=flat-square)
+![Version: 11.2.0](https://img.shields.io/badge/Version-11.2.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.8.3](https://img.shields.io/badge/AppVersion-0.8.3-informational?style=flat-square)
 
 Kavita is a rocket fueled self-hosted digital library which supports a vast array of file formats
 

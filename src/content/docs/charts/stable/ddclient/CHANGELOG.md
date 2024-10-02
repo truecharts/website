@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.2.0 • [Train: stable]
+
+- chore(deps): update container image common to v25.0.0@6c13a11 by renovate (#26977) • [`6479095`](https://github.com/truecharts/charts/commit/64790953345c6bde2f8623b193a1ca6546522341) • [@TrueCharts Bot] (2024-10-02)
+
 ## 11.1.17 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/linuxserver/ddclient to 3.11.2@cc4479a by renovate (#27132) • [`04f0338`](https://github.com/truecharts/charts/commit/04f03380e26c699cc0332fd95de29f5dfa22ee3b) • [@TrueCharts Bot] (2024-10-01)

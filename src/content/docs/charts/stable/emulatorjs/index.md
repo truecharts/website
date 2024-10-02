@@ -2,7 +2,7 @@
 title: emulatorjs
 ---
 
-![Version: 11.1.19](https://img.shields.io/badge/Version-11.1.19-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.9.2](https://img.shields.io/badge/AppVersion-1.9.2-informational?style=flat-square)
+![Version: 11.2.0](https://img.shields.io/badge/Version-11.2.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.9.2](https://img.shields.io/badge/AppVersion-1.9.2-informational?style=flat-square)
 
 Emulatorjs - In browser web based emulation portable to nearly any device for many retro consoles.
 

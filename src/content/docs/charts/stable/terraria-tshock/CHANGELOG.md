@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.2.0 • [Train: stable]
+
+- chore(deps): update container image common to v25.0.0@6c13a11 by renovate (#26977) • [`6479095`](https://github.com/truecharts/charts/commit/64790953345c6bde2f8623b193a1ca6546522341) • [@TrueCharts Bot] (2024-10-02)
+
 ## 8.1.7 • [Train: stable]
 
 - chore(deps): update container image ich777/terrariaserver to tshock@b008124 by renovate (#26521) • [`2a405e1`](https://github.com/truecharts/charts/commit/2a405e12c1914df3eefc522f30ad67b2e40085a8) • [@TrueCharts Bot] (2024-09-16)

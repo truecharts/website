@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.2.0 • [Train: stable]
+
+- chore(deps): update container image common to v25.0.0@6c13a11 by renovate (#26977) • [`6479095`](https://github.com/truecharts/charts/commit/64790953345c6bde2f8623b193a1ca6546522341) • [@TrueCharts Bot] (2024-10-02)
+
 ## 5.1.12 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/ix-ai/smtp to v0.5.5@56f3c12 by renovate (#27060) • [`58b9fc3`](https://github.com/truecharts/charts/commit/58b9fc3762c631de74a5e0f9e5e8669665fff74b) • [@TrueCharts Bot] (2024-09-29)

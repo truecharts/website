@@ -20,6 +20,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - fix(vikunja) Update vikunja to last version (#25614) • [`26c370a`](https://github.com/truecharts/charts/commit/26c370a93f39bcd3ae9bff15cf44a84fff387014) • [@yodatak] (2024-08-31)
 
+## 15.3.0 • [Train: stable]
+
+- chore(deps): update container image common to v25.0.0@6c13a11 by renovate (#26977) • [`6479095`](https://github.com/truecharts/charts/commit/64790953345c6bde2f8623b193a1ca6546522341) • [@TrueCharts Bot] (2024-10-02)
+
 ## 15.2.16 • [Train: stable]
 
 - chore(deps): update container image vikunja/vikunja to v0.24.4@c93c588 by renovate (#27064) • [`df609f4`](https://github.com/truecharts/charts/commit/df609f4ab86a8ce921a44d0ceed98b66894f0b9e) • [@TrueCharts Bot] (2024-09-29)

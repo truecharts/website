@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 15.5.0 • [Train: stable]
+
+- chore(deps): update container image common to v25.0.0@6c13a11 by renovate (#26977) • [`6479095`](https://github.com/truecharts/charts/commit/64790953345c6bde2f8623b193a1ca6546522341) • [@TrueCharts Bot] (2024-10-02)
+
 ## 15.4.0 • [Train: stable]
 
 - chore(deps): update container image gotson/komga to v1.14.0@243e6c3 by renovate (#26956) • [`b829ee0`](https://github.com/truecharts/charts/commit/b829ee09dbe5b709ffbae4a6f4adf9b2360520af) • [@TrueCharts Bot] (2024-09-27)

@@ -2,7 +2,7 @@
 title: remmina
 ---
 
-![Version: 12.1.20](https://img.shields.io/badge/Version-12.1.20-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.4.35](https://img.shields.io/badge/AppVersion-1.4.35-informational?style=flat-square)
+![Version: 12.2.0](https://img.shields.io/badge/Version-12.2.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.4.35](https://img.shields.io/badge/AppVersion-1.4.35-informational?style=flat-square)
 
 A remote desktop client written in GTK
 

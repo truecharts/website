@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 11.3.0 • [Train: stable]
+
+- chore(deps): update container image common to v25.0.0@6c13a11 by renovate (#26977) • [`6479095`](https://github.com/truecharts/charts/commit/64790953345c6bde2f8623b193a1ca6546522341) • [@TrueCharts Bot] (2024-10-02)
+
 ## 11.2.5 • [Train: stable]
 
 - chore(deps): update container image openhab/openhab to v4.2.2@8ddbadc by renovate (#27074) • [`6530de4`](https://github.com/truecharts/charts/commit/6530de478f29074208f1fa5adef1c81dbdbca6fa) • [@TrueCharts Bot] (2024-09-30)

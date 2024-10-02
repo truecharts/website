@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.2.0 • [Train: stable]
+
+- chore(deps): update container image common to v25.0.0@6c13a11 by renovate (#26977) • [`6479095`](https://github.com/truecharts/charts/commit/64790953345c6bde2f8623b193a1ca6546522341) • [@TrueCharts Bot] (2024-10-02)
+
 ## 7.1.7 • [Train: stable]
 
 - chore(deps): update container image ich777/online-check-pushover to latest@ac58b44 by renovate (#26468) • [`3b6f351`](https://github.com/truecharts/charts/commit/3b6f3511e53d59e2261eaa47f880c4ac83f0f4ae) • [@TrueCharts Bot] (2024-09-16)

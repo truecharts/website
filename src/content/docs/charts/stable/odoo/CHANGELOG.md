@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 19.2.0 • [Train: stable]
+
+- chore(deps): update container image common to v25.0.0@6c13a11 by renovate (#26977) • [`6479095`](https://github.com/truecharts/charts/commit/64790953345c6bde2f8623b193a1ca6546522341) • [@TrueCharts Bot] (2024-10-02)
+
 ## 19.1.17 • [Train: stable]
 
 - chore(deps): update container image docker.io/odoo to 17.0@36fd719 by renovate (#26932) • [`cd1cba2`](https://github.com/truecharts/charts/commit/cd1cba2657bff349eefebbbc9d7886746c6fd79b) • [@TrueCharts Bot] (2024-09-27)

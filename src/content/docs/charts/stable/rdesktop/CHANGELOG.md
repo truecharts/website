@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.2.0 • [Train: stable]
+
+- chore(deps): update container image common to v25.0.0@6c13a11 by renovate (#26977) • [`6479095`](https://github.com/truecharts/charts/commit/64790953345c6bde2f8623b193a1ca6546522341) • [@TrueCharts Bot] (2024-10-02)
+
 ## 10.1.48 • [Train: stable]
 
 - chore(deps): update container image lscr.io/linuxserver/rdesktop to ubuntu-i3@ff64b80 by renovate (#27087) • [`af58398`](https://github.com/truecharts/charts/commit/af583982e08ffa9d6bb6d34c70186ca2d01824e3) • [@TrueCharts Bot] (2024-09-30)

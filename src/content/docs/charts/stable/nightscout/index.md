@@ -2,7 +2,7 @@
 title: nightscout
 ---
 
-![Version: 7.1.6](https://img.shields.io/badge/Version-7.1.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 7.2.0](https://img.shields.io/badge/Version-7.2.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Allows the installation of Nightscout, a remote CGM monitoring system. It allows the upload and display of blood glucous values and can be configuered to issue warnings etc. This is mainly useful to diabetics.
 

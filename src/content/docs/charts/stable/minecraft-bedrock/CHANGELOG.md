@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.2.0 • [Train: stable]
+
+- chore(deps): update container image common to v25.0.0@6c13a11 by renovate (#26977) • [`6479095`](https://github.com/truecharts/charts/commit/64790953345c6bde2f8623b193a1ca6546522341) • [@TrueCharts Bot] (2024-10-02)
+
 ## 10.1.12 • [Train: stable]
 
 - chore(deps): update container image itzg/minecraft-bedrock-server to latest@7ca9b95 by renovate (#26782) • [`264ba49`](https://github.com/truecharts/charts/commit/264ba49d58e78d77d6841dc40c3c1c5787d34eea) • [@TrueCharts Bot] (2024-09-23)

@@ -2,7 +2,7 @@
 title: boinc
 ---
 
-![Version: 11.1.21](https://img.shields.io/badge/Version-11.1.21-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 11.2.0](https://img.shields.io/badge/Version-11.2.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 BOINC is a platform for high-throughput computing on a large scale (thousands or millions of computers).
 

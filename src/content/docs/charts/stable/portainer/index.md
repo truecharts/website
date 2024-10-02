@@ -2,7 +2,7 @@
 title: portainer
 ---
 
-![Version: 10.2.5](https://img.shields.io/badge/Version-10.2.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.21.2](https://img.shields.io/badge/AppVersion-2.21.2-informational?style=flat-square)
+![Version: 10.3.0](https://img.shields.io/badge/Version-10.3.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.21.2](https://img.shields.io/badge/AppVersion-2.21.2-informational?style=flat-square)
 
 Container management made easy
 

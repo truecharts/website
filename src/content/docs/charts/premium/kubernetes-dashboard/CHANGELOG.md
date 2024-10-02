@@ -15,6 +15,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - chore: Add a bunch of direct-from-upstream system charts for clustertool-use (#23768) • [`e1bc567`](https://github.com/truecharts/charts/commit/e1bc5676c686f29322d66bd7e71f4c41c411ecf5) • [@Kjeld Schouten] (2024-06-25)
 
+## 1.7.0 • [Train: premium]
+
+- chore(deps): update container image common to v25.0.0@6c13a11 by renovate (#26977) • [`6479095`](https://github.com/truecharts/charts/commit/64790953345c6bde2f8623b193a1ca6546522341) • [@TrueCharts Bot] (2024-10-02)
+
 ## 1.6.0 • [Train: premium]
 
 - chore(deps): update helm chart kong to 2.42.0 by renovate (#26915) • [`aa6a0d6`](https://github.com/truecharts/charts/commit/aa6a0d63ccd465b26c1fbcda0968d6b140a7f1b8) • [@TrueCharts Bot] (2024-09-26)
