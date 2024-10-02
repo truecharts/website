@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 13.3.5 • [Train: stable]
+
+- chore(deps): update container image koenkk/zigbee2mqtt to v1.40.2@40dca7e by renovate (#27154) • [`1264484`](https://github.com/truecharts/charts/commit/1264484a027cd688802cae07c3fba6854efdd5d0) • [@TrueCharts Bot] (2024-10-02)
+
 ## 13.3.4 • [Train: stable]
 
 - chore(deps): update container image common to v24.1.16@ea19f8a by renovate (#26428) • [`3fc10f5`](https://github.com/truecharts/charts/commit/3fc10f588f4af5a073cece42a8659b2c015f93b4) • [@TrueCharts Bot] (2024-09-15)
