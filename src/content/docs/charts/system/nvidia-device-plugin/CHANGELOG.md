@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.2.0 • [Train: system]
+
+- chore(deps): update ignored by renovate (major) (#26918) • [`6e62659`](https://github.com/truecharts/charts/commit/6e62659dba986bd6823c533423e053b090120c05) • [@TrueCharts Bot] (2024-10-02)
+
 ## 2.1.0 • [Train: system]
 
 - chore(deps): update ignored by renovate (patch) (#26180) • [`2da6d7d`](https://github.com/truecharts/charts/commit/2da6d7d99702fef6d3efdf39ec6aab0bbd519b7a) • [@TrueCharts Bot] (2024-10-02)

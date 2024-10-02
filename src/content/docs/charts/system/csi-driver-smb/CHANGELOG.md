@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 5.2.0 • [Train: system]
+
+- chore(deps): update ignored by renovate (major) (#26918) • [`6e62659`](https://github.com/truecharts/charts/commit/6e62659dba986bd6823c533423e053b090120c05) • [@TrueCharts Bot] (2024-10-02)
+
 ## 5.1.2 • [Train: system]
 
 - chore(deps): lock file maintenance helm system by renovate (#26444) • [`a58c11a`](https://github.com/truecharts/charts/commit/a58c11a85f2b3f94d1914bc7bf3f8dae67fab8d6) • [@TrueCharts Bot] (2024-10-02)
