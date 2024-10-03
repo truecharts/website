@@ -2,7 +2,7 @@
 title: fileflows
 ---
 
-![Version: 12.6.0](https://img.shields.io/badge/Version-12.6.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 24.09.0](https://img.shields.io/badge/AppVersion-24.09.0-informational?style=flat-square)
+![Version: 12.7.0](https://img.shields.io/badge/Version-12.7.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 24.10.0](https://img.shields.io/badge/AppVersion-24.10.0-informational?style=flat-square)
 
 An application that lets you automatically process files through a simple rule flow.
 
