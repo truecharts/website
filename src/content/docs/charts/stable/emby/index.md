@@ -2,7 +2,7 @@
 title: emby
 ---
 
-![Version: 20.2.0](https://img.shields.io/badge/Version-20.2.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.8.7.0](https://img.shields.io/badge/AppVersion-4.8.7.0-informational?style=flat-square)
+![Version: 21.0.0](https://img.shields.io/badge/Version-21.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.8.10](https://img.shields.io/badge/AppVersion-4.8.10-informational?style=flat-square)
 
 Emby Server is a home media server
 
