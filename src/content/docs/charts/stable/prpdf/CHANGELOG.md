@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.2.1 • [Train: stable]
+
+- chore(deps): update container image knex666/prpdf to latest@e3d4fa1 by renovate (#27236) • [`f75776e`](https://github.com/truecharts/charts/commit/f75776ec95d6ca9ca75f1508c499be8320b5c616) • [@TrueCharts Bot] (2024-10-03)
+
 ## 7.2.0 • [Train: stable]
 
 - chore(deps): update container image common to v25.0.0@6c13a11 by renovate (#26977) • [`6479095`](https://github.com/truecharts/charts/commit/64790953345c6bde2f8623b193a1ca6546522341) • [@TrueCharts Bot] (2024-10-02)
