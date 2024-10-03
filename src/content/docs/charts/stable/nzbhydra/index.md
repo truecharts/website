@@ -2,13 +2,13 @@
 title: nzbhydra
 ---
 
-![Version: 23.2.0](https://img.shields.io/badge/Version-23.2.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 7.1.0](https://img.shields.io/badge/AppVersion-7.1.0-informational?style=flat-square)
+![Version: 24.0.0](https://img.shields.io/badge/Version-24.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 7.2.3](https://img.shields.io/badge/AppVersion-7.2.3-informational?style=flat-square)
 
 Usenet meta search
 
 ## Chart Sources
 
-- https://ghcr.io/geek-cookbook/nzbhydra2
+- https://ghcr.io/elfhosted/nzbhydra2
 - https://github.com/theotherp/nzbhydra2
 - https://github.com/truecharts/charts/tree/master/charts/stable/nzbhydra
 

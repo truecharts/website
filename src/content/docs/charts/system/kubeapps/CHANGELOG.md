@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.1.0 • [Train: system]
+
+- chore(deps): update ignored updates to v17.0.0@aa40a22 by renovate (#27231) • [`46bcfc6`](https://github.com/truecharts/charts/commit/46bcfc68cd49859d88656323b27b5b1553d13ea0) • [@TrueCharts Bot] (2024-10-03)
+
 ## 6.0.0 • [Train: system]
 
 - Update Chart.yaml • [`cfbabbb`](https://github.com/truecharts/charts/commit/cfbabbbfe75de4bed505091be5d30e284dfeb90e) • [@Kjeld Schouten] (2024-10-02)

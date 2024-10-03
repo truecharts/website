@@ -2,13 +2,13 @@
 title: jackett
 ---
 
-![Version: 22.2.0](https://img.shields.io/badge/Version-22.2.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.21.2831](https://img.shields.io/badge/AppVersion-0.21.2831-informational?style=flat-square)
+![Version: 23.0.0](https://img.shields.io/badge/Version-23.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.22.704](https://img.shields.io/badge/AppVersion-0.22.704-informational?style=flat-square)
 
 API Support for your favorite torrent trackers.
 
 ## Chart Sources
 
-- https://ghcr.io/geek-cookbook/jackett
+- https://ghcr.io/elfhosted/jackett
 - https://github.com/Jackett/Jackett
 - https://github.com/geek-cookbook/containers/pkgs/container/jackett
 - https://github.com/truecharts/charts/tree/master/charts/stable/jackett
