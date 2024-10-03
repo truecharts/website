@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 9.5.1 • [Train: stable]
+
+- chore(deps): update container image redis to v15.3.1@8f82257 by renovate (#27216) • [`7ac35fa`](https://github.com/truecharts/charts/commit/7ac35fa09d1ce956d0055de4063765bf464559ec) • [@TrueCharts Bot] (2024-10-03)
+
 ## 9.4.4 • [Train: stable]
 
 - chore(deps): update container image quay.io/pussthecatorg/libremdb to latest@122381c by renovate (#27224) • [`0ddc85e`](https://github.com/truecharts/charts/commit/0ddc85e31beeab8d352a9b782134ee5cd34bb400) • [@TrueCharts Bot] (2024-10-03)
