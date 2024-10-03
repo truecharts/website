@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 24.0.0 • [Train: stable]
+
+- feat(readarr): switch to elfhosted image (#27234) • [`87f1b13`](https://github.com/truecharts/charts/commit/87f1b133cf0a7c160fb32e74ed4c72ec8bdee0fc) • [@kqmaverick] (2024-10-03)
+
 ## 23.2.0 • [Train: stable]
 
 - chore(deps): update container image common to v25.0.0@6c13a11 by renovate (#26977) • [`6479095`](https://github.com/truecharts/charts/commit/64790953345c6bde2f8623b193a1ca6546522341) • [@TrueCharts Bot] (2024-10-02)
