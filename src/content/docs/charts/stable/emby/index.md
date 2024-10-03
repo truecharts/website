@@ -2,13 +2,13 @@
 title: emby
 ---
 
-![Version: 21.0.0](https://img.shields.io/badge/Version-21.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.8.10](https://img.shields.io/badge/AppVersion-4.8.10-informational?style=flat-square)
+![Version: 22.0.0](https://img.shields.io/badge/Version-22.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.9.0.30](https://img.shields.io/badge/AppVersion-4.9.0.30-informational?style=flat-square)
 
 Emby Server is a home media server
 
 ## Chart Sources
 
-- https://ghcr.io/geek-cookbook/emby
+- https://ghcr.io/elfhosted/emby
 - https://github.com/linuxserver/docker-emby.git
 - https://github.com/truecharts/charts/tree/master/charts/stable/emby
 

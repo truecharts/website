@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 22.0.0 • [Train: stable]
+
+- feat(emby): switch to elfhosted image (#27249) • [`5087551`](https://github.com/truecharts/charts/commit/508755153af83a184709028470642db5e5146af7) • [@kqmaverick] (2024-10-03)
+
 ## 21.0.0 • [Train: stable]
 
 - feat(emby): *BREAKING CHANGE* switch to LSIO image (#27233) • [`b7d2bd1`](https://github.com/truecharts/charts/commit/b7d2bd1ad9b551227ae439b5141ef7bf5a9cede3) • [@kqmaverick] (2024-10-03)
