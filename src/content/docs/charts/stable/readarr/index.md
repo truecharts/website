@@ -8,8 +8,8 @@ A fork of Radarr to work with Books & AudioBooks
 
 ## Chart Sources
 
-- https://ghcr.io/onedr0p/exportarr
 - https://ghcr.io/elfhosted/readarr-develop
+- https://ghcr.io/onedr0p/exportarr
 - https://github.com/Readarr/Readarr
 - https://github.com/truecharts/charts/tree/master/charts/stable/readarr
 - https://readarr.com

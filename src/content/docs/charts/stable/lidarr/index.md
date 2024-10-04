@@ -8,8 +8,8 @@ Looks and smells like Sonarr but made for music
 
 ## Chart Sources
 
-- https://ghcr.io/onedr0p/exportarr
 - https://ghcr.io/elfhosted/lidarr
+- https://ghcr.io/onedr0p/exportarr
 - https://github.com/Lidarr/Lidarr
 - https://github.com/truecharts/charts/tree/master/charts/stable/lidarr
 
