@@ -2,7 +2,7 @@
 title: znc
 ---
 
-![Version: 11.2.0](https://img.shields.io/badge/Version-11.2.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.9.1](https://img.shields.io/badge/AppVersion-1.9.1-informational?style=flat-square)
+![Version: 11.2.1](https://img.shields.io/badge/Version-11.2.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.9.1](https://img.shields.io/badge/AppVersion-1.9.1-informational?style=flat-square)
 
 Znc is an IRC network bouncer or BNC. It can detach the client from the actual IRC server, and also from selected channels.
 
