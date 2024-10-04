@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 14.2.1 • [Train: stable]
+
+- chore(deps): update container image bitnami/mongodb to v@4d4da47 by renovate (#27284) • [`b9882bc`](https://github.com/truecharts/charts/commit/b9882bca65b32df69da49153cd9995aabf1265ff) • [@TrueCharts Bot] (2024-10-04)
+
 ## 14.2.0 • [Train: stable]
 
 - chore(deps): update container image common to v25.0.0@6c13a11 by renovate (#26977) • [`6479095`](https://github.com/truecharts/charts/commit/64790953345c6bde2f8623b193a1ca6546522341) • [@TrueCharts Bot] (2024-10-02)
