@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 3.3.0 • [Train: stable]
+
+- chore(deps): update container image anirdev/slink to v1.2.0@ad7327a by renovate (#27330) • [`bfa4f22`](https://github.com/truecharts/charts/commit/bfa4f227645dbd7652ec71838bd5b5cc970b184f) • [@TrueCharts Bot] (2024-10-05)
+
 ## 3.2.0 • [Train: stable]
 
 - chore(deps): update container image common to v25.0.0@6c13a11 by renovate (#26977) • [`6479095`](https://github.com/truecharts/charts/commit/64790953345c6bde2f8623b193a1ca6546522341) • [@TrueCharts Bot] (2024-10-02)
