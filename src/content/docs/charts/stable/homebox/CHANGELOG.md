@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.6.1 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/sysadminsmedia/homebox to v0.15.1@ef3f809 by renovate (#27328) • [`8f50e91`](https://github.com/truecharts/charts/commit/8f50e9121a7e7d5767647d5df31acc67ce41ead6) • [@TrueCharts Bot] (2024-10-05)
+
 ## 8.6.0 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/sysadminsmedia/homebox to v0.15.0@2d2f00f by renovate (#27304) • [`f8ec9c7`](https://github.com/truecharts/charts/commit/f8ec9c79940be6e11cca4eb1c189bad4cfac1686) • [@TrueCharts Bot] (2024-10-05)
