@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 14.7.0 • [Train: stable]
+
+- chore(deps): update container image baserow/baserow to v1.28.0@ff8f09c by renovate (#27331) • [`e3b979d`](https://github.com/truecharts/charts/commit/e3b979d1be98721d8846861ab44aa121d3495afa) • [@TrueCharts Bot] (2024-10-05)
+
 ## 14.6.1 • [Train: stable]
 
 - chore(deps): update container image baserow/baserow to v@8241684 by renovate (#27322) • [`fd0fa92`](https://github.com/truecharts/charts/commit/fd0fa926cfd8cf761f0692508a735717070cf134) • [@TrueCharts Bot] (2024-10-05)
