@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 12.4.0 • [Train: stable]
 
+- Commit daily changes • [`5d0ee08`](https://github.com/truecharts/charts/commit/5d0ee089a10225033cfdd3eb71be74bc39e2ca58) • [@TrueCharts-Bot] (2024-10-05)
 - chore(deps): update container image mongodb to v14.2.0@d6068bb by renovate (#27214) • [`db3c5eb`](https://github.com/truecharts/charts/commit/db3c5eb4ebd022711b8c6317ff3bf0626c6f73aa) • [@TrueCharts Bot] (2024-10-04)
 
 ## 12.3.0 • [Train: stable]

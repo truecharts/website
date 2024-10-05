@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.0.0 • [Train: stable]
 
+- Commit daily changes • [`5d0ee08`](https://github.com/truecharts/charts/commit/5d0ee089a10225033cfdd3eb71be74bc39e2ca58) • [@TrueCharts-Bot] (2024-10-05)
 - chore(deps): update container image tagspaces/tagspaces-lite-web to v6.0.1@08cf835 by renovate (#26443) • [`a711dbd`](https://github.com/truecharts/charts/commit/a711dbd2848fcd1c00bee42bd73b123456400348) • [@TrueCharts Bot] (2024-10-04)
 
 ## 5.2.0 • [Train: stable]

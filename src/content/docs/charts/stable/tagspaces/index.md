@@ -10,7 +10,7 @@ TagSpaces is an offline, open source, document manager with tagging support.
 
 - https://github.com/tagspaces/tagspaces
 - https://github.com/truecharts/charts/tree/master/charts/stable/tagspaces
-- https://hub.docker.com/r/tagspaces/tagspaces-lite-web
+- https://hub.docker.com/r/fardjad/tagspaces-lite-web
 
 ## Available Documentation
 
