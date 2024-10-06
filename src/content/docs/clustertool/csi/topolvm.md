@@ -21,88 +21,19 @@ Nothing in this guide is specific to TrueCharts. There are some Talos-specific s
 
 TopoLVM requires it's own LVM Volume Group to provision storage from. In this guide we'll assume you're accomplishing this by providing a separate drive (or virtual disk) specifically for TopoLVM to keep it more simple.
 
-## Node Prep
-
-Prior to installing the helm chart to install the CSI, you have to prepare a volume group on your node. Read an LVM tutorial for more information about these commands.
-
-### Kernel Modules
-Add these two kernel modules. Use modprobe for typical linux installs or add them to your talconfig.yaml if using TalHelper or ClusterTool as shown below:
-```yaml
-#talconfig.yaml
-nodes:
-  - hostname: k8s-control-1
-    kernelModules:
-      - name: dm_thin_pool
-      - name: dm_mod
-```
-Don't forget to run Clustertool genconfig and Clustertool apply.
 
 ### LVM Prep
 find the name of the disk you want to use for TopoLVM. With Talos OS, use `talosctl disks` to list the names of the available disks. You may need to install another disk to your VM or your bare-metal server.
 
-:::danger[Data Loss]
+Use TrueCharts' LVM_disk_watcher chart and container, which can do these steps to a disk you configure.
 
-These steps could lead to data loss if done on the wrong disks.
+TODO: Add LVM_DISK_WATCHER config
 
-:::
-
-These commands set up a Volume Group and Thin Pool for TopoLVM to use. The names of these will need to be put into your TopoLVM Helm Values. The name of the disk may vary depending on your setup.
-
-Create a Physical Volume
-```bash
-pvcreate /dev/vdb
-```
-Create a Volume Group
-```bash
-vgcreate topolvm_vg /dev/vdb
-```
-Create a Thin Pool
-```bash
-lvcreate -l 100%FREE --chunksize 256 -T -A n -n topolvm_thin topolvm_vg
-```
-
-If using Talos OS, you can run the commands as a Kubernetes Job or create a Deployment to shell into. You could also use TrueCharts' LVM_disk_watcher chart and container, which can do these steps to a disk you configure.
-
-Here's an example manifest for doing it with a Kubernetes Job.
-```yaml
-apiVersion: batch/v1
-kind: Job
-metadata:
-  name: lvm-prep
-  namespace: kube-system
-spec:
-  ttlSecondsAfterFinished: 3600
-  template:
-    spec:
-      restartPolicy: Never
-      containers:
-        - name: lvm-prep
-          image: alpine
-          securityContext:
-            privileged: true
-          command:
-            [
-              "/bin/sh",
-              "-c",
-              "apk add lvm2 && pvcreate /dev/vdb && vgcreate topolvm_vg /dev/vdb && lvcreate -l 100%FREE --chunksize 256 -T -A n -n topolvm_thin topolvm_vg && vgdisplay && lvdisplay && sleep 3600",
-            ]
-
-```
 
 ## Install TopoLVM
 Now that you've completed your prep on the node to create volumes for TopoLVM to use, we can install TopoLVM.
 
-### Create Namespace
-Create the namespace with these labels:
-```yaml
-apiVersion: v1
-kind: Namespace
-metadata:
-    name: topolvm-system
-    labels:
-        pod-security.kubernetes.io/enforce: privileged
-        topolvm.io/webhook: ignore
-```
+TODO: Add Helm Reference
 
 ### Helm Values
 
@@ -154,6 +85,59 @@ The key things to update are adding a device-class that will use your thin pool,
 
 ## Snapshots
 TBD
+
+## Optional: Non-ClusterTool only
+
+The following steps are already included in clustertool by default.
+
+
+### Kernel Modules
+
+Add these two kernel modules. Use modprobe for typical linux installs or add them to your talconfig.yaml if using TalHelper or ClusterTool as shown below:
+```yaml
+#talconfig.yaml
+nodes:
+  - hostname: k8s-control-1
+    kernelModules:
+      - name: dm_thin_pool
+      - name: dm_mod
+```
+
+### Manually add disks
+
+:::danger[Data Loss]
+
+These steps could lead to data loss if done on the wrong disks.
+
+:::
+
+These commands set up a Volume Group and Thin Pool for TopoLVM to use. The names of these will need to be put into your TopoLVM Helm Values. The name of the disk may vary depending on your setup.
+
+Create a Physical Volume
+```bash
+pvcreate /dev/vdb
+```
+Create a Volume Group
+```bash
+vgcreate topolvm_vg /dev/vdb
+```
+Create a Thin Pool
+```bash
+lvcreate -l 100%FREE --chunksize 256 -T -A n -n topolvm_thin topolvm_vg
+```
+
+### Create Privilaged Namespace
+
+Create the namespace with these labels:
+```yaml
+apiVersion: v1
+kind: Namespace
+metadata:
+    name: topolvm-system
+    labels:
+        pod-security.kubernetes.io/enforce: privileged
+        topolvm.io/webhook: ignore
+```
 
 
 ## Other references
