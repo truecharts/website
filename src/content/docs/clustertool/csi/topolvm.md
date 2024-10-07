@@ -23,64 +23,67 @@ TopoLVM requires it's own LVM Volume Group to provision storage from. In this gu
 
 
 ### LVM Prep
-find the name of the disk you want to use for TopoLVM. With Talos OS, use `talosctl disks` to list the names of the available disks. You may need to install another disk to your VM or your bare-metal server.
+In this guide we are preparing LVM to use in a clustertool environment. Also the configuration is done in a way it can be used by e.g. volsync for backup/restore functionalities.
+Complete preparation is based upon:
+- https://github.com/topolvm/topolvm/blob/main/docs/getting-started.md
+- https://github.com/topolvm/topolvm/blob/main/docs/snapshot-and-restore.md
 
-Use TrueCharts' LVM_disk_watcher chart and container, which can do these steps to a disk you configure.
+Most important highlights of above are the:
+- Use of cert-manager
+- Correctly labeled namespaces
+- Installation of CRDs and the controller for volume snapshots
+
+All are implemented and setup in Clustertool for your convenience.
+
+To prepare the disk for a thin pool, use TrueCharts' LVM_disk_watcher chart and container, which can do these steps to a disk you configure.
+Chart information at: https://truecharts.org/charts/system/lvm-disk-watcher/
+
+Find the name of the disk you want to use for TopoLVM. With Talos OS, use `talosctl disks` to list the names of the available disks. You may need to install another disk to your VM or your bare-metal server.
 
 TODO: Add LVM_DISK_WATCHER config
 
 
 ## Install TopoLVM
 Now that you've completed your prep on the node to create volumes for TopoLVM to use, we can install TopoLVM.
-
-TODO: Add Helm Reference
+The reference Values and their explanations could be find here:
+https://github.com/topolvm/topolvm/blob/main/charts/topolvm/values.yaml
 
 ### Helm Values
 
-The key things to update are adding a device-class that will use your thin pool, and adding a sotrage class that will use that device-class. Read their helm chart for more options.
+The key things to update are adding a device-class that will use your thin pool, and adding a storage class that will use that device-class. Read their helm chart for more options.
+The following example can be used and adjust where necesarry.
 
 ```yaml
   values:
-    # lvmd service
     lvmd:
       managed: false
       env:
         - name: LVM_SYSTEM_DIR
           value: /tmp
-      # lvmd.deviceClasses -- Specify the device-class settings.
       deviceClasses:
-        - name: main-thin
-          volume-group: topolvm_vg
-          default: true
+        - name: thin
+          volume-group: topolvm_vg                     # Volume Group name used in LVM_Disk_Watcher
+          default: true                                
           spare-gb: 10
           type: thin
           thin-pool:
-            name: topolvm_thin
-            overprovision-ratio: 2.0
+            name: topolvm_thin                         # Logical Volume name used in LVM_Disk_Watcher
+            overprovision-ratio: 10.0                  # Adjust to your convenience
+    storageClasses:
+      - name: topolvm-thin-provisioner
+        storageClass:
+          fsType: xfs
+          isDefaultClass: true                         # If don't want to have this as your Default Storage Class in your cluster, set to false.
+          volumeBindingMode: WaitForFirstConsumer
+          allowVolumeExpansion: true
+          additionalParameters:
+            "topolvm.io/device-class": "thin"
     node:
       lvmdEmbedded: true
 
-    # storageClasses -- Whether to create storageclass(es)
-    # ref: https://kubernetes.io/docs/concepts/storage/storage-classes/
-    storageClasses:
-      - name: topolvm-thin-provisioner # Defines name of storage class.
-        storageClass:
-          # Supported filesystems are: ext4, xfs, and btrfs.
-          fsType: xfs
-          # reclaimPolicy
-          reclaimPolicy: # Delete
-          # Additional annotations
-          annotations: {}
-          # Default storage class for dynamic volume provisioning
-          # ref: https://kubernetes.io/docs/concepts/storage/dynamic-provisioning
-          isDefaultClass: true
-          # volumeBindingMode can be either WaitForFirstConsumer or Immediate. WaitForFirstConsumer is recommended because TopoLVM cannot schedule pods wisely if volumeBindingMode is Immediate.
-          volumeBindingMode: WaitForFirstConsumer
-          # enables CSI drivers to expand volumes. This feature is available for Kubernetes 1.16 and later releases.
-          allowVolumeExpansion: true
-          additionalParameters: { "topolvm.io/device-class": "main-thin" } #Set this to the 
-          # mount options
-          mountOptions: []
+## Optional setting for a single node cluster:
+    # controller:
+    #   replicaCount: 1
 ```
 
 ## Snapshots
