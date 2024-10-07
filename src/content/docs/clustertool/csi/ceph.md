@@ -2,6 +2,14 @@
 title: Rook-Ceph
 ---
 
+:::caution[Work In Progress]
+
+This program, all its features and its general design, are all a Work-In-Progress. It is not done and not widely available.
+
+All code and docs are considered Pre-Beta drafts
+
+:::
+
 Rook-CEPH is a kubernetes operator to deploy a ceph cluster from within kubernetes.
 Its a lot more complex and offers a LOT more features compared to most other CSIs and any issues would likely require significant time investment, for it being a actual enterprise-grade storage solution.
 
