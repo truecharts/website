@@ -40,8 +40,47 @@ Chart information at: https://truecharts.org/charts/system/lvm-disk-watcher/
 
 Find the name of the disk you want to use for TopoLVM. With Talos OS, use `talosctl disks` to list the names of the available disks. You may need to install another disk to your VM or your bare-metal server.
 
-TODO: Add LVM_DISK_WATCHER config
+## Install Lvm_Disk 
+Create the namespace with these labels:
+```yaml
+apiVersion: v1
+kind: Namespace
+metadata:
+    name: lvm-disk-watcher
+    labels:
+        pod-security.kubernetes.io/enforce: privileged
+        topolvm.io/webhook: ignore
+```
 
+Example of deployment:
+```yaml
+apiVersion: helm.toolkit.fluxcd.io/v2
+kind: HelmRelease
+metadata:
+    name: lvm-disk-watcher
+    namespace: lvm-disk-watcher
+spec:
+    interval: 5m
+    releaseName: lvm-disk-watcher
+    chart:
+        spec:
+            chart: lvm-disk-watcher
+            version: 1.1.0                  # Update this with the latest version mentioned in https://github.com/truecharts/charts/blob/master/charts/system/lvm-disk-watcher/Chart.yaml 
+            sourceRef:
+                kind: HelmRepository
+                name: truecharts
+                namespace: flux-system
+    install:
+        createNamespace: true
+        crds: CreateReplace
+        remediation:
+            retries: 3
+    upgrade:
+        crds: CreateReplace
+        remediation:
+            retries: 3
+    values: {}
+```
 
 ## Install TopoLVM
 Now that you've completed your prep on the node to create volumes for TopoLVM to use, we can install TopoLVM.
