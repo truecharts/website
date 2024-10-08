@@ -26,10 +26,12 @@ Its adviced to use the pre-created longhorn-system namespace to install longhorn
   values:
     defaultSettings:
       # When using clustertool, /var/lib/longhorn is already preconfigured and can be used as is.
+      # Decrease to 1 for a single-node cluster
       defaultReplicaCount: 3
       # Overprovisioning might be needed when using volsync
       storageOverProvisioningPercentage: 100000
     persistence:
+      # Decrease to 1 for a single-node cluster
       defaultClassReplicaCount: 3
 ```
 
