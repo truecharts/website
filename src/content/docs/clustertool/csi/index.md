@@ -27,7 +27,7 @@ However, as those are user-made, they are not covered by TrueCharts Discord Supp
 | TopoLVM          | Local     | Full             | Yes              | RWO     |                                                                                                    |
 | CEPH -block      | Clustered | Full             | Yes              | RWO     | Shares disks with CEPH-FS                                                                       |
 | CEPH -FS         | Clustered | Full             | Yes              | RWX     | Shares disks with CEPH-Block                                                                                                 |
-| Longhorn         | local/Clustered | Both Available   | Yes              | RWO     | RWX untested on TalosOS                                |
+| Longhorn         | local/Clustered | Partial   | Yes              | RWO     | RWX untested on TalosOS                                |
 | Democratic NFS   | Networked | Partial          | Yes              | RWX     | Requires TrueNAS Cron script due to instability                                                                               |
 | Democratic iSCSI | Networked | Partial          | Yes              | RWO     | Requires TrueNAS Cron script due to instability                                                  |
 
