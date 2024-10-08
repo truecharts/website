@@ -53,9 +53,11 @@ Some general notes might be cool as well, wirthen out a little longer obviously:
 ### Special Mention
 
 For users that want to keep things simple, with data on the OS disk and decent snapshotting.
-We would advice using Longhorn.
-
 This would not require extra drives and can easily be configured for single-node (1 replica) as wel as clustered storage (3 replicas).
+In addition longhorn would not conflict with any of the other CSIs listed above, meaning users can easily start experimenting with other CSIs as well, while still relying on Longhorn.
+
+Hence for most users starting-out we would advice starting-out using Longhorn.
+
 
 
 
