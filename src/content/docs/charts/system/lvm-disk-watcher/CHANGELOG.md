@@ -11,12 +11,21 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.0.2 • [Train: system]
+
+- Update Chart.yaml • [`63b85d7`](https://github.com/truecharts/charts/commit/63b85d75745ee1bf15c5b16c28083478aca46885) • [@Kjeld Schouten] (2024-10-08)
+
 ## 2.0.0 • [Train: system]
 
 - chore(deps): update ignored updates to v3.20.3@b2f660b by renovate (#27447) • [`812e1f3`](https://github.com/truecharts/charts/commit/812e1f390e225e2ebfb8f0dd65da8d70441ac280) • [@TrueCharts Bot] (2024-10-08)
 
+## 1.1.3 • [Train: system]
+
+- Update Chart.yaml • [`de3bd43`](https://github.com/truecharts/charts/commit/de3bd4356e1b45e5e2c4029dab199f957ffed4c7) • [@Kjeld Schouten] (2024-10-08)
+
 ## 1.1.2 • [Train: system]
 
+- Update values.yaml • [`f01dded`](https://github.com/truecharts/charts/commit/f01dded4c117eafdc3a4d40f4a56803b500f5546) • [@Kjeld Schouten] (2024-10-08)
 - Revert &#34;chore(deps): update ignored updates to v3.20.3@b2f660b by renovate&#34; (#27466) • [`7c9719e`](https://github.com/truecharts/charts/commit/7c9719e2993dfbfb0ca0ee7e876234b07d18a769) • [@alfi0812] (2024-10-08)
 - Update Chart.yaml • [`8083937`](https://github.com/truecharts/charts/commit/8083937a9611b60da75d5cb7a3a443ba888a7835) • [@Kjeld Schouten] (2024-10-08)
 
