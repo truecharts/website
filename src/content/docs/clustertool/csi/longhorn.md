@@ -31,6 +31,8 @@ Its adviced to use the pre-created longhorn-system namespace to install longhorn
       # Overprovisioning might be needed when using volsync
       storageOverProvisioningPercentage: 100000
     persistence:
+      # Set to true to make this your default storageClass
+      defaultClass: false
       # Decrease to 1 for a single-node cluster
       defaultClassReplicaCount: 3
 ```
@@ -41,7 +43,7 @@ Its adviced to use the pre-created longhorn-system namespace to install longhorn
 apiVersion: snapshot.storage.k8s.io/v1
 kind: VolumeSnapshotClass
 metadata:
-  name: longhorn-snapshot-vsc
+  name: longhorn
 deletionPolicy: Delete
 driver: driver.longhorn.io
 parameters:
