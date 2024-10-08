@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 25.5.1 • [Train: premium]
+
+- chore(deps): update container image ghcr.io/authelia/authelia to v4.38.16@172c9b2 by renovate (#27394) • [`e495a05`](https://github.com/truecharts/charts/commit/e495a05a48b7d887f4a1e0a34f13d774ace3c3a4) • [@TrueCharts Bot] (2024-10-08)
+
 ## 25.5.0 • [Train: premium]
 
 - chore(deps): update container image redis to v15.3.1@8f82257 by renovate (#27216) • [`7ac35fa`](https://github.com/truecharts/charts/commit/7ac35fa09d1ce956d0055de4063765bf464559ec) • [@TrueCharts Bot] (2024-10-03)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 10.2.1 • [Train: stable]
+
+- chore(deps): update container image bobokun/qbit_manage to v4.1.11@ad120c3 by renovate (#27379) • [`a6ffe52`](https://github.com/truecharts/charts/commit/a6ffe52e09ddfc0555d0450f5733c73eb173d79f) • [@TrueCharts Bot] (2024-10-08)
+
 ## 10.2.0 • [Train: stable]
 
 - Commit daily changes • [`cf56798`](https://github.com/truecharts/charts/commit/cf567989bfa3d1d11576d9c961995003aa470cbb) • [@TrueCharts-Bot] (2024-10-04)

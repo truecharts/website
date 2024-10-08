@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 16.9.2 • [Train: stable]
+
+- chore(deps): update container image friendica to 2024.08@9115889 by renovate (#27428) • [`fa7978b`](https://github.com/truecharts/charts/commit/fa7978bc3e04ee298740c89398a0015a2b33d187) • [@TrueCharts Bot] (2024-10-08)
+
 ## 16.9.1 • [Train: stable]
 
 - chore(deps): update container image mariadb to v15.4.1@99e64d2 by renovate (#27329) • [`b220b3a`](https://github.com/truecharts/charts/commit/b220b3ae133a12e40d24dec88ad3753fbb0e7b8f) • [@TrueCharts Bot] (2024-10-05)

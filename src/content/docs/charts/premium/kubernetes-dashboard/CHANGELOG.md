@@ -15,6 +15,13 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - chore: Add a bunch of direct-from-upstream system charts for clustertool-use (#23768) • [`e1bc567`](https://github.com/truecharts/charts/commit/e1bc5676c686f29322d66bd7e71f4c41c411ecf5) • [@Kjeld Schouten] (2024-06-25)
 
+## 1.8.0 • [Train: premium]
+
+- chore(deps): update container image kubernetesui/dashboard-web to v1.5.0@fc2c7fe by renovate (#27444) • [`fe4d45c`](https://github.com/truecharts/charts/commit/fe4d45c55062139e8076eabe8e94f54f80064986) • [@TrueCharts Bot] (2024-10-08)
+- chore(deps): update container image kubernetesui/dashboard-metrics-scraper to v1.2.0@bd9efff by renovate (#27443) • [`b6bebc1`](https://github.com/truecharts/charts/commit/b6bebc17a64a890efa87d2f886428e8e5a1a6921) • [@TrueCharts Bot] (2024-10-08)
+- chore(deps): update container image kubernetesui/dashboard-api to v1.9.0@6b6db6a by renovate (#27446) • [`11c1be6`](https://github.com/truecharts/charts/commit/11c1be6cc4c128eeade1c159dc3c0fa9dc971642) • [@TrueCharts Bot] (2024-10-08)
+- chore(deps): update container image docker.io/kubernetesui/dashboard-auth to v1.2.0@74a3d61 by renovate (#27442) • [`50c8302`](https://github.com/truecharts/charts/commit/50c8302c933ce7f12c42a6f3f3c9de6288c0cff2) • [@TrueCharts Bot] (2024-10-08)
+
 ## 1.7.0 • [Train: premium]
 
 - chore(deps): update container image common to v25.0.0@6c13a11 by renovate (#26977) • [`6479095`](https://github.com/truecharts/charts/commit/64790953345c6bde2f8623b193a1ca6546522341) • [@TrueCharts Bot] (2024-10-02)

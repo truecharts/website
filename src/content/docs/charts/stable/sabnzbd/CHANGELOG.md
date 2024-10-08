@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 21.2.2 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/onedr0p/sabnzbd to 4.3.3@6614d75 by renovate (#27364) • [`30417ed`](https://github.com/truecharts/charts/commit/30417edaf93620c64f6c89595d34a3776df60b5c) • [@TrueCharts Bot] (2024-10-08)
+
 ## 21.2.1 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/onedr0p/sabnzbd to 4.3.3@47c42cd by renovate (#27325) • [`a1e0cf0`](https://github.com/truecharts/charts/commit/a1e0cf041cb3993baf0d8be036512d74cad2e5c6) • [@TrueCharts Bot] (2024-10-05)

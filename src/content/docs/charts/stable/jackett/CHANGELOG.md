@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 23.0.3 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/elfhosted/jackett to v0.22.735@fb8aceb by renovate (#27395) • [`7176673`](https://github.com/truecharts/charts/commit/71766731f56ae7e702a3a2298f9a7312324b70a0) • [@TrueCharts Bot] (2024-10-08)
+
 ## 23.0.2 • [Train: stable]
 
 - chore(deps): update container image ghcr.io/elfhosted/jackett to v0.22.714@205d676 by renovate (#27321) • [`1105497`](https://github.com/truecharts/charts/commit/1105497c46a47b10ff6d3da1846e512da35fe599) • [@TrueCharts Bot] (2024-10-05)

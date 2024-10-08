@@ -2,7 +2,7 @@
 title: healthchecks
 ---
 
-![Version: 16.5.0](https://img.shields.io/badge/Version-16.5.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.6.20240930](https://img.shields.io/badge/AppVersion-3.6.20240930-informational?style=flat-square)
+![Version: 16.5.1](https://img.shields.io/badge/Version-16.5.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.6.20241007](https://img.shields.io/badge/AppVersion-3.6.20241007-informational?style=flat-square)
 
 Healthchecks is a cron job monitoring service. It listens for HTTP requests and email messages ("pings") from your cron jobs and scheduled tasks ("checks"). When a ping does not arrive on time, Healthchecks sends out alerts.
 
