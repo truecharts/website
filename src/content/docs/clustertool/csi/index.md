@@ -25,7 +25,7 @@ However, as those are user-made, they are not covered by TrueCharts Discord Supp
 | OpenEBS Device   | Local     | Full             | Troublesome      | RWO     | Partial snapshotting support                                                                                                  |
 | OpenEBS ZFS      | Local     | See Notes        | Troublesome      | RWX     | Snapshots notoriously flaky, Full disk required for zpool, partial zpool can be used for OpenEBS |
 | TopoLVM          | Local     | Full             | Yes              | RWO     |                                                                                                    |
-| Longhorn         | local/Clustered | Partial    | Yes              | RWX     | RWX untested on TalosOS                                |
+| Longhorn         | local/Clustered | Partial    | Yes              | RWX     | RWX untested on TalosOS, Enterprise SSDs mandatory                                |
 | CEPH -block      | Clustered | Full             | Yes              | RWO     | Shares disks with CEPH-FS                                                                       |
 | CEPH -FS         | Clustered | Full             | Yes              | RWX     | Shares disks with CEPH-Block                                                                                                 |
 | Democratic NFS   | Networked | Partial          | Yes              | RWX     | Requires TrueNAS Cron script due to instability                                                                               |
