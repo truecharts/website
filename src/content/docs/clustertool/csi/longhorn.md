@@ -20,6 +20,7 @@ Their Helm-Chart is available at: <https://github.com/longhorn/charts>
 ### Helm configuration
 
 These values differ from their Helm-Chart and are a minimum example for usage on a single node cluster.
+Its adviced to use the pre-created longhorn-system namespace to install longhorn into.
 
 ```yaml
   values:
@@ -51,6 +52,7 @@ The following things are already integrated in clsutertool.
 
 
 ### Create a namespace
+
 
 ```yaml
 apiVersion: v1
