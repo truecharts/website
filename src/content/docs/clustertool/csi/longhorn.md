@@ -17,56 +17,7 @@ Their Helm-Chart is available at: <https://github.com/longhorn/charts>
 
 ## Installation
 
-### Helm configuration
-
-These values differ from their Helm-Chart and are a minimum example for usage on a single node cluster.
-Its adviced to use the pre-created longhorn-system namespace to install longhorn into.
-
-```yaml
-  values:
-    defaultSettings:
-      # When using clustertool, /var/lib/longhorn is already preconfigured and can be used as is.
-      # Decrease to 1 for a single-node cluster
-      defaultReplicaCount: 3
-      # Overprovisioning might be needed when using volsync
-      storageOverProvisioningPercentage: 100000
-    persistence:
-      # Set to true to make this your default storageClass
-      defaultClass: false
-      # Decrease to 1 for a single-node cluster
-      defaultClassReplicaCount: 3
-```
-
-### Create a VolumeSnapshotClass (reqired for e.g Volsync)
-
-```yaml
-apiVersion: snapshot.storage.k8s.io/v1
-kind: VolumeSnapshotClass
-metadata:
-  name: longhorn
-deletionPolicy: Delete
-driver: driver.longhorn.io
-parameters:
-  type: snap
-```
-
-## Optional, Non-Clustertool
-
-The following things are already integrated in clsutertool.
-
-
-### Create a namespace
-
-
-```yaml
-apiVersion: v1
-kind: Namespace
-metadata:
-  name: longhorn-system
-  labels:
-    pod-security.kubernetes.io/enforce: privileged
-```
-
+Longhorn is included with ClusterTool. It rolls out a, default, storageClass named longhorn, that saves its data on the systemdisk.
 
 
 ## Other references
