@@ -134,6 +134,14 @@ export default defineConfig({
             directory: "common",
           },
         },
+
+        {
+          label: "GOAT SETUP 🐐",
+          collapsed: false,
+          autogenerate: {
+            directory: "pbb",
+          },
+        },
         {
           label: "Guides",
           collapsed: true,
