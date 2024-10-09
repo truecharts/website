@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 24.0.0 • [Train: stable]
 
+- Commit daily changes • [`d1abf80`](https://github.com/truecharts/charts/commit/d1abf80d1801bf7aef60884000acb8662fd08121) • [@TrueCharts-Bot] (2024-10-09)
 - Commit daily changes • [`cf56798`](https://github.com/truecharts/charts/commit/cf567989bfa3d1d11576d9c961995003aa470cbb) • [@TrueCharts-Bot] (2024-10-04)
 - feat(readarr): switch to elfhosted image (#27234) • [`87f1b13`](https://github.com/truecharts/charts/commit/87f1b133cf0a7c160fb32e74ed4c72ec8bdee0fc) • [@kqmaverick] (2024-10-03)
 

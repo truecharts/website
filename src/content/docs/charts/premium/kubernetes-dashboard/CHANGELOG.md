@@ -17,6 +17,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.8.0 • [Train: premium]
 
+- Commit daily changes • [`d1abf80`](https://github.com/truecharts/charts/commit/d1abf80d1801bf7aef60884000acb8662fd08121) • [@TrueCharts-Bot] (2024-10-09)
 - chore(deps): update container image kubernetesui/dashboard-web to v1.5.0@fc2c7fe by renovate (#27444) • [`fe4d45c`](https://github.com/truecharts/charts/commit/fe4d45c55062139e8076eabe8e94f54f80064986) • [@TrueCharts Bot] (2024-10-08)
 - chore(deps): update container image kubernetesui/dashboard-metrics-scraper to v1.2.0@bd9efff by renovate (#27443) • [`b6bebc1`](https://github.com/truecharts/charts/commit/b6bebc17a64a890efa87d2f886428e8e5a1a6921) • [@TrueCharts Bot] (2024-10-08)
 - chore(deps): update container image kubernetesui/dashboard-api to v1.9.0@6b6db6a by renovate (#27446) • [`11c1be6`](https://github.com/truecharts/charts/commit/11c1be6cc4c128eeade1c159dc3c0fa9dc971642) • [@TrueCharts Bot] (2024-10-08)

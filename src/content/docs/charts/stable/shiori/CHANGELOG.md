@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 18.3.1 • [Train: stable]
 
+- Commit daily changes • [`d1abf80`](https://github.com/truecharts/charts/commit/d1abf80d1801bf7aef60884000acb8662fd08121) • [@TrueCharts-Bot] (2024-10-09)
 - chore(deps): update container image ghcr.io/go-shiori/shiori to v1.7.1@7578cce by renovate (#27336) • [`216432e`](https://github.com/truecharts/charts/commit/216432e30a1b4448eba3df1a1bf1ed325da2d245) • [@TrueCharts Bot] (2024-10-06)
 
 ## 18.3.0 • [Train: stable]

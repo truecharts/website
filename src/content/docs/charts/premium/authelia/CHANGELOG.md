@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 25.5.1 • [Train: premium]
 
+- Commit daily changes • [`d1abf80`](https://github.com/truecharts/charts/commit/d1abf80d1801bf7aef60884000acb8662fd08121) • [@TrueCharts-Bot] (2024-10-09)
 - chore(deps): update container image ghcr.io/authelia/authelia to v4.38.16@172c9b2 by renovate (#27394) • [`e495a05`](https://github.com/truecharts/charts/commit/e495a05a48b7d887f4a1e0a34f13d774ace3c3a4) • [@TrueCharts Bot] (2024-10-08)
 
 ## 25.5.0 • [Train: premium]

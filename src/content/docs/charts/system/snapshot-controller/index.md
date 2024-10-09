@@ -2,7 +2,7 @@
 title: snapshot-controller
 ---
 
-![Version: 3.3.0](https://img.shields.io/badge/Version-3.3.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 8.0.1](https://img.shields.io/badge/AppVersion-8.0.1-informational?style=flat-square)
+![Version: 3.3.0](https://img.shields.io/badge/Version-3.3.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 8.1.0](https://img.shields.io/badge/AppVersion-8.1.0-informational?style=flat-square)
 
 Deploys a Snapshot Controller in a cluster. Snapshot Controllers are often bundled with the Kubernetes distribution,
 this chart is meant for cases where it is not.
@@ -61,12 +61,12 @@ Please note: For TrueNAS SCALE, only options available in the GUI are supported.
 Hence most of these docs do not apply to TrueNAS SCALE
 
 To view the chart specific options, please view Values.yaml included in the chart.
-The most recent version of which, is available here: https://github.com/truecharts/charts/blob/master/charts/system/snapshot-controller/values.yaml
+The most recent version of which, is available here: https://github.com/truecharts/public/blob/master/charts/system/snapshot-controller/values.yaml
 
 All our Charts use a shared "common" library chart that contains most of the templating and options.
 For the complete overview of all available options, please checkout the documentation for them on the [common docs on our website](/common)
 
-For information about the common chart and all defaults included with it, please review its values.yaml file available here: https://github.com/truecharts/library-charts/blob/main/library/common/values.yaml
+For information about the common chart and all defaults included with it, please review its values.yaml file available here: https://github.com/truecharts/public/blob/master/charts/library/common/values.yaml
 
 ### Support
 

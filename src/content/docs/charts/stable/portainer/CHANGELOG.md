@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 10.4.0 • [Train: stable]
 
+- Commit daily changes • [`d1abf80`](https://github.com/truecharts/charts/commit/d1abf80d1801bf7aef60884000acb8662fd08121) • [@TrueCharts-Bot] (2024-10-09)
 - chore(deps): update portainer to v2.22.0@c071015 by renovate (minor) (#27220) • [`81f7919`](https://github.com/truecharts/charts/commit/81f791973188314506e554ce724d00984e36fcc7) • [@TrueCharts Bot] (2024-10-03)
 
 ## 10.3.0 • [Train: stable]

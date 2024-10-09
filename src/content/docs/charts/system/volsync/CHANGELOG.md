@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.3.0 • [Train: system]
 
+- Commit daily changes • [`d1abf80`](https://github.com/truecharts/charts/commit/d1abf80d1801bf7aef60884000acb8662fd08121) • [@TrueCharts-Bot] (2024-10-09)
 - chore(deps): update ignored by renovate (major) (#26918) • [`6e62659`](https://github.com/truecharts/charts/commit/6e62659dba986bd6823c533423e053b090120c05) • [@TrueCharts Bot] (2024-10-02)
 
 ## 2.2.0 • [Train: system]

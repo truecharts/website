@@ -13,6 +13,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 18.7.1 • [Train: stable]
 
+- Commit daily changes • [`d1abf80`](https://github.com/truecharts/charts/commit/d1abf80d1801bf7aef60884000acb8662fd08121) • [@TrueCharts-Bot] (2024-10-09)
 - chore(deps): update container image ghcr.io/onedr0p/prowlarr-develop to v1.25.1.4770@8b59eb7 by renovate (#27397) • [`ff2f7e8`](https://github.com/truecharts/charts/commit/ff2f7e8fb5d16affd6d0478d6b501e780821b232) • [@TrueCharts Bot] (2024-10-08)
 
 ## 18.7.0 • [Train: stable]
