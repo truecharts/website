@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 13.2.1 • [Train: stable]
+
+- chore(deps): update container image shlinkio/shlink-web-client to v4.2.1@63157a5 by renovate (#27505) • [`c36aa7b`](https://github.com/truecharts/charts/commit/c36aa7b59451a67618fc0930b8db473172372e96) • [@TrueCharts Bot] (2024-10-09)
+
 ## 13.2.0 • [Train: stable]
 
 - Commit daily changes • [`d1abf80`](https://github.com/truecharts/charts/commit/d1abf80d1801bf7aef60884000acb8662fd08121) • [@TrueCharts-Bot] (2024-10-09)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 15.2.2 • [Train: stable]
+
+- chore(deps): update container image jesec/flood to v4.8.4@3b80bb2 by renovate (#27503) • [`55c9338`](https://github.com/truecharts/charts/commit/55c9338980950ff8af0fb42bf80c7f06d965f689) • [@TrueCharts Bot] (2024-10-09)
+
 ## 15.2.1 • [Train: stable]
 
 - Commit daily changes • [`d1abf80`](https://github.com/truecharts/charts/commit/d1abf80d1801bf7aef60884000acb8662fd08121) • [@TrueCharts-Bot] (2024-10-09)
