@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 24.1.0 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/elfhosted/lidarr to v2.6.4.4402@b362a6e by renovate (#27494) • [`da60bf3`](https://github.com/truecharts/charts/commit/da60bf36fb795e60e53543cfa82d3feef2c7b0de) • [@TrueCharts Bot] (2024-10-09)
+
 ## 24.0.0 • [Train: stable]
 
 - Commit daily changes • [`d1abf80`](https://github.com/truecharts/charts/commit/d1abf80d1801bf7aef60884000acb8662fd08121) • [@TrueCharts-Bot] (2024-10-09)

@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 15.7.0 • [Train: stable]
+
+- chore(deps): update container image ghcr.io/linuxserver/bookstack to v24.10.20241009@d3a8ee0 by renovate (#27495) • [`197803e`](https://github.com/truecharts/charts/commit/197803ea0cb5e8c564d900137a06bba51eb47627) • [@TrueCharts Bot] (2024-10-09)
+
 ## 15.6.1 • [Train: stable]
 
 - Commit daily changes • [`d1abf80`](https://github.com/truecharts/charts/commit/d1abf80d1801bf7aef60884000acb8662fd08121) • [@TrueCharts-Bot] (2024-10-09)
