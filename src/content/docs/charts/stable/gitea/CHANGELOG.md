@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 20.5.2 • [Train: stable]
+
+- chore(deps): update container image gitea/gitea to v1.22.3@6b068c7 by renovate (#27484) • [`94410f3`](https://github.com/truecharts/charts/commit/94410f3cdb8ab70d88727124804845e55e1b79b6) • [@TrueCharts Bot] (2024-10-09)
+
 ## 20.5.1 • [Train: stable]
 
 - chore(deps): update container image memcached to v14.2.1@6c98570 by renovate (#27473) • [`9b8335e`](https://github.com/truecharts/charts/commit/9b8335ed2be55c344ad333e04efedf685c41c888) • [@TrueCharts Bot] (2024-10-09)
