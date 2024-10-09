@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 7.2.1 • [Train: stable]
+
+- chore(deps): update container image ich777/debian-mirror to latest@f403f40 by renovate (#22933) • [`e65d658`](https://github.com/truecharts/charts/commit/e65d658352fd68e92964f8afa29d478967bf0bb0) • [@TrueCharts Bot] (2024-10-09)
+
 ## 7.2.0 • [Train: stable]
 
 - Commit daily changes • [`d1abf80`](https://github.com/truecharts/charts/commit/d1abf80d1801bf7aef60884000acb8662fd08121) • [@TrueCharts-Bot] (2024-10-09)
