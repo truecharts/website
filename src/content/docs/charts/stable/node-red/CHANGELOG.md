@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 21.1.2 • [Train: stable]
+
+- chore(deps): update container image docker.io/nodered/node-red to v4.0.5@7b635f7 by renovate (#27533) • [`a199d86`](https://github.com/truecharts/charts/commit/a199d86ce86bb57fb5236115e0632f1b4bafc0fd) • [@TrueCharts Bot] (2024-10-10)
+
 ## 21.1.1 • [Train: stable]
 
 - chore(deps): update container image docker.io/nodered/node-red to v4.0.4@6710dbc by renovate (#27490) • [`21ced1c`](https://github.com/truecharts/charts/commit/21ced1cacb688df02e95f5d0a39093ae9c3fd9b7) • [@TrueCharts Bot] (2024-10-09)
