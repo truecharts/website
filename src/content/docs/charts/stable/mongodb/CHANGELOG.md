@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 15.0.2 • [Train: stable]
+
+- chore(deps): update container image bitnami/mongodb to v8.0.1@bdb889c by renovate (#27513) • [`57d5f2a`](https://github.com/truecharts/charts/commit/57d5f2a7fe02946fb1b2f895db334fe52b4d7f62) • [@TrueCharts Bot] (2024-10-10)
+
 ## 15.0.1 • [Train: stable]
 
 - chore(deps): update container image bitnami/mongodb to 8.0.0@a5a4c30 by renovate (#27467) • [`0ce0f6a`](https://github.com/truecharts/charts/commit/0ce0f6acb2d4154db8bfdb28251739d82937e488) • [@TrueCharts Bot] (2024-10-09)
