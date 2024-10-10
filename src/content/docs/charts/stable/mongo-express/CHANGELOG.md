@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 8.5.1 • [Train: stable]
+
+- chore(deps): update container image mongodb to v15.0.2@dbf7a22 by renovate (#27527) • [`aa88426`](https://github.com/truecharts/charts/commit/aa88426ab2c8cead7d2853aea742d05e2333ac10) • [@TrueCharts Bot] (2024-10-10)
+
 ## 8.5.0 • [Train: stable]
 
 - chore(deps): update container image mongodb to v15.0.1@a7f3866 by renovate (#27475) • [`38c3704`](https://github.com/truecharts/charts/commit/38c3704a92badcd6aa740196f710719c16874e27) • [@TrueCharts Bot] (2024-10-09)
