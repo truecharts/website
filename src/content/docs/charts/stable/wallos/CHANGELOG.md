@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 6.2.5 • [Train: stable]
+
+- chore(deps): update container image docker.io/bellamy/wallos to latest@b85b7f3 by renovate (#27510) • [`1d6d029`](https://github.com/truecharts/charts/commit/1d6d0290118e0c447b51f946454b002015f7c7df) • [@TrueCharts Bot] (2024-10-10)
+
 ## 6.2.4 • [Train: stable]
 
 - Commit daily changes • [`d1abf80`](https://github.com/truecharts/charts/commit/d1abf80d1801bf7aef60884000acb8662fd08121) • [@TrueCharts-Bot] (2024-10-09)
